@@ -1,0 +1,621 @@
+Date	Venue	Location	Ignore
+Nov 18	Warner Theatre	Washington, DC	 I Was There
+Nov 17	Hershey Theatre	Hershey, PA	 I Was There
+Nov 11	Seneca Allegany Resort & Casino Event Center	Salamanca, NY	 I Was There
+Nov 10	Town Hall	New York, NY	 I Was There
+Oct 28	Harrah's Resort SoCal	Funner, CA	 I Was There
+Oct 27	Vina Robles Amphitheatre	Paso Robles, CA	 I Was There
+Oct 26	Golden State Theatre	Monterey, CA	 I Was There
+Oct 23	The Main Room	West Hollywood, CA	 I Was There
+Oct 21	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Oct 20	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Oct 16	The Main Room	West Hollywood, CA	 I Was There
+Oct 14	Soaring Eagle Casino & Resort	Mount Pleasant, MI	 I Was There
+Oct 13	Embassy Theatre	Fort Wayne, IN	 I Was There
+Oct 12	Peoria Civic Center	Peoria, IL	 I Was There
+Oct 07	The Palace Theatre Albany	Albany, NY	 I Was There
+Oct 06	The Grand Theater at Foxwoods Resort Casino	Mashantucket, CT	 I Was There
+Oct 05	Grand Opera House-DE	Wilmington, DE	 I Was There
+Sep 30	United Wireless Arena	Dodge City, KS	 I Was There
+Sep 22	Classic Center Theatre	Athens, GA	 I Was There
+Sep 21	The Wilson Center	Wilmington, NC	 I Was There	
+Sep 16	United Wireless Arena	Dodge City, KS	 I Was There
+Sep 15	River Spirit Casino	Tulsa, OK	 I Was There
+Sep 14	Convocation Center Jonesboro	Jonesboro, AR	 I Was There
+Sep 12	Hollywood Improv	Hollywood, CA	 I Was There
+Sep 09	Mountain Winery	Saratoga, CA	 I Was There
+Sep 08	Redding Civic Auditorium	Redding, CA	 I Was There
+Sep 07	Britt Pavilion	Jacksonville, OR	 I Was There
+Aug 26	Harrah's Cherokee Resort Event Center	Cherokee, NC	 I Was There
+Aug 25	Berglund Center	Roanoke, VA	 I Was There
+Aug 23	Hollywood Improv	Hollywood, CA	 I Was There
+Aug 22	Hollywood Improv	Hollywood, CA	 I Was There
+Aug 19	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Aug 18	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Aug 12	Hampton Beach Casino Ballroom	Hampton Beach, NH	 I Was There
+Aug 11	Community Theatre	Morristown, NJ	 I Was There
+Aug 05	Peppermill Concert Hall	West Wendover, NV	 I Was There
+Aug 04	Silver Legacy Casino	Reno, NV	 I Was There
+Jul 29	Hard Rock Rocksino Northfield Park Hard Rock Live	Northfield, OH	 I Was There
+Jul 28	Hard Rock Rocksino Northfield Park Hard Rock Live	Northfield, OH	 I Was There
+Jul 22	Tropicana Showroom	Atlantic City, NJ	 I Was There	
+Jul 21	Turning Stone Resort Casino Event Center	Verona, NY	 I Was There
+Jul 15	Golden Nugget	Lake Charles, LA	 I Was There
+Jul 14	Beau Rivage Theatre	Biloxi, MS	 I Was There
+Jun 17	Riverdome at Horseshoe Casino & Hotel	Bossier City, LA	 I Was There
+Jun 16	Horseshoe Casino's Bluesville	Robinsonville, MS	 I Was There
+Jun 10	The Event Center at Hollywood Casino	Charles Town, WV	 I Was There
+Jun 09	State Theatre	Easton, PA	 I Was There
+Jun 08	Count Basie Theatre	Red Bank, NJ	 I Was There
+Jun 06	Hollywood Improv	Hollywood, CA	 I Was There
+Jun 03	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Jun 02	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+May 26	Morongo Casino Resort and Spa	Cabazon, CA	 I Was There
+May 25	Casino Pauma	Pauma Valley, CA	 I Was There
+May 20	Hartman Arena	Park City, KS	 I Was There
+May 19	Riverwind Casino	Norman, OK	 I Was There
+May 13	Big Sandy Superstore Arena	Huntington, WV	 I Was There
+May 12	Lawrence Joel Veterans Memorial Coliseum	Winston Salem, NC	 I Was There
+May 11	Paramount Theater	Charlottesville, VA	 I Was There
+May 06	Casper Events Center	Casper, WY	 I Was There
+May 05	Budweiser Events Center	Loveland, CO	 I Was There	
+May 04	Memorial Hall-CO	Pueblo, CO	 I Was There
+Apr 28	Mahaffey Theater	Saint Petersburg, FL	 I Was There
+Apr 27	Hard Rock Live	Hollywood, FL	 I Was There
+Apr 23	Gillioz Theatre	Springfield, MO	 I Was There
+Apr 22	Gillioz Theatre	Springfield, MO	 I Was There
+Apr 21	BancorpSouth Arena	Tupelo, MS	 I Was There
+Apr 20	Robinson Performance Hall	Little Rock, AR	 I Was There
+Apr 08	Cobb Energy Performing Arts Centre	Atlanta, GA	 I Was There
+Apr 01	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Mar 31	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Mar 25	The Wilbur	Boston, MA	 I Was There
+Mar 24	The Wilbur	Boston, MA	 I Was There
+Mar 18	Von Braun Center Concert Hall	Huntsville, AL	 I Was There
+Mar 17	Macon City Auditorium	Macon, GA	 I Was There
+Mar 16	Montgomery Performing Arts Centre	Montgomery, AL	 I Was There
+Mar 11	Arlington Theatre	Santa Barbara, CA	 I Was There
+Mar 10	Grove of Anaheim	Anaheim, CA	 I Was There
+Mar 07	Hollywood Improv	Hollywood, CA	 I Was There
+Mar 04	Crown Complex	Fayetteville, NC	 I Was There
+Mar 03	North Charleston Performing Arts Center	North Charleston, SC	 I Was There	
+Mar 02	Township Auditorium	Columbia, SC	 I Was There
+Feb 25	Topeka Performing Arts Center	Topeka, KS	 I Was There
+Feb 24	Bridge View Center	Ottumwa, IA	 I Was There
+Feb 23	Swiftel Center	Brookings, SD	 I Was There
+Feb 18	The Colosseum at Caesars Windsor	Windsor, Canada	 I Was There
+Feb 17	Rialto Square Theatre	Joliet, IL	 I Was There
+Feb 16	iWireless Center	Moline, IL	 I Was There
+Feb 11	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Feb 10	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Feb 04	Coronado Performing Arts Center	Rockford, IL	 I Was There
+Feb 03	Stranahan Theatre	Toledo, OH	 I Was There
+Feb 02	Jaffa Shrine	Altoona, PA	 I Was There
+Jan 28	Majestic Theatre San Antonio	San Antonio, TX	 I Was There
+Jan 27	Wagner Noel Performing Arts Center	Midland, TX	 I Was There
+Jan 26	Abraham Chavez Theatre	El Paso, TX	 I Was There
+Jan 21	Rochester Auditorium Theatre	Rochester, NY	 I Was There
+Jan 20	Capitol Music Hall	Wheeling, WV	 I Was There
+Jan 19	Community Arts Center	Williamsport, PA	 I Was There
+Jan 14	Tennessee Theatre	Knoxville, TN	 I Was There
+Jan 13	Tivoli Theatre	Chattanooga, TN	 I Was There	
+Jan 12	Victory Theatre	Evansville, IN	 I Was There
+Jan 07	Hard Rock Live Orlando	Orlando, FL	 I Was There
+Jan 06	Sunrise Theatre	Fort Pierce, FL	 I Was There
+Jan 01	Global Event Center at WinStar World Casino and Resort	Thackerville, OK	 I Was There
+Dec 30, 2016	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Dec 29, 2016	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Dec 10, 2016	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Dec 09, 2016	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Dec 06, 2016	Hollywood Improv	Hollywood, CA	 I Was There
+Dec 03, 2016	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Dec 02, 2016	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Nov 19, 2016	Paramount Theatre-Iowa	Cedar Rapids, IA	 I Was There
+Nov 18, 2016	Orpheum Theater	Madison, WI	 I Was There
+Nov 17, 2016	Fox Cities PAC	Appleton, WI	 I Was There
+Nov 12, 2016	River Cree Casino	Parkland County, Canada	 I Was There
+Nov 11, 2016	Town Toyota Center	Wenatchee, WA	 I Was There
+Nov 10, 2016	Grey Eagle Resort and Casino	Rocky View County, Canada	 I Was There
+Nov 05, 2016	MACC Castle Theater	Kahului, HI	 I Was There
+Nov 04, 2016	Neal S Blaisdell Concert Hall	Honolulu, HI	 I Was There
+Oct 29, 2016	JACK Cincinnati Casino	Cincinnati, OH	 I Was There	
+Oct 28, 2016	The Maryland Theatre	Hagerstown, MD	 I Was There
+Oct 27, 2016	Clemens Center	Elmira, NY	 I Was There
+Oct 22, 2016	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Oct 21, 2016	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Oct 08, 2016	The Palace Theater at Myrtle Beach	Myrtle Beach, SC	 I Was There
+Oct 07, 2016	Ovens Auditorium	Charlotte, NC	 I Was There
+Oct 06, 2016	Peace Center	Greenville, SC	 I Was There
+Oct 01, 2016	Times Union Center Moran Theater	Jacksonville, FL	 I Was There
+Sep 30, 2016	King Performing Arts Center	Melbourne, FL	 I Was There
+Sep 29, 2016	Barbara B. Mann Performing Arts Hall	Fort Myers, FL	 I Was There
+Sep 24, 2016	Bass Concert Hall	Austin, TX	 I Was There
+Sep 23, 2016	American Bank Center Selena Auditorium	Corpus Christi, TX	 I Was There
+Sep 22, 2016	The Grand 1894 Opera House	Galveston, TX	 I Was There
+Sep 17, 2016	Terrace Theater	Long Beach, CA	 I Was There
+Sep 15, 2016	Ruth Finley Person Theater-Wells Fargo Center	Santa Rosa, CA	 I Was There
+Sep 10, 2016	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Sep 09, 2016	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Aug 30, 2016	Leceister Square Theatre	London, United Kingdom	 I Was There
+Aug 20, 2016	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Aug 19, 2016	Terry Fator Theatre	Las Vegas, NV	 I Was There	
+Aug 13, 2016	Golden Nugget	Lake Charles, LA	 I Was There
+Aug 12, 2016	Saenger Theater New Orleans	New Orleans, LA	 I Was There
+Aug 11, 2016	Pensacola Saenger Theatre	Pensacola, FL	 I Was There
+Aug 06, 2016	New Jersey Performing Arts Center	Newark, NJ	 I Was There
+Aug 05, 2016	The Santander Performing Arts Center	Reading, PA	 I Was There
+Aug 04, 2016	Paramount Theatre	Rutland, VT	 I Was There
+Jul 30, 2016	Cross Insurance Center	Bangor, ME	 I Was There
+Jul 28, 2016	State Theatre	Portland, ME	 I Was There
+Jul 25, 2016	The Roxy Theatre	West Hollywood, CA	 I Was There
+Jul 23, 2016	Belle Mehus Auditorium	Bismarck, ND	 I Was There
+Jul 22, 2016	Deadwood Mountain Grand	Deadwood, SD	 I Was There
+Jul 16, 2016	Historic Memorial Hall	Wilmington, VT	 I Was There
+Jul 15, 2016	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Jul 09, 2016	Orpheum Theatre	Omaha, NE	 I Was There
+Jul 08, 2016	Arvest Bank Theatre at The Midland	Kansas City, MO	 I Was There
+Jun 24, 2016	Clearwater River Casino	Lewiston, ID	 I Was There
+Jun 17, 2016	Caesars Atlantic City	Atlantic City, NJ	 I Was There
+Jun 11, 2016	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Jun 10, 2016	Terry Fator Theatre	Las Vegas, NV	 I Was There
+May 27, 2016	Arlene Schnitzer Concert Hall	Portland, OR	 I Was There	
+May 21, 2016	Toyota Center	Kennewick, WA	 I Was There
+May 20, 2016	Orpheum Theatre	Vancouver, Canada	 I Was There
+May 13, 2016	The Buell Theatre	Denver, CO	 I Was There
+May 06, 2016	Stiefel Theatre for the Performing Arts	Salina, KS	 I Was There
+Apr 30, 2016	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Apr 29, 2016	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Apr 23, 2016	Peabody Opera House	St Louis, MO	 I Was There
+Apr 22, 2016	Stephens Auditorium	Ames, IA	 I Was There
+Apr 16, 2016	The Riverside Theater	Milwaukee, WI	 I Was There
+Apr 15, 2016	Grand Theatre	Wausau, WI	 I Was There
+Apr 09, 2016	Revention  Music Center	Houston, TX	 I Was There
+Apr 08, 2016	Beau Rivage Theater	Biloxi, MS	 I Was There
+Apr 02, 2016	DPAC	Durham, NC	 I Was There
+Apr 01, 2016	ALTRIA THEATER RICHMOND	Richmond, VA	 I Was There
+Mar 19, 2016	Rosemont Theatre	Rosemont, IL	 I Was There
+Mar 18, 2016	Memorial Auditorium	Burlington, IA	 I Was There
+Mar 15, 2016	Palace Theatre	Stamford, CT	 I Was There
+Mar 12, 2016	Keswick Theatre	Glenside, PA	 I Was There
+Mar 11, 2016	Strand-Capitol Performing Arts Center	York, PA	 I Was There
+Mar 10, 2016	The Ridgefield Playhouse	Ridgefield, CT	 I Was There	
+Mar 05, 2016	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Mar 04, 2016	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Feb 27, 2016	Michigan Theater	Ann Arbor, MI	 I Was There
+Feb 26, 2016	Murat Theatre at Old National Centre	Indianapolis, IN	 I Was There
+Dec 05, 2015	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Nov 07, 2015	SAVANNAH CIVIC CENTER-JOHNNY MERCER THEATRE	Savannah, GA	 I Was There
+Nov 05, 2015	EKU Center for the Arts	Richmond, KY	 I Was There
+Oct 17, 2015	The Capitol Theatre	Port Chester, NY	 I Was There
+Oct 10, 2015	SOARING EAGLE CASINO AND RESORT	Mt. Pleasant, MI	 I Was There
+Aug 28, 2015	South Shore Music Circus	Cohasset, MA	 I Was There
+Jun 11, 2015	Grey Eagle Resort & Casino	Calgary, Canada	 I Was There
+Dec 13, 2014	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Dec 12, 2014	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Dec 06, 2014	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Dec 05, 2014	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Nov 13, 2014	Kovalchick Complex	Indiana, PA	 I Was There
+Oct 25, 2014	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Oct 24, 2014	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Sep 06, 2014	Mahalia Jackson Theater for the Performing Arts	New Orleans, LA	 I Was There
+Aug 07, 2014	Wagner Noel Performing Arts Center	Midland, TX	 I Was There	
+Dec 14, 2013	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Dec 13, 2013	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Dec 07, 2013	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Dec 06, 2013	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Nov 16, 2013	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Nov 15, 2013	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Oct 26, 2013	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Sep 17, 2013	Buckhead Theatre	Atlanta, GA	 I Was There
+Sep 14, 2013	The Venue at Horseshoe Casino	Hammond, IN	 I Was There
+Sep 01, 2013	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Aug 31, 2013	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Jul 06, 2013	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Jul 05, 2013	Terry Fator Theatre	Las Vegas, NV	 I Was There
+May 26, 2013	Terry Fator Theatre	Las Vegas, NV	 I Was There
+May 25, 2013	Terry Fator Theatre	Las Vegas, NV	 I Was There
+May 11, 2013	Crystal Grand Music Theatre	Wisconsin Dells, WI	 I Was There
+Apr 27, 2013	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Apr 26, 2013	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Apr 20, 2013	Warner Theatre	Washington, DC	 I Was There
+Mar 02, 2013	Terry Fator Theatre	Las Vegas, NV	 I Was There	
+Mar 01, 2013	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Feb 23, 2013	New Jersey Performing Arts Center	Newark, NJ	 I Was There
+Feb 16, 2013	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Feb 15, 2013	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Feb 02, 2013	Cobb Energy Performing Arts Centre	Atlanta, GA	 I Was There
+Jan 04, 2013	North Charleston Performing Arts Center	North Charleston, SC	 I Was There
+Dec 15, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Dec 14, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Dec 08, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Dec 07, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Nov 29, 2012	Turning Stone Resort & Casino Lava	Verona, NY	 I Was There
+Nov 10, 2012	Wilbur Theatre	Boston, MA	 I Was There
+Nov 09, 2012	Powers Theater	Elmira, NY	 I Was There
+Nov 04, 2012	Tivoli Theatre	Chattanooga, TN	 I Was There
+Sep 30, 2012	Savannah Civic Center	Savannah, GA	 I Was There
+Sep 29, 2012	Palace Theatre	Myrtle Beach, SC	 I Was There
+Sep 28, 2012	War Memorial Auditorium	Greensboro, NC	 I Was There
+Sep 14, 2012	La Crosse Center	La Crosse, WI	 I Was There
+Sep 13, 2012	Long Center	Lafayette, IN	 I Was There
+Sep 06, 2012	DECC	Duluth, MN	 I Was There	
+Sep 02, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Sep 01, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Aug 04, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Aug 03, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Jul 28, 2012	Silver Legacy Casino	Reno, NV	 I Was There
+Jul 14, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Jul 13, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Jun 23, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Jun 22, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Jun 16, 2012	HARRAHS	Atlantic City, NJ	 I Was There
+Jun 09, 2012	Budweiser Events Center	Loveland, CO	 I Was There
+Jun 07, 2012	Fargo Civic Memorial Auditorium	Fargo, ND	 I Was There
+May 27, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+May 26, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+May 11, 2012	Heartland Events Center	Grand Island, NE	 I Was There
+Apr 27, 2012	City Auditorium	Macon, GA	 I Was There
+Apr 21, 2012	Radio City Music Hall	New York, NY	 I Was There
+Apr 20, 2012	The Bushnell	Hartford, CT	 I Was There
+Apr 19, 2012	Meyerhoff Hall	Baltimore, MD	 I Was There
+Apr 14, 2012	Palace Theatre Columbus	Columbus, OH	 I Was There	
+Apr 12, 2012	Massey Hall	Toronto, Canada	 I Was There
+Mar 31, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Mar 30, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Mar 24, 2012	Majestic Theatre	Dallas, TX	 I Was There
+Mar 23, 2012	Majestic Theatre	Dallas, TX	 I Was There
+Mar 17, 2012	Orpheum Theater Omaha	Omaha, NE	 I Was There
+Mar 15, 2012	Murat Theatre	Indianapolis, IN	 I Was There
+Mar 10, 2012	The Midland by AMC	Kansas City, MO	 I Was There
+Mar 09, 2012	Peabody Opera House	St Louis, MO	 I Was There
+Mar 03, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Mar 02, 2012	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Feb 25, 2012	Riverside Theatre	Milwaukee, WI	 I Was There
+Feb 21, 2012	Grand Ole Opry	Nashville, TN	 I Was There
+Feb 18, 2012	Terrace Theatre at Long Beach Convention Center	Los Angeles, CA	 I Was There
+Feb 17, 2012	Warfield	San Francisco, CA	 I Was There
+Feb 04, 2012	Big Sandy Superstore Arena	Huntington, AR	 I Was There
+Feb 03, 2012	Crown Theatre	Kansas City, MO	 I Was There
+Feb 02, 2012	Paramount Theater Of Charlottesville	Charlottesville, IN	 I Was There
+Jan 29, 2012	Phillips Center For The Perf. Arts	Gainesville, FL	 I Was There
+Jan 28, 2012	Vicksburg Convention Center	Vicksburg, MS	 I Was There	
+Jan 27, 2012	Mahaffey Theater At The Progress Energy Center	St Petersburg, FL	 I Was There
+Jan 26, 2012	Times Union Center Moran Theater	Jacksonville, FL	 I Was There
+Jan 14, 2012	Lyric Theatre Birmingham	Birmingham, AL	 I Was There
+Jan 13, 2012	Von Braun Center Arena	Huntsville, AL	 I Was There
+Nov 19, 2011	Emerald Queen Casino	Tacoma, WA	 I Was There
+Nov 05, 2011	Paramount Theatre	Austin, TX	 I Was There
+Nov 04, 2011	Paramount Theatre	Austin, TX	 I Was There
+Oct 22, 2011	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Oct 21, 2011	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Oct 15, 2011	Count Basie Theatre	Red Bank, NJ	 I Was There
+Oct 14, 2011	Cambria County War Memorial Arena	Johnstown, CO	 I Was There
+Oct 13, 2011	Crysler Hall	Norfolk, VA	 I Was There
+Oct 08, 2011	Verizon Wireless Theater	Houston, TX	 I Was There
+Oct 07, 2011	Mahalia Jackson Theater for the Performing Arts	New Orleans, LA	 I Was There
+Oct 02, 2011	Fred Kavli Theater	Thousand Oaks, CA	 I Was There
+Oct 01, 2011	Orpheum Theatre	Phoenix, AZ	 I Was There
+Sep 30, 2011	Desert Diamond Casino	Tucson, AZ	 I Was There
+Sep 25, 2011	Embassy Theatre	Fort Wayne, IN	 I Was There
+Sep 23, 2011	Michigan Theater	Detroit, MI	 I Was There
+Sep 17, 2011	Copley Symphony Hall	San Diego, CA	 I Was There	
+Sep 03, 2011	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Sep 02, 2011	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Aug 13, 2011	Cape Cod Melody Tent	Hyannis, MA	 I Was There
+Aug 06, 2011	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Aug 05, 2011	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Jul 16, 2011	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Jul 15, 2011	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Jun 30, 2011	Buffalo Thunder Resort & Casino	Santa Fe, NM	 I Was There
+Jun 18, 2011	Harrahs Tunica	Tunica, MS	 I Was There
+Jun 17, 2011	Riverdome	Bossier City, LA	 I Was There
+Jun 11, 2011	Rochester Auditorium Theatre	Rochester, NY	 I Was There
+May 29, 2011	Terry Fator Theatre	Las Vegas, NV	 I Was There
+May 28, 2011	Terry Fator Theatre	Las Vegas, NV	 I Was There
+May 27, 2011	L Auberge Du Lac Casino	Lake Charles, LA	 I Was There
+Apr 29, 2011	Prairie Capital Convention Center	Springfield, IL	 I Was There
+Apr 17, 2011	Calvin Theatre	Northampton, MA	 I Was There
+Apr 16, 2011	Lowell Memorial Auditorium	Lowell, MA	 I Was There
+Apr 15, 2011	State Theatre Center for the Arts	Easton, PA	 I Was There
+Apr 14, 2011	Paramount Center NY	Peekskill, NY	 I Was There
+Apr 09, 2011	Seneca Allegany Casino and Hotel	Salamanca, NY	 I Was There	
+Apr 08, 2011	Proctors Theatre	Schenectady, NY	 I Was There
+Apr 02, 2011	Soaring Eagle Casino Concert Hall	Mount Pleasant, MI	 I Was There
+Mar 31, 2011	Stranahan Theater	Toledo, OH	 I Was There
+Mar 26, 2011	King Center for the Performing Arts	Melbourne, FL	 I Was There
+Mar 24, 2011	Van Wezel Perf. Arts Hall	Sarasota, FL	 I Was There
+Mar 20, 2011	Ulster Performing Arts Center	Kingston, NY	 I Was There
+Mar 19, 2011	Stamford Center for the Arts	Stamford, CT	 I Was There
+Mar 18, 2011	State Theatre-Ithaca	Ithaca, NY	 I Was There
+Mar 12, 2011	Peoria Civic Center	Peoria, IL	 I Was There
+Mar 10, 2011	IU Auditorium	Bloomington, IN	 I Was There
+Mar 05, 2011	Keswick Theatre	Glenside, PA	 I Was There
+Mar 04, 2011	Keswick Theatre	Glenside, PA	 I Was There
+Mar 03, 2011	State Theatre	New Brunswick, NJ	 I Was There
+Feb 26, 2011	North Charleston Performing Arts Center	North Charleston, SC	 I Was There
+Feb 15, 2011	Grand Ole Opry	Nashville, TN	 I Was There
+Feb 12, 2011	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Feb 11, 2011	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Jan 28, 2011	Hershey Theatre	Hershey, PA	 I Was There
+Jan 27, 2011	Capitol Music Hall	Wheeling, WV	 I Was There
+Jan 21, 2011	US Cellular Theatre	Cedar Rapids, IA	 I Was There	
+Dec 11, 2010	Mirage Casino	Las Vegas, NV	 I Was There
+Dec 10, 2010	Mirage Casino	Las Vegas, NV	 I Was There
+Dec 04, 2010	Mirage Casino	Las Vegas, NV	 I Was There
+Dec 03, 2010	Mirage Casino	Las Vegas, NV	 I Was There
+Nov 20, 2010	Star Plaza Theatre	Merrillville, IN	 I Was There
+Nov 19, 2010	Viaero Event Center	Kearney, NE	 I Was There
+Nov 18, 2010	The Rococo Theatre	Lincoln, NE	 I Was There
+Nov 14, 2010	Grand Opera House	Wilmington, DE	 I Was There
+Nov 13, 2010	Community Theatre at Mayo Performing Arts Center	Morristown, NJ	 I Was There
+Nov 12, 2010	Bergen Performing Arts Center	Englewood, NJ	 I Was There
+Nov 06, 2010	Mirage Casino	Las Vegas, NV	 I Was There
+Nov 05, 2010	Mirage Casino	Las Vegas, NV	 I Was There
+Oct 24, 2010	Tarrytown Music Hall	Tarrytown, NY	 I Was There
+Oct 23, 2010	Theatre at Westbury	Westbury, NY	 I Was There
+Oct 22, 2010	Citi Wang Theatre	Boston, MA	 I Was There
+Oct 21, 2010	Paramount Theatre	Rutland, VT	 I Was There
+Oct 20, 2010	Capitol Center for the Arts Spotlight Cafe	Concord, NH	 I Was There
+Oct 16, 2010	The Wiltern	Los Angeles, CA	 I Was There
+Oct 15, 2010	Redding Convention Center	Redding, CA	 I Was There
+Oct 14, 2010	YAKIMA CAPITOL THEATRE	Yakima, WA	 I Was There	
+Oct 09, 2010	Fox Theatre Atlanta	Atlanta, GA	 I Was There
+Oct 08, 2010	Fox Theatre Atlanta	Atlanta, GA	 I Was There
+Oct 02, 2010	Landmark Theater	Richmond, VA	 I Was There
+Oct 01, 2010	Powers Auditorium	Youngstown, OH	 I Was There
+Sep 30, 2010	The Centre	Evansville, IN	 I Was There
+Sep 25, 2010	Ovens Auditorium	Charlotte, NC	 I Was There
+Sep 24, 2010	William B. Bell Auditorium	Augusta, GA	 I Was There
+Sep 18, 2010	Treasure Island Resort & Casino	Red Wing, MN	 I Was There
+Sep 17, 2010	Treasure Island Resort & Casino	Red Wing, MN	 I Was There
+Sep 16, 2010	Missouri Theater St Joseph	Saint Joseph, MO	 I Was There
+Sep 10, 2010	Mohegan Sun Arena	Uncasville, CT	 I Was There
+Sep 04, 2010	Mirage Casino	Las Vegas, NV	 I Was There
+Sep 03, 2010	Mirage Casino	Las Vegas, NV	 I Was There
+Aug 21, 2010	Will Rogers Auditorium	Fort Worth, TX	 I Was There
+Aug 20, 2010	Topeka Performing Arts Center	Topeka, KS	 I Was There
+Aug 14, 2010	Mountain Winery	Saratoga, CA	 I Was There
+Aug 12, 2010	Uptown Theatre Napa	Napa, CA	 I Was There
+Aug 07, 2010	Majestic Theatre San Antonio	San Antonio, TX	 I Was There
+Jul 24, 2010	Bob Carr Performing Arts Centre	Orlando, FL	 I Was There
+Jul 17, 2010	Broward Center for the Performing Arts Au Rene Theater	Fort Lauderdale, FL	 I Was There	
+Jun 19, 2010	Township Auditorium	Columbia, SC	 I Was There
+Jun 18, 2010	G'Boro Coliseum Complex	Greensboro, NC	 I Was There
+Jun 12, 2010	Mirage Casino	Las Vegas, NV	 I Was There
+Jun 11, 2010	Mirage Casino	Las Vegas, NV	 I Was There
+Jun 10, 2010	Inn of the Mountain Gods Resort and Casino	Mescalero, NM	 I Was There
+Jun 05, 2010	Turning Stone Resort Casino Event Center	Verona, NY	 I Was There
+Jun 04, 2010	Rosemont Theatre	Rosemont, IL	 I Was There
+May 22, 2010	Ruth Eckerd Hall	Clearwater, FL	 I Was There
+May 21, 2010	Mobile Civic Center Theater	Mobile, AL	 I Was There
+May 15, 2010	Temple Hoyne Buell Theatre	Denver, CO	 I Was There
+May 14, 2010	TBA	Cheyenne, WY	 I Was There
+May 13, 2010	Ardrey Auditorium	Flagstaff, AZ	 I Was There
+May 09, 2010	Burton Cummings Theatre	Winnipeg, Canada	 I Was There
+May 08, 2010	TCU Place	Saskatoon, Canada	 I Was There
+May 07, 2010	Winspear Centre	Edmonton, Canada	 I Was There
+May 05, 2010	Conexus Arts Centre	Regina, Canada	 I Was There
+May 04, 2010	Thunder Bay Community Auditorium	Thunder Bay, Canada	 I Was There
+Apr 24, 2010	F.M. Kirby Center For Perf. Arts	Wilkes Barre, PA	 I Was There
+Apr 23, 2010	DeVos Performance Hall	Grand Rapids, MI	 I Was There
+Apr 18, 2010	SIU Shryock Auditorium	Carbondale, IL	 I Was There	
+Apr 17, 2010	La Crosse Center Arean	La Crosse, WI	 I Was There
+Apr 16, 2010	Orpheum Theatre	Sioux City, IA	 I Was There
+Apr 10, 2010	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Apr 09, 2010	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Apr 03, 2010	Barbara B Mann Performing Arts Hall	Ft Myers, FL	 I Was There
+Apr 02, 2010	OConnell Center	Gainesville, FL	 I Was There
+Apr 01, 2010	Tallahassee Leon County Civic Center	Tallahassee, FL	 I Was There
+Mar 27, 2010	Rosemont Theatre	Rosemont, IL	 I Was There
+Mar 26, 2010	Weill Center for the Performing Arts	Sheboygan, WI	 I Was There
+Mar 25, 2010	Regional Arts Center	Eau Claire, WI	 I Was There
+Mar 24, 2010	Egyptian Theatre	Dekalb, IL	 I Was There
+Mar 13, 2010	Warner Theatre	Washington, DC	 I Was There
+Mar 12, 2010	Lyell B Clay Concert Theatre	Morgantown, WV	 I Was There
+Mar 11, 2010	Hanover Theatre for the Performing Arts	Worcester, MA	 I Was There
+Mar 06, 2010	The Roberts Orpheum Theater	St Louis, MO	 I Was There
+Mar 05, 2010	The Roberts Orpheum Theater	St Louis, MO	 I Was There
+Mar 04, 2010	Long Center	Lafayette, IN	 I Was There
+Feb 27, 2010	Rabobank Arena Theater and Convention Center	Bakersfield, CA	 I Was There
+Feb 26, 2010	Bob Hope Theatre	Stockton, CA	 I Was There
+Feb 25, 2010	William Saroyan Theatre Fresno Convention & Entertainment Center	Fresno, CA	 I Was There	
+Feb 20, 2010	The Warfield	San Francisco, CA	 I Was There
+Feb 14, 2010	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Feb 13, 2010	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Feb 12, 2010	Terry Fator Theatre	Las Vegas, NV	 I Was There
+Feb 06, 2010	Warner Theatre	Erie, PA	 I Was There
+Feb 05, 2010	Morris Performing Arts Center	South Bend, IN	 I Was There
+Feb 04, 2010	Sandusky State Theatre	Sandusky, OH	 I Was There
+Jan 30, 2010	Ameristar Casino Kansas City	Kansas City, MO	 I Was There
+Jan 29, 2010	Memorial Auditorium Wichita Falls TX	Wichita Falls, TX	 I Was There
+Jan 23, 2010	Benedum Center	Pittsburgh, PA	 I Was There
+Jan 22, 2010	State Theatre at PlayhouseSquare	Cleveland, OH	 I Was There
+Jan 16, 2010	Tivoli Theatre	Chattanooga, TN	 I Was There
+Jan 15, 2010	Albany Municipal Auditorium	Albany, GA	 I Was There
+Jan 09, 2010	JULIE ROGERS THEATER | 7:30 PM	Beaumont, TX	 I Was There
+Jan 08, 2010	Robinson Center Music Hall	North Little Rock, AR	 I Was There
+Dec 20, 2009	Grove of Anaheim	Anaheim, CA	 I Was There
+Dec 19, 2009	Pechanga Resort & Casino	Temecula, CA	 I Was There
+Dec 18, 2009	The Show At Agua Caliente Casino Resort Spa	Rancho Mirage, CA	 I Was There
+Dec 17, 2009	Casper Events Center	Casper, WY	 I Was There
+Dec 16, 2009	Century II Perf. Arts & Conv. Ctr.	Wichita, KS	 I Was There	
+Dec 15, 2009	Century II Convention Hall	Wichita, KS	 I Was There
+Dec 12, 2009	Mirage Casino	Las Vegas, NV	 I Was There
+Dec 11, 2009	Mirage Casino	Las Vegas, NV	 I Was There
+Dec 05, 2009	Mirage Casino	Las Vegas, NV	 I Was There
+Dec 04, 2009	Mirage Casino	Las Vegas, NV	 I Was There
+Nov 22, 2009	Quechan Casino Resort	Winterhaven, CA	 I Was There
+Nov 21, 2009	Dodge Theatre	Phoenix, AZ	 I Was There
+Nov 20, 2009	Winstar Casino	Thackerville, OK	 I Was There
+Nov 19, 2009	Sky Ute Casino	Ignacio, CO	 I Was There
+Nov 14, 2009	Tennessee Perf. Arts Ctr.	Nashville, TN	 I Was There
+Nov 13, 2009	Mahalia Jackson P.A.C.	New Orleans, LA	 I Was There
+Nov 07, 2009	French Lick Resort	French Lick, IN	 I Was There
+Nov 06, 2009	Michigan Theater	Ann Arbor, MI	 I Was There
+Nov 05, 2009	McMorran Place Theatre	Port Huron, MI	 I Was There
+Oct 23, 2009	Jack Howard Theatre	Monroe, LA	 I Was There
+Oct 17, 2009	Mark G. Etess Arena	Atlantic City, NJ	 I Was There
+Oct 16, 2009	Sovereign Performing Arts Center	Reading, PA	 I Was There
+Oct 10, 2009	Big Sandy Superstore Arena	Huntington, WV	 I Was There
+Oct 09, 2009	Riverside Theatre Milwaukee	Milwaukee, WI	 I Was There
+Oct 07, 2009	Luther F. Carson Four Rivers Center for the Performing Arts	Paducah, KY	 I Was There
+Oct 04, 2009	Count Basie Theatre	Red Bank, NJ	 I Was There
+Oct 03, 2009	Radio City Music Hall	New York, NY	 I Was There
+Sep 26, 2009	Progress Energy Center Raleigh Memorial Auditorium	Raleigh, NC	 I Was There
+Sep 25, 2009	Baton Rouge River Center Theater	Baton Rouge, LA	 I Was There
+Sep 24, 2009	Baton Rouge River Center Theater	Baton Rouge, LA	 I Was There
+Sep 19, 2009	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Sep 18, 2009	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Aug 22, 2009	Savannah Civic Center	Savannah, GA	 I Was There
+Aug 21, 2009	City Auditorium	Macon, GA	 I Was There
+Aug 08, 2009	Pensacola Saenger Theatre	Pensacola, FL	 I Was There
+Aug 07, 2009	Mahaffey Theater At The Progress Energy Center	St Petersburg, FL	 I Was There
+Aug 02, 2009	Hampton Beach Casino Ballroom	Hampton Beach, NH	 I Was There
+Aug 01, 2009	Newport Yachting Center	Newport, RI	 I Was There
+Jul 31, 2009	Cape Cod Melody Tent	West Harwich, MA	 I Was There
+Jul 30, 2009	South Shore Mall	Hingham, MA	 I Was There
+Jul 04, 2009	Peppermill Hotel Casino	Reno, NV	 I Was There
+Jul 03, 2009	Peppermill Concert Hall	West Wendover, NV	 I Was There
+Jul 02, 2009	Buffalo Thunder Resort & Casino	Santa Fe, NM	 I Was There
+Jun 13, 2009	Crystal Grand Music Theatre	Wisconsin Dells, WI	 I Was There
+Jun 12, 2009	Fox Cities PAC	Appleton, WI	 I Was There	
+Jun 06, 2009	Adler Theatre	Davenport, IA	 I Was There
+Jun 05, 2009	Embassy Theatre	Fort Wayne, IN	 I Was There
+May 16, 2009	Sullivan Arena	Anchorage, AK	 I Was There
+May 15, 2009	Little Creek Casino Resort	Shelton, WA	 I Was There
+May 03, 2009	Rushmore Theatre	Rapid City, SD	 I Was There
+May 02, 2009	Washington Pavilion of Arts and Sciences	Sioux Falls, SD	 I Was There
+May 01, 2009	Fargo Civic Auditorium	Fargo, ND	 I Was There
+Apr 30, 2009	Belle Mehus Auditorium	Bismarck, ND	 I Was There
+Apr 29, 2009	Alberta Bair Theater	Billings, MT	 I Was There
+Apr 28, 2009	Helena Civic Center	Helena, MT	 I Was There
+Apr 27, 2009	Mansfield Convention Center	Great Falls, MT	 I Was There
+Apr 24, 2009	Riverwind Casino Showplace Theatre	Norman, OK	 I Was There
+Apr 17, 2009	Desert Diamond Casino	Sahuarita, AZ	 I Was There
+Apr 16, 2009	Fred Kavli Theatre-Thousand Oaks Civic Arts	Thousand Oaks, CA	 I Was There
+Apr 04, 2009	Nokia Theatre At Grand Prairie	Grand Prairie, TX	 I Was There
+Apr 03, 2009	Horseshoe Casino Riverdome	Bossier City, LA	 I Was There
+Mar 28, 2009	Murat Theatre	Indianapolis, IN	 I Was There
+Mar 27, 2009	Stranahan Theater	Toledo, OH	 I Was There
+Mar 21, 2009	Unitarian Universalist Congregation Of Lakeland	Lakeland, FL	 I Was There
+Mar 20, 2009	Times Union Perf. Arts-Moran	Jacksonville, FL	 I Was There	
+Mar 15, 2009	Warner Theatre	Washington, DC	 I Was There
+Mar 14, 2009	Fox Theatre	Detroit, MI	 I Was There
+Mar 13, 2009	Coronado Theater	Rockford, IL	 I Was There
+Mar 07, 2009	Louisville Palace	Louisville, KY	 I Was There
+Mar 06, 2009	Ohio Theatre	Columbus, OH	 I Was There
+Feb 28, 2009	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Feb 27, 2009	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Feb 21, 2009	Massey Hall	Toronto, Canada	 I Was There
+Feb 20, 2009	University at Buffalo Alumni Arena	Amherst, NY	 I Was There
+Feb 19, 2009	Veterans Memorial Auditorium	Providence, RI	 I Was There
+Feb 07, 2009	Paramount Theatre	Austin, TX	 I Was There
+Feb 06, 2009	Paramount Theatre	Austin, TX	 I Was There
+Jan 31, 2009	Rialto Square Theatre	Joliet, IL	 I Was There
+Jan 30, 2009	Stephens Auditorium	Ames, IA	 I Was There
+Jan 24, 2009	Meyerhoff Hall	Baltimore, MD	 I Was There
+Jan 23, 2009	Taft Theatre	Cincinnati, OH	 I Was There
+Jan 17, 2009	Pikes Peak Center	Colorado Springs, CO	 I Was There
+Jan 09, 2009	San Jose McEnery Convention Center	San Jose, CA	 I Was There
+Dec 06, 2008	Mirage Danny Gans Theatre	Las Vegas, NV	 I Was There
+Dec 05, 2008	Mirage Danny Gans Theatre	Las Vegas, NV	 I Was There	
+Nov 22, 2008	Verizon Wireless Theater	Houston, TX	 I Was There
+Nov 21, 2008	Verizon Wireless Theater	Houston, TX	 I Was There
+Nov 15, 2008	Lowell Memorial Auditorium	Lowell, MA	 I Was There
+Nov 14, 2008	Proctors Theatre	Schenectady, NY	 I Was There
+Nov 13, 2008	Fisher Auditorium	Indiana, PA	 I Was There
+Nov 12, 2008	Paramount Center-NY	Peekskill, NY	 I Was There
+Nov 08, 2008	The Moore Theater-with KEANE	Seattle, WA	 I Was There
+Nov 07, 2008	The Moore Theater-with KEANE	Seattle, WA	 I Was There
+Nov 06, 2008	The Moore Theater-with KEANE	Seattle, WA	 I Was There
+Oct 25, 2008	Canton Civic Center	Canton, OH	 I Was There
+Oct 24, 2008	Orpheum Theater	Omaha, NE	 I Was There
+Oct 11, 2008	Amarillo Civic Ctr. Theatre	Amarillo, TX	 I Was There
+Oct 10, 2008	Abraham Chavez Theatre	El Paso, TX	 I Was There
+Oct 03, 2008	Indiana University Auditorium	Bloomington, IN	 I Was There
+Sep 26, 2008	Paramount Theatre	Cedar Rapids, IA	 I Was There
+Sep 20, 2008	Genesee Theatre	Waukegan, IL	 I Was There
+Sep 19, 2008	Peoria Civic Center	Peoria, IL	 I Was There
+Sep 19, 2008	Peoria Civic Center	Peoria, AZ	 I Was There
+Sep 18, 2008	Peoria Civic Center	Peoria, IL	 I Was There
+Sep 13, 2008	Harrah's Casino Tunica Event Center	Robinsonville, MS	 I Was There	
+Sep 13, 2008	Grand Casino	Robinsonville, MS	 I Was There
+Sep 12, 2008	North Charleston Performing Arts Center	Charleston, SC	 I Was There
+Sep 12, 2008	North Charleston Coliseum	North Charleston, SC	 I Was There
+Sep 11, 2008	Sunrise Theatre	Fort Pierce, FL	 I Was There
+Sep 10, 2008	Sunrise Theatre	Fort Pierce, FL	 I Was There
+Sep 06, 2008	Treasure Island Casino	Red Wing, MN	 I Was There
+Sep 05, 2008	Treasure Island Casino	Red Wing, MN	 I Was There
+Aug 23, 2008	Saint Andrews Hall	Detroit, MI	 I Was There
+Aug 22, 2008	Alabama Theatre	Birmingham, AL	 I Was There
+Aug 09, 2008	King Performing Arts Center	Melbourne, FL	 I Was There
+Aug 08, 2008	King Performing Arts Center	Melbourne, FL	 I Was There
+Jul 26, 2008	Majestic Theatre	San Antonio, TX	 I Was There
+Jul 25, 2008	Mohegan Sun Arena	Uncasville, CT	 I Was There
+Jul 11, 2008	Selena Auditorium	Corpus Christi, TX	 I Was There
+Jun 22, 2008	Inn of the Mountain Gods Resort and Casino	Mescalero, NM	 I Was There
+Jun 21, 2008	Inn of the Mountain Gods Resort and Casino	Mescalero, NM	 I Was There
+May 10, 2008	The Stanley	Utica, NY	 I Was There
+May 09, 2008	Palace Theatre Stamford	Stamford, CT	 I Was There
+Apr 12, 2008	Miller Auditorium	Kalamazoo, MI	 I Was There
+Apr 05, 2008	Fox Theatre Atlanta	Atlanta, GA	 I Was There	
+Mar 15, 2008	Star Plaza Theatre	Merrillville, IN	 I Was There
+Mar 09, 2008	Littlejohn Coliseum	Clemson, SC	 I Was There
+Mar 08, 2008	Tennessee Theatre	Knoxville, TN	 I Was There
+Mar 07, 2008	Richmond's Landmark Theatre	Richmond, VA	 I Was There
+Mar 06, 2008	Bergen Performing Arts Center	Englewood, NJ	 I Was There
+Feb 24, 2008	DECC	Duluth, MN	 I Was There
+Feb 23, 2008	Alltel Center	Mankato, MN	 I Was There
+Feb 16, 2008	Ruth Eckerd Hall	Clearwater, FL	 I Was There
+Feb 15, 2008	Ovens Auditorium	Charlotte, NC	 I Was There
+Feb 14, 2008	Ruth Eckerd Hall	Clearwater, FL	 I Was There
+Feb 08, 2008	Wharton Center	East Lansing, MI	 I Was There
+Feb 01, 2008	Sound Advice Amphitheatre	West Palm Beach, FL	 I Was There
+Jan 26, 2008	F. M. Kirby Center	Wilkes Barre, PA	 I Was There
+Jan 25, 2008	GIANT Center	Hershey, PA	 I Was There
+Jan 19, 2008	Civic Center	Des Moines, IA	 I Was There
+Jan 18, 2008	Ameristar Casino and Hotel	Kansas City, MO	 I Was There
+Jan 11, 2008	Buffalo Run Casino	Miami, OK	 I Was There
+Dec 08, 2007	Winstar Casino	Thackerville, OK	 I Was There
+Dec 07, 2007	Buffalo Run Casino	Miami, OK	 I Was There
+Dec 01, 2007	French Lick Resort	French Lick, IN	 I Was There	
+Nov 30, 2007	Canton Civic Center	Canton, OH	 I Was There
+Nov 17, 2007	Fox Theatre Atlanta	Atlanta, GA	 I Was There
+Nov 15, 2007	RiverCenter	Columbus, GA	 I Was There
+Nov 14, 2007	Littlejohn Coliseum	Clemson, SC	 I Was There
+Nov 08, 2007	Soaring Eagle Casino Concert Hall	Mount Pleasant, MI	 I Was There
+Nov 03, 2007	Mandalay Bay	Las Vegas, NV	 I Was There
+Oct 27, 2007	Little Creek Casino Resort	Shelton, WA	 I Was There
+Oct 26, 2007	Hult Center for Performing Arts	Eugene, OR	 I Was There
+Oct 25, 2007	Redding Convention Center	Redding, CA	 I Was There
+Oct 20, 2007	Route 66 Casino Amphitheatre	Albuquerque, NM	 I Was There
+Oct 19, 2007	Rabobank Arena	Bakersfield, CA	 I Was There
+Oct 13, 2007	The Riverside Theater	Milwaukee, WI	 I Was There
+Oct 12, 2007	Emens Auditorium	Muncie, IN	 I Was There
+Oct 06, 2007	Benedum Center	Pittsburgh, PA	 I Was There
+Oct 05, 2007	Lehigh University	Bethlehem, PA	 I Was There
+Oct 05, 2007	Stabler Arena	Allentown, PA	 I Was There
+Oct 04, 2007	Count Basie Theatre	Red Bank, NJ	 I Was There
+Sep 28, 2007	JULIE ROGERS THEATER	Beaumont, TX	 I Was There
+Sep 23, 2007	Barbara B. Mann Hall	Fort Myers, FL	 I Was There
+Sep 22, 2007	Barbara B. Mann Hall	Fort Myers, FL	 I Was There	
+Sep 21, 2007	OConnell Center	Gainesville, FL	 I Was There
+Sep 21, 2007	O'Connell Center	Gainesville, FL	 I Was There
+Aug 26, 2007	ArtsBlock	Wausau, WI	 I Was There
+Aug 25, 2007	Meskwaki Bingo Casino Hotel	Tama, IA	 I Was There
+Aug 24, 2007	Shooting Star Casino & Lodge	Mahnomen, MN	 I Was There
+Aug 18, 2007	Robinson Center Music Hall	North Little Rock, AR	 I Was There
+Aug 17, 2007	Soldiers & Sailors Memorial Auditorium	Chattanooga, TN	 I Was There
+Aug 04, 2007	Will Rogers Coliseum	Fort Worth, TX	 I Was There
+Aug 03, 2007	Expo Square Pavilion	Tulsa, OK	 I Was There
+Jul 14, 2007	Reno Events Center	Reno, NV	 I Was There
+Jul 13, 2007	Peppermill Concert Hall	West Wendover, NV	 I Was There
+Jun 30, 2007	Cape Cod Melody Tent	West Harwich, MA	 I Was There
+Jun 29, 2007	South Shore Mall	Hingham, MA	 I Was There
+Jun 28, 2007	Hampton Beach Casino Ballroom	Hampton Beach, NH	 I Was There
+Jun 27, 2007	Sunset Festival	Newport, RI	 I Was There
+Jun 15, 2007	Horseshoe Casino Riverdome	Bossier City, LA	 I Was There
+Jun 02, 2007	Township Auditorium	Columbia, SC	 I Was There
+May 27, 2007	Emerald Queen Casino	Tacoma, WA	 I Was There
+May 26, 2007	Emerald Queen Casino	Tacoma, WA	 I Was There
+May 18, 2007	The Warfield	San Francisco, CA	 I Was There

@@ -1,0 +1,210 @@
+Date	Venue	Location	Ignore
+Nov 24	Borgata Event Center	Atlantic City, NJ	 I Was There
+Nov 11	Air Canada Centre	Toronto, Canada	 I Was There
+Nov 10	Soaring Eagle Casino & Resort	Mount Pleasant, MI	 I Was There
+Nov 09	The Pavilion at Toyota Music Factory	Irving, TX	 I Was There
+Oct 29	Paramount Theatre-Oakland	Oakland, CA	 I Was There
+Oct 28	Paramount Theatre-Oakland	Oakland, CA	 I Was There
+Oct 27	Paramount Theatre-Oakland	Oakland, CA	 I Was There
+Oct 26	Paramount Theatre-Oakland	Oakland, CA	 I Was There
+Oct 21	The Theater at MGM National Harbor	National Harbor, MD	 I Was There
+Oct 20	The Theater at MGM National Harbor	National Harbor, MD	 I Was There
+Oct 19	The Theater at MGM National Harbor	National Harbor, MD	 I Was There
+Oct 18	The Theater at MGM National Harbor	National Harbor, MD	 I Was There
+Oct 08	Ziggo Dome	Amsterdam, Netherlands	 I Was There
+Oct 07	oslo spektrum	Oslo, Norway	 I Was There
+Oct 06	Scandinavium	Goteborg, Sweden	 I Was There
+Oct 05	Royal Arena	Copenhagen, Denmark	 I Was There
+Oct 04	DNB Arena	Stavanger, Norway	 I Was There
+Oct 02	Ericsson Globe	Stockholm, Sweden	 I Was There
+Oct 01	Koningin Elisabethzaal	Antwerpen, Belgium	 I Was There
+Sep 29	Sportpaleis	Antwerp, Belgium	 I Was There
+Sep 29	Sportpaleis	Antwerp, Belgium	 I Was There
+Sep 17	Paramount Theatre	Seattle, WA	 I Was There
+Sep 16	Paramount Theatre	Seattle, WA	 I Was There
+Sep 15	McCaw Hall	Seattle, WA	 I Was There
+Sep 14	UBC	Vancouver, Canada	 I Was There
+Sep 10	The Chicago Theatre	Chicago, IL	 I Was There
+Sep 09	The Chicago Theatre	Chicago, IL	 I Was There
+Sep 08	The Chicago Theatre	Chicago, IL	 I Was There
+Sep 07	The Chicago Theatre	Chicago, IL	 I Was There
+Aug 06	Radio City Music Hall	New York, NY	 I Was There
+Aug 05	Radio City Music Hall	New York, NY	 I Was There
+Jul 01	Spark Arena	Auckland, New Zealand	 I Was There
+Jun 29	Qudos Bank Arena	Sydney Olympic Park, Australia	 I Was There
+Jun 28	Qudos Bank Arena	Sydney Olympic Park, Australia	 I Was There
+Jun 27	Hisense Arena	Melbourne, Australia	 I Was There
+Jun 26	Hisense Arena	Melbourne, Australia	 I Was There
+Jun 25	Brisbane Entertainment Centre	Boondall, Australia	 I Was There
+Jun 24	Brisbane Convention & Exhibition Centre	Brisbane, Australia	 I Was There
+Jun 23	Perth Arena	Perth, Australia	 I Was There
+Jun 10	Park Theater at Monte Carlo Resort and Casino	Las Vegas, NV	 I Was There
+Jun 09	Fantasy Springs Resort Casino	Indio, CA	 I Was There
+Jun 03	Borgata Event Center	Atlantic City, NJ	 I Was There
+May 28	Fox Theatre Atlanta	Atlanta, GA	 I Was There
+May 27	Fox Theatre Atlanta	Atlanta, GA	 I Was There
+May 26	Fox Theatre Atlanta	Atlanta, GA	 I Was There
+May 25	Harrah's Cherokee Resort Event Center	Cherokee, NC	 I Was There
+May 18	Benedum Center	Pittsburgh, PA	 I Was There
+May 17	Benedum Center	Pittsburgh, PA	 I Was There
+May 16	Benedum Center	Pittsburgh, PA	 I Was There
+May 15	Bass Concert Hall	Austin, TX	 I Was There
+May 14	Bass Concert Hall	Austin, TX	 I Was There
+May 13	Smart Financial Centre At Sugar Land	Sugar Land, TX	 I Was There
+May 12	Smart Financial Centre At Sugar Land	Sugar Land, TX	 I Was There
+May 06	Comerica Theatre	Phoenix, AZ	 I Was There
+May 04	Murat Theatre at Old National Centre	Indianapolis, IN	 I Was There
+May 03	Murat Theatre at Old National Centre	Indianapolis, IN	 I Was There
+Apr 30	Fox Theatre Detroit	Detroit, MI	 I Was There
+Apr 29	Fox Theatre Detroit	Detroit, MI	 I Was There
+Apr 28	Fox Theatre Detroit	Detroit, MI	 I Was There
+Apr 22	Mohegan Sun Arena	Uncasville, CT	 I Was There
+Apr 20	State Theatre at PlayhouseSquare	Cleveland, OH	 I Was There
+Apr 19	State Theatre at PlayhouseSquare	Cleveland, OH	 I Was There
+Apr 17	Dr Phillips Center for the Performing Arts	Orlando, FL	 I Was There
+Apr 16	Dr Phillips Center for the Performing Arts	Orlando, FL	 I Was There
+Apr 15	David A. Straz, Jr. Center for the Performing Arts	Tampa, FL	 I Was There
+Apr 14	David A. Straz, Jr. Center for the Performing Arts	Tampa, FL	 I Was There
+Apr 10	The Palace Theatre Albany	Albany, NY	 I Was There
+Apr 09	Peabody Opera House	St Louis, MO	 I Was There
+Apr 08	Peabody Opera House	St Louis, MO	 I Was There
+Apr 07	Global Event Center at WinStar World Casino and Resort	Thackerville, OK	 I Was There
+Mar 30	Hard Rock Live	Hollywood, FL	 I Was There
+Mar 29	Hard Rock Live	Hollywood, FL	 I Was There
+Mar 28	The Theater at Madison Square Garden	New York, NY	 I Was There
+Mar 27	Saenger Theatre New Orleans	New Orleans, LA	 I Was There
+Mar 26	Saenger Theatre New Orleans	New Orleans, LA	 I Was There
+Mar 25	Saenger Theatre New Orleans	New Orleans, LA	 I Was There
+Mar 24	BJCC Concert Hall	Birmingham, AL	 I Was There
+Mar 13	Milwaukee Theatre	Milwaukee, WI	 I Was There
+Mar 12	Orpheum Theatre	Minneapolis, MN	 I Was There
+Mar 11	Orpheum Theatre	Minneapolis, MN	 I Was There
+Mar 10	Orpheum Theatre	Minneapolis, MN	 I Was There
+Mar 06	Altria Theater	Richmond, VA	 I Was There
+Mar 05	Altria Theater	Richmond, VA	 I Was There
+Mar 04	Bellco Theatre	Denver, CO	 I Was There
+Mar 03	Bellco Theatre	Denver, CO	 I Was There
+Mar 02	Bellco Theatre	Denver, CO	 I Was There
+Feb 25	Comerica Theatre	Phoenix, AZ	 I Was There
+Feb 24	Reno Events Center	Reno, NV	 I Was There
+Feb 23	The Avalon Ballroom Theatre At Niagara Fallsview Casino Resort	Niagara Falls, Canada	 I Was There
+Feb 22	The Avalon Ballroom Theatre At Niagara Fallsview Casino Resort	Niagara Falls, Canada	 I Was There
+Feb 21	The Avalon Ballroom Theatre At Niagara Fallsview Casino Resort	Niagara Falls, Canada	 I Was There
+Feb 19	Palace Theatre Columbus	Columbus, OH	 I Was There
+Feb 18	Palace Theatre Columbus	Columbus, OH	 I Was There
+Feb 15	DPAC	Durham, NC	 I Was There
+Feb 14	DPAC	Durham, NC	 I Was There
+Feb 13	DPAC	Durham, NC	 I Was There
+Dec 28, 2016	Burg Schnabel	Berlin, Germany	 I Was There
+Oct 02, 2016	Chattahoochie Hills	Atlanta, GA	 I Was There
+Oct 01, 2016	Bouckaert Farms	Fairburn, GA	 I Was There
+Sep 13, 2008	Apollo Theater	New York, NY	 I Was There
+Sep 12, 2008	Apollo Theater	New York, NY	 I Was There
+Sep 07, 2008	HMV Hammersmith Apollo	London, United Kingdom	 I Was There
+Sep 06, 2008	Carling Apollo Hammersmith	London, United Kingdom	 I Was There
+Sep 06, 2008	HMV Hammersmith Apollo	London, United Kingdom	 I Was There
+Sep 04, 2008	Olympia Theatre	Dublin, Ireland	 I Was There
+Aug 30, 2008	The Colosseum at Ceasars Palace	Las Vegas, NV	 I Was There
+Aug 29, 2008	The Colosseum at Ceasars Palace	Las Vegas, NV	 I Was There
+Aug 28, 2008	Paramount Theatre	Seattle, WA	 I Was There
+Aug 27, 2008	Paramount Theatre	Seattle, WA	 I Was There
+Aug 26, 2008	The Orpheum	Vancouver, Canada	 I Was There
+Aug 25, 2008	The Orpheum	Vancouver, Canada	 I Was There
+Aug 24, 2008	The Orpheum	Vancouver, Canada	 I Was There
+Aug 16, 2008	Mohegan Sun Arena	Uncasville, CT	 I Was There
+Aug 15, 2008	Borgata Hotel, Casino & Spa	Atlantic City, NJ	 I Was There
+Aug 11, 2008	The Spiegeltent @ The Arts Centre	Melbourne, Australia	 I Was There
+Aug 10, 2008	The Spiegeltent @ The Arts Centre	Melbourne, Australia	 I Was There
+Aug 08, 2008	State Theatre, Sydney	Sydney, Australia	 I Was There
+Aug 06, 2008	State Theatre, Sydney	Sydney, Australia	 I Was There
+Aug 06, 2008	Civic Theatre	Auckland, New Zealand	 I Was There
+Aug 05, 2008	State Theatre, Sydney	Sydney, Australia	 I Was There
+Aug 04, 2008	State Theatre, Sydney	Sydney, Australia	 I Was There
+Aug 02, 2008	Vodafone Arena	Melbourne, Australia	 I Was There
+Aug 02, 2008	Hisense Arena	Melbourne, Australia	 I Was There
+Jul 20, 2008	The Chicago Theatre	Chicago, IL	 I Was There
+Jul 19, 2008	The Chicago Theatre	Chicago, IL	 I Was There
+Jul 18, 2008	Orpheum Theatre	Minneapolis, MN	 I Was There
+Jul 17, 2008	National Arts Centre	Ottawa, Canada	 I Was There
+Jul 15, 2008	Casino Rama	Longford, Canada	 I Was There
+Jul 12, 2008	Fox Theatre Atlanta	Atlanta, GA	 I Was There
+Jul 11, 2008	Richmond's Landmark Theatre	Richmond, VA	 I Was There
+Jul 11, 2008	Fox Theatre Atlanta	Atlanta, GA	 I Was There
+Jul 10, 2008	Aronoff Center-Procter & Gamble Hall	Cincinnati, OH	 I Was There
+Jul 06, 2008	Louisiana Superdome	New Orleans, LA	 I Was There
+Jul 05, 2008	Starlight Theatre	Kansas City, MO	 I Was There
+Jul 03, 2008	Tampa Awards	Tampa, FL	 I Was There
+Jul 02, 2008	Tampa Awards	Tampa, FL	 I Was There
+Jul 01, 2008	Seminole Hard Rock Hotel	Hollywood, FL	 I Was There
+Jun 27, 2008	Palace Theatre Columbus	Columbus, OH	 I Was There
+Jun 26, 2008	Ovens Auditorium	Charlotte, NC	 I Was There
+Jun 25, 2008	Times Union Perf. Arts-Moran	Jacksonville, FL	 I Was There
+Jun 14, 2008	Citi Performing Arts Center Wang Theatre	Boston, MA	 I Was There
+Jun 13, 2008	Bonnaroo Music Festival	Manchester, TN	 I Was There
+Jun 12, 2008	Uptown Theater	Kansas City, MO	 I Was There
+May 30, 2008	Apollo	Manchester, United Kingdom	 I Was There
+May 29, 2008	Nottingham Royal Centre	Nottingham, United Kingdom	 I Was There
+May 28, 2008	Edinburgh Playhouse	Edinburgh, United Kingdom	 I Was There
+May 24, 2008	O2 Academy Brixton	London, United Kingdom	 I Was There
+May 23, 2008	O2 Academy Brixton	London, United Kingdom	 I Was There
+May 17, 2008	Borgata Hotel, Casino & Spa	Atlantic City, NJ	 I Was There
+May 16, 2008	Borgata Hotel, Casino & Spa	Atlantic City, NJ	 I Was There
+May 04, 2008	Madison Square Garden	New York, NY	 I Was There
+May 03, 2008	Madison Square Garden	New York, NY	 I Was There
+May 02, 2008	Madison Square Garden	New York, NY	 I Was There
+May 01, 2008	Madison Square Garden	New York, NY	 I Was There
+Apr 30, 2008	Madison Square Garden	New York, NY	 I Was There
+Apr 26, 2008	Gibson Amph. At Univ. CityWalk	Universal City, CA	 I Was There
+Apr 25, 2008	Gibson Amphitheatre	Universal City, CA	 I Was There
+Apr 25, 2008	Gibson Amph. At Univ. CityWalk	Universal City, CA	 I Was There
+Apr 24, 2008	Gibson Amphitheatre	Universal City, CA	 I Was There
+Apr 24, 2008	Gibson Amph. At Univ. CityWalk	Universal City, CA	 I Was There
+Apr 23, 2008	Gibson Amphitheatre	Universal City, CA	 I Was There
+Apr 23, 2008	Gibson Amph. At Univ. CityWalk	Universal City, CA	 I Was There
+Apr 21, 2008	DAR Constitution Hall	Washington, DC	 I Was There
+Apr 20, 2008	DAR Constitution Hall	Washington, DC	 I Was There
+Apr 19, 2008	DAR Constitution Hall	Washington, DC	 I Was There
+Apr 18, 2008	DAR Constitution Hall	Washington, DC	 I Was There
+Apr 12, 2008	Silver Legacy Casino	Reno, NV	 I Was There
+Apr 11, 2008	Paramount Theatre	Seattle, WA	 I Was There
+Apr 10, 2008	Paramount Theatre	Seattle, WA	 I Was There
+Apr 09, 2008	River Rock	Richmond, Canada	 I Was There
+Apr 06, 2008	Paramount Theatre-Oakland	Oakland, CA	 I Was There
+Apr 05, 2008	Paramount Theatre-Oakland	Oakland, CA	 I Was There
+Apr 04, 2008	Paramount Theatre-Oakland	Oakland, CA	 I Was There
+Apr 03, 2008	Paramount Theatre-Oakland	Oakland, CA	 I Was There
+Mar 30, 2008	FABULOUS FOX THEATRE	St Louis, MO	 I Was There
+Mar 29, 2008	Verizon Wireless Theater	Houston, TX	 I Was There
+Mar 28, 2008	Beau Rivage Theater	Biloxi, MS	 I Was There
+Mar 27, 2008	Nokia Theatre At Grand Prairie	Grand Prairie, TX	 I Was There
+Mar 26, 2008	San Antonio Municipal Auditorium	San Antonio, TX	 I Was There
+Mar 22, 2008	Fox Theatre Atlanta	Atlanta, GA	 I Was There
+Mar 21, 2008	Fox Theatre Atlanta	Atlanta, GA	 I Was There
+Mar 15, 2008	Mohegan Sun Arena	Uncasville, CT	 I Was There
+Mar 14, 2008	Massey Hall	Toronto, Canada	 I Was There
+Mar 13, 2008	Massey Hall	Toronto, Canada	 I Was There
+Mar 09, 2008	Wells Fargo Theatre	Denver, CO	 I Was There
+Feb 29, 2008	Fox Theatre	Detroit, MI	 I Was There
+Feb 27, 2008	Academy of Music	Philadelphia, PA	 I Was There
+Feb 16, 2008	Rosemont Theatre	Rosemont, IL	 I Was There
+Feb 15, 2008	Rosemont Theatre	Rosemont, IL	 I Was There
+Feb 11, 2008	Seminole Hard Rock Hotel	Hollywood, FL	 I Was There
+Feb 10, 2008	Lyric Opera House	Baltimore, MD	 I Was There
+Feb 09, 2008	Lyric Opera House	Baltimore, MD	 I Was There
+Feb 08, 2008	Play House Square Center	Cleveland, OH	 I Was There
+Jan 25, 2008	Carling Apollo Hammersmith	London, United Kingdom	 I Was There
+Jan 24, 2008	Carling Apollo Hammersmith	London, United Kingdom	 I Was There
+Jan 23, 2008	Carling Apollo Hammersmith	London, United Kingdom	 I Was There
+Jan 22, 2008	Carling Apollo Hammersmith	London, United Kingdom	 I Was There
+Jan 13, 2008	Carling Apollo Hammersmith	London, United Kingdom	 I Was There
+Jan 12, 2008	NIA Birmingham	Birmingham, United Kingdom	 I Was There
+Jan 11, 2008	Carling Apollo Hammersmith	London, United Kingdom	 I Was There
+Jan 10, 2008	Carling Apollo Hammersmith	London, United Kingdom	 I Was There
+Jan 09, 2008	Carling Apollo Hammersmith	London, United Kingdom	 I Was There
+Jan 08, 2008	Apollo	Manchester, United Kingdom	 I Was There
+Jan 07, 2008	Apollo	Manchester, United Kingdom	 I Was There
+Dec 31, 2007	Madison Square Garden	New York, NY	 I Was There
+Nov 17, 2007	The Colosseum at Ceasars Palace	Las Vegas, NV	 I Was There
+Nov 16, 2007	The Colosseum at Ceasars Palace	Las Vegas, NV	 I Was There
+Nov 15, 2007	The Colosseum at Ceasars Palace	Las Vegas, NV	 I Was There
+Nov 14, 2007	The Colosseum at Ceasars Palace	Las Vegas, NV	 I Was There

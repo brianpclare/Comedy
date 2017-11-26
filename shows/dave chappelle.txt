@@ -1,0 +1,187 @@
+Date	Venue	Location	Ignore
+Oct 27	The Pavilion at Toyota Music Factory	Irving, TX	 I Was There
+Oct 26	The Pavilion at Toyota Music Factory	Irving, TX	 I Was There
+Oct 07	Shoreline Amphitheatre	Mountain View, CA	 I Was There
+Sep 30	Warner Theatre	Washington, DC	 I Was There
+Sep 29	Warner Theatre	Washington, DC	 I Was There
+Sep 28	Warner Theatre	Washington, DC	 I Was There
+Sep 27	Warner Theatre	Washington, DC	 I Was There
+Sep 26	Warner Theatre	Washington, DC	 I Was There
+Sep 25	Warner Theatre	Washington, DC	 I Was There
+Sep 24	Warner Theatre	Washington, DC	 I Was There
+Sep 22	Warner Theatre	Washington, DC	 I Was There
+Sep 21	Warner Theatre	Washington, DC	 I Was There
+Sep 20	Warner Theatre	Washington, DC	 I Was There
+Sep 19	Warner Theatre	Washington, DC	 I Was There
+Sep 12	The Peppermint Club	Los Angeles, CA	 I Was There
+Sep 08	Michigan Lottery Amphitheatre at Freedom Hill	Sterling Heights, MI	 I Was There
+Sep 03	The Chelsea at The Cosmopolitan of Las Vegas	Las Vegas, NV	 I Was There
+Sep 02	Comerica Theatre	Phoenix, AZ	 I Was There
+Sep 01	The Pavilion at Irving Music Factory	Irving, TX	 I Was There
+Aug 31	The Pavilion at Irving Music Factory	Irving, TX	 I Was There	
+Aug 24	Radio City Music Hall	New York, NY	 I Was There
+Aug 23	Radio City Music Hall	New York, NY	 I Was There
+Aug 22	Radio City Music Hall	New York, NY	 I Was There
+Aug 20	Radio City Music Hall	New York, NY	 I Was There
+Aug 19	Radio City Music Hall	New York, NY	 I Was There
+Aug 18	Radio City Music Hall	New York, NY	 I Was There
+Aug 17	Radio City Music Hall	New York, NY	 I Was There
+Aug 15	Radio City Music Hall	New York, NY	 I Was There
+Aug 12	Radio City Music Hall	New York, NY	 I Was There
+Aug 09	Radio City Music Hall	New York, NY	 I Was There
+Aug 06	Radio City Music Hall	New York, NY	 I Was There
+Aug 05	Radio City Music Hall	New York, NY	 I Was There
+Aug 04	Radio City Music Hall	New York, NY	 I Was There
+Aug 03	Radio City Music Hall	New York, NY	 I Was There
+Aug 02	Radio City Music Hall	New York, NY	 I Was There
+Aug 01	Radio City Music Hall	New York, NY	 I Was There
+Jul 28	Icehouse	Minneapolis, MN	 I Was There
+Jul 27	Icehouse	Minneapolis, MN	 I Was There
+Jul 26	Icehouse	Minneapolis, MN	 I Was There
+Jul 25	Icehouse	Minneapolis, MN	 I Was There	
+Jul 24	Icehouse	Minneapolis, MN	 I Was There
+Jul 15	Red Rocks Amphitheatre	Morrison, CO	 I Was There
+Jul 13	Bellco Theatre	Denver, CO	 I Was There
+Jul 12	Belly Up Aspen	Aspen, CO	 I Was There
+Jul 11	Belly Up Aspen	Aspen, CO	 I Was There
+Jul 10	Belly Up	Aspen, CO	 I Was There
+Jun 19	The Tabernacle	Atlanta, GA	 I Was There
+Jun 18	The Tabernacle	Atlanta, GA	 I Was There
+Jun 16	The Tabernacle	Atlanta, GA	 I Was There
+Jun 15	The Tabernacle	Atlanta, GA	 I Was There
+Jun 14	The Tabernacle	Atlanta, GA	 I Was There
+Jun 13	Coca-Cola Roxy	Atlanta, GA	 I Was There
+Jun 12	The Tabernacle	Atlanta, GA	 I Was There
+Jun 11	The Tabernacle	Atlanta, GA	 I Was There
+Jun 08	Louisville Palace	Louisville, KY	 I Was There
+Jun 07	The Whiting Auditorium	Flint, MI	 I Was There
+May 27	The Fillmore Detroit	Detroit, MI	 I Was There
+May 26	The Fillmore Detroit	Detroit, MI	 I Was There
+May 25	The Fillmore Detroit	Detroit, MI	 I Was There
+May 24	The Fillmore Detroit	Detroit, MI	 I Was There	
+May 23	The Fillmore Detroit	Detroit, MI	 I Was There
+May 05	Mandalay Bay Events Center	Las Vegas, NV	 I Was There
+Apr 29	The Fillmore	San Francisco, CA	 I Was There
+Apr 28	The Fillmore	San Francisco, CA	 I Was There
+Apr 27	Punch Line Comedy Club	San Francisco, CA	 I Was There
+Mar 31	Austin City Limits Live	Austin, TX	 I Was There
+Mar 30	Austin City Limits Live	Austin, TX	 I Was There
+Mar 29	Austin City Limits Live	Austin, TX	 I Was There
+Mar 28	Austin City Limits Live	Austin, TX	 I Was There
+Mar 27	Austin City Limits Live	Austin, TX	 I Was There
+Mar 26	Austin City Limits Live	Austin, TX	 I Was There
+Mar 23	Revention Music Center	Houston, TX	 I Was There
+Mar 22	Revention Music Center	Houston, TX	 I Was There
+Mar 05	Gramercy Theatre	New York, NY	 I Was There
+Feb 18	Saenger Theatre New Orleans	New Orleans, LA	 I Was There
+Feb 17	Saenger Theatre New Orleans	New Orleans, LA	 I Was There
+Feb 16	Saenger Theatre New Orleans	New Orleans, LA	 I Was There
+Feb 15	Saenger Theatre New Orleans	New Orleans, LA	 I Was There
+Feb 11	Van Wezel Performing Arts Center	Sarasota, FL	 I Was There
+Feb 10	Coral Springs Center	Coral Springs, FL	 I Was There	
+Feb 09	Florida Theatre Jacksonville	Jacksonville, FL	 I Was There
+Feb 08	Florida Theatre Jacksonville	Jacksonville, FL	 I Was There
+Feb 07	Bell Auditorium	Augusta, GA	 I Was There
+Feb 06	U.S. Cellular Center Asheville	Asheville, NC	 I Was There
+Feb 04	Tivoli Theatre	Chattanooga, TN	 I Was There
+Feb 03	Township Auditorium	Columbia, SC	 I Was There
+Feb 02	Charleston Music Hall	Charleston, SC	 I Was There
+Feb 01	Charleston Music Hall	Charleston, SC	 I Was There
+Jan 19	Club Bahia	Los Angeles, CA	 I Was There
+Dec 16, 2016	Punch Line Comedy Club	San Francisco, CA	 I Was There
+Dec 15, 2016	Punch Line Comedy Club	San Francisco, CA	 I Was There
+Dec 14, 2016	Punch Line Comedy Club	San Francisco, CA	 I Was There
+Dec 13, 2016	Punch Line Comedy Club	San Francisco, CA	 I Was There
+Dec 08, 2016	The Belasco Theater	Los Angeles, CA	 I Was There
+Dec 07, 2016	Club Bahia	Los Angeles, CA	 I Was There
+Dec 06, 2016	Blind Barber	Culver City, CA	 I Was There
+Dec 05, 2016	Blind Barber	Culver City, CA	 I Was There
+Nov 04, 2016	The Cutting Room	New York, NY	 I Was There
+Oct 27, 2016	The Cutting Room	New York, NY	 I Was There
+Oct 25, 2016	The Cutting Room	New York, NY	 I Was There
+Oct 24, 2016	The Cutting Room	New York, NY	 I Was There
+Oct 23, 2016	The Cutting Room	New York, NY	 I Was There
+Sep 09, 2016	Electric Brixton	London, United Kingdom	 I Was There
+Sep 08, 2016	Electric Ballroom	London, United Kingdom	 I Was There
+Sep 07, 2016	Electric Brixton	London, United Kingdom	 I Was There
+Sep 06, 2016	Electric Brixton	London, United Kingdom	 I Was There
+Sep 01, 2016	Gramercy Theatre	New York, NY	 I Was There
+Aug 31, 2016	The Cutting Room	New York, NY	 I Was There
+Aug 30, 2016	Gramercy Theatre	New York, NY	 I Was There
+Aug 29, 2016	Gramercy Theatre	New York, NY	 I Was There
+Aug 28, 2016	The Cutting Room	New York, NY	 I Was There
+Jun 09, 2016	Gillioz Theatre	Springfield, MO	 I Was There
+Jun 02, 2016	First Avenue	Minneapolis, MN	 I Was There
+Jun 01, 2016	First Avenue	Minneapolis, MN	 I Was There
+May 31, 2016	First Avenue	Minneapolis, MN	 I Was There
+May 27, 2016	Carnegie of Homestead Music Hall	Munhall, PA	 I Was There
+May 26, 2016	Carnegie of Homestead Music Hall	Munhall, PA	 I Was There
+May 24, 2016	Carnegie of Homestead Music Hall	Munhall, PA	 I Was There
+May 20, 2016	Orpheum Theater	Madison, WI	 I Was There
+Apr 21, 2016	THE CHAPEL	San Francisco, CA	 I Was There
+Apr 19, 2016	THE CHAPEL	San Francisco, CA	 I Was There
+Mar 19, 2016	Aladdin Theater	Portland, OR	 I Was There
+Mar 18, 2016	Aladdin Theater	Portland, OR	 I Was There
+Mar 17, 2016	Aladdin Theater	Portland, OR	 I Was There
+Mar 16, 2016	Aladdin Theater	Portland, OR	 I Was There
+Mar 15, 2016	Aladdin Theater	Portland, OR	 I Was There
+Feb 26, 2016	The Bomb Factory	Dallas, TX	 I Was There
+Feb 03, 2016	The Pabst Theater	Milwaukee, WI	 I Was There
+Feb 02, 2016	The Pabst Theater	Milwaukee, WI	 I Was There
+Feb 01, 2016	The Pabst Theater	Milwaukee, WI	 I Was There
+Jan 31, 2016	The Pabst Theater	Milwaukee, WI	 I Was There
+Oct 04, 2015	Palace Theatre	Albany, NY	 I Was There
+Oct 02, 2015	Crouse Hinds Theater	Syracuse, NY	 I Was There
+Sep 27, 2015	Oakdale Theatre	Wallingford, CT	 I Was There
+Sep 16, 2015	Pikes Peak Center for the Performing Arts	Colorado Springs, CO	 I Was There
+Jul 14, 2015	eventim apollo, hammersmith	London, United Kingdom	 I Was There
+Jul 13, 2015	Eventim Apollo Hammersmith	London, United Kingdom	 I Was There
+Jul 12, 2015	Eventim Apollo Hammersmith	London, United Kingdom	 I Was There
+Jul 11, 2015	Eventim Apollo Hammersmith	London, United Kingdom	 I Was There
+Jul 10, 2015	Eventim Apollo Hammersmith	London, United Kingdom	 I Was There	
+Jul 09, 2015	Eventim Apollo Hammersmith	London, United Kingdom	 I Was There
+Jul 08, 2015	Eventim Apollo Hammersmith	London, United Kingdom	 I Was There
+Apr 04, 2015	Austin City Limits Live at the Moody Theater	Austin, TX	 I Was There
+Apr 03, 2015	Austin City Limits Live at the Moody Theater	Austin, TX	 I Was There
+Apr 02, 2015	Austin City Limits Live at the Moody Theater	Austin, TX	 I Was There
+Mar 25, 2015	Yoshi's Oakland	Oakland, CA	 I Was There
+Mar 24, 2015	Yoshi's Oakland	Oakland, CA	 I Was There
+Mar 21, 2015	Wells Fargo Center for the Arts	Santa Rosa, CA	 I Was There
+Mar 19, 2015	Arlington Theatre	Santa Barbara, CA	 I Was There
+Mar 18, 2015	Arlington Theatre	Santa Barbara, CA	 I Was There
+Mar 12, 2015	Club Bahia	Los Angeles, CA	 I Was There
+Feb 16, 2015	Gramercy Theatre	New York, NY	 I Was There
+Feb 15, 2015	Gramercy Theatre	New York, NY	 I Was There
+Feb 14, 2015	Gramercy Theatre	New York, NY	 I Was There
+Nov 12, 2014	Carnegie of Homestead Music Hall	Munhall, PA	 I Was There
+Oct 27, 2014	Pabst Theatre	Milwaukee, WI	 I Was There
+Oct 15, 2014	Neptune Theatre	Seattle, WA	 I Was There
+Sep 22, 2013	Ak-Chin Pavilion	Phoenix, AZ	 I Was There
+Sep 21, 2013	Mandalay Bay Events Center	Las Vegas, NV	 I Was There
+Aug 29, 2013	Comcast Theatre	Hartford, CT	 I Was There
+Apr 04, 2013	The Independent	San Francisco, CA	 I Was There
+Apr 03, 2013	The Independent	San Francisco, CA	 I Was There
+Apr 02, 2013	The Independent	San Francisco, CA	 I Was There
+Mar 28, 2013	THE CHAPEL	San Francisco, CA	 I Was There
+Mar 27, 2013	THE CHAPEL	San Francisco, CA	 I Was There
+Mar 25, 2013	The Independent	San Francisco, CA	 I Was There
+Mar 05, 2013	North Door Main Stage	Austin, TX	 I Was There
+Jul 05, 2012	The Catalyst	Santa Cruz, CA	 I Was There
+Jul 03, 2012	The Independent	San Francisco, CA	 I Was There
+Jan 18, 2012	The Independent	San Francisco, CA	 I Was There
+Jan 17, 2012	The Independent	San Francisco, CA	 I Was There
+Jan 16, 2012	The Independent	San Francisco, CA	 I Was There
+Sep 03, 2010	Lincoln Theatre	Washington, DC	 I Was There
+Feb 10, 2010	The New Parish	Oakland, CA	 I Was There
+Feb 09, 2010	The New Parish	Oakland, CA	 I Was There
+Feb 08, 2010	The New Parish	Oakland, CA	 I Was There
+Apr 23, 2009	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Apr 23, 2009	Punch Line SF	San Francisco, CA	 I Was There
+Apr 22, 2009	Punch Line SF	San Francisco, CA	 I Was There
+Apr 22, 2009	Cobb's Comedy Club	San Francisco, CA	 I Was There	
+Nov 01, 2008	Punch Line SF	San Francisco, CA	 I Was There
+Oct 28, 2008	Punch Line SF	San Francisco, CA	 I Was There
+Oct 26, 2008	Punch Line SF	San Francisco, CA	 I Was There
+Aug 25, 2007	The Tabernacle	Atlanta, GA	 I Was There
+Aug 24, 2007	The Tabernacle	Atlanta, GA	 I Was There
+Aug 23, 2007	The Tabernacle	Atlanta, GA	 I Was There

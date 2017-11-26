@@ -1,0 +1,141 @@
+Date	Venue	Location	Ignore
+Oct 18, 2015	Gexa Energy Pavilion	Dallas, TX	 I Was There
+Oct 17, 2015	Austin360 Amphitheatre	Austin, TX	 I Was There
+Oct 16, 2015	Cynthia Woods Mitchell Pavilion	The Woodlands, TX	 I Was There
+Oct 13, 2015	Shoreline Amphitheatre	Mountain View, CA	 I Was There
+Oct 11, 2015	Verizon Wireless Amphitheatre	Irvine, CA	 I Was There
+Oct 09, 2015	Sleep Train Amphitheatre	Chula Vista, CA	 I Was There
+Oct 04, 2015	Aaron's Amphitheatre at Lakewood	Atlanta, GA	 I Was There
+Oct 03, 2015	MidFlorida Credit Union Amphitheatre	Tampa, FL	 I Was There
+Oct 02, 2015	Coral Sky Amphitheatre	West Palm Beach, FL	 I Was There
+Sep 13, 2015	Susquehanna Bank Arts Center	Camden, NJ	 I Was There
+Sep 12, 2015	Xinity Center	Hartford, CT	 I Was There
+Sep 11, 2015	Xfinity Center	Mansfield, MA	 I Was There
+Sep 06, 2015	Molson Canadian Amphitheater	Toronto, Canada	 I Was There
+Sep 05, 2015	PNC Bank Arts Center (Oddball Fest)	Holmdel, NJ	 I Was There
+Sep 04, 2015	Nikon at Jones Beach (Oddball Fest)	Wantagh, NY	 I Was There
+Aug 30, 2015	DTE Energy Music Theatre	Clarkston, MI	 I Was There
+Aug 29, 2015	First Midwest Bank Amphitheatre	Tinley Park, IL	 I Was There
+Aug 28, 2015	Starlight Theatre	Kansas City, MO	 I Was There
+Aug 21, 2015	Beat Kitchen	Chicago, IL	 I Was There
+Aug 20, 2015	Zanies Comedy Club	Chicago, IL	 I Was There
+Jul 17, 2015	The Wilshire Ebell Theater	Los Angeles, CA	 I Was There
+Jul 16, 2015	Benaroya Hall	Seattle, WA	 I Was There
+Jul 08, 2015	Lisner Auditorium	Washington, DC	 I Was There
+Jun 16, 2015	NYU Skirball Center	New York, YORK,	 I Was There
+Jan 24, 2015	Bellco Theatre @ The Colorado Convention Center	Denver, CO	 I Was There
+Jan 09, 2015	Celebrity Theatre	Phoenix, AZ	 I Was There
+Nov 30, 2014	eventim apollo	London, United Kingdom	 I Was There
+Oct 09, 2014	Madison Square Garden	New York, NY	 I Was There
+Oct 04, 2014	Orpheum Teatre	Los Angeles, CA	 I Was There
+Oct 03, 2014	Orpheum Teatre	Los Angeles, CA	 I Was There
+Sep 30, 2014	The Wiltern	Los Angeles, CA	 I Was There
+Sep 14, 2014	Verizon Wireless Ampitheater	Irvine, CA	 I Was There
+Sep 07, 2014	Red Rocks Ampitheatre	Denver, CO	 I Was There
+Sep 06, 2014	USANA Ampitheatre	Salt Lake City, UT	 I Was There
+Sep 05, 2014	White River Ampitheatre	Seattle, WA	 I Was There
+Sep 03, 2014	Vic Theatre	Chicago, IL	 I Was There
+Aug 23, 2014	Xfinity Theatre	Hartford, CT	 I Was There
+Aug 10, 2014	Aaron's Amphitheatre at Lakewood	Atlanta, GA	 I Was There
+Aug 09, 2014	Pnc Music Pavilion	Charlotte, NC	 I Was There
+Aug 08, 2014	MIDFLORIDA Credit Union Amphitheatre	Tampa, FL	 I Was There
+Apr 24, 2014	Fox Theatre	St Louis, MO	 I Was There
+Jul 01, 2013	Borgata Event Center	Atlantic City, NJ	 I Was There
+Jun 15, 2013	HAMMERSMITH APOLLO	London, United Kingdom	 I Was There
+Apr 01, 2013	Carpenter Theatre At Richmond Center Stage	Richmond, VA	 I Was There
+Dec 04, 2012	The Ricardo Montalbán Theatre	Hollywood, CA	 I Was There
+Jul 21, 2012	Paramount Theatre Denver	Canada, KY	 I Was There
+Jul 20, 2012	Nob Hill Masonic Auditorium	San Francisco, CA	 I Was There
+Jul 19, 2012	San Jose Center for Performing Arts	San Jose, CA	 I Was There
+Jul 13, 2012	Borgata Music Box	Atlantic City, NJ	 I Was There
+Jul 07, 2012	National Arts Centre	Ottawa, Canada	 I Was There
+Jul 06, 2012	Sony Centre for the Performing Arts	Toronto, Canada	 I Was There
+Jun 30, 2012	The Orpheum Vancouver	Vancouver, Canada	 I Was There
+Jun 29, 2012	Paramount Theatre	Seattle, WA	 I Was There
+Jun 28, 2012	Arlene Schnitzer Concert Hall	Portland, OR	 I Was There
+Jun 22, 2012	Meyerhoff Hall	Baltimore, MD	 I Was There
+Jun 19, 2012	Mahalia Jackson Theater for the Performing Arts	New Orleans, LA	 I Was There
+Jun 16, 2012	Beacon Theatre	New York, NY	 I Was There
+Jun 15, 2012	Chicago Theatre	Chicago, IL	 I Was There
+Jun 10, 2012	Bonnaroo 2012 Music & Arts Festival	Manchester, TN	 I Was There
+Jun 09, 2012	Aronoff Center-Procter & Gamble Hall	Cincinnati, OH	 I Was There
+Jun 08, 2012	Bonnaroo 2012 Music & Arts Festival	Manchester, TN	 I Was There
+Jun 07, 2012	Great Stage Park	Manchester, TN	 I Was There
+May 19, 2012	The Grand Theater at Foxwoods	Mashantucket, CT	 I Was There
+May 17, 2012	Wilbur Theatre	Boston, MA	 I Was There
+May 12, 2012	Murat Theatre	Indianapolis, IN	 I Was There
+May 11, 2012	The Pageant	St Louis, MO	 I Was There
+May 05, 2012	Royal Oak Music Theatre	Royal Oak, MI	 I Was There
+Apr 21, 2012	Thomas Wolfe Auditorium	Asheville, NC	 I Was There
+Apr 20, 2012	Tennessee Performing Arts Center	Nashville, TN	 I Was There
+Apr 13, 2012	War Memorial At Oncenter	Syracuse, NY	 I Was There
+Mar 03, 2012	THE FILLMORE MIAMI BEACH	Miami Beach, FL	 I Was There
+Oct 27, 2011	Ryan Centre Theatre	Stranraer, United Kingdom	 I Was There
+Oct 24, 2011	John Paul Jones Arena	Charlottesville, VA	 I Was There
+Jun 26, 2011	Hampton Beach Casino Ballroom	Hampton Beach, NH	 I Was There
+Jun 24, 2011	Newport Yachting Center	Newport, RI	 I Was There
+Jun 17, 2011	Warner Theatre DC	Washington, DC	 I Was There
+May 13, 2011	Seneca Niagara Casino and Hotel Event Center	New York, NY	 I Was There
+Apr 14, 2011	Bridges Auditorium	Claremont, CA	 I Was There
+Mar 05, 2011	Borgata Casino Music Box	Atlantic City, NJ	 I Was There
+Jan 31, 2011	Wilbur Theatre	Boston, MA	 I Was There
+Jan 30, 2011	Wilbur Theatre	Boston, MA	 I Was There
+Jan 29, 2011	Mohegan Sun Arena	Uncasville, CT	 I Was There
+Jan 22, 2011	Carnegie Hall	New York, NY	 I Was There
+Jan 15, 2011	Holiday Inn Express Arlington	Arlington, TX	 I Was There
+Dec 11, 2010	Pearl Concert Theater at Palms Casino Resort	Las Vegas, NV	 I Was There
+Nov 20, 2010	Orpheum Teatre	Los Angeles, CA	 I Was There
+Nov 06, 2010	Beacon Theatre	New York, NY	 I Was There
+Nov 05, 2010	Borgata Events Center	Atlantic City, NJ	 I Was There
+Nov 03, 2010	Beacon Theatre	New York, NY	 I Was There
+Oct 23, 2010	The Fillmore	San Francisco, CA	 I Was There
+Oct 22, 2010	The Fillmore	San Francisco, CA	 I Was There
+Oct 21, 2010	The Fillmore	San Francisco, CA	 I Was There
+Oct 19, 2010	Wharton Center	East Lansing, MI	 I Was There
+Oct 17, 2010	Paramount Theatre for the Performing Arts	Austin, TX	 I Was There
+Oct 16, 2010	House of Blues Houston	Houston, TX	 I Was There
+Sep 25, 2010	House of Blues	San Diego, CA	 I Was There
+Sep 18, 2010	The Tabernacle	Atlanta, GA	 I Was There
+Sep 17, 2010	Warner Theatre	Washington, DC	 I Was There
+Sep 16, 2010	Town Hall	New York, NY	 I Was There
+Sep 15, 2010	The Wellmont Theatre	New York, NJ	 I Was There
+Aug 21, 2010	The Fillmore	San Francisco, CA	 I Was There
+Aug 20, 2010	The Fillmore	San Francisco, CA	 I Was There
+Aug 19, 2010	The Fillmore	San Francisco, CA	 I Was There
+Aug 15, 2010	Dr. Grins Comedy Club	Grand Rapids, MI	 I Was There
+Aug 14, 2010	Dr. Grins Comedy Club	Grand Rapids, MI	 I Was There
+Jul 31, 2010	Paramount Theatre for the Performing Arts	Austin, TX	 I Was There
+Jul 30, 2010	House of Blues Houston	Houston, TX	 I Was There
+Jul 24, 2010	House of Blues San Diego	San Diego, CA	 I Was There
+Jul 23, 2010	Mountain Winery	Saratoga, CA	 I Was There
+Jul 17, 2010	Wilbur Theatre	Boston, MA	 I Was There
+Jul 16, 2010	Tower Theatre	Upper Darby, PA	 I Was There
+Jul 09, 2010	Winter Garden Theatre	Toronto, Canada	 I Was There
+Jul 08, 2010	Tower Theatre	Upper Darby, PA	 I Was There
+Jun 25, 2010	Moore Theatre	Seattle, WA	 I Was There
+Jun 19, 2010	State Theatre	Minneapolis, MN	 I Was There
+Jun 17, 2010	Vic Theatre	Chicago, IL	 I Was There
+Jun 16, 2010	Vic Theatre	Chicago, IL	 I Was There
+Jun 10, 2010	Charleston Music Hall	Charleston, SC	 I Was There
+Apr 06, 2010	The Rococo Theatre	Lincoln, NE	 I Was There
+Apr 03, 2010	Gibson Amphitheatre	Universal City, CA	 I Was There
+Jan 23, 2010	Colony Theater	Miami Beach, FL	 I Was There
+Dec 05, 2009	Largo	Los Angeles, CA	 I Was There
+Sep 26, 2009	Sixth & I Historic Synagogue	Washington, DC	 I Was There
+Jun 22, 2009	Punch Line SF	San Francisco, CA	 I Was There
+Jun 07, 2009	Punch Line Comedy Club	Sacramento, CA	 I Was There
+Jun 06, 2009	Punch Line Comedy Club	Sacramento, CA	 I Was There
+Jun 05, 2009	Punch Line Comedy Club	Sacramento, CA	 I Was There
+Jun 04, 2009	Punch Line Comedy Club	Sacramento, CA	 I Was There
+Mar 17, 2009	Emos Austin	Austin, TX	 I Was There
+Jan 28, 2009	North Star	Philadelphia, PA	 I Was There
+Jan 24, 2009	Punch Line SF	San Francisco, CA	 I Was There
+Jan 23, 2009	Punch Line SF	San Francisco, CA	 I Was There
+Jan 22, 2009	Punch Line SF	San Francisco, CA	 I Was There
+Dec 19, 2008	Emos Austin	Austin, TX	 I Was There
+Nov 13, 2008	Triple Door	Seattle, WA	 I Was There
+Sep 26, 2008	Union Hall	Brooklyn, NY	 I Was There
+Jun 01, 2008	Orpheum Teatre	Los Angeles, CA	 I Was There
+May 30, 2008	Orpheum Teatre	Los Angeles, CA	 I Was There
+Mar 13, 2008	Rockwood Music Hall	New York, NY	 I Was There
+Jun 23, 2007	Triple Door	Seattle, WA	 I Was There

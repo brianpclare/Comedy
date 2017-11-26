@@ -1,86 +1,75 @@
 library(tidyverse)
 
+#A function to read in tour history data
+#From bandsintown.com
+
+read_tour <- function(file, comedian){
+  doc <- read_tsv(file, col_names = TRUE) %>% unique() %>% select(-Ignore) %>% 
+    mutate(comedian = comedian) %>%
+    separate(col = Location, into = c("City", "State"), sep = ",")
+  return(doc)
+}
 
 #John Mulaney
-mulaney_tour <- read_tsv("shows//mulaney.txt") %>% unique() %>% select(-Ignore) %>%
-  mutate(comedian = "John Mulaney")
-
+mulaney_tour <- read_tour("shows//mulaney.txt", "John Mulaney")
+                                                                         
 #Louis CK
-ck_tour <- read_tsv("shows//ck.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(Comedian = "Louis CK")
+ck_tour <- read_tour("shows//ck.txt", "Louis CK")
 
 #Jimmy Carr
-carr_tour <- read_tsv("shows//jimmy carr.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(Comedian = "Jimmy Carr")
+carr_tour <- read_tour("shows//jimmy carr.txt", "Jimmy Carr")
 
-#Bill Burr from bandsintown.com
-burr_tour <- read_tsv("shows//bill burr.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Bill Burr")
+#Bill Burr
+burr_tour <- read_tour("shows//bill burr.txt", "Bill Burr")
 
-#Hannibal Burress also from bandsintown.com
-burress_tour <- read_tsv("shows//hannibal burress.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Hannibal Burress")
+#Hannibal Burress
+burress_tour <- read_tour("shows//hannibal burress.txt", "Hannibal Burress")
 
-#Tom Segura from bandsintown.com
-segura_tour <- read_tsv("shows//tom segura.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Tom Segura")
+#Tom Segura
+segura_tour <- read_tsv("shows//tom segura.txt", "Tom Segura")
 
-#Amy Schumer from bandsintown.com
-schumer_tour <- read_tsv("shows//amy schumer.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Amy Schumer")
+#Amy Schumer
+schumer_tour <- read_tsv("shows//amy schumer.txt", "Amy Schumer")
 
 #Patton Oswalt
-oswalt_tour <- read_tsv("shows//patton oswalt.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Patton Oswalt")
+oswalt_tour <- read_tsv("shows//patton oswalt.txt", "Patton Oswalt")
 
 #Demetri Martin
-martin_tour <- read_tsv("shows//demetri martin.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Demetri Martin")
+martin_tour <- read_tsv("shows//demetri martin.txt", "Demetri Martin")
 
 #Ron White
-white_tour <- read_tsv("shows//ron white.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Ron White")
+white_tour <- read_tsv("shows//ron white.txt", "Ron White")
 
 #Jeff Foxworthy
-foxworthy_tour <- read_tsv("shows//jeff foxworthy.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Jeff Foxworthy")
+foxworthy_tour <- read_tsv("shows//jeff foxworthy.txt", "Jeff Foxworthy")
 
 #Dave Chappelle
-chappelle_tour <- read_tsv("shows//dave chappelle.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Dave Chappelle")
+chappelle_tour <- read_tsv("shows//dave chappelle.txt", "Dave Chappelle")
 
 #Chris Rock
-rock_tour <- read_tsv("shows//chris rock.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Chris Rock")
+rock_tour <- read_tsv("shows//chris rock.txt", "Chris Rock")
 
 #Jim Gaffigan
-gaffigan_tour <- read_tsv("shows//gaffigan.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Jim Gaffigan")
+gaffigan_tour <- read_tsv("shows//gaffigan.txt", "Jim Gaffigan")
   
 #Jim Jefferies
-jefferies_tour <- read_tsv("shows//jim jefferies.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Jim Jefferies")
+jefferies_tour <- read_tsv("shows//jim jefferies.txt", "Jim Jefferies")
 
 #Brian Posehn
-posehn_tour <- read_tsv("shows//brian posehn.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Brian Posehn")
+posehn_tour <- read_tsv("shows//brian posehn.txt", "Brian Posehn")
 
 #Daniel Tosh
-tosh_tour <- read_tsv("shows//daniel tosh.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Daniel Tosh")
+tosh_tour <- read_tsv("shows//daniel tosh.txt", "Daniel Tosh")
 
 #Aziz Ansari
-ansari_tour <- read_tsv("shows//aziz ansari.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Aziz Ansari")
+ansari_tour <- read_tsv("shows//aziz ansari.txt", "Aziz Ansari")
 
 #Bo Burnham
-burnham_tour <- read_tsv("shows//bo burnham.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Bo Burnham")
+burnham_tour <- read_tsv("shows//bo burnham.txt", "Bo Burnham")
 
 #Iliza Schlesinger
-iliza_tour <- read_tsv("shows//iliza.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Iliza Schlesinger")
+iliza_tour <- read_tsv("shows//iliza.txt", "Iliza Schlesinger")
 
 #Neal Brennan
-brennan_tour <- read_tsv("shows//neal brennan.txt") %>% select(-Ignore) %>%
-  unique() %>% mutate(comedian = "Neal Brennan")
+brennan_tour <- read_tsv("shows//neal brennan.txt", "Neal Brennan")
+

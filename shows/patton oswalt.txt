@@ -1,0 +1,159 @@
+Date	Venue	Location	Ignore
+Nov 05	Largo at the Coronet	Los Angeles, CA	 I Was There
+Oct 25	O2 Forum	London, United Kingdom	 I Was There
+Oct 08	Largo at the Coronet	Los Angeles, CA	 I Was There
+Sep 15	KAABOO Del Mar	Del Mar, CA	 I Was There
+Jun 10	Orpheum Theater	Madison, WI	 I Was There
+May 31	Orpheum Theater	Madison, WI	 I Was There
+May 30	Irvine Improv	Irvine, CA	 I Was There
+May 23	Irvine Improv	Irvine, CA	 I Was There
+May 22	Irvine Improv	Irvine, CA	 I Was There
+May 21	Largo at the Coronet	Los Angeles, CA	 I Was There
+May 02	Arlene Schnitzer Concert Hall	Portland, OR	 I Was There
+Apr 30	Largo at the Coronet	Los Angeles, CA	 I Was There
+Apr 23	Largo at the Coronet	Los Angeles, CA	 I Was There
+Apr 19	Ryman Auditorium	Nashville, TN	 I Was There
+Apr 18	Irvine Improv	Irvine, CA	 I Was There
+Apr 17	Irvine Improv	Irvine, CA	 I Was There
+Mar 25	The Masonic	San Francisco, CA	 I Was There
+Mar 24	Paramount Theatre	Seattle, WA	 I Was There
+Mar 19	Largo at the Coronet	Los Angeles, CA	 I Was There
+Mar 14	Oxnard Levity Live	Oxnard, CA	 I Was There	
+Mar 13	Oxnard Levity Live	Oxnard, CA	 I Was There
+Mar 03	Warner Theatre	Washington, DC	 I Was There
+Feb 24	Palace Theatre Columbus	Columbus, OH	 I Was There
+Feb 21	Irvine Improv	Irvine, CA	 I Was There
+Feb 20	Irvine Improv	Irvine, CA	 I Was There
+Feb 12	Largo at the Coronet	Los Angeles, CA	 I Was There
+Jan 15	Largo at the Coronet	Los Angeles, CA	 I Was There
+Jan 08	Largo at the Coronet	Los Angeles, CA	 I Was There
+Dec 20, 2016	Irvine Improv	Irvine, CA	 I Was There
+Dec 19, 2016	Irvine Improv	Irvine, CA	 I Was There
+Dec 18, 2016	Largo at the Coronet	Los Angeles, CA	 I Was There
+Dec 03, 2016	Duke Energy Center for the Performing Arts	Raleigh, NC	 I Was There
+Nov 15, 2016	Irvine Improv	Irvine, CA	 I Was There
+Nov 13, 2016	Largo at the Coronet	Los Angeles, CA	 I Was There
+Nov 11, 2016	Mystic Lake Casino Hotel	Prior Lake, MN	 I Was There
+Nov 04, 2016	College Street Music Hall.	New Haven, CT	 I Was There
+Nov 03, 2016	Beacon Theatre	New York, NY	 I Was There
+Oct 29, 2016	Shrine Expo Hall & Grounds	Los Angeles, CA	 I Was There
+May 24, 2016	Largo at the Coronet	Los Angeles, CA	 I Was There
+Apr 30, 2016	Largo at the Coronet	Los Angeles, CA	 I Was There	
+Apr 29, 2016	Kaufmann Concert Hall at 92nd Street Y	New York, NY	 I Was There
+Mar 27, 2016	Largo at the Coronet	Los Angeles, CA	 I Was There
+Mar 20, 2016	Largo at the Coronet	Los Angeles, CA	 I Was There
+Feb 18, 2016	Largo at the Coronet	Los Angeles, CA	 I Was There
+Feb 16, 2016	The GRAMMY Museum	Los Angeles, CA	 I Was There
+Jan 31, 2016	The Regent Theater DTLA	Los Angeles, CA	 I Was There
+Jan 30, 2016	The Riverside Theater	Milwaukee, WI	 I Was There
+Jan 23, 2016	Mahalia Jackson Theer	New Orleans, LA	 I Was There
+Oct 24, 2015	Largo at the Coronet	Los Angeles, CA	 I Was There
+Oct 18, 2015	The Fillmore	San Francisco, CA	 I Was There
+Sep 26, 2015	Largo at the Coronet	Los Angeles, CA	 I Was There
+Sep 20, 2015	Largo at the Coronet	Los Angeles, CA	 I Was There
+Sep 13, 2015	Mahalia Jackson Theater for the Performing Arts	New Orleans, LA	 I Was There
+Aug 15, 2015	Largo at the Coronet	Los Angeles, CA	 I Was There
+Jul 18, 2015	Largo at the Coronet	Los Angeles, CA	 I Was There
+Feb 23, 2015	Largo at the Coronet	Los Angeles, CA	 I Was There
+Jan 14, 2015	The Orpheum	Madison, WI	 I Was There
+Jan 11, 2015	Sixth & I Historic Synagogue	Washington, DC	 I Was There
+Dec 20, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Nov 15, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Oct 25, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Oct 18, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Sep 13, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+May 17, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Apr 19, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Mar 15, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Feb 15, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Jan 11, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Jan 04, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Dec 09, 2013	Largo at the Coronet	Los Angeles, CA	 I Was There
+Dec 01, 2013	Largo at the Coronet	Los Angeles, CA	 I Was There
+Jul 09, 2013	The Satellite	Los Angeles, CA	 I Was There
+Dec 04, 2012	The Ricardo Montalbán Theatre	Hollywood, CA	 I Was There
+May 14, 2011	Moore Theatre	Seattle, WA	 I Was There
+Apr 29, 2011	Rialto Theatre	Tucson, AZ	 I Was There
+Apr 28, 2011	Mesa Arts Center	Mesa, AZ	 I Was There
+Mar 25, 2011	Fitzgerald Theater	St Paul, MN	 I Was There
+Mar 11, 2011	Galaxy Theatre-CA	Santa Ana, CA	 I Was There
+Jan 22, 2011	Wilbur Theatre	Boston, MA	 I Was There
+Jan 21, 2011	Hard Rock Live Orlando	Orlando, FL	 I Was There	
+Jan 15, 2011	Paramount Theatre-Austin	Austin, TX	 I Was There
+Jan 13, 2011	Hoyt Sherman Theater	Des Moines, IA	 I Was There
+Jan 12, 2011	Fargo Theatre	Fargo, ND	 I Was There
+Jan 04, 2011	Herbst Theatre	San Francisco, CA	 I Was There
+Oct 02, 2010	Paramount Theatre-Austin	Austin, TX	 I Was There
+Oct 01, 2010	Hard Rock Live	Orlando, FL	 I Was There
+Sep 18, 2010	Pantages Theatre-MN	Minneapolis, MN	 I Was There
+Aug 29, 2010	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Aug 28, 2010	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Aug 27, 2010	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Aug 26, 2010	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Aug 21, 2010	The Tabernacle	Atlanta, GA	 I Was There
+Aug 14, 2010	Warner Theatre	Washington, DC	 I Was There
+Aug 07, 2010	Bijou Theatre	Knoxville, TN	 I Was There
+Aug 06, 2010	The Orange Peel	Asheville, NC	 I Was There
+Jul 23, 2010	House of Blues San Diego	San Diego, CA	 I Was There
+Jul 10, 2010	MAJESTIC THEATRE MADISON	Madison, WI	 I Was There
+Jul 09, 2010	House of Blues Cleveland	Cleveland, OH	 I Was There
+Feb 02, 2010	The Wiltern	Los Angeles, CA	 I Was There
+Nov 07, 2009	Town Hall-NY	New York, NY	 I Was There	
+Oct 10, 2009	Keswick Theatre	Glenside, PA	 I Was There
+Oct 03, 2009	Boulder Theater	Boulder, CO	 I Was There
+Oct 02, 2009	Congress Theater	Chicago, IL	 I Was There
+Sep 19, 2009	Nob Hill Masonic Auditorium	San Francisco, CA	 I Was There
+Sep 18, 2009	Moore Theatre	Seattle, WA	 I Was There
+Sep 13, 2009	Newark Theatre	Portland, OR	 I Was There
+Sep 12, 2009	State Theatre	Minneapolis, MN	 I Was There
+Feb 28, 2009	Lisner Auditorium	Washington, DC	 I Was There
+Feb 22, 2009	Carolines on Broadway	New York, NY	 I Was There
+Feb 21, 2009	Carolines on Broadway	New York, NY	 I Was There
+Feb 20, 2009	Carolines on Broadway	New York, NY	 I Was There
+Feb 19, 2009	Carolines on Broadway	New York, NY	 I Was There
+Feb 14, 2009	Tempe Improv	Tempe, AZ	 I Was There
+Feb 13, 2009	Tempe Improv	Tempe, AZ	 I Was There
+Feb 07, 2009	The Earl	Atlanta, GA	 I Was There
+Feb 06, 2009	40 Watt Club	Athens, GA	 I Was There
+Jan 31, 2009	Largo	Los Angeles, CA	 I Was There
+Jan 27, 2009	Upright Citizens Brigade Theatre	Los Angeles, CA	 I Was There
+Dec 31, 2008	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Dec 30, 2008	Cobb's Comedy Club	San Francisco, CA	 I Was There	
+Dec 29, 2008	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Dec 28, 2008	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Dec 27, 2008	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Dec 26, 2008	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Dec 07, 2008	Bimbos 365 Club	San Francisco, CA	 I Was There
+Dec 06, 2008	Wiltern Theatre	Los Angeles, CA	 I Was There
+Dec 05, 2008	Belly Up Tavern	Solana Beach, CA	 I Was There
+Sep 29, 2008	Largo at the Coronet Theatre	Los Angeles, CA	 I Was There
+Sep 19, 2008	Kutshers Country Club & Resort	Monticello, MN	 I Was There
+Sep 19, 2008	Kutsher's Country Club	Monticello, NY	 I Was There
+Sep 06, 2008	The Moore Theater-with KEANE	Seattle, WA	 I Was There
+Jul 11, 2008	The Moore Theater-with KEANE	Seattle, WA	 I Was There
+Apr 20, 2008	Hollywood Improv	Los Angeles, CA	 I Was There
+Apr 19, 2008	Troubadour	West Hollywood, CA	 I Was There
+Dec 31, 2007	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Dec 30, 2007	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Dec 29, 2007	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Dec 28, 2007	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Dec 27, 2007	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Dec 05, 2007	el rey	Hollywood, CA	 I Was There	
+Nov 30, 2007	Independent	San Francisco, CA	 I Was There
+Nov 06, 2007	Buskirk-Chumley Theater	Bloomington, IN	 I Was There
+Nov 05, 2007	Headliners Music Hall	Louisville, KY	 I Was There
+Nov 04, 2007	Grog Shop	Cleveland, OH	 I Was There
+Nov 03, 2007	University at Buffalo Alumni Arena	Amherst, NY	 I Was There
+Nov 02, 2007	Blind Pig	Ann Arbor, MI	 I Was There
+Nov 01, 2007	Vic Theatre	Chicago, IL	 I Was There
+Oct 30, 2007	Mr.Smalls	Millvale, PA	 I Was There
+Oct 28, 2007	The Fillmor	Philadelphia, PA	 I Was There
+Oct 27, 2007	The Fillmore New York at Irving Plaza	New York, NY	 I Was There
+Oct 26, 2007	Dickinson College	Carlisle, PA	 I Was There
+Oct 25, 2007	Roxy Nightclub	Boston, MA	 I Was There
+Oct 11, 2007	House of Blues	Las Vegas, NV	 I Was There
+Oct 10, 2007	House of Blues	San Diego, CA	 I Was There
+Oct 05, 2007	Roseland Theater	Portland, OR	 I Was There
+Oct 03, 2007	Showbox at the Market	Seattle, WA	 I Was There
+Jul 09, 2007	Chop Suey	Seattle, WA	 I Was There
+Jun 19, 2007	Lakeshore Theater	Chicago, IL	 I Was There

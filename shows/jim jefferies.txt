@@ -1,0 +1,195 @@
+Date	Venue	Location	Ignore
+Nov 11	Sony Centre for the Performing Arts	Toronto, Canada	 I Was There
+Nov 10	Sony Centre for the Performing Arts	Toronto, Canada	 I Was There
+Oct 28	Westhampton Beach PAC	Westhampton Beach, NY	 I Was There
+Oct 27	Mohegan Sun Arena	Uncasville, CT	 I Was There
+Oct 14	DPAC	Durham, NC	 I Was There
+Oct 13	Hippodrome at France-Merrick Performing Arts Center	Baltimore, MD	 I Was There
+Sep 30	Music Box at the Borgata	Atlantic City, NJ	 I Was There
+Sep 24	The Second City	Toronto, Canada	 I Was There
+Sep 16	Fred Kavli Theatre-Thousand Oaks Civic Arts Plaza	Thousand Oaks, CA	 I Was There
+Sep 09	Silver Legacy Casino	Reno, NV	 I Was There
+Sep 08	Viejas Concerts in the Park	Alpine, CA	 I Was There
+Aug 26	Terrace Theater	Long Beach, CA	 I Was There
+Aug 19	Hawaii Theater	Honolulu, HI	 I Was There
+Aug 12	Ryman Auditorium	Nashville, TN	 I Was There
+Aug 11	Peabody Opera House	St Louis, MO	 I Was There
+Aug 04	Peabody Opera House	St Louis, MO	 I Was There
+Aug 01	Hollywood Improv	Hollywood, CA	 I Was There
+Jul 16	Mountain Winery	Saratoga, CA	 I Was There
+Jul 15	Ruth Finley Person Theater	Santa Rosa, CA	 I Was There
+Jul 01	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Jun 30	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Jun 17	Hard Rock Live Orlando	Orlando, FL	 I Was There
+Jun 16	David A. Straz Center	Tampa, FL	 I Was There
+May 13	National Arts Centre / Centre national des Arts	Ottawa, Canada	 I Was There
+May 12	Keswick Theatre	Glenside, PA	 I Was There
+Apr 01	Hard Rock Live	Hollywood, FL	 I Was There
+Mar 31	Cullen Performance Hall	Houston, TX	 I Was There
+Mar 30	Tobin Center for the Performing Arts	San Antonio, TX	 I Was There
+Mar 11	Cobb Energy Performing Arts Centre	Atlanta, GA	 I Was There
+Mar 10	DAR Constitution Hall	Washington, DC	 I Was There
+Mar 05	Southern Alberta Jubilee Auditorium	Calgary, Canada	 I Was There
+Mar 04	Southern Alberta Jubilee Auditorium	Calgary, Canada	 I Was There
+Mar 03	Orpheum Theatre	Vancouver, Canada	 I Was There
+Mar 02	Orpheum Theatre	Vancouver, Canada	 I Was There
+Mar 01	Orpheum Theatre	Vancouver, Canada	 I Was There
+Feb 26	Pantages Playhouse Theatre	Winnipeg, Canada	 I Was There
+Feb 25	Pantages Playhouse Theatre	Winnipeg, Canada	 I Was There
+Feb 24	Orpheum Theatre	Minneapolis, MN	 I Was There
+Feb 04	Beacon Theatre	New York, NY	 I Was There
+Feb 03	Connor Palace	Cleveland, OH	 I Was There
+Feb 02	University At Buffalo Center for the Arts	Buffalo, NY	 I Was There
+Jan 28	Riverside Theatre	Milwaukee, WI	 I Was There
+Jan 27	The Chicago Theatre	Chicago, IL	 I Was There
+Jan 26	Eygptian Room at Old National Centre	Indianapolis, IN	 I Was There
+Dec 31, 2016	The Wilbur	Boston, MA	 I Was There
+Dec 30, 2016	The Wilbur	Boston, MA	 I Was There
+Dec 29, 2016	The Wilbur	Boston, MA	 I Was There
+Dec 13, 2016	The Roxy	Los Angeles, CA	 I Was There
+Dec 10, 2016	The Joy Theater	New Orleans, LA	 I Was There
+Dec 09, 2016	Majestic Theatre Dallas	Dallas, TX	 I Was There
+Dec 08, 2016	Paramount Theatre-Austin	Austin, TX	 I Was There
+Dec 03, 2016	Carnegie Library Music Hall of Homestead	Homestead, PA	 I Was There
+Dec 02, 2016	Speaker Jo Ann Davidson Theatre	Columbus, OH	 I Was There
+Nov 26, 2016	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Nov 25, 2016	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Nov 12, 2016	Warfield	San Francisco, CA	 I Was There
+Nov 11, 2016	Keller Auditorium	Portland, OR	 I Was There
+Nov 10, 2016	Paramount Theatre	Seattle, WA	 I Was There
+Oct 14, 2016	Buell Theatre	Denver, CO	 I Was There
+Oct 02, 2016	Ak-Chin Pavilion	Phoenix, AZ	 I Was There
+Oct 01, 2016	Humphreys Concerts By the Bay	San Diego, CA	 I Was There
+Sep 24, 2016	Royal Theatre	Toronto, Canada	 I Was There
+Sep 23, 2016	Cathedral Theatre at the Masonic Temple Detroit	Detroit, MI	 I Was There
+Sep 16, 2016	Ace Hotel Los Angeles	Los Angeles, CA	 I Was There
+Sep 10, 2016	Borgata Casino Music Box	Atlantic City, NJ	 I Was There
+Sep 09, 2016	The Grand Theater at Foxwoods Resort Casino	Mashantucket, CT	 I Was There
+Sep 08, 2016	PNC Bank Art Center	Holmdel, NJ	 I Was There
+Aug 28, 2016	Klipsch Music Center	Noblesville, IN	 I Was There
+Aug 27, 2016	Martin Woldson Theater at The Fox	Spokane, WA	 I Was There
+Aug 26, 2016	Morrison Center for the Performing Arts	Boise, ID	 I Was There
+Aug 25, 2016	Perfect Vodka Amphitheatre	West Palm Beach, FL	 I Was There
+Aug 20, 2016	Northern Alberta Jubilee Auditorium	Edmonton, Canada	 I Was There
+Aug 07, 2016	Hoyt Sherman Place	Des Moines, IA	 I Was There
+Aug 06, 2016	Holland Performing Arts Center	Omaha, NE	 I Was There
+Aug 05, 2016	Arvest Bank Theatre at The Midland	Kansas City, MO	 I Was There
+Jul 30, 2016	Bakersfield Fox Theater	Bakersfield, CA	 I Was There
+Jul 29, 2016	William Saroyan Theatre Fresno Convention & Entertainment Center	Fresno, CA	 I Was There
+Jul 28, 2016	City National Civic	San Jose, CA	 I Was There
+Jul 16, 2016	O2 Apollo Manchester	Manchester, United Kingdom	 I Was There
+Jul 09, 2016	O2 Academy Newcastle	Newcastle Upon Tyne, United Kingdom	 I Was There
+Jul 08, 2016	O2 Academy Glasgow	Glasgow, United Kingdom	 I Was There
+Jul 06, 2016	O2 Academy Birmingham	Birmingham, United Kingdom	 I Was There
+May 22, 2016	College Street Music Hall	New Haven, CT	 I Was There
+Apr 26, 2016	Enmore Theatre	Sydney, Australia	 I Was There
+Apr 25, 2016	Enmore Theatre	Newtown, Australia	 I Was There
+Apr 24, 2016	Enmore Theatre	Newtown, Australia	 I Was There
+Apr 23, 2016	Enmore Theatre	Newtown, Australia	 I Was There
+Apr 22, 2016	Enmore Theatre	Newtown, Australia	 I Was There
+Apr 21, 2016	Enmore Laneway, Enmore Theatre	Newtown, Australia	 I Was There
+Apr 18, 2016	Enmore Theatre	Sydney, Australia	 I Was There
+Apr 17, 2016	Enmore Theatre	Sydney, Australia	 I Was There
+Feb 22, 2016	The Lyric Theatre	Los Angeles, CA	 I Was There
+Feb 11, 2016	The Pageant	Saint Louis, MO	 I Was There
+Feb 10, 2016	The Pageant	Saint Louis, MO	 I Was There
+Jan 31, 2016	Plaza LIVE Orlando	Orlando, FL	 I Was There
+Dec 05, 2015	Wilbur Theatre	Boston, MA	 I Was There
+Nov 20, 2015	McDonald Theatre	Eugene, OR	 I Was There
+Nov 14, 2015	Vic Theatre	Chicago, IL	 I Was There
+Nov 13, 2015	Vic Theatre	Chicago, IL	 I Was There
+Nov 07, 2015	The Lincoln Theatre	Washington, DC	 I Was There
+Oct 25, 2015	Vogue Theatre	Vancouver, Canada	 I Was There
+Oct 24, 2015	Vogue Theatre	Vancouver, Canada	 I Was There
+Oct 03, 2015	The Joint at the Hard Rock Hotel	Las Vegas, NV	 I Was There
+Oct 01, 2015	Crest Theatre	Sacramento, CA	 I Was There
+Sep 10, 2015	Carnegie Music Hall of Oakland	Pittsburgh, PA	 I Was There
+Sep 05, 2015	The Buckhead Theatre	Atlanta, GA	 I Was There
+Aug 21, 2015	Georgian Theatre	Barrie, Canada	 I Was There
+Aug 10, 2015	Largo at the Coronet	Los Angeles, CA	 I Was There
+Jul 31, 2015	The Globe Silverstar Casino	Mogale City, South Africa	 I Was There
+Jul 28, 2015	Grand Arena, Grand West	Cape Town, South Africa	 I Was There
+Jun 29, 2015	The Space at Westbury	Westbury, NY	 I Was There
+Jun 23, 2015	Hyde Park	London, United Kingdom	 I Was There
+May 28, 2015	Revolution Hall	Portland, OR	 I Was There
+May 08, 2015	Mile One Centre	St John's, Canada	 I Was There
+Mar 10, 2015	Largo at the Coronet	Los Angeles, CA	 I Was There
+Mar 06, 2015	Shoctor Theatre	Edmonton, Canada	 I Was There
+Dec 11, 2014	The Capitol Theatre	Port Chester, NY	 I Was There
+Dec 09, 2014	The Lyric Theatre	Los Angeles, CA	 I Was There
+Oct 20, 2014	The Lyric Theatre	Los Angeles, CA	 I Was There
+Sep 12, 2014	Shoreline Amiptheatre	Mountain View, CA	 I Was There
+Aug 31, 2014	First Midwest Bank Ampitheatre	Chicago, IL	 I Was There
+Aug 30, 2014	First Niagara Pavillion	Burgettstown, PA	 I Was There
+Aug 29, 2014	DTE Energy Music Theatre	Clarkston, MI	 I Was There
+Aug 02, 2014	O2 Apollo Manchester	Manchester, United Kingdom	 I Was There
+Aug 01, 2014	O2 Academy Brixton	London, United Kingdom	 I Was There
+Jul 11, 2014	The Lincoln Theatre	Washington, DC	 I Was There
+Jun 21, 2014	Vic Theatre	Chicago, IL	 I Was There
+Jun 20, 2014	Vic Theatre	Chicago, IL	 I Was There
+Feb 22, 2014	Carnegie Music Hall	Pittsburgh, PA	 I Was There
+Feb 15, 2014	Plaza 'LIVE'	Orlando, FL	 I Was There
+Sep 21, 2013	Mandalay Bay Events Center	Las Vegas, NV	 I Was There
+Feb 02, 2013	Trocadero Theatre	Philadelphia, PA	 I Was There
+Sep 13, 2012	O2 Academy Bournemouth	Bournemouth, United Kingdom	 I Was There
+Sep 08, 2012	Mountford Hall, Liverpool Guild of Students	Liverpool, United Kingdom	 I Was There
+Jun 03, 2012	Plaza 'LIVE'	Orlando, FL	 I Was There
+Nov 16, 2011	Belly Up	Solana Beach, CA	 I Was There
+Oct 14, 2011	Varsity Theater	Minneapolis, MN	 I Was There
+Sep 17, 2011	Trocadero Theatre	Philadelphia, PA	 I Was There
+Sep 16, 2011	Wilbur Theatre	Boston, MA	 I Was There
+Mar 26, 2011	Comedy Works	Denver, CO	 I Was There
+Mar 25, 2011	Comedy Works	Denver, CO	 I Was There
+Mar 24, 2011	Comedy Works	Denver, CO	 I Was There
+Feb 11, 2011	Starland Ballroom	Sayreville, NJ	 I Was There
+Jan 28, 2011	Pipeline Cafe	Honolulu, HI	 I Was There
+Jan 23, 2011	Knitting Factory Concert House	Spokane, WA	 I Was There
+Dec 30, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Dec 29, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Dec 28, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Dec 27, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Dec 26, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Dec 25, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Dec 24, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Dec 23, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Dec 22, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Dec 21, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Dec 20, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Dec 19, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Dec 18, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Dec 17, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Dec 16, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Dec 12, 2010	Norwich Playhouse	Norwich, United Kingdom	 I Was There
+Sep 24, 2010	Pipeline Cafe	Honolulu, HI	 I Was There
+Sep 03, 2010	Club Nokia	Los Angeles, CA	 I Was There
+Sep 01, 2010	Belly Up	Solana Beach, CA	 I Was There
+Jul 24, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Jul 23, 2010	Leceister Square Theatre	London, United Kingdom	 I Was There
+Jun 27, 2010	Punch Line Comedy Club	Sacramento, CA	 I Was There
+Jun 26, 2010	Punch Line Comedy Club	Sacramento, CA	 I Was There
+Jun 25, 2010	Punch Line Comedy Club	Sacramento, CA	 I Was There
+Jun 24, 2010	Punch Line Comedy Club	Sacramento, CA	 I Was There
+Jun 19, 2010	Wilbur Theatre	Boston, MA	 I Was There
+Feb 20, 2010	Punch Line Comedy Club	San Francisco, CA	 I Was There
+Feb 19, 2010	Punch Line Comedy Club	San Francisco, CA	 I Was There
+Feb 18, 2010	Punch Line Comedy Club	San Francisco, CA	 I Was There
+Feb 17, 2010	Punch Line Comedy Club	San Francisco, CA	 I Was There
+Jan 29, 2010	Showbox at the Market	Seattle, WA	 I Was There
+Dec 11, 2009	M Club	Crewe, United Kingdom	 I Was There
+Dec 10, 2009	M Club	Crewe, United Kingdom	 I Was There
+Oct 16, 2009	Lakeshore Theater	Chicago, IL	 I Was There
+Oct 10, 2009	Fine Line Music Cafe	Minneapolis, MN	 I Was There
+Oct 09, 2009	Music Mill	Indianapolis, IN	 I Was There
+Oct 02, 2009	MAJESTIC THEATRE MADISON	Madison, WI	 I Was There
+Sep 19, 2009	Trocadero	Philadelphia, PA	 I Was There
+Sep 06, 2009	The Improv	Brea, CA	 I Was There
+Sep 05, 2009	The Improv	Brea, CA	 I Was There
+Sep 04, 2009	The Improv	Brea, CA	 I Was There
+Sep 03, 2009	The Improv	Brea, CA	 I Was There
+Aug 01, 2009	Battery Park 11	New York, NY	 I Was There
+Feb 28, 2009	Punch Line SF	San Francisco, CA	 I Was There
+Feb 27, 2009	Punch Line SF	San Francisco, CA	 I Was There
+Feb 26, 2009	Punch Line SF	San Francisco, CA	 I Was There
+Feb 25, 2009	Punch Line SF	San Francisco, CA	 I Was There
+Nov 20, 2008	Jammin Java	Vienna, VA	 I Was There
+Jul 06, 2008	O2 Shepherds Bush Empire	London, United Kingdom	 I Was There

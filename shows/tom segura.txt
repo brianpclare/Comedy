@@ -1,0 +1,121 @@
+Date	Venue	Location	Ignore
+Nov 22	Fox Performing Arts Center	Riverside, CA	 I Was There
+Nov 11	UB Center for the Arts	Buffalo, NY	 I Was There
+Nov 10	Town Hall	New York, NY	 I Was There
+Nov 09	Capitol Theatre-NY	Port Chester, NY	 I Was There
+Nov 04	Paramount Theatre for the Performing Arts	Austin, TX	 I Was There
+Nov 03	Aztec Theatre	San Antonio, TX	 I Was There
+Nov 02	The Historic El Rey Theater	Albuquerque, NM	 I Was There
+Oct 28	Fargo Theatre	Fargo, ND	 I Was There
+Oct 27	The Pageant	St Louis, MO	 I Was There
+Oct 14	Hard Rock Rocksino Northfield Park Hard Rock Live	Northfield, OH	 I Was There
+Oct 13	Egyptian Room at Old National Centre	Indianapolis, IN	 I Was There
+Oct 12	Michigan Theater	Ann Arbor, MI	 I Was There
+Sep 30	Queen Elizabeth Theatre	Toronto, Canada	 I Was There
+Sep 29	State Theatre	Portland, ME	 I Was There
+Sep 28	The Santander Performing Arts Center	Reading, PA	 I Was There
+Sep 27	Funny Bone Comedy Club	Albany, NY	 I Was There
+Sep 16	Paramount Theatre-Colorado	Denver, CO	 I Was There
+Sep 14	Fox Theater	Oakland, CA	 I Was There
+Sep 13	Brea Improv	Brea, CA	 I Was There
+Sep 09	Gillioz Theatre	Springfield, MO	 I Was There	
+Sep 08	Hudiburg Chevrolet Center	Oklahoma City, OK	 I Was There
+Sep 07	Rococo Theatre	Lincoln, NE	 I Was There
+Aug 12	Punch Line Comedy Club	Sacramento, CA	 I Was There
+Aug 11	Punch Line Comedy Club	Sacramento, CA	 I Was There
+Aug 09	The Tivoli	Brisbane, Australia	 I Was There
+Jul 29	Modell Performing Arts Center at The Lyric	Baltimore, MD	 I Was There
+Jul 27	Hampton Beach Casino Ballroom	Hampton Beach, NH	 I Was There
+Jul 26	Metropolis	Montréal, Canada	 I Was There
+Jul 15	Gaillard Auditorium	Charleston, SC	 I Was There
+Jul 14	Orange Peel	Asheville, NC	 I Was There
+Jul 13	Cone Denim Entertainment Center	Greensboro, NC	 I Was There
+Jun 11	Pechanga Resort and Casino	Temecula, CA	 I Was There
+Jun 10	Grand Sierra Resort and Casino	Reno, NV	 I Was There
+Jun 09	Rialto Theatre-Tucson	Tucson, AZ	 I Was There
+May 20	Hollywood Improv	Hollywood, CA	 I Was There
+May 13	Revolution Hall	Portland, OR	 I Was There
+May 12	McDonald Theatre	Eugene, OR	 I Was There
+Apr 20	House of Blues Dallas	Dallas, TX	 I Was There
+Apr 15	Revolution Hall	Portland, OR	 I Was There
+Apr 14	Moore Theatre	Seattle, WA	 I Was There	
+Apr 13	San Jose Improv	San Jose, CA	 I Was There
+Apr 08	Higher Ground	Burlington, VT	 I Was There
+Apr 06	Carnegie Library Music Hall of Homestead	Homestead, PA	 I Was There
+Apr 05	Hollywood Improv	Hollywood, CA	 I Was There
+Mar 26	Improv Comedy Club	Washington, DC	 I Was There
+Mar 19	Vic Theater	Chicago, IL	 I Was There
+Mar 18	Vic Theater	Chicago, IL	 I Was There
+Mar 17	Royal Oak Music Theatre	Royal Oak, MI	 I Was There
+Mar 16	Meyer Theatre	Green Bay, WI	 I Was There
+Mar 12	The Wilbur	Boston, MA	 I Was There
+Mar 11	The Wilbur	Boston, MA	 I Was There
+Mar 10	The Fox Theater at Foxwoods Resort Casino	Mashantucket, CT	 I Was There
+Mar 09	Sands Bethlehem Event Center	Bethlehem, PA	 I Was There
+Feb 25	Vogue Theatre	Vancouver, Canada	 I Was There
+Feb 24	MacEwan Hall	Calgary, Canada	 I Was There
+Feb 23	Myer Horowitz Theatre	Edmonton, Canada	 I Was There
+Feb 18	Borgata Casino Music Box	Atlantic City, NJ	 I Was There
+Feb 17	The Wellmont Theater	Montclair, NJ	 I Was There
+Feb 16	The Paramount	Huntington, NY	 I Was There
+Feb 12	Irvine Improv	Irvine, CA	 I Was There	
+Feb 09	House of Blues Las Vegas	Las Vegas, NV	 I Was There
+Jan 26	Pabst Theater	Milwaukee, WI	 I Was There
+Jan 21	Center Stage Theater	Atlanta, GA	 I Was There
+Jan 20	The Civic Theatre	New Orleans, LA	 I Was There
+Jan 15	Oxnard Levity Live	Oxnard, CA	 I Was There
+Jan 14	Oxnard Levity Live	Oxnard, CA	 I Was There
+Jan 13	Oxnard Levity Live	Oxnard, CA	 I Was There
+Jan 12	Oxnard Levity Live	Oxnard, CA	 I Was There
+Dec 08, 2016	Hollywood Improv	Hollywood, CA	 I Was There
+Nov 19, 2016	Trocadero	Philadelphia, PA	 I Was There
+Nov 18, 2016	Trocadero	Philadelphia, PA	 I Was There
+Oct 29, 2016	Carolines on Broadway	New York, NY	 I Was There
+Oct 28, 2016	Carolines on Broadway	New York, NY	 I Was There
+Oct 27, 2016	Carolines on Broadway	New York, NY	 I Was There
+Oct 22, 2016	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Oct 21, 2016	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Oct 20, 2016	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Oct 02, 2016	Ak-Chin Pavilion	Phoenix, AZ	 I Was There
+Oct 01, 2016	Irvine Meadows Amphitheatre	Irvine, CA	 I Was There
+Sep 30, 2016	Shoreline Amphitheatre	Mountain View, CA	 I Was There
+Sep 24, 2016	Austin360 Amphitheater	Del Valle, TX	 I Was There
+Sep 23, 2016	Gexa Energy Pavilion	Dallas, TX	 I Was There
+Sep 22, 2016	Cynthia Woods Mitchell Pavilion	The Woodlands, TX	 I Was There
+Sep 20, 2016	Red Rocks Ampihtheatre	Morrison, CO	 I Was There
+Sep 18, 2016	White River Amphitheatre	Seattle, WA	 I Was There
+Sep 17, 2016	Sunlight Supply Amphitheater	Ridgefield, WA	 I Was There
+Sep 11, 2016	BB&T Pavilion	Camden, NJ	 I Was There
+Sep 10, 2016	Northwell Health @ Jones Beach Theater	Wantagh, NY	 I Was There
+Sep 09, 2016	Xfinity Center	Mansfield, MA	 I Was There
+Sep 08, 2016	PNC Bank Art Center	Holmdel, NJ	 I Was There
+Sep 05, 2016	Xfinity Theatre	Hartford, CT	 I Was There
+Sep 04, 2016	Budweiser Stage	Toronto, Canada	 I Was There
+Sep 03, 2016	DTE Energy Music Theatre	Village Of Clarkston, MI	 I Was There
+Sep 02, 2016	Hollywood Casino Amphitheatre	Tinley Park, IL	 I Was There
+Aug 28, 2016	Klipsch Music Center	Noblesville, IN	 I Was There
+Aug 27, 2016	Oxnard Levity Live	Oxnard, CA	 I Was There
+Aug 26, 2016	Oxnard Levity Live	Oxnard, CA	 I Was There
+Aug 25, 2016	Oxnard Levity Live	Oxnard, CA	 I Was There
+Mar 19, 2016	Punch Line Comedy Club	Sacramento, CA	 I Was There
+Mar 18, 2016	Punch Line Comedy Club	Sacramento, CA	 I Was There	
+Mar 17, 2016	Punch Line Comedy Club	Sacramento, CA	 I Was There
+Jan 09, 2016	The Echo	Los Angeles, CA	 I Was There
+Oct 18, 2015	Granada Theater	Dallas, TX	 I Was There
+Oct 17, 2015	The Ballroom at Warehouse Live	Houston, TX	 I Was There
+Sep 19, 2015	The Ready Room	St Louis, MO	 I Was There
+Aug 08, 2015	Biltmore Cabaret	Vancouver, Canada	 I Was There
+Aug 06, 2015	Wow Hall	Eugene, OR	 I Was There
+Jul 17, 2015	The Bell House	Brooklyn, NY	 I Was There
+Jul 10, 2015	The Bell House	New York, NY	 I Was There
+Jun 27, 2015	Park West	Chicago, IL	 I Was There
+May 10, 2015	New Mountain Avl	Asheville, NC	 I Was There
+Apr 07, 2015	Largo at the Coronet	Los Angeles, CA	 I Was There
+Nov 15, 2014	The Ballroom at Warehouse Live	Houston, TX	 I Was There
+Nov 06, 2014	Highline	Seattle, WA	 I Was There
+Aug 12, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+May 09, 2014	Highline	Seattle, WA	 I Was There
+Mar 13, 2014	The Bell House	Brooklyn, NY	 I Was There
+Nov 20, 2013	Largo at the Coronet	Los Angeles, CA	 I Was There
+Dec 14, 2010	IMPROV Comedy Club	San Jose, CA	 I Was There
+Nov 21, 2008	The Colosseum at Ceasars Palace	Las Vegas, NV	 I Was There

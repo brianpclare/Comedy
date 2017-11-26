@@ -1,0 +1,129 @@
+Date	Venue	Location	Ignore
+Jun 08	Webster Hall	New York, NY	 I Was There
+Mar 04	Royal Farms Arena	Baltimore, MD	 I Was There
+Mar 03	The Grand Theater at Foxwoods Resort Casino	Mashantucket, CT	 I Was There
+Feb 18	Canadian Tire Centre	Ottawa, Canada	 I Was There
+Feb 17	Centre Bell Centre	Montreal, Canada	 I Was There
+Feb 16	Air Canada Centre	Toronto, Canada	 I Was There
+Dec 31, 2016	Smoothie King Center	New Orleans, LA	 I Was There
+Dec 03, 2016	Valley View Casino Center	San Diego, CA	 I Was There
+Dec 02, 2016	Rogers Arena	Vancouver, Canada	 I Was There
+Dec 01, 2016	Moda Center	Portland, OR	 I Was There
+Nov 30, 2016	Rogers Place	Edmonton, Canada	 I Was There
+Nov 29, 2016	Scotiabank Saddledome	Calgary, Canada	 I Was There
+Nov 26, 2016	UIC Pavilion	Chicago, IL	 I Was There
+Nov 25, 2016	Allstate Arena	Chicago, IL	 I Was There
+Nov 20, 2016	Toyota Center	Houston, TX	 I Was There
+Nov 19, 2016	Choctaw Grand Theater	Durant, OK	 I Was There
+Nov 18, 2016	Erwin Center	Austin, TX	 I Was There
+Nov 12, 2016	Royal Farms Arena	Baltimore, MD	 I Was There
+Nov 11, 2016	Centre Bell Centre	Montreal, Canada	 I Was There
+Nov 10, 2016	Canadian Tire Centre	Ottawa, Canada	 I Was There	
+Nov 09, 2016	Air Canada Centre	Toronto, Canada	 I Was There
+Nov 05, 2016	Bellco Theatre	Denver, CO	 I Was There
+Nov 03, 2016	Sprint Center	Kansas City, MO	 I Was There
+Oct 23, 2016	The Forum	Inglewood, CA	 I Was There
+Oct 22, 2016	Gila River Arena	Glendale, AZ	 I Was There
+Oct 20, 2016	Oracle Arena	Oakland, CA	 I Was There
+Oct 18, 2016	Madison Square Garden	New York, NY	 I Was There
+Oct 16, 2016	Amalie Arena	Tampa, FL	 I Was There
+Oct 15, 2016	Philips Arena	Atlanta, GA	 I Was There
+Oct 13, 2016	Savannah Civic Center	Savannah, GA	 I Was There
+Oct 09, 2016	Bankers Life Fieldhouse	Indianapolis, IN	 I Was There
+Oct 08, 2016	BB&T Arena	Highland Heights, KY	 I Was There
+Oct 07, 2016	Joe Louis Arena	Detroit, MI	 I Was There
+Oct 06, 2016	Quicken Loans Arena	Cleveland, OH	 I Was There
+Oct 05, 2016	Wings Event Center	Kalamazoo, MI	 I Was There
+Oct 01, 2016	The Oncenter War Memorial Arena	Syracuse, NY	 I Was There
+Sep 30, 2016	MassMutual Center	Springfield, MA	 I Was There
+Sep 29, 2016	TD Garden	Boston, MA	 I Was There
+Sep 28, 2016	Prudential Center	Newark, NJ	 I Was There
+Sep 24, 2016	Wells Fargo Center	Philadelphia, PA	 I Was There	
+Sep 23, 2016	Capital One Arena	Washington, DC	 I Was There
+Sep 17, 2016	Santa Barbara Bowl	Santa Barbara, CA	 I Was There
+Sep 16, 2016	Irvine Meadows Amphitheatre	Irvine, CA	 I Was There
+Sep 15, 2016	Vina Robles Amphitheatre	Paso Robles, CA	 I Was There
+Sep 04, 2016	The O2	London, United Kingdom	 I Was There
+Sep 03, 2016	O2 Apollo Manchester	Manchester, United Kingdom	 I Was There
+Aug 30, 2016	Edinburgh Playhouse	Edinburgh, United Kingdom	 I Was There
+Aug 28, 2016	AFAS Live	Amsterdam, Netherlands	 I Was There
+Apr 30, 2016	Rupp Arena	Lexington, KY	 I Was There
+Feb 18, 2016	Constellation	Chicago, IL	 I Was There
+Dec 18, 2015	Scottrade Center	St Louis, MO	 I Was There
+Nov 13, 2015	DONALD L. TUCKER CIVIC CENTER	Tallahassee, FL	 I Was There
+Oct 18, 2015	Gexa Energy Pavilion	Dallas, TX	 I Was There
+Oct 17, 2015	Austin360 Amphitheatre	Austin, TX	 I Was There
+Oct 16, 2015	Cynthia Woods Mitchell Pavilion	The Woodlands, TX	 I Was There
+Oct 13, 2015	Shoreline Amphitheatre	Mountain View, CA	 I Was There
+Oct 11, 2015	Verizon Wireless Amphitheatre	Irvine, CA	 I Was There
+Oct 09, 2015	Sleep Train Amphitheatre	Chula Vista, CA	 I Was There
+Oct 04, 2015	Aaron's Amphitheatre at Lakewood	Atlanta, GA	 I Was There
+Oct 03, 2015	MidFlorida Credit Union Amphitheatre	Tampa, FL	 I Was There	
+Oct 02, 2015	Coral Sky Amphitheatre	West Palm Beach, FL	 I Was There
+Sep 19, 2015	Barclays Center	Brooklyn, NY	 I Was There
+Sep 17, 2015	Madison Square Garden	New York, NY	 I Was There
+Sep 16, 2015	Madison Square Garden	New York, NY	 I Was There
+Sep 13, 2015	Susquehanna Bank Arts Center	Camden, NJ	 I Was There
+Sep 12, 2015	Xinity Center	Hartford, CT	 I Was There
+Sep 11, 2015	Xfinity Center	Mansfield, MA	 I Was There
+Sep 06, 2015	Molson Canadian Amphitheater	Toronto, Canada	 I Was There
+Sep 05, 2015	PNC Bank Arts Center (Oddball Fest)	Holmdel, NJ	 I Was There
+Sep 04, 2015	Nikon at Jones Beach (Oddball Fest)	Wantagh, NY	 I Was There
+Aug 30, 2015	DTE Energy Music Theatre	Clarkston, MI	 I Was There
+Aug 29, 2015	First Midwest Bank Amphitheatre	Tinley Park, IL	 I Was There
+Aug 28, 2015	Starlight Theatre	Kansas City, MO	 I Was There
+Aug 25, 2015	Constellation	Chicago, IL	 I Was There
+Jun 21, 2015	The Wiltern	Los Angeles, CA	 I Was There
+May 21, 2015	Constellation	Chicago, IL	 I Was There
+Mar 26, 2015	Louise M. Davies Symphony Hall	San Francisco, CA	 I Was There
+Mar 19, 2015	Grey Eagle Resort & Casino	Calgary, Canada	 I Was There
+Jan 29, 2015	Grey Eagle Resort & Casino	Calgary, Canada	 I Was There
+Dec 31, 2014	Mohegan Sun Arena	Uncasville, CT	 I Was There	
+Dec 06, 2014	The Chelsea at The Cosmopolitan of Las Vegas	Las Vegas, NV	 I Was There
+Oct 18, 2014	The Capitol Theatre	Port Chester, NY	 I Was There
+Oct 04, 2014	CARPENTER THEATRE @ CENTERSTAGE	Richmond, VA	 I Was There
+Sep 18, 2014	Union Hall	Brooklyn, NY	 I Was There
+Aug 31, 2014	First Midwest Bank Ampitheatre	Chicago, IL	 I Was There
+Aug 23, 2014	Xfinity Theatre	Hartford, CT	 I Was There
+Aug 21, 2014	Jiffy Lube Live	Bristow, VA	 I Was There
+Aug 16, 2014	Susquehanna Bank Center	Camden, NJ	 I Was There
+Aug 15, 2014	Xfinity Center	Mansfield, MA	 I Was There
+Apr 27, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Mar 11, 2014	Carnegie Music Hall of Oakland	Pittsburgh, PA	 I Was There
+Aug 17, 2013	Castro Theatre	San Francisco, CA	 I Was There
+May 03, 2013	Aladdin Theater	Portland, OR	 I Was There
+Apr 26, 2013	Boulder Theater	Boulder, CO	 I Was There
+Mar 02, 2013	Varsity Theater	Minneapolis, MN	 I Was There
+Feb 05, 2013	The Slipper Room	New York, NY	 I Was There
+Dec 02, 2012	Starlite Theatre at Riviera Hotel & Casino	Las Vegas, NV	 I Was There
+Dec 01, 2012	Starlite Theatre at Riviera Hotel & Casino	Las Vegas, NV	 I Was There
+Nov 30, 2012	Starlite Theatre at Riviera Hotel & Casino	Las Vegas, NV	 I Was There
+Oct 06, 2012	Rex Theater	Pittsburgh, PA	 I Was There	
+Oct 05, 2012	MAJESTIC THEATRE MADISON	Madison, WI	 I Was There
+Oct 04, 2012	Varsity Theater	Minneapolis, MN	 I Was There
+Jun 07, 2012	Great Stage Park	Manchester, TN	 I Was There
+Nov 05, 2011	Varsity Theater	Minneapolis, MN	 I Was There
+Oct 21, 2011	Great Scott	Allston, MA	 I Was There
+Oct 01, 2011	Maxwell's	Hoboken, NJ	 I Was There
+Aug 20, 2011	Knitting Factory Bklyn	Brooklyn, NY	 I Was There
+Apr 25, 2011	Littefield	Brooklyn, NY	 I Was There
+Feb 28, 2011	SUNY Utica	Utica, NY	 I Was There
+Jan 22, 2011	Comedy Works	Denver, CO	 I Was There
+Jan 21, 2011	Comedy Works	Denver, CO	 I Was There
+Jan 20, 2011	Comedy Works	Denver, CO	 I Was There
+Dec 19, 2010	The Improv	Fort Lauderdale, FL	 I Was There
+Dec 18, 2010	The Improv	Fort Lauderdale, FL	 I Was There
+Dec 17, 2010	The Improv	Fort Lauderdale, FL	 I Was There
+Dec 16, 2010	The Improv	Fort Lauderdale, FL	 I Was There
+Dec 11, 2010	Helium Comedy Club	Portland, OR	 I Was There
+Dec 10, 2010	Helium Comedy Club	Portland, OR	 I Was There
+Dec 09, 2010	Helium Comedy Club	Portland, OR	 I Was There
+Sep 22, 2010	Pipeline Cafe	Honolulu, HI	 I Was There	
+May 19, 2010	Punch Line Comedy Club	San Francisco, CA	 I Was There
+May 18, 2010	Punch Line Comedy Club	San Francisco, CA	 I Was There
+Apr 30, 2010	Univ. of Wisc. / Platteville	Platteville, WI	 I Was There
+Apr 29, 2010	Truman State University	Kirksville, MO	 I Was There
+Apr 27, 2010	Univ. of North Carolina / Chapel Hill	Chapel Hill, NC	 I Was There
+Dec 31, 2009	Palace of Fine Arts	San Francisco, CA	 I Was There
+Jul 29, 2009	Punch Line Comedy Club	San Francisco, CA	 I Was There
+Jul 28, 2009	Punch Line Comedy Club	San Francisco, CA	 I Was There

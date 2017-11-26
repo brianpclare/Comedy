@@ -53,6 +53,8 @@ Bill_Burr <- rbind(Burr_Why, Burr_You, Burr_Let) %>% group_by(word) %>%
 #Bill Engvall
 BE_Sign <- read_transcript("youtube//bill engvall heres your sign.txt",
                            "Bill Engvall", "Here's Your Sign")
+Bill_Engvall <- rbind(BE_Sign)%>% group_by(word) %>%
+  summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Bill Hicks
 BH_Rev <- read_transcript("scraps//bill hicks revelations.txt", "Bill Hicks", "Revelations")
@@ -359,6 +361,7 @@ RG_norm <- text_norm(Ricky_Gervais)
 SH_norm <- text_norm(Steve_Harvey)
 SW_norm <- text_norm(Steven_Wright)
 TS_norm <- text_norm(Tom_Segura)
+BE_norm <- text_norm(Bill_Engvall)
 
 vocab_similarity <- function(c1, c2){
   x <- norm(c2$rf, type = "2")
@@ -377,9 +380,10 @@ comedians_list <- c("Amy Schumer", "Aziz Ansari", "Ali Wong", "Bill Burr", "Bill
   "Iliza Schlesinger", "Jeff Foxworthy", "Jimmy Carr", "Jim Gaffigan", "Jim Jefferies",
   "John Mulaney", "Louis CK", "Lenny Bruce", "Maria Bamford", "Neal Brennan", "Patton Oswalt",
   "Richard Pryor", "Ron White", "Ricky Gervais", "Steve Harvey", "Tom Segura", "Steven Wright",
-  "Redd Foxx", "Jerry Seinfeld", "Hannibal Burress", "Larry the Cable Guy", "Mitch Hedberg")
+  "Redd Foxx", "Jerry Seinfeld", "Hannibal Burress", "Larry the Cable Guy", "Mitch Hedberg",
+  "Bill Engvall")
 
-all_comparisons <- as.tibble(matrix(c(0), nrow = 37, ncol = 37))
+all_comparisons <- as.tibble(matrix(c(0), nrow = 38, ncol = 38))
 colnames(all_comparisons) <- comedians_list
 all_comparisons$name <- comedians_list
 
@@ -421,9 +425,10 @@ do_comps <- function(comedian){
   x35 <- vocab_similarity(comedian, HB_norm)
   x36 <- vocab_similarity(comedian, LC_norm)
   x37 <- vocab_similarity(comedian, MH_norm)
+  x38 <- vocab_similarity(comedian, BE_norm)
   return(c(x1, x2, x3, x4, x5, x6, x7, x8, x9, x10, x11, x12, x13, x14, x15, x16, x17, x18,
           x19, x20, x21, x22, x23, x24, x25, x26, x27, x28, x29, x30, x31, x32, x33, x34,
-          x35, x36, x37))
+          x35, x36, x37, x38))
 }
 
 all_comparisons$`Amy Schumer` <- do_comps(AS_norm)
@@ -463,7 +468,17 @@ all_comparisons$`Jerry Seinfeld` <- do_comps(JS_norm)
 all_comparisons$`Hannibal Burress` <- do_comps(HB_norm)
 all_comparisons$`Larry the Cable Guy` <- do_comps(LC_norm)
 all_comparisons$`Mitch Hedberg` <- do_comps(MH_norm)
+all_comparisons$`Bill Engvall` <- do_comps(BE_norm)
 
 num_comps <- all_comparisons %>% select(-name)
 all_comparisons$mean <- colMeans(num_comps)
 
+top5 <- function(comedian){
+  source <- all_comparisons[comedian]
+  source <- cbind(source, all_comparisons$name)
+  colnames(source) <- c("Similarity", "Comedian")
+  source <- source %>% arrange(desc(Similarity)) %>% top_n(6, Similarity)
+  return(source[2:6,])
+}
+
+schumer5 <- top5("Amy Schumer")

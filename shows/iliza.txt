@@ -1,0 +1,215 @@
+Date	Venue	Location	Ignore
+Nov 25	Arts at the Armory	Somerville, MA	 I Was There
+Nov 24	College Street Music Hall	New Haven, CT	 I Was There
+Nov 21	Punch Line Philly	Philadelphia, PA	 I Was There
+Nov 20	Punch Line Philly	Philadelphia, PA	 I Was There
+Nov 11	Beacon Theatre	New York, NY	 I Was There
+Nov 10	Carnegie Library Music Hall of Homestead	Homestead, PA	 I Was There
+Nov 09	Hippodrome at France-Merrick Performing Arts Center	Baltimore, MD	 I Was There
+Nov 03	The Main Room	West Hollywood, CA	 I Was There
+Nov 01	The Main Room	West Hollywood, CA	 I Was There
+Oct 29	Hollywood Improv	Hollywood, CA	 I Was There
+Oct 28	The Main Room	West Hollywood, CA	 I Was There
+Oct 25	Hollywood Improv	Hollywood, CA	 I Was There
+Oct 19	Hollywood Improv	Hollywood, CA	 I Was There
+Oct 18	Hollywood Improv	Hollywood, CA	 I Was There
+Oct 17	Hollywood Improv	Hollywood, CA	 I Was There
+Oct 14	The Rec Room Huntington Beach	Huntington Beach, CA	 I Was There
+Oct 13	The Main Room	West Hollywood, CA	 I Was There
+Oct 12	Hollywood Improv	Hollywood, CA	 I Was There
+Oct 11	The Main Room	West Hollywood, CA	 I Was There
+Oct 10	The Original Room	West Hollywood, CA	 I Was There
+Oct 07	The Belly Room	West Hollywood, CA	 I Was There
+Oct 04	Hollywood Improv	Hollywood, CA	 I Was There
+Sep 30	San Jose Improv	San Jose, CA	 I Was There
+Sep 29	San Jose Improv	San Jose, CA	 I Was There
+Sep 28	San Jose Improv	San Jose, CA	 I Was There
+Sep 23	The Main Room	West Hollywood, CA	 I Was There
+Sep 22	Hollywood Improv	Hollywood, CA	 I Was There
+Sep 20	Hollywood Improv	Hollywood, CA	 I Was There
+Sep 16	Hollywood Improv	Hollywood, CA	 I Was There
+Sep 13	The Original Room	West Hollywood, CA	 I Was There
+Sep 09	Oxnard Levity Live	Oxnard, CA	 I Was There
+Sep 08	Oxnard Levity Live	Oxnard, CA	 I Was There
+Sep 07	Oxnard Levity Live	Oxnard, CA	 I Was There
+Sep 03	Terry Fator Theatre at Mirage Hotel and Casino	Las Vegas, NV	 I Was There
+Aug 31	Hollywood Improv	Hollywood, CA	 I Was There
+Aug 18	Hollywood Improv	Hollywood, CA	 I Was There
+Aug 16	Hollywood Improv	Hollywood, CA	 I Was There
+Aug 12	Irvine Improv	Irvine, CA	 I Was There
+Aug 11	Irvine Improv	Irvine, CA	 I Was There
+Aug 10	Irvine Improv	Irvine, CA	 I Was There
+Aug 08	Hollywood Improv	Hollywood, CA	 I Was There
+Aug 05	Hollywood Improv	Hollywood, CA	 I Was There
+Aug 03	Hollywood Improv	Hollywood, CA	 I Was There
+Jul 27	Hollywood Improv	Hollywood, CA	 I Was There
+Jul 26	Hollywood Improv	Hollywood, CA	 I Was There
+Jul 22	Hollywood Improv	Hollywood, CA	 I Was There
+Jul 18	Hollywood Improv	Hollywood, CA	 I Was There
+Jul 13	Hollywood Improv	Hollywood, CA	 I Was There
+Jul 06	Hollywood Improv	Hollywood, CA	 I Was There
+Jun 29	The Observatory	San Diego, CA	 I Was There
+Jun 28	The Comedy Store	West Hollywood, CA	 I Was There
+Jun 27	Hollywood Improv	Hollywood, CA	 I Was There
+Jun 11	Hollywood Improv	Hollywood, CA	 I Was There
+Jun 08	Hollywood Improv	Hollywood, CA	 I Was There
+Jun 02	Hollywood Improv	Hollywood, CA	 I Was There
+May 19	Hollywood Improv	Hollywood, CA	 I Was There
+May 17	Hollywood Improv	Hollywood, CA	 I Was There
+May 11	Hollywood Improv	Hollywood, CA	 I Was There
+May 05	Hollywood Improv	Hollywood, CA	 I Was There
+May 04	Hollywood Improv	Hollywood, CA	 I Was There
+Apr 27	Hollywood Improv	Hollywood, CA	 I Was There
+Apr 25	Hollywood Improv	Hollywood, CA	 I Was There
+Apr 16	The Stand	New York, NY	 I Was There
+Apr 12	Hollywood Improv	Hollywood, CA	 I Was There
+Apr 06	Hollywood Improv	Hollywood, CA	 I Was There
+Apr 01	Skyway Theatre	Minneapolis, MN	 I Was There
+Mar 31	Club Regent Event Centre	Winnipeg, Canada	 I Was There
+Mar 24	Hollywood Improv	Hollywood, CA	 I Was There
+Mar 18	Royal Oak Music Theatre	Royal Oak, MI	 I Was There
+Mar 17	Fountain Street Church	Grand Rapids, MI	 I Was There
+Mar 10	Hollywood Improv	Hollywood, CA	 I Was There
+Mar 09	Hollywood Improv	Hollywood, CA	 I Was There
+Mar 02	Hollywood Improv	Hollywood, CA	 I Was There
+Feb 23	Hollywood Improv	Hollywood, CA	 I Was There
+Feb 17	Vogue Theatre	Vancouver, Canada	 I Was There
+Feb 14	Wilshire Ebell Theatre	Los Angeles, CA	 I Was There
+Feb 11	The Fox Theater at Foxwoods Resort Casino	Mashantucket, CT	 I Was There
+Feb 10	The Wilbur	Boston, MA	 I Was There
+Jan 27	Hollywood Improv	Hollywood, CA	 I Was There
+Jan 26	The Comedy Store	Los Angeles, CA	 I Was There
+Jan 24	Hollywood Improv	Hollywood, CA	 I Was There
+Jan 21	Majestic Theatre Dallas	Dallas, TX	 I Was There
+Jan 20	Paramount Theatre-Austin	Austin, TX	 I Was There
+Jan 19	House of Blues Houston	Houston, TX	 I Was There
+Jan 17	Hollywood Improv	Hollywood, CA	 I Was There
+Jan 14	Hollywood Improv	Hollywood, CA	 I Was There
+Jan 12	Hollywood Improv	Hollywood, CA	 I Was There
+Dec 30, 2016	MontBleu Resort Casino & Spa	South Lake Tahoe, NV	 I Was There
+Dec 21, 2016	Hollywood Improv	Hollywood, CA	 I Was There
+Dec 20, 2016	Hollywood Improv	Hollywood, CA	 I Was There
+Dec 17, 2016	Nourse Theatre	San Francisco, CA	 I Was There
+Dec 16, 2016	Neptune Theatre	Seattle, WA	 I Was There
+Dec 09, 2016	Harrah's Resort SoCal	Funner, CA	 I Was There
+Dec 03, 2016	James K. Polk Theatre	Nashville, TN	 I Was There
+Dec 02, 2016	Variety Playhouse	Atlanta, GA	 I Was There
+Dec 01, 2016	The Pageant	St Louis, MO	 I Was There
+Nov 12, 2016	Howard Theatre	Washington, DC	 I Was There
+Nov 11, 2016	Trocadero	Philadelphia, PA	 I Was There
+Nov 04, 2016	Pabst Theater	Milwaukee, WI	 I Was There
+Oct 26, 2016	The Lyric Theatre	Los Angeles, CA	 I Was There
+Oct 05, 2016	The Lyric Theatre	Los Angeles, CA	 I Was There
+Oct 02, 2016	Ak-Chin Pavilion	Phoenix, AZ	 I Was There
+Oct 01, 2016	Irvine Meadows Amphitheatre	Irvine, CA	 I Was There
+Sep 30, 2016	Shoreline Amphitheatre	Mountain View, CA	 I Was There
+Sep 27, 2016	Carolines on Broadway	New York, NY	 I Was There
+Sep 24, 2016	Austin360 Amphitheater	Del Valle, TX	 I Was There
+Sep 23, 2016	Gexa Energy Pavilion	Dallas, TX	 I Was There
+Sep 22, 2016	Cynthia Woods Mitchell Pavilion	The Woodlands, TX	 I Was There
+Sep 20, 2016	Red Rocks Ampihtheatre	Morrison, CO	 I Was There
+Sep 18, 2016	White River Amphitheatre	Seattle, WA	 I Was There
+Sep 17, 2016	Sunlight Supply Amphitheater	Ridgefield, WA	 I Was There
+Sep 10, 2016	River Cree Casino	Parkland County, Canada	 I Was There
+Sep 09, 2016	Grey Eagle Resort and Casino	Rocky View County, Canada	 I Was There
+Sep 07, 2016	The Lyric Theatre	Los Angeles, CA	 I Was There
+Sep 05, 2016	Xfinity Theatre	Hartford, CT	 I Was There
+Sep 04, 2016	Budweiser Stage	Toronto, Canada	 I Was There
+Sep 03, 2016	DTE Energy Music Theatre	Village Of Clarkston, MI	 I Was There
+Sep 02, 2016	Hollywood Casino Amphitheatre	Tinley Park, IL	 I Was There
+Aug 28, 2016	Klipsch Music Center	Noblesville, IN	 I Was There
+Aug 27, 2016	Lakewood Amphitheatre	Atlanta, GA	 I Was There
+Aug 26, 2016	MIDFLORIDA Credit Union Amphitheatre	Tampa, FL	 I Was There
+Aug 25, 2016	Perfect Vodka Amphitheatre	West Palm Beach, FL	 I Was There
+May 24, 2016	The Lyric Theatre	Los Angeles, CA	 I Was There
+May 14, 2016	Revolution Hall	Portland, OR	 I Was There
+Apr 23, 2016	Vic Theatre	Chicago, IL	 I Was There
+Apr 01, 2016	Civic Theater	New Orleans, LA	 I Was There
+Mar 22, 2016	The Lyric Theatre	Los Angeles, CA	 I Was There
+Mar 05, 2016	Doc's Lab	San Francisco, CA	 I Was There
+Feb 24, 2016	The Lyric Theatre	Los Angeles, CA	 I Was There
+Feb 20, 2016	The Republik	Honolulu, HI	 I Was There
+Dec 16, 2015	The Lyric Theatre	Los Angeles, CA	 I Was There
+Dec 06, 2015	The Comedy Store	Los Angeles, CA	 I Was There
+Nov 11, 2015	The Lyric Theatre	Los Angeles, CA	 I Was There
+Nov 10, 2015	The Lyric Theatre	Los Angeles, CA	 I Was There
+Oct 14, 2015	The Lyric Theatre	Los Angeles, CA	 I Was There
+Oct 03, 2015	Mill City Nights	Minneapolis, MN	 I Was There
+Sep 09, 2015	The Lyric Theatre	Los Angeles, CA	 I Was There
+Aug 12, 2015	The Lyric Theatre	Los Angeles, CA	 I Was There
+Jul 15, 2015	The Lyric Theatre	Los Angeles, CA	 I Was There
+Jul 14, 2015	The Lyric Theatre	Los Angeles, CA	 I Was There
+Jun 24, 2015	The Lyric Theatre	Los Angeles, CA	 I Was There
+Jun 20, 2015	Sons of Hermann Hall	Dallas, TX	 I Was There
+Jun 19, 2015	The Ballroom at Warehouse Live	Houston, TX	 I Was There
+Jun 15, 2015	The Lyric Theatre	Los Angeles, CA	 I Was There
+Jun 07, 2015	The Satellite	Los Angeles, CA	 I Was There
+May 26, 2015	The Lyric Theatre	Los Angeles, CA	 I Was There
+May 06, 2015	The Lyric Theatre	Los Angeles, CA	 I Was There
+Apr 21, 2015	The Lyric Theatre	Los Angeles, CA	 I Was There
+Apr 01, 2015	The Lyric Theatre	Los Angeles, CA	 I Was There
+Mar 04, 2015	The Lyric Theatre	Los Angeles, CA	 I Was There
+Feb 22, 2015	The Lyric Theatre	Los Angeles, CA	 I Was There
+Nov 19, 2014	The Lyric Theatre	Los Angeles, CA	 I Was There
+Oct 22, 2014	The Lyric Theatre	Los Angeles, CA	 I Was There
+Sep 24, 2014	The Lyric Theatre	Los Angeles, CA	 I Was There
+Aug 27, 2014	The Lyric Theatre	Los Angeles, CA	 I Was There
+Jun 25, 2014	The Lyric	Los Angeles, CA	 I Was There
+Apr 23, 2014	The Lyric	Los Angeles, CA	 I Was There
+Feb 26, 2014	The Lyric	Los Angeles, CA	 I Was There
+Dec 04, 2013	The Lyric	Los Angeles, CA	 I Was There
+Dec 01, 2012	Texas Theatre	Dallas, TX	 I Was There
+Aug 10, 2012	The Comedy Store	Los Angeles, CA	 I Was There
+Jan 17, 2011	Hotel Cafe	Los Angeles, CA	 I Was There
+Jan 31, 2009	Miller Auditorium	Kalamazoo, MI	 I Was There
+Jan 30, 2009	City Opera House	Traverse City, MI	 I Was There
+Jan 18, 2009	Wheeler Opera House	Aspen, CO	 I Was There
+Jan 17, 2009	Vilar Center For The Arts	Beaver Creek, FL	 I Was There
+Jan 10, 2009	State Theatre	Easton, PA	 I Was There
+Jan 09, 2009	Mayo Performing Arts Center	Morristown, TN	 I Was There
+Jan 06, 2009	Van Wezel Perf. Arts Hall	Sarasota, FL	 I Was There
+Jan 04, 2009	Durham Performance Arts Center	Durham, NC	 I Was There
+Jan 03, 2009	Barbara B. Mann Hall	Fort Myers, FL	 I Was There
+Jan 02, 2009	Coral Springs Center For The Arts	Coral Springs, FL	 I Was There
+Dec 31, 2008	Drefoos Hall	West Palm Beach, FL	 I Was There
+Dec 29, 2008	Ruth Eckerd Hall	Clearwater, FL	 I Was There
+Dec 28, 2008	King Performing Arts Center	Melbourne, FL	 I Was There
+Dec 27, 2008	Hard Rock Live	Orlando, FL	 I Was There
+Dec 26, 2008	Florida Theatre Performing Arts Center: Office	Jacksonville, FL	 I Was There
+Dec 13, 2008	Cache Creek Casino Resort	Brooks, AL	 I Was There
+Dec 12, 2008	The Moore Theater-with KEANE	Seattle, WA	 I Was There
+Nov 30, 2008	Pullo Center	York, PA	 I Was There
+Nov 29, 2008	Xanadu Theater	Atlantic City, NJ	 I Was There
+Nov 28, 2008	Count Basie Theatre	Red Bank, TN	 I Was There
+Nov 20, 2008	Hanover Theatre	Worcester, MA	 I Was There
+Nov 19, 2008	Bass Performance Hall	Fort Worth, TX	 I Was There
+Nov 16, 2008	Lancaster Performing Arts Center	Lancaster, CA	 I Was There
+Nov 15, 2008	DreamCatcher At Viejas	Alpine, CA	 I Was There
+Nov 14, 2008	House of Blues	Las Vegas, NV	 I Was There
+Nov 09, 2008	Mendel Center	Benton Harbor, MI	 I Was There
+Nov 08, 2008	Potter Center	Jackson, MS	 I Was There
+Nov 06, 2008	E.J. Thomas Hall	Akron, OH	 I Was There
+Nov 02, 2008	Lyric Opera House	Baltimore, MD	 I Was There
+Nov 01, 2008	Grand Opera House	Wilmington, NC	 I Was There
+Oct 30, 2008	Lowell Memorial Auditorium	Lowell, MA	 I Was There
+Oct 11, 2008	Center For Performing Arts	University Park, IL	 I Was There
+Oct 10, 2008	Hoyt Sherman	Des Moines, IA	 I Was There
+Oct 09, 2008	Topeka Performing Arts Center	Topeka, KS	 I Was There
+Oct 05, 2008	Grove of Anaheim	Anaheim, CA	 I Was There
+Oct 04, 2008	Mesa Arts Center	Mesa, AZ	 I Was There
+Oct 03, 2008	Paramount Theatre	Denver, CO	 I Was There
+Oct 02, 2008	Lincoln Center	Fort Collins, CO	 I Was There
+Sep 28, 2008	Belk Theatre	Charlotte, NC	 I Was There
+Sep 27, 2008	Paramount Theatre	Charlottesville, VA	 I Was There
+Sep 26, 2008	CNU Ferguson Center Concert Hall	Newport News, VA	 I Was There
+Sep 20, 2008	Keswick Theatre	Glenside, NJ	 I Was There
+Sep 19, 2008	Seven Springs Resort	Seven Springs, FL	 I Was There
+Sep 18, 2008	F. M. Kirby Center	Wilkes Barre, PA	 I Was There
+Sep 17, 2008	State Theatre	New Brunswick, NJ	 I Was There
+Sep 13, 2008	Pabst Theater	Milwaukee, WI	 I Was There
+Sep 12, 2008	The Meyer Theatre	Green Bay, WI	 I Was There
+Sep 11, 2008	ArtsBlock	Wausau, WI	 I Was There
+Sep 06, 2008	Mohegan Sun Arena	Uncasville, CT	 I Was There
+Sep 05, 2008	Mohegan Sun Arena	Uncasville, CT	 I Was There
+Sep 04, 2008	The State Theatre	Ithaca, NY	 I Was There
+Aug 29, 2008	Mystic Lake Casino Hotel	Prior Lake, MN	 I Was There

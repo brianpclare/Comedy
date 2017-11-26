@@ -1,0 +1,122 @@
+Date	Venue	Location	Ignore
+Feb 15	Largo at the Coronet	Los Angeles, CA	 I Was There
+Jan 19	Largo at the Coronet	Los Angeles, CA	 I Was There
+Jan 09	Largo at the Coronet	Los Angeles, CA	 I Was There
+May 29, 2016	Largo at the Coronet	Los Angeles, CA	 I Was There
+Dec 11, 2015	The Capitol Theatre	Port Chester, NY	 I Was There
+Nov 16, 2015	State Theatre Portland Maine	Portland, ME	 I Was There
+Nov 14, 2015	Crouse Hinds Theater	Syracuse, NY	 I Was There
+Nov 13, 2015	Ste There of Ithaca, NY	Ithaca, NY	 I Was There
+Nov 11, 2015	Carnegie Music Hall of Oakland	Pittsburgh, PA	 I Was There
+Nov 05, 2015	Celebrity Theatre	Phoenix, AZ	 I Was There
+Oct 24, 2015	MacEwan Hall	Calgary, Canada	 I Was There
+Oct 15, 2015	Straz Center for the Performing Arts	Tampa, FL	 I Was There
+Oct 13, 2015	CARPENTER THEATRE @ CENTERSTAGE RICHMOND	Richmond, VA	 I Was There
+Oct 12, 2015	The Lincoln Theatre	Washington, DC	 I Was There
+Oct 11, 2015	The Lincoln Theatre	Washington, DC	 I Was There
+Oct 10, 2015	The Lincoln Theatre	Washington, DC	 I Was There
+Sep 29, 2015	The Keswick Theatre	Glenside, PA	 I Was There
+Sep 11, 2015	Largo at the Coronet	Los Angeles, CA	 I Was There
+Aug 14, 2015	Largo at the Coronet	Los Angeles, CA	 I Was There
+Jul 10, 2015	Balboa Theatre	San Diego, CA	 I Was There
+Jul 08, 2015	Largo at the Coronet	Los Angeles, CA	 I Was There
+May 15, 2015	Largo at the Coronet	Los Angeles, CA	 I Was There
+May 06, 2015	Largo at the Coronet	Los Angeles, CA	 I Was There
+Apr 02, 2015	Boulder Theater	Boulder, CO	 I Was There
+Mar 20, 2015	Plaza LIVE Orlando	Orlando, FL	 I Was There
+Mar 13, 2015	Vic Theatre	Chicago, IL	 I Was There
+Mar 12, 2015	Vic Theatre	Chicago, IL	 I Was There
+Mar 03, 2015	Boulder Theater	Boulder, CO	 I Was There
+Feb 26, 2015	Aladdin Theater	Portland, OR	 I Was There
+Nov 23, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Oct 25, 2014	Shrine Expo Hall and Grounds	Los Angeles, CA	 I Was There
+Oct 20, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Oct 13, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Sep 24, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Aug 15, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Jul 13, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Nov 18, 2013	The Forum Kentish Town	London, United Kingdom	 I Was There
+Nov 13, 2013	Mill Volvo Tyne Theatre	Newcastle Upon Tyne, United Kingdom	 I Was There
+Nov 11, 2013	Corn Exchange, Cambridge	Cambridge, United Kingdom	 I Was There
+Nov 09, 2013	G Live Guildford	Guildford, United Kingdom	 I Was There
+Oct 23, 2013	Carnegie Music Hall	Pittsburgh, PA	 I Was There
+Jun 01, 2013	Club Nokia	Los Angeles, CA	 I Was There
+May 23, 2013	Plaza 'LIVE'	Orlando, FL	 I Was There
+May 22, 2013	Variety Playhouse	Atlanta, GA	 I Was There
+May 21, 2013	Matathon Music Works	Nashville, TN	 I Was There
+May 20, 2013	Carolina Theatre	Durham, NC	 I Was There
+May 19, 2013	Best Buy Theatre	New York, NY	 I Was There
+May 18, 2013	Best Buy Theatre	New York, NY	 I Was There
+May 14, 2013	Keswick Theatre	Glenside, PA	 I Was There
+May 09, 2013	Pabst Theater	Milwaukee, WI	 I Was There
+May 08, 2013	Pantages Theatre	Minneapolis, MN	 I Was There
+May 05, 2013	Boulder Theater	Boulder, CO	 I Was There
+Jul 14, 2012	Balboa Theatre	San Diego, CA	 I Was There
+May 02, 2012	Pantages Theatre	Minneapolis, MN	 I Was There
+Apr 29, 2012	Vic Theatre	Chicago, IL	 I Was There
+Apr 28, 2012	Royal Oak Music Theatre	Royal Oak, MI	 I Was There
+Jun 18, 2011	O2 Shepherd's Bush Empire	London, United Kingdom	 I Was There
+Apr 30, 2011	New Meadowlands Stadium	East Rutherford, NJ	 I Was There
+Mar 19, 2011	The Webster	Hartford, CT	 I Was There
+Feb 26, 2011	Lisner Auditorium	Washington, DC	 I Was There
+Feb 05, 2011	Wilbur Theatre	Boston, MA	 I Was There
+Feb 04, 2011	Playstation Theater	New York, NY	 I Was There
+Dec 05, 2010	Capitol Theatre	Columbus, OH	 I Was There
+Dec 04, 2010	Trocadero	Philadelphia, PA	 I Was There
+Dec 02, 2010	Higher Ground	Burlington, VT	 I Was There
+Nov 21, 2010	Variety Playhouse	Atlanta, GA	 I Was There
+Nov 20, 2010	Tipitinas	New Orleans, LA	 I Was There
+Nov 18, 2010	Numbers	Houston, TX	 I Was There
+Nov 17, 2010	La Zona Rosa	Austin, TX	 I Was There
+Nov 14, 2010	Soma	San Diego, CA	 I Was There
+Nov 13, 2010	Music Box at the Fonda	Los Angeles, CA	 I Was There
+Nov 12, 2010	Park West	Chicago, IL	 I Was There
+Nov 11, 2010	The Regency Ballroom	San Francisco, CA	 I Was There
+Nov 07, 2010	Showbox SoDo	Seattle, WA	 I Was There
+Nov 05, 2010	Aladdin Theater	Portland, OR	 I Was There
+Nov 04, 2010	Knitting Factory Concert House	Boise, ID	 I Was There
+Oct 31, 2010	Varsity Theater	Minneapolis, MN	 I Was There
+Oct 30, 2010	Royal Oak Music Theatre	Royal Oak, MI	 I Was There
+Oct 28, 2010	Barrymore Theatre	Madison, WI	 I Was There
+Oct 24, 2010	Turner Hall Ballroom	Milwaukee, WI	 I Was There
+Oct 23, 2010	Park West	Chicago, IL	 I Was There
+Sep 10, 2010	House of Blues	Boston, MA	 I Was There
+May 21, 2010	House of Blues Boston	Boston, MA	 I Was There
+Apr 16, 2010	House of Blues Boston	Boston, MA	 I Was There
+Apr 10, 2010	Trocadero	Philadelphia, PA	 I Was There
+Mar 28, 2010	Angel Stadium	Anaheim, CA	 I Was There
+Dec 09, 2009	Omaha Music Hall	Omaha, NE	 I Was There
+Dec 08, 2009	University Of South Dakota Campus	Brookings, SD	 I Was There
+Nov 14, 2009	The Pageant	St Louis, MO	 I Was There
+Nov 13, 2009	Turner Hall Ballroom	Milwaukee, WI	 I Was There
+Nov 06, 2009	Starland Ballroom	Sayreville, NJ	 I Was There
+Oct 24, 2009	Carnegie Music Hall	Pittsburgh, PA	 I Was There
+Oct 17, 2009	The Moore Theater-with KEANE	Seattle, WA	 I Was There
+Oct 16, 2009	Aladdin Theater	Portland, OR	 I Was There
+Oct 10, 2009	MAJESTIC THEATRE MADISON	Madison, WI	 I Was There
+Oct 09, 2009	The Crofoot Ballroom	Pontiac, MI	 I Was There
+Oct 08, 2009	Fine Line Music Cafe	Minneapolis, MN	 I Was There
+Oct 03, 2009	State Theatre	Falls Church, VA	 I Was There
+Sep 29, 2009	University of South Carolina	Lancaster, SC	 I Was There
+Sep 26, 2009	Empire Center At the Egg	Albany, NY	 I Was There
+Sep 25, 2009	Highline Ballroom	New York, NY	 I Was There
+Sep 12, 2009	La Zona Rosa w. The Naked and Famous	Austin, TX	 I Was There
+Sep 11, 2009	Granada Theater	Dallas, TX	 I Was There
+Aug 28, 2009	Central Michigan Univ.	Mount Pleasant, MI	 I Was There
+Aug 15, 2009	The Regency Ballroom	San Francisco, CA	 I Was There
+Jul 31, 2009	Battery Park 11	New York, NY	 I Was There
+Jul 26, 2009	Iveagh Gardens	Dublin, Ireland	 I Was There
+Jul 25, 2009	Iveagh Gardens	Dublin, Ireland	 I Was There
+Jul 24, 2009	Iveagh Gardens	Dublin, Ireland	 I Was There
+Jul 18, 2009	The Second City	Toronto, Canada	 I Was There
+Jul 17, 2009	The Second City	Toronto, Canada	 I Was There
+Jul 16, 2009	The Second City	Toronto, Canada	 I Was There
+Jun 04, 2009	Roxy Theatre	Los Angeles, CA	 I Was There
+May 09, 2009	Trocadero	Philadelphia, PA	 I Was There
+Apr 11, 2009	Wilbur Theatre	Boston, MA	 I Was There
+Mar 28, 2009	The Moore Theater-with KEANE	Seattle, WA	 I Was There
+Mar 27, 2009	Aladdin Theater	Portland, OR	 I Was There
+Nov 22, 2008	Victoria Works	Leeds, United Kingdom	 I Was There
+Nov 22, 2008	Herbst Pavilion	San Francisco, CA	 I Was There
+Oct 18, 2008	Cobb's Comedy Club	San Francisco, CA	 I Was There
+Oct 17, 2008	Cobb's Comedy Club	San Francisco, CA	 I Was There

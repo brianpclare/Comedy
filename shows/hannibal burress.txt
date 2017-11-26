@@ -1,0 +1,321 @@
+Date	Venue	Location	Ignore
+Nov 22	Stand Up Live	Phoenix, AZ	 I Was There
+Nov 19	Knitting Factory	Brooklyn, NY	 I Was There
+Oct 22	Wooly's	Des Moines, IA	 I Was There
+Oct 21	Bourbon Theatre	Lincoln, NE	 I Was There
+Oct 20	Lawrence Arts Center	Lawrence, KS	 I Was There
+Oct 19	Blue Note	Columbia, MO	 I Was There
+Sep 22	Bayfront Park Amphitheater	Miami, FL	 I Was There
+Sep 16	Copeland Hall	Wilmington, DE	 I Was There
+Sep 15	Jiffy Lube Live	Bristow, VA	 I Was There
+Sep 14	BB&T Pavilion	Camden, NJ	 I Was There
+Aug 17	Radio City Music Hall	New York, NY	 I Was There
+Jun 02	Bill Graham Civic Auditorium	San Francisco, CA	 I Was There
+May 12	1306 Event Space and Bar	Miami, FL	 I Was There
+Apr 22	The Beacham Theatre	Orlando, FL	 I Was There
+Apr 19	The Masquerade	Atlanta, GA	 I Was There
+Feb 03	Fitzgerald's	Houston, TX	 I Was There
+Feb 02	The Roxy Theatre	West Hollywood, CA	 I Was There
+Jan 21	Attucks Theatre	Norfolk, VA	 I Was There
+Jan 20	Knight Theater at Levine Center for the Arts	Charlotte, NC	 I Was There
+Jan 19	The Sottile Theatre	Charleston, SC	 I Was There	
+Jan 07	Fremont Country Club	Las Vegas, NV	 I Was There
+Nov 14, 2016	The Canopy Club	Urbana, IL	 I Was There
+Nov 13, 2016	The Pageant	Saint Louis, MO	 I Was There
+Nov 11, 2016	Taft Theatre	Cincinnati, OH	 I Was There
+Nov 10, 2016	Arvest Bank Theatre at The Midland	Kansas City, MO	 I Was There
+Nov 05, 2016	Union Hall	New York, NY	 I Was There
+Nov 04, 2016	Apollo Theater	New York, NY	 I Was There
+Nov 03, 2016	Edwards Auditorium	Kingston, RI	 I Was There
+Nov 02, 2016	Lisner Auditorium	Washington, DC	 I Was There
+Nov 01, 2016	Howard Theatre	Washington, DC	 I Was There
+Oct 23, 2016	MacEwan Hall	Calgary, Canada	 I Was There
+Oct 22, 2016	Royal Theatre	Victoria, Canada	 I Was There
+Oct 21, 2016	Chan Centre For The Performing Arts	Vancouver, Canada	 I Was There
+Oct 20, 2016	Aladdin Theater	Portland, OR	 I Was There
+Oct 19, 2016	Aladdin Theater	Portland, OR	 I Was There
+Oct 18, 2016	Aladdin Theater	Portland, OR	 I Was There
+Oct 17, 2016	Nourse Theater	San Francisco, CA	 I Was There
+Oct 16, 2016	Fox Theater	Oakland, CA	 I Was There
+Oct 15, 2016	Paramount Theatre	Seattle, WA	 I Was There
+Oct 07, 2016	Carpenter Theatre	Richmond, VA	 I Was There	
+Oct 06, 2016	Meyerhoff Symphony Hall	Baltimore, MD	 I Was There
+Oct 02, 2016	House Of Blues	Cleveland, OH	 I Was There
+Oct 01, 2016	Egyptian Room	Indianapolis, IN	 I Was There
+Sep 30, 2016	Speaker Jo Ann Davidson Theatre	Columbus, OH	 I Was There
+Sep 29, 2016	Byham Theater	Pittsburgh, PA	 I Was There
+Sep 25, 2016	James K. Polk Theatre	Nashville, TN	 I Was There
+Sep 23, 2016	Duke Energy Center for the Performing Arts	Raleigh, NC	 I Was There
+Sep 20, 2016	Red Rocks Ampihtheatre	Morrison, CO	 I Was There
+Sep 18, 2016	State Theatre	Kalamazoo, MICHIGAN	 I Was There
+Sep 17, 2016	Cathedral Theatre at the Masonic Temple	Detroit, MI	 I Was There
+Sep 16, 2016	Columbia Street West	Fort Wayne, IN	 I Was There
+Sep 14, 2016	The Chicago Theatre	Chicago, IL	 I Was There
+Sep 08, 2016	Port City Music Hall	Portland, ME	 I Was There
+Aug 28, 2016	Borgata Event Center	Atlantic City, NJ	 I Was There
+Aug 26, 2016	Joy Theater	New Orleans, LA	 I Was There
+Aug 13, 2016	Casino Ballroom	Hampton, NH	 I Was There
+Aug 11, 2016	The Wilbur	Boston, MA	 I Was There
+Aug 10, 2016	The Wilbur	Boston, MA	 I Was There
+Aug 05, 2016	Foxwoods	Ledyard, CT	 I Was There
+Jul 30, 2016	Théatre Olympia	Montreal, Canada	 I Was There	
+Jul 22, 2016	Hard Rock Live	Hollywood, FL	 I Was There
+Jun 19, 2016	Laughing Skull Lounge	Atlanta, GA	 I Was There
+Jun 04, 2016	40 Watt Club	Athens, GA	 I Was There
+Jun 03, 2016	40 Watt Club	Athens, GA	 I Was There
+Jun 02, 2016	40 Watt Club	Athens, GA	 I Was There
+May 27, 2016	Higher Ground Ballroom	Burlington, VT	 I Was There
+May 26, 2016	Higher Ground Ballroom	Burlington, VT	 I Was There
+May 25, 2016	Higher Ground Ballroom	Burlington, VT	 I Was There
+May 21, 2016	Slowdown	Omaha, NE	 I Was There
+May 20, 2016	Slowdown	Omaha, NE	 I Was There
+May 19, 2016	Slowdown	Omaha, NE	 I Was There
+Apr 27, 2016	Skylight	Santa Fe, NM	 I Was There
+Mar 10, 2016	Turf Club	St Paul, MN	 I Was There
+Feb 26, 2016	MIT - Kresge Auditorium	Cambridge, MA	 I Was There
+Nov 28, 2015	The Republik	Honolulu, HI	 I Was There
+Nov 13, 2015	Kings Theatre	Brooklyn, NY	 I Was There
+Oct 16, 2015	Dubai Comedy Festival Main Stage	Dubai, United Arab Emirates	 I Was There
+Oct 14, 2015	VICAR STREET	Dublin, Ireland	 I Was There
+Oct 13, 2015	O2 Forum Kentish Town	London, United Kingdom	 I Was There
+Oct 03, 2015	Sony Centre for the Performing Arts	Toronto, Canada	 I Was There	
+Sep 19, 2015	The Riverside Theater	Milwaukee, WI	 I Was There
+Sep 18, 2015	Varsity Theater	Minneapolis, MN	 I Was There
+Sep 18, 2015	Varsity Theater	Minneapolis, MN	 I Was There
+Sep 17, 2015	Varsity Theater	Minneapolis, MN	 I Was There
+Sep 17, 2015	Varsity Theater	Minneapolis, MN	 I Was There
+Sep 16, 2015	Varsity Theater	Minneapolis, MN	 I Was There
+Sep 16, 2015	Varsity Theater	Minneapolis, MN	 I Was There
+Sep 14, 2015	Zanies Comedy Club	Chicago, IL	 I Was There
+Sep 13, 2015	1st Ward	Chicago, IL	 I Was There
+Aug 23, 2015	The Observatory	Santa Ana, CA	 I Was There
+Aug 15, 2015	Bootleg Theater	Los Angeles, CA	 I Was There
+Aug 15, 2015	Liberty Stage	Reservoir, Australia	 I Was There
+Aug 14, 2015	The Echo	Los Angeles, CA	 I Was There
+Jul 25, 2015	Warner Grand Theatre	Los Angeles, CA	 I Was There
+Jul 11, 2015	The Observatory North Park	San Diego, CA	 I Was There
+Jun 28, 2015	Arlington Theatre	Santa Barbara, CA	 I Was There
+Jun 27, 2015	Warner Grand Theatre	Los Angeles, CA	 I Was There
+Jun 21, 2015	Yost Theater	Santa Ana, CA	 I Was There
+Jun 20, 2015	Scherr Forum	Thousand Oaks, CA	 I Was There
+Jun 13, 2015	Wild Horse Pass	Chandler, AZ	 I Was There	
+May 24, 2015	Big Sky Comedy	Billings, MT	 I Was There
+May 23, 2015	Tulalip Resort Casino	Marysville, WA	 I Was There
+May 16, 2015	Uptown Theatre Napa	Napa, CA	 I Was There
+Apr 25, 2015	The Academy of Music Theatre	Northampton, MA	 I Was There
+Apr 24, 2015	John Lyman Center For The Performing Arts	New Haven, CT	 I Was There
+Apr 23, 2015	The Flynn Theatre	Burlington, VT	 I Was There
+Apr 18, 2015	The Wilbur Theatre	Boston, MA	 I Was There
+Apr 18, 2015	The Wilbur Theatre	Boston, MA	 I Was There
+Apr 17, 2015	The Wilbur Theatre	Boston, MA	 I Was There
+Apr 17, 2015	The Wilbur Theatre	Boston, MA	 I Was There
+Apr 16, 2015	The Wilbur Theatre	Boston, MA	 I Was There
+Apr 15, 2015	James K. Polk Theater	Nashville, TN	 I Was There
+Apr 14, 2015	Track29	Chattanooga, TN	 I Was There
+Apr 13, 2015	Minglewood Hall	Memphis, TN	 I Was There
+Apr 12, 2015	Revolution Music Room	Little Rock, AR	 I Was There
+Apr 11, 2015	The Fillmore Miami Beach at Jackie Gleason Theater	Miami Beach, FL	 I Was There
+Apr 09, 2015	The Chicago Theatre	Chicago, IL	 I Was There
+Apr 04, 2015	House of Blues	Las Vegas, NV	 I Was There
+Mar 29, 2015	Carpenter Theatre	Richmond, VA	 I Was There
+Mar 28, 2015	The Wellmont Theater	Montclair, NJ	 I Was There	
+Mar 27, 2015	Sands Bethlehem Event Center	Bethlehem, PA	 I Was There
+Mar 26, 2015	The Grand	Wilmington, DE	 I Was There
+Mar 13, 2015	Modell Performing Arts Center at The Lyric	Baltimore, MD	 I Was There
+Mar 12, 2015	State Theatre	Portland, ME	 I Was There
+Mar 03, 2015	Brewsky's	Hattiesburg, MS	 I Was There
+Mar 01, 2015	Civic Theater	New Orleans, LA	 I Was There
+Feb 28, 2015	Bridges Theater	Pomona, CA	 I Was There
+Feb 27, 2015	The Wiltern	Los Angeles, CA	 I Was There
+Feb 25, 2015	Crest Theatre	Sacramento, CA	 I Was There
+Feb 17, 2015	Aladdin Theater	Portland, OR	 I Was There
+Feb 16, 2015	Aladdin Theater	Portland, OR	 I Was There
+Feb 08, 2015	BAM	Brooklyn, NY	 I Was There
+Feb 07, 2015	The Capitol Theatre	Port Chester, NY	 I Was There
+Feb 06, 2015	The Space at Westbury	Westbury, NY	 I Was There
+Feb 05, 2015	The Egg	Albany, NY	 I Was There
+Jan 31, 2015	Music Box at the Borgata	Atlantic City, NJ	 I Was There
+Jan 30, 2015	Sands Bethlehem Event Center	Bethlehem, PA	 I Was There
+Jan 23, 2015	The Grand	Wilmington, DE	 I Was There
+Jan 22, 2015	CARPENTER THEATRE @ CENTERSTAGE	Richmond, VA	 I Was There
+Jan 18, 2015	The Orange Peel	Asheville, NC	 I Was There	
+Jan 16, 2015	40 Watt Club	Athens, GA	 I Was There
+Jan 15, 2015	40 Watt Club	Athens, GA	 I Was There
+Dec 31, 2014	Balboa Theatre	San Diego, CA	 I Was There
+Dec 28, 2014	Knitting Factory Bklyn	Brooklyn, NY	 I Was There
+Dec 21, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Dec 18, 2014	The Folley Theater	Kansas City, MO	 I Was There
+Dec 16, 2014	The Mint	Los Angeles, CA	 I Was There
+Dec 14, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Dec 13, 2014	The Neptune	Seattle, WA	 I Was There
+Dec 11, 2014	Wonder Ballroom	Portland, OR	 I Was There
+Dec 10, 2014	Vogue Theatre-Vancouver	Vancouver, Canada	 I Was There
+Dec 07, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Dec 06, 2014	South Side Ballroom	Dallas, TX	 I Was There
+Dec 05, 2014	Civic Theatre New Orleans	New Orleans, LA	 I Was There
+Nov 30, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Nov 26, 2014	The Orpheum	Madison, WI	 I Was There
+Nov 23, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Nov 22, 2014	The Fox Theater at Foxwoods Resort Casino	Mashantucket, CT	 I Was There
+Nov 20, 2014	Empire Center At the Egg	Albany, NY	 I Was There
+Nov 19, 2014	Irving Plaza	New York, NY	 I Was There	
+Nov 16, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Nov 13, 2014	Buckhead Theatre	Atlanta, GA	 I Was There
+Nov 09, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Nov 07, 2014	Town Hall	New York, NY	 I Was There
+Nov 02, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Oct 26, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Oct 25, 2014	Folly Theater	Kansas City, MO	 I Was There
+Oct 24, 2014	The Pageant	St Louis, MO	 I Was There
+Oct 23, 2014	The Rococo Theatre	Lincoln, NE	 I Was There
+Oct 22, 2014	Tonic Room	Chicago, IL	 I Was There
+Oct 19, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Oct 17, 2014	The Lincoln Theatre	Washington, DC	 I Was There
+Oct 16, 2014	Trocadero Theatre	Philadelphia, PA	 I Was There
+Oct 12, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Oct 11, 2014	Royal Oak Music Theatre	Royal Oak, MI	 I Was There
+Oct 10, 2014	Murat Egyptian Room	Indianapolis, IN	 I Was There
+Oct 05, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Sep 28, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Sep 21, 2014	Austin360 Ampitheater	Austin, TX	 I Was There
+Sep 20, 2014	The Cynthia Woods Mitchell Pavilion presented by Huntsman	Houston, TX	 I Was There	
+Sep 19, 2014	Gexa Energy Pavillion	Dallas, TX	 I Was There
+Sep 14, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Sep 13, 2014	Verizon Wireless Ampitheater	Irvine, CA	 I Was There
+Sep 12, 2014	Shoreline Amiptheatre	Mountain View, CA	 I Was There
+Sep 07, 2014	Red Rocks Ampitheatre	Denver, CO	 I Was There
+Sep 06, 2014	USANA Ampitheatre	Salt Lake City, UT	 I Was There
+Sep 05, 2014	White River Ampitheatre	Seattle, WA	 I Was There
+Aug 31, 2014	First Midwest Bank Ampitheatre	Chicago, IL	 I Was There
+Aug 30, 2014	First Niagara Pavillion	Burgettstown, PA	 I Was There
+Aug 29, 2014	DTE Energy Music Theatre	Clarkston, MI	 I Was There
+Aug 24, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Aug 23, 2014	Xfinity Theatre	Hartford, CT	 I Was There
+Aug 22, 2014	Nikon at Jones Beach Theater	Wantagh, NY	 I Was There
+Aug 21, 2014	Jiffy Lube Live	Bristow, VA	 I Was There
+Aug 19, 2014	CFE Arena	Orlando, FL	 I Was There
+Aug 17, 2014	PNC Bank Arts Center	Holmdel, NJ	 I Was There
+Aug 16, 2014	Susquehanna Bank Center	Camden, NJ	 I Was There
+Aug 15, 2014	Xfinity Center	Mansfield, MA	 I Was There
+Aug 10, 2014	Aaron's Amphitheatre at Lakewood	Atlanta, GA	 I Was There
+Aug 09, 2014	Pnc Music Pavilion	Charlotte, NC	 I Was There	
+Aug 08, 2014	MIDFLORIDA Credit Union Amphitheatre	Tampa, FL	 I Was There
+Jul 27, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Jul 20, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Jul 06, 2014	Knitting Factory Brooklyn	New York, NY	 I Was There
+Jun 12, 2014	Great Stage Park	Manchester, TN	 I Was There
+Apr 23, 2014	Paramount Theatre Austin	Austin, TX	 I Was There
+Apr 02, 2014	Englert Civic Theatre	Iowa City, IA	 I Was There
+Mar 29, 2014	Beat Kitchen	Chicago, IL	 I Was There
+Mar 25, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Mar 24, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Mar 23, 2014	Largo at the Coronet	Los Angeles, CA	 I Was There
+Mar 18, 2014	The Bell House	Brooklyn, NY	 I Was There
+Mar 09, 2014	Higher Ground Ballroom	South Burlington, VT	 I Was There
+Mar 08, 2014	Wilbur Theatre	Boston, MA	 I Was There
+Mar 07, 2014	Hu Ke Lau	Chicopee, MA	 I Was There
+Feb 23, 2014	Milwaukee Turner Hall Ballroom	Milwaukee, WI	 I Was There
+Feb 22, 2014	Varsity Theater	Minneapolis, MN	 I Was There
+Feb 21, 2014	Barrymore Theatre	Madison, WI	 I Was There
+Jan 25, 2014	Vic Theatre	Chicago, IL	 I Was There
+Nov 23, 2013	Cobbs Comedy Club	San Francisco, CA	 I Was There	
+Nov 22, 2013	Cobbs Comedy Club	San Francisco, CA	 I Was There
+Nov 21, 2013	Cobbs Comedy Club	San Francisco, CA	 I Was There
+Nov 06, 2013	Skirball Center New York	New York, NY	 I Was There
+Oct 29, 2013	The Bell House	Brooklyn, NY	 I Was There
+Oct 01, 2013	The Bell House	Brooklyn, NY	 I Was There
+Sep 23, 2013	Tonic Room	Chicago, IL	 I Was There
+Sep 21, 2013	Mandalay Bay Events Center	Las Vegas, NV	 I Was There
+Sep 09, 2013	Littefield	Brooklyn, NY	 I Was There
+Sep 08, 2013	Comcast Center	Mansfield, MA	 I Was There
+Aug 29, 2013	Comcast Theatre	Hartford, CT	 I Was There
+Aug 28, 2013	Union Hall	Brooklyn, NY	 I Was There
+Aug 27, 2013	The Bell House	Brooklyn, NY	 I Was There
+Aug 05, 2013	Littefield	Brooklyn, NY	 I Was There
+May 26, 2013	Bootleg Bar	Los Angeles, CA	 I Was There
+Apr 13, 2013	The Firebird	St Louis, MO	 I Was There
+Mar 30, 2013	Aladdin Theater	Portland, OR	 I Was There
+Feb 21, 2013	Rams Head On Stage	Annapolis, MD	 I Was There
+Feb 20, 2013	World Cafe Live Philadelphia	Philadelphia, PA	 I Was There
+Dec 16, 2012	Knitting Factory Bklyn	Brooklyn, NY	 I Was There
+Dec 09, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There	
+Dec 02, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Nov 25, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Nov 19, 2012	Littefield	Brooklyn, NY	 I Was There
+Nov 18, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Nov 11, 2012	Knitting Factory Bklyn	Brooklyn, NY	 I Was There
+Nov 04, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Oct 28, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Oct 21, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Oct 14, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Oct 07, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Sep 30, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Sep 23, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Sep 19, 2012	Union Transfer	Philadelphia, PA	 I Was There
+Sep 16, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Sep 09, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Sep 02, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Aug 29, 2012	40 Watt Club	Athens, GA	 I Was There
+Aug 26, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Aug 19, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Aug 12, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There	
+Aug 05, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Jul 29, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Jul 22, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Jul 15, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Jul 13, 2012	Lincoln Hall (Pitchfork Festival Afterparty)	Chicago, IL	 I Was There
+Jul 08, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Jul 01, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Jun 24, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Jun 17, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Jun 10, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Jun 03, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+May 27, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+May 20, 2012	Knitting Factory Bklyn	Brooklyn, NY	 I Was There
+May 13, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+May 12, 2012	Soho Theatre	London, United Kingdom	 I Was There
+May 11, 2012	Soho Theatre	London, United Kingdom	 I Was There
+May 10, 2012	Soho Theatre	London, United Kingdom	 I Was There
+May 09, 2012	Soho Theatre	London, United Kingdom	 I Was There
+May 08, 2012	Soho Theatre	London, United Kingdom	 I Was There
+May 06, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There	
+May 05, 2012	Soho Theatre	London, United Kingdom	 I Was There
+May 04, 2012	Soho Theatre	London, United Kingdom	 I Was There
+May 03, 2012	Soho Theatre	London, United Kingdom	 I Was There
+May 02, 2012	Soho Theatre	London, United Kingdom	 I Was There
+May 01, 2012	Soho Theatre	London, United Kingdom	 I Was There
+Apr 29, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Apr 22, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Apr 15, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Apr 08, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Apr 01, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Mar 25, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Mar 18, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Mar 11, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Mar 04, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Feb 26, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Feb 24, 2012	Great Scott	Allston, MA	 I Was There
+Feb 19, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Feb 12, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Feb 05, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Jan 29, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There	
+Jan 28, 2012	Casbah	San Diego, CA	 I Was There
+Jan 22, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Jan 15, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Jan 12, 2012	THE HIDEOUT	Chicago, IL	 I Was There
+Jan 08, 2012	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Dec 19, 2011	Littefield	Brooklyn, NY	 I Was There
+Dec 18, 2011	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Dec 11, 2011	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Dec 06, 2011	Blowout Tuesday: Curated by Dessa	Minneapolis, MN	 I Was There
+Dec 04, 2011	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Nov 27, 2011	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Nov 20, 2011	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Nov 13, 2011	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Nov 09, 2011	Vitus	Oakland, CA	 I Was There
+Nov 06, 2011	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Oct 30, 2011	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Oct 23, 2011	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Oct 16, 2011	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+Oct 09, 2011	Knitting Factory Brooklyn Front Bar	Brooklyn, NY	 I Was There
+

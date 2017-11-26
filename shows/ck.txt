@@ -1,710 +1,250 @@
-Feb 17th, 2017	
-Wang Theatre
-Boston, MA
-Feb 16th, 2017	
-Wang Theatre
-Boston, MA
-Feb 15th, 2017	
-Wang Theatre
-Boston, MA
-Feb 14th, 2017	
-Wang Theatre
-Boston, MA
-Feb 9th, 2017	
-Terrace Theater
-Long Beach, CA
-Feb 2nd, 2017	
-Mahalia Jackson Theater
-New Orleans, LA
-Feb 1st, 2017	
-Mahalia Jackson Theater
-New Orleans, LA
-Jan 26th, 2017	
-Air Canada Centre
-Toronto, ON
-Jan 25th, 2017	
-Massey Hall
-Toronto, CA
-Jan 21st, 2017	
-Theater of the Clouds at Moda Center
-Portland, OR
-Jan 20th, 2017	
-Theater of the Clouds at Moda Center
-Portland, OR
-Jan 19th, 2017	
-Theater of the Clouds at Moda Center
-Portland, OR
-Jan 18th, 2017	
-Bellco Theatre
-Denver, CO
-Jan 17th, 2017	
-Bellco Theatre
-Denver, CO
-Jan 14th, 2017	
-DAR Constitution Hall
-Washington, DC
-Jan 13th, 2017	
-DAR Constitution Hall
-Washington, DC
-Jan 12th, 2017	
-DAR Constitution Hall
-Washington, DC
-Jan 11th, 2017	
-DAR Constitution Hall
-Washington, DC
-Jan 7th, 2017	
-Austin City Limits Live at The Moody Theater
-Austin, TX
-Jan 6th, 2017	
-Austin City Limits Live at The Moody Theater
-Austin, TX
-Jan 5th, 2017	
-Austin City Limits Live at The Moody Theater
-Austin, TX
-Jan 4th, 2017	
-Austin City Limits Live at The Moody Theater
-Austin, TX
-Dec 16th, 2016	
-Madison Square Garden
-New York, NY
-Dec 14th, 2016	
-Madison Square Garden
-New York, NY
-Dec 10th, 2016	
-Paramount Theatre
-Seattle, WA
-Dec 9th, 2016	
-WaMu Theater
-Seattle, WA
-Dec 8th, 2016	
-Doug Mitchell Thunderbird Sports Centre
-Vancouver, BC
-Dec 7th, 2016	
-Doug Mitchell Thunderbird Sports Centre
-Vancouver, BC
-Dec 1st, 2016	
-Dolby Theatre
-Los Angeles, CA
-Nov 29th, 2016	
-Dolby Theatre
-Los Angeles, CA
-Nov 19th, 2016	
-DAR Constitution Hall
-Washington, DC
-Nov 18th, 2016	
-Knight Concert Hall at the Adrienne Arsht Center
-Miami, FL
-Nov 17th, 2016	
-Ziff Ballet Opera House at the Adrienne Arsht Center
-Miami, FL
-Nov 16th, 2016	
-Ziff Ballet Opera House at the Adrienne Arsht Center
-Miami, FL
-Nov 15th, 2016	
-Knight Concert Hall at the Adrienne Arsht Center
-Miami, FL
-Nov 10th, 2016	
-Music Hall at Fair Park
-Dallas, TX
-Nov 9th, 2016	
-Music Hall at Fair Park
-Dallas, TX
-Nov 3rd, 2016	
-Wells Fargo Center
-Philadelphia, PA
-Oct 27th, 2016	
-Charleston Gaillard Center
-Charleston, SC
-Oct 26th, 2016	
-Charleston Gaillard Center
-Charleston, SC
-Oct 21st, 2016	
-Petersen Events Center
-Pittsburgh, PA
-Oct 19th, 2016	
-Palace Theatre
-Albany, NY
-Oct 18th, 2016	
-NJPAC
-Newark, NJ
-Oct 13th, 2016	
-Overture Center for the Arts
-Madison, WI
-Oct 12th, 2016	
-Overture Center for the Arts
-Madison, WI
-Oct 6th, 2016	
-Chicago Theatre
-Chicago, IL
-Oct 5th, 2016	
-Chicago Theatre
-Chicago, IL
-Oct 4th, 2016	
-Chicago Theatre
-Chicago, IL
-Sep 20th, 2016	
-The Fox Theater
-Atlanta, GA
-Sep 15th, 2016	
-Madison Square Garden
-New York, NY
-Sep 12th, 2016	
-Madison Square Garden
-New York, NY
-Sep 8th, 2016	
-Madison Square Garden
-New York, NY
-Aug 27th, 2016	
-Budapest Congress Center
-Budapest, HU
-Aug 23rd, 2016	
-Rudolfinum
-Prague, CZ
-Aug 22nd, 2016	
-Prague Congress Centre
-Prague, CZE
-Aug 21st, 2016	
-L'Olympia
-Paris, France
-Aug 20th, 2016	
-Forum Copenhagen
-Copenhagen, DEN
-Aug 19th, 2016	
-Ice Hall
-Helsinki, FIN
-Aug 18th, 2016	
-Jerusalem Payis Arena
-Jerusalem, Israel
-Aug 16th, 2016	
-Ziggo Dome
-Amsterdam, NLD
-Aug 15th, 2016	
-3 Arena
-Dublin, IRE
-Aug 14th, 2016	
-Eventim Apollo
-London, ENG
-Aug 13th, 2016	
-Eventim Apollo
-Late show
-London, ENG
-Aug 13th, 2016	
-Eventim Apollo
-London, ENG
-Aug 12th, 2016	
-Wembley Arena
-London, ENG
-Aug 11th, 2016	
-Edinburgh Playhouse
-Edinburgh, UK
-Aug 6th, 2016	
-MassMutual Center
-Springfield, MA
-Aug 5th, 2016	
-Joe Louis Arena
-Detroit, MI
-Aug 4th, 2016	
-Scottrade Center
-St Louis, MO
-Aug 3rd, 2016	
-CenturyLink Center
-Omaha, NE
-Aug 2nd, 2016	
-Target Center
-Minneapolis, MN
-Aug 1st, 2016	
-BMO Harris Bradley Center
-Milwaukee, WI
-Jul 22nd, 2016	
-Forest Hills Stadium
-Forest Hills, NY
-Jul 15th, 2016	
-Greensboro Coliseum
-Benefit- All proceeds go to "Equality NC"
-Greensboro, NC
-Jul 14th, 2016	
-Bridgestone Arena
-Nashville, TN
-Jul 13th, 2016	
-DAR Constitution Hall
-Washington, DC
-Jul 12th, 2016	
-NRG Arena
-Houston, TX
-Jul 11th, 2016	
-The LA Forum
-Inglewood, CA
-Jul 10th, 2016	
-The LA Forum
-Inglewood, CA
-Jul 9th, 2016	
-Oracle Arena
-Oakland, CA
-Jul 8th, 2016	
-Bill Graham Civic Auditorium
-Late show
-San Francisco
-Jul 8th, 2016	
-Bill Graham Civic Auditorium
-San Francisco
-Jul 7th, 2016	
-Sprint Center
-Kansas City, MO
-Jun 9th, 2016	
-Santander Arena
-Reading, PA
-Jun 8th, 2016	
-Mohegan Sun Arena
-Wilkes-Barre, PA
-Jun 3rd, 2016	
-Chicago Theatre
-Late show
-Chicago
-Jun 2nd, 2016	
-Chicago Theatre
-Late show
-Chicago
-Jun 2nd, 2016	
-Chicago Theatre
-Chicago
-Jun 1st, 2016	
-Chicago Theatre
-Chicago
-May 31st, 2016	
-Chicago Theatre
-Chicago
-May 26th, 2016	
-Foxwoods Grand Theatre
-Mashantucket, CT
-May 25th, 2016	
-Foxwoods Grand Theatre
-Mashantucket, CT
-May 20th, 2016	
-Paramount Theatre
-Late show
-Asbury Park, NJ
-May 20th, 2016	
-Paramount Theatre
-Asbury Park, NJ
-May 19th, 2016	
-Paramount Theatre
-Asbury Park, NJ
-May 18th, 2016	
-Lyric Theatre
-Late show
-Baltimore, MD
-May 18th, 2016	
-Lyric Theatre
-Baltimore, MD
-May 17th, 2016	
-Lyric Theatre
-Late show
-Baltimore, MD
-May 17th, 2016	
-Lyric Theatre
-Early show
-Baltimore, MD
-Jan 24th, 2015	
-Madison Square Garden
-New York, NY
-Jan 14th, 2015	
-Madison Square Garden
-New York, NY
-Jan 11th, 2015	
-The Forum, Inglewood
-Los Angeles, CA
-Jan 7th, 2015	
-Madison Square Garden
-New York, NY
-Jan 6th, 2015	
-The Chicago Theater
-Late show
-Chicago, IL
-Jan 6th, 2015	
-The Chicago Theater
-Chicago, IL
-Jan 5th, 2015	
-The Chicago Theater
-Late show
-Chicago, IL
-Jan 5th, 2015	
-The Chicago Theater
-Chicago, IL
-Apr 6th, 2013	
-Joseph Meyerhoff Symphony Hall
-Late show
-Baltimore, MD
-Apr 6th, 2013	
-Joseph Meyerhoff Symphony Hall
-Early show
-Baltimore, MD
-Apr 5th, 2013	
-Palace Theatre
-Late show
-Stamford, CT
-Apr 5th, 2013	
-Palace Theatre
-Early show
-Stamford, CT
-Apr 4th, 2013	
-Kleinhans Music Hall
-Buffalo, NY
-Mar 27th, 2013	
-Mid-Hudson Civic Center
-Poughkeepsie, NY
-Mar 26th, 2013	
-Lowell Memorial Auditorium
-Lowell, MA
-Mar 23rd, 2013	
-Ericsson Globe
-Stockholm
-Mar 22nd, 2013	
-Oslo Spektrum
-Oslo
-Mar 21st, 2013	
-Hammersmith Apollo
-Late show
-London
-Mar 21st, 2013	
-Hammersmith Apollo
-Early show
-London
-Mar 20th, 2013	
-The O2
-London
-Mar 16th, 2013	
-Landmark Theater
-Richmond, VA
-Mar 15th, 2013	
-State Theater
-Late show - RECENTLY ADDED
-New Brunswick, NJ
-Mar 15th, 2013	
-State Theater
-Early show
-New Brunswick, NJ
-Mar 2nd, 2013	
-New York City Center
-Late show
-New York, NY
-Mar 2nd, 2013	
-New York City Center
-Early show
-New York, NY
-Feb 16th, 2013	
-Celebrity Theatre
-Late Show
-Phoenix, AZ
-Feb 16th, 2013	
-Celebrity Theatre
-Early Show
-Phoenix, AZ
-Feb 15th, 2013	
-Celebrity Theatre
-Late show
-Phoenix, AZ
-Feb 15th, 2013	
-Celebrity Theatre
-Early show
-Phoenix, AZ
-Feb 12th, 2013	
-Wells Fargo Pavilion
-Sacramento, CA
-Feb 2nd, 2013	
-The Fox Theatre
-Late show
-Atlanta, GA
-Feb 2nd, 2013	
-The Fox Theatre
-Early show
-Atlanta, GA
-Feb 1st, 2013	
-The John F. Kennedy Center For The Performing Arts
-Late show
-NW Washington, DC
-Feb 1st, 2013	
-The John F. Kennedy Center For The Performing Arts
-Early show
-NW Washington, DC
-Jan 31st, 2013	
-Carnegie Music Hall of Oakland
-Pittsburgh, PA
-Jan 30th, 2013	
-Andrew Jackson Hal
-Nashville, TN
-Jan 25th, 2013	
-New Jersey Performing Arts Center
-Newark, NJ
-Jan 24th, 2013	
-New Jersey Performing Arts Center
-Newark, NJ
-Jan 18th, 2013	
-Merriam Theatre
-Philadelphia, PA
-Jan 17th, 2013	
-Merriam Theatre
-Philadelphia, PA
-Jan 16th, 2013	
-Merriam Theatre
-Philadelphia, PA
-Jan 5th, 2013	
-Boston Symphony Hall
-Late Show
-Boston, MA
-Jan 5th, 2013	
-Boston Symphony Hall
-Early show
-Boston, MA
-Jan 4th, 2013	
-Boston Symphony Hall
-Late Show
-Boston, MA
-Jan 4th, 2013	
-Boston Symphony Hall
-Early show
-Boston, MA
-Jan 3rd, 2013	
-Boston Symphony Hall
-Late Show
-Boston, MA
-Jan 3rd, 2013	
-Boston Symphony Hall
-Early show
-Boston, MA
-Dec 31st, 2012	
-Joseph Meyerhoff Symphony Hall
-Late show
-Baltimore, MD
-Dec 31st, 2012	
-Joseph Meyerhoff Symphony Hall
-Early show
-Baltimore, MD
-Dec 21st, 2012	
-Paramount Theater
-Late show
-Seattle, WA
-Dec 21st, 2012	
-Paramount Theater
-Early show
-Seattle, WA
-Dec 20th, 2012	
-Paramount Theater
-Late show
-Seattle, WA
-Dec 20th, 2012	
-Paramount Theater
-Early show
-Seattle, WA
-Dec 15th, 2012	
-Wells Fargo Theatre @ The Colorado Convention Center
-Denver, CO
-Dec 14th, 2012	
-Austin City Limits Live
-Late show
-Austin, TX
-Dec 14th, 2012	
-Austin City Limits Live
-Early show
-Austin, TX
-Dec 13th, 2012	
-Austin City Limits Live
-Late show
-Austin, TX
-Dec 13th, 2012	
-Austin City Limits Live
-Early show
-Austin, TX
-Nov 30th, 2012	
-The Classic Center
-Late show
-Athens, GA
-Nov 30th, 2012	
-The Classic Center
-Early show
-Athens, GA
-Nov 29th, 2012	
-David A. Straz, Jr. Center for the Performing Arts
-Late show
-Tampa, FL
-Nov 29th, 2012	
-David A. Straz, Jr. Center for the Performing Arts
-Early show
-Tampa, FL
-Nov 28th, 2012	
-Broward Center for the Performing Arts
-Late show
-Fort Lauderdale, FL
-Nov 28th, 2012	
-Broward Center for the Performing Arts
-Early show
-Fort Lauderdale, FL
-Nov 17th, 2012	
-St. George Theatre
-Late Show
-Staten Island, NY
-Nov 17th, 2012	
-St. George Theatre
-Early Show
-Staten Island, NY
-Nov 16th, 2012	
-Chicago Symphony Center
-Late show
-Chicago, IL
-Nov 16th, 2012	
-Chicago Symphony Center
-Early show
-Chicago, IL
-Nov 15th, 2012	
-Davies Symphony Hall
-Late show
-San Francisco, CA
-Nov 15th, 2012	
-Davies Symphony Hall
-Early show
-San Francisco, CA
-Nov 14th, 2012	
-Davies Symphony Hall
-Late show
-San Francisco, CA
-Nov 14th, 2012	
-Davies Symphony Hall
-Early show
-San Francisco, CA
-Nov 9th, 2012	
-Chicago Symphony Center
-Late show
-Chicago, IL
-Nov 9th, 2012	
-Chicago Symphony Center
-Early show
-Chicago, IL
-Nov 8th, 2012	
-Bushnell Center for the Arts
-Late show
-Hartford, CT
-Nov 8th, 2012	
-Bushnell Center for the Arts
-Early show
-Hartford, CT
-Nov 7th, 2012	
-Merrill Auditorium
-Portland, ME
-Oct 28th, 2012	
-New York City Center
-Late show
-New York, NY
-Oct 28th, 2012	
-New York City Center
-Early show
-New York, NY
-Oct 27th, 2012	
-New York City Center
-Late show
-New York, NY
-Oct 27th, 2012	
-New York City Center
-Early show
-New York, NY
-Oct 26th, 2012	
-New York City Center
-Late show
-New York, NY
-Oct 26th, 2012	
-New York City Center
-Early show
-New York, NY
-Oct 25th, 2012	
-New York City Center
-Late show
-New York, NY
-Oct 25th, 2012	
-New York City Center
-Early show
-New York, NY
-Oct 24th, 2012	
-New York City Center
-Late show
-New York, NY
-Oct 24th, 2012	
-New York City Center
-Early show
-New York, NY
-Oct 23rd, 2012	
-New York City Center
-Late show
-New York, NY
-Oct 23rd, 2012	
-New York City Center
-Early show
-New York, NY
-Oct 22nd, 2012	
-New York City Center
-Late show
-New York, NY
-Oct 22nd, 2012	
-New York City Center
-Early show
-New York, NY
-Oct 20th, 2012	
-Majestic Theatre
-Late show
-Dallas, TX
-Oct 20th, 2012	
-Majestic Theatre
-Early show
-Dallas, TX
-Oct 19th, 2012	
-Jesse H. Jones Hall for the Performing Arts
-Late show
-Houston, TX
-Oct 19th, 2012	
-Jesse H. Jones Hall for the Performing Arts
-Early show
-Houston, TX
-Oct 18th, 2012	
-The Brady Theater
-Tulsa, OK
-Oct 17th, 2012	
-Johnny Mercer Theatre @ Savannah Civic Center
-Savannah, GA
-Oct 12th, 2012	
-The Masonic Temple
-Detroit, MI
-Oct 11th, 2012	
-Riverside Theater
-Late show
-Milwaukee, WI
-Oct 11th, 2012	
-Riverside Theater
-Early show
-Milwaukee, WI
-Oct 10th, 2012	
-Riverside Theater
-Milwaukee, WI
-Oct 6th, 2012	
-Fox Theatre
-Late show
-St. Louis, MO
-Oct 6th, 2012	
-Fox Theatre
-Early show
-St. Louis, MO
-Oct 5th, 2012	
-Minneapolis Convention Center
-Late show
-Minneapolis, MN
-Oct 5th, 2012	
-Minneapolis Convention Center
-Early show
-Minneapolis, MN
-Oct 4th, 2012	
-Minneapolis Convention Center
-Minneapolis, MN
-Oct 3rd, 2012	
-Severance Hall
-Late show
-Cleveland, OH
-Oct 3rd, 2012	
-Severance Hall
-Early show
-Cleveland, OH
+Date	Venue	Location	Ignore
+Feb 17	Boch Center Wang Theatre	Boston, MA	 I Was There
+Feb 16	Boch Center Wang Theatre	Boston, MA	 I Was There
+Feb 15	Boch Center Wang Theatre	Boston, MA	 I Was There
+Feb 14	Boch Center Wang Theatre	Boston, MA	 I Was There
+Feb 09	Terrace Theater	Long Beach, CA	 I Was There
+Feb 02	Mahalia Jackson Theater for the Performing Arts	New Orleans, LA	 I Was There
+Feb 01	Mahalia Jackson Theater for the Performing Arts	New Orleans, LA	 I Was There
+Jan 26	Air Canada Centre	Toronto, Canada	 I Was There
+Jan 21	Theater of the Clouds at Moda Center	Portland, OR	 I Was There
+Jan 20	Moda Center	Portland, OR	 I Was There
+Jan 19	Moda Center	Portland, OR	 I Was There
+Jan 18	Bellco Theatre	Denver, CO	 I Was There
+Jan 17	Bellco Theatre	Denver, CO	 I Was There
+Jan 14	D.A.R. Constitution Hall	Washington, DC	 I Was There
+Jan 13	D.A.R. Constitution Hall	Washington, DC	 I Was There
+Jan 12	DAR Constitution Hall	Washington, DC	 I Was There
+Jan 11	DAR Constitution Hall	Washington, DC	 I Was There
+Jan 07	Moody Theater	Austin, TX	 I Was There
+Jan 06	Moody Theater	Austin, TX	 I Was There
+Jan 05	Moody Theater	Austin, TX	 I Was There
+Jan 04	Moody Theater	Austin, TX	 I Was There
+Dec 23, 2016	Town Hall-NY	New York, NY	 I Was There
+Dec 16, 2016	Madison Square Garden	New York, NY	 I Was There
+Dec 14, 2016	Madison Square Garden	New York, NY	 I Was There
+Dec 10, 2016	Paramount Theatre-Washington	Seattle, WA	 I Was There
+Dec 09, 2016	Wamu Theater	Seattle, WA	 I Was There
+Dec 08, 2016	UBC	Vancouver, Canada	 I Was There
+Dec 07, 2016	UBC	Vancouver, Canada	 I Was There
+Dec 01, 2016	Dolby Theatre	Los Angeles, CA	 I Was There
+Nov 29, 2016	Dolby Theatre	Hollywood, CA	 I Was There
+Nov 19, 2016	DAR Constitution Hall	Washington, DC	 I Was There
+Nov 16, 2016	Ziff Ballet Opera House-Adrienne Arsht PAC	Miami, FL	 I Was There
+Nov 15, 2016	Knight Concert Hall-Adrienne Arsht PAC	Miami, FL	 I Was There
+Nov 10, 2016	Music Hall At Fair Park	Dallas, TX	 I Was There
+Nov 09, 2016	Music Hall At Fair Park	Dallas, TX	 I Was There
+Nov 03, 2016	Wells Fargo Center-PA	Philadelphia, PA	 I Was There
+Nov 01, 2016	The Theater at Madison Square Garden	New York, NY	 I Was There
+Oct 21, 2016	Petersen Events Center	Pittsburgh, PA	 I Was There
+Oct 19, 2016	The Palace Theatre Albany	Albany, NY	 I Was There
+Oct 18, 2016	New Jersey Performing Arts Center	Newark, NJ	 I Was There
+Oct 07, 2016	TOWN HALL THEATER	New York, NY	 I Was There
+Oct 06, 2016	Chicago Theatre	Chicago, IL	 I Was There
+Oct 05, 2016	The Chicago Theatre	Chicago, IL	 I Was There
+Oct 04, 2016	Chicago Theatre	Chicago, IL	 I Was There
+Sep 20, 2016	Fox Theatre	Atlanta, GA	 I Was There
+Sep 15, 2016	Madison Square Garden	New York, NY	 I Was There
+Sep 12, 2016	Madison Square Garden	New York, NY	 I Was There
+Sep 08, 2016	Madison Square Garden	New York, NY	 I Was There
+Aug 16, 2016	Ziggo Dome	Amsterdam, Netherlands	 I Was There
+Aug 13, 2016	eventim apollo	London, United Kingdom	 I Was There
+Aug 11, 2016	Edinburgh Playhouse	Edinburgh, United Kingdom	 I Was There
+Aug 06, 2016	MassMutual Center	Springfield, MA	 I Was There
+Aug 05, 2016	Joe Louis Arena	Detroit, MI	 I Was There
+Aug 04, 2016	Scottrade Center	St Louis, MO	 I Was There
+Aug 03, 2016	CenturyLink Center Omaha	Omaha, NE	 I Was There
+Aug 02, 2016	Target Center	Minneapolis, MN	 I Was There
+Aug 01, 2016	BMO Harris Bradley Center	Milwaukee, WI	 I Was There
+Jul 22, 2016	Forest Hills Stadium	Forest Hills, NY	 I Was There
+Jul 15, 2016	Greensboro Coliseum Arena	Greensboro, NC	 I Was There
+Jul 14, 2016	Bridgestone Arena	Nashville, TN	 I Was There
+Jul 13, 2016	DAR Constitution Hall	Washington, DC	 I Was There
+Apr 08, 2016	The Lincoln Theatre	Washington, DC	 I Was There
+Jan 27, 2015	Madison Square Garden	New York, NY	 I Was There
+Jan 14, 2015	Madison Square Garden	New York, NY	 I Was There
+Jan 11, 2015	The Forum	Los Angeles, CA	 I Was There
+Jan 07, 2015	Madison Square Garden	New York, NY	 I Was There
+Jan 06, 2015	Chicago Theatre	Chicago, IL	 I Was There
+Jan 05, 2015	Chicago Theatre	Chicago, IL	 I Was There
+Nov 05, 2014	Madison Square Garden	New York, NY	 I Was There
+Sep 21, 2014	Austin360 Ampitheater	Austin, TX	 I Was There
+Sep 20, 2014	The Cynthia Woods Mitchell Pavilion presented by Huntsman	Houston, TX	 I Was There
+Sep 19, 2014	Gexa Energy Pavillion	Dallas, TX	 I Was There
+Sep 14, 2014	Verizon Wireless Ampitheater	Irvine, CA	 I Was There
+Sep 13, 2014	Verizon Wireless Ampitheater	Irvine, CA	 I Was There
+Sep 12, 2014	Shoreline Amiptheatre	Mountain View, CA	 I Was There
+Sep 07, 2014	Red Rocks Ampitheatre	Denver, CO	 I Was There
+Sep 06, 2014	USANA Ampitheatre	Salt Lake City, UT	 I Was There
+Sep 05, 2014	White River Ampitheatre	Seattle, WA	 I Was There
+Aug 23, 2014	Xfinity Theatre	Hartford, CT	 I Was There
+Aug 22, 2014	Nikon at Jones Beach Theater	Wantagh, NY	 I Was There
+Aug 17, 2014	PNC Bank Arts Center	Holmdel, NJ	 I Was There
+Aug 16, 2014	Susquehanna Bank Center	Camden, NJ	 I Was There
+Aug 15, 2014	Xfinity Center	Mansfield, MA	 I Was There
+Aug 10, 2014	Aaron's Amphitheatre at Lakewood	Atlanta, GA	 I Was There
+Aug 09, 2014	Pnc Music Pavilion	Charlotte, NC	 I Was There
+Aug 08, 2014	MIDFLORIDA Credit Union Amphitheatre	Tampa, FL	 I Was There
+Mar 20, 2013	The O2 Arena	London, United Kingdom	 I Was There
+Dec 31, 2012	Meyerhoff Hall	Baltimore, MD	 I Was There
+Nov 29, 2012	Straz Center Morsani Hall	Tampa, FL	 I Was There
+Nov 04, 2011	Meyerhoff Hall	Baltimore, MD	 I Was There
+Oct 14, 2011	Mgm Grand Theater At Foxwoods	Las Vegas, NV	 I Was There
+Aug 07, 2011	Cape Cod Melody Tent	Hyannis, MA	 I Was There
+Aug 06, 2011	Newport Yachting Center	Newport, RI	 I Was There
+Aug 05, 2011	South Shore Music Circus	Cohasset, MA	 I Was There
+Aug 04, 2011	Hampton Beach Casino Ballroom	Hampton Beach, NH	 I Was There
+Jun 18, 2011	The Chicago Theatre	Chicago, IL	 I Was There
+Apr 23, 2011	Borgata Casino Event Center	Atlantic City, NJ	 I Was There
+Feb 25, 2011	Caroline's Comedy Club	New York, NY	 I Was There
+Feb 24, 2011	Caroline's Comedy Club	New York, NY	 I Was There
+Jan 03, 2011	Moore Theatre	Seattle, WA	 I Was There
+Dec 12, 2010	Hard Rock	Orlando, FL	 I Was There
+Dec 11, 2010	Cobb Energy Performing Arts Centre	Atlanta, GA	 I Was There
+Dec 10, 2010	The Fillmore Miami Beach at Jackie Gleason Theater	Miami Beach, FL	 I Was There
+Dec 09, 2010	Ferguson Hall	Tampa, FL	 I Was There
+Dec 04, 2010	Balboa Theatre	San Diego, CA	 I Was There
+Dec 02, 2010	Gibson Amph. At Univ. CityWalk	Universal City, CA	 I Was There
+Nov 21, 2010	Bass Performance Hall	Fort Worth, TX	 I Was There
+Nov 19, 2010	Paramount Theatre	Austin, TX	 I Was There
+Nov 18, 2010	Verizon Wireless Theater	Houston, TX	 I Was There
+Nov 14, 2010	Paramount Theatre	Denver, CO	 I Was There
+Nov 13, 2010	Aladdin Theater	Portland, OR	 I Was There
+Nov 12, 2010	Moore Theatre	Seattle, WA	 I Was There
+Nov 07, 2010	Sovereign Perf. Arts Center	Reading, PA	 I Was There
+Nov 06, 2010	Count Basie Theatre	Red Bank, NJ	 I Was There
+Nov 05, 2010	Academy of Music	Philadelphia, PA	 I Was There
+Nov 04, 2010	Carnegie Hall	New York, NY	 I Was There
+Oct 23, 2010	Palace Theatre	Albany, NY	 I Was There
+Oct 22, 2010	Warner Theatre	Washington, DC	 I Was There
+Oct 21, 2010	Métropolis	Montreal, Canada	 I Was There
+Oct 10, 2010	The Midland by AMC	Kansas City, MO	 I Was There
+Oct 09, 2010	Riverside Casino & Golf Resort	Riverside, IA	 I Was There
+Oct 08, 2010	Detroit Opera House	Detroit, MI	 I Was There
+Oct 07, 2010	Murat Egyptian Room	Indianapolis, IN	 I Was There
+Oct 03, 2010	PlayhouseSquare	Cleveland, OH	 I Was There
+Oct 02, 2010	The Chicago Theatre	Chicago, IL	 I Was There
+Oct 01, 2010	State Theatre	Minneapolis, MN	 I Was There
+Sep 26, 2010	Wilbur Theatre	Boston, MA	 I Was There
+Sep 25, 2010	Wilbur Theatre	Boston, MA	 I Was There
+Sep 24, 2010	Wilbur Theatre	Boston, MA	 I Was There
+Sep 23, 2010	Fox Theater	Ledyard, CT	 I Was There
+Sep 19, 2010	Capitol Theater	Madison, WI	 I Was There
+Sep 18, 2010	The Riverside Theater	Milwaukee, WI	 I Was There
+Sep 17, 2010	Davies Hall	San Francisco, CA	 I Was There
+Sep 09, 2010	Louise M. Davies Symphony Hall	San Francisco, CA	 I Was There
+Aug 01, 2010	Newport Yachting Center	Newport, RI	 I Was There
+Jul 31, 2010	Hampton Beach Casino Ballroom	Hampton Beach, NH	 I Was There
+Jul 23, 2010	Zanies Comedy Club	Nashville, TN	 I Was There
+Jan 02, 2010	Tempe Improv	Tempe, AZ	 I Was There
+Jan 01, 2010	Tempe Improv	Tempe, AZ	 I Was There
+Dec 31, 2009	Tempe Improv	Tempe, AZ	 I Was There
+Oct 17, 2009	Vogue Theatre BC	Vancouver, Canada	 I Was There
+Jul 05, 2009	Cape Cod Melody Tent	West Harwich, MA	 I Was There
+Jul 04, 2009	Newport Yachting Center	Newport, RI	 I Was There
+Jun 20, 2009	Theatre at Westbury	Westbury, NY	 I Was There
+May 14, 2009	Shea's Performing Arts Center	Buffalo, NY	 I Was There
+Apr 17, 2009	Royal Oak Music Theatre	Royal Oak, MI	 I Was There
+Mar 28, 2009	Crest Theatre	Sacramento, CA	 I Was There
+Mar 27, 2009	Wiltern Theatre	Los Angeles, CA	 I Was There
+Mar 20, 2009	Hard Rock Live	Orlando, FL	 I Was There
+Mar 19, 2009	Tampa Awards	Tampa, FL	 I Was There
+Mar 14, 2009	Orpheum Theatre	Boston, MA	 I Was There
+Mar 07, 2009	Higher Ground	Burlington, VT	 I Was There
+Feb 28, 2009	Mississippi Moon	Dubuque, IA	 I Was There
+Feb 27, 2009	Midland Theatre	Kansas City, MO	 I Was There
+Feb 21, 2009	Merriam Theater	Philadelphia, PA	 I Was There
+Feb 20, 2009	Count Basie Theatre	Red Bank, NJ	 I Was There
+Feb 14, 2009	McDonald Theatre	Eugene, OR	 I Was There
+Feb 07, 2009	Turning Stone Resort Casino Event Center	Verona, NY	 I Was There
+Feb 06, 2009	The Egg	Albany, NY	 I Was There
+Nov 22, 2008	Grand Opera House	Wilmington, DE	 I Was There
+Nov 21, 2008	Warner Theatre	Washington, DC	 I Was There
+Nov 15, 2008	Newark Theatre	Portland, OR	 I Was There
+Nov 14, 2008	Vogue Theatre	Vancouver, Canada	 I Was There
+Nov 08, 2008	Palace Theatre	Greensburg, PA	 I Was There
+Nov 07, 2008	Capitol Theatre	Columbus, OH	 I Was There
+Nov 06, 2008	Town Hall	New York, NY	 I Was There
+Nov 01, 2008	Governor's	Levittown, PA	 I Was There
+Oct 31, 2008	Governor's	Levittown, PA	 I Was There
+Oct 24, 2008	Parker Playhouse	Fort Lauderdale, FL	 I Was There
+Oct 18, 2008	Vic Theatre	Chicago, IL	 I Was There
+Oct 17, 2008	The Pageant	St Louis, MO	 I Was There
+Oct 16, 2008	Music Mill	Indianapolis, IN	 I Was There
+Oct 11, 2008	Borgata	Atlantic City, NJ	 I Was There
+Oct 10, 2008	Grand Valley State University	Allendale, MI	 I Was There
+Oct 09, 2008	Wharton Center	East Lansing, MI	 I Was There
+Oct 07, 2008	The Pageant	St Louis, MO	 I Was There
+Oct 04, 2008	Wilbur Theatre	Boston, MA	 I Was There
+Oct 03, 2008	Bergen Performing Arts Center	Englewood, NJ	 I Was There
+Sep 28, 2008	Largo at the Coronet Theatre	Los Angeles, CA	 I Was There
+Sep 27, 2008	HARDROCK	Las Vegas, NV	 I Was There
+Sep 27, 2008	The Joint Las Vegas, NV	Las Vegas, NV	 I Was There
+Sep 26, 2008	Orpheum Theatre	Phoenix, AZ	 I Was There
+Sep 20, 2008	Hampton Beach Casino Ballroom	Hampton Beach, NH	 I Was There
+Sep 20, 2008	Hampton Beach Casino Ballroom	Hampton Beach, FL	 I Was There
+Sep 19, 2008	The Tabernacle	Atlanta, GA	 I Was There
+Sep 12, 2008	University Of Richmond	Richmond, VA	 I Was There
+Sep 06, 2008	Punch Line SF	San Francisco, CA	 I Was There
+Sep 05, 2008	Punch Line SF	San Francisco, CA	 I Was There
+Sep 04, 2008	Punch Line SF	San Francisco, CA	 I Was There
+Sep 03, 2008	Punch Line SF	San Francisco, CA	 I Was There
+Sep 01, 2008	Largo at the Coronet Theatre	Los Angeles, CA	 I Was There
+Aug 24, 2008	Göta Lejon	Stockholm, Sweden	 I Was There
+Aug 23, 2008	Arts Theatre	London, United Kingdom	 I Was There
+Aug 22, 2008	Arts Theatre	London, United Kingdom	 I Was There
+Aug 21, 2008	Arts Theatre	London, United Kingdom	 I Was There
+Aug 20, 2008	Arts Theatre	London, United Kingdom	 I Was There
+Aug 19, 2008	Arts Theatre	London, United Kingdom	 I Was There
+Aug 16, 2008	Pleasance Bar	Edinburgh, United Kingdom	 I Was There
+Aug 15, 2008	Pleasance Bar	Edinburgh, United Kingdom	 I Was There
+Aug 08, 2008	Arts Theatre	London, United Kingdom	 I Was There
+Aug 07, 2008	Arts Theatre	London, United Kingdom	 I Was There
+Aug 06, 2008	Arts Theatre	London, United Kingdom	 I Was There
+Aug 05, 2008	Arts Theatre	London, United Kingdom	 I Was There
+Aug 02, 2008	Arts Theatre	London, United Kingdom	 I Was There
+Aug 01, 2008	Arts Theatre	London, United Kingdom	 I Was There
+Jul 31, 2008	Arts Theatre	London, United Kingdom	 I Was There
+Jul 30, 2008	Arts Theatre	London, United Kingdom	 I Was There
+Jul 29, 2008	Arts Theatre	London, United Kingdom	 I Was There
+Jul 27, 2008	Comedy Factory	Dublin, Ireland	 I Was There
+Jul 20, 2008	Sunset Festival	Newport, RI	 I Was There
+Jun 15, 2008	Bonnaroo Music Festival	Manchester, TN	 I Was There
+Jun 14, 2008	Bonnaroo Music Festival	Manchester, TN	 I Was There
+Apr 26, 2008	Keswick Theatre	Glenside, PA	 I Was There
+Apr 05, 2008	House of Blues Dallas	Dallas, TX	 I Was There
+Apr 04, 2008	Paramount Theatre	Austin, TX	 I Was There
+Jan 16, 2008	Lincoln Theatre	Miami Beach, FL	 I Was There
+Dec 15, 2007	Penguins Comedy Club / Nan's Piano Bar	Davenport, IA	 I Was There
+Dec 14, 2007	Penguins Comedy Club / Nan's Piano Bar	Davenport, IA	 I Was There
+Dec 13, 2007	Penguin's Comedy Club	Cedar Rapids, IA	 I Was There
+Nov 16, 2007	Comedy Connection-MA	Boston, MA	 I Was There
+Nov 15, 2007	Kowloon	Saugus, MA	 I Was There
+Nov 10, 2007	The Moore Theater-with KEANE	Seattle, WA	 I Was There
+Nov 09, 2007	Aladdin Theater	Portland, OR	 I Was There
+Nov 08, 2007	Town Hall	New York, NY	 I Was There
+Nov 03, 2007	Coach House	San Juan Capistrano, CA	 I Was There
+Nov 03, 2007	Canyon Club	Agoura Hills, CA	 I Was There
+Nov 02, 2007	Coach House	San Juan Capistrano, CA	 I Was There
+Oct 27, 2007	Calvin Theatre	Northampton, MA	 I Was There
+Oct 19, 2007	Borgata Hotel, Casino & Spa	Atlantic City, NJ	 I Was There
+Oct 13, 2007	House of Blues	Las Vegas, NV	 I Was There
+Oct 12, 2007	Spreckels Theatre	San Diego, CA	 I Was There
+Oct 06, 2007	Barrymore Theatre	Madison, WI	 I Was There
+Oct 05, 2007	Uptown Theater	Kansas City, MO	 I Was There
+Sep 29, 2007	Count Basie Theatre	Red Bank, NJ	 I Was There
+Sep 28, 2007	Tarrytown Music Hall	Tarrytown, NY	 I Was There
+Sep 23, 2007	McCurdy's Comedy Theatre	Sarasota, FL	 I Was There
+Sep 22, 2007	McCurdy's Comedy Theatre	Sarasota, FL	 I Was There
+Sep 21, 2007	McCurdy's Comedy Theatre	Sarasota, FL	 I Was There
+Sep 20, 2007	McCurdy's Comedy Theatre	Sarasota, FL	 I Was There
+Sep 18, 2007	Canyon Club	Agoura Hills, CA	 I Was There
+Sep 15, 2007	Tweeter Center	Camden, NJ	 I Was There
+Sep 14, 2007	Seminole Hard Rock Hotel	Hollywood, FL	 I Was There
+Sep 14, 2007	Hard Rock Live	Orlando, FL	 I Was There
+Sep 06, 2007	Rex Theatre	Pittsburgh, PA	 I Was There
+Aug 25, 2007	PNC Bank Arts Center	Woodbridge, NJ	 I Was There
+Aug 18, 2007	Nissan Pavilion	Bristow, VA	 I Was There
+Aug 04, 2007	DTE Energy Music Theatre	Clarkston, MI	 I Was There
+Jun 30, 2007	Mohegan Sun Arena	Uncasville, CT	 I Was There
+Jun 16, 2007	Northwell Health @ Jones Beach Theater	Wantagh, NY	 I Was There
