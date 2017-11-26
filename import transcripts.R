@@ -330,6 +330,7 @@ Burr_norm <- text_norm(Bill_Burr)
 BH_norm <- text_norm(Bill_Hicks)
 BP_norm <- text_norm(Brian_Posehn)
 CR_norm <- text_norm(Chris_Rock)
+CK_norm <- text_norm(Louis_CK)
 DC_norm <- text_norm(Dave_Chappelle)
 DT_norm <- text_norm(Daniel_Tosh)
 DM_norm <- text_norm(Demetri_Martin)
@@ -367,3 +368,102 @@ vocab_similarity <- function(c1, c2){
   answer <- z / w
   return(answer)
 }
+
+vocab_similarity(AW_norm, JC_norm)
+
+comedians_list <- c("Amy Schumer", "Aziz Ansari", "Ali Wong", "Bill Burr", "Bill Hicks",
+  "Bo Burnham", "Brian Posehn", "Chris Rock", "Dave Chappelle", "Demetri Martin",
+  "Donald Glover", "Daniel Tosh", "Eddie Murphy", "Frankie Boyle", "George Carlin",
+  "Iliza Schlesinger", "Jeff Foxworthy", "Jimmy Carr", "Jim Gaffigan", "Jim Jefferies",
+  "John Mulaney", "Louis CK", "Lenny Bruce", "Maria Bamford", "Neal Brennan", "Patton Oswalt",
+  "Richard Pryor", "Ron White", "Ricky Gervais", "Steve Harvey", "Tom Segura", "Steven Wright",
+  "Redd Foxx", "Jerry Seinfeld", "Hannibal Burress", "Larry the Cable Guy", "Mitch Hedberg")
+
+all_comparisons <- as.tibble(matrix(c(0), nrow = 37, ncol = 37))
+colnames(all_comparisons) <- comedians_list
+all_comparisons$name <- comedians_list
+
+do_comps <- function(comedian){
+  x1 <- vocab_similarity(comedian, AS_norm)
+  x2 <- vocab_similarity(comedian, AA_norm)
+  x3 <- vocab_similarity(comedian, AW_norm)
+  x4 <- vocab_similarity(comedian, Burr_norm)
+  x5 <- vocab_similarity(comedian, BH_norm)
+  x6 <- vocab_similarity(comedian, BB_norm)
+  x7 <- vocab_similarity(comedian, BP_norm)
+  x8 <- vocab_similarity(comedian, CR_norm)
+  x9 <- vocab_similarity(comedian, DC_norm)
+  x10 <- vocab_similarity(comedian, DM_norm)
+  x11 <- vocab_similarity(comedian, DG_norm)
+  x12 <- vocab_similarity(comedian, DT_norm)
+  x13 <- vocab_similarity(comedian, EM_norm)
+  x14 <- vocab_similarity(comedian, FB_norm)
+  x15 <- vocab_similarity(comedian, GC_norm)
+  x16 <- vocab_similarity(comedian, IS_norm)
+  x17 <- vocab_similarity(comedian, JF_norm)
+  x18 <- vocab_similarity(comedian, JC_norm)
+  x19 <- vocab_similarity(comedian, JG_norm)
+  x20 <- vocab_similarity(comedian, JJ_norm)
+  x21 <- vocab_similarity(comedian, JM_norm)
+  x22 <- vocab_similarity(comedian, CK_norm)
+  x23 <- vocab_similarity(comedian, LB_norm)
+  x24 <- vocab_similarity(comedian, MB_norm)
+  x25 <- vocab_similarity(comedian, NB_norm)
+  x26 <- vocab_similarity(comedian, PO_norm)
+  x27 <- vocab_similarity(comedian, RP_norm)
+  x28 <- vocab_similarity(comedian, RW_norm)
+  x29 <- vocab_similarity(comedian, RG_norm)
+  x30 <- vocab_similarity(comedian, SH_norm)
+  x31 <- vocab_similarity(comedian, TS_norm)
+  x32 <- vocab_similarity(comedian, SW_norm)
+  x33 <- vocab_similarity(comedian, RF_norm)
+  x34 <- vocab_similarity(comedian, JS_norm)
+  x35 <- vocab_similarity(comedian, HB_norm)
+  x36 <- vocab_similarity(comedian, LC_norm)
+  x37 <- vocab_similarity(comedian, MH_norm)
+  return(c(x1, x2, x3, x4, x5, x6, x7, x8, x9, x10, x11, x12, x13, x14, x15, x16, x17, x18,
+          x19, x20, x21, x22, x23, x24, x25, x26, x27, x28, x29, x30, x31, x32, x33, x34,
+          x35, x36, x37))
+}
+
+all_comparisons$`Amy Schumer` <- do_comps(AS_norm)
+all_comparisons$`Aziz Ansari` <- do_comps(AA_norm)
+all_comparisons$`Ali Wong` <- do_comps(AW_norm)
+all_comparisons$`Bill Burr` <- do_comps(Burr_norm)
+all_comparisons$`Bill Hicks` <- do_comps(BH_norm)
+all_comparisons$`Bo Burnham` <- do_comps(BB_norm)
+all_comparisons$`Brian Posehn` <- do_comps(BP_norm)
+all_comparisons$`Chris Rock` <- do_comps(CR_norm)
+all_comparisons$`Dave Chappelle` <- do_comps(DC_norm)
+all_comparisons$`Demetri Martin` <- do_comps(DM_norm)
+all_comparisons$`Donald Glover` <- do_comps(DG_norm)
+all_comparisons$`Daniel Tosh` <- do_comps(DT_norm)
+all_comparisons$`Eddie Murphy` <- do_comps(EM_norm)
+all_comparisons$`Frankie Boyle` <- do_comps(FB_norm)
+all_comparisons$`George Carlin` <- do_comps(GC_norm)
+all_comparisons$`Iliza Schlesinger` <- do_comps(IS_norm)
+all_comparisons$`Jeff Foxworthy` <- do_comps(JF_norm)
+all_comparisons$`Jimmy Carr` <- do_comps(JC_norm)
+all_comparisons$`Jim Gaffigan` <- do_comps(JG_norm)
+all_comparisons$`Jim Jefferies` <- do_comps(JJ_norm)
+all_comparisons$`John Mulaney` <- do_comps(JM_norm)
+all_comparisons$`Louis CK` <- do_comps(CK_norm)
+all_comparisons$`Lenny Bruce` <- do_comps(LB_norm)
+all_comparisons$`Maria Bamford` <- do_comps(MB_norm)
+all_comparisons$`Neal Brennan` <- do_comps(NB_norm)
+all_comparisons$`Patton Oswalt` <- do_comps(PO_norm)
+all_comparisons$`Richard Pryor` <- do_comps(RP_norm)
+all_comparisons$`Ron White` <- do_comps(RW_norm)
+all_comparisons$`Ricky Gervais` <- do_comps(RG_norm)
+all_comparisons$`Steve Harvey` <- do_comps(SH_norm)
+all_comparisons$`Tom Segura` <- do_comps(TS_norm)
+all_comparisons$`Steven Wright` <- do_comps(SW_norm)
+all_comparisons$`Redd Foxx` <- do_comps(RF_norm)
+all_comparisons$`Jerry Seinfeld` <- do_comps(JS_norm)
+all_comparisons$`Hannibal Burress` <- do_comps(HB_norm)
+all_comparisons$`Larry the Cable Guy` <- do_comps(LC_norm)
+all_comparisons$`Mitch Hedberg` <- do_comps(MH_norm)
+
+num_comps <- all_comparisons %>% select(-name)
+all_comparisons$mean <- colMeans(num_comps)
+
