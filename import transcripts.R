@@ -18,6 +18,8 @@ read_transcript <- function(file, comedian, title){
 #Ali Wong
 AW_Baby <- read_transcript("scraps//ali wong baby cobra.txt", 
                            "Ali Wong", "Baby Cobra")
+Ali_Wong <- rbind(AW_Baby)%>% group_by(word) %>%
+  summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Amy Schumer
 AS_Leather <- read_transcript("youtube//amy schumer the leather special.txt",
@@ -48,6 +50,10 @@ Burr_Let <- read_transcript("scraps//bill burr let it go.txt", "Bill Burr", "Let
 Bill_Burr <- rbind(Burr_Why, Burr_You, Burr_Let) %>% group_by(word) %>%
   summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
+#Bill Engvall
+BE_Sign <- read_transcript("youtube//bill engvall heres your sign.txt",
+                           "Bill Engvall", "Here's Your Sign")
+
 #Bill Hicks
 BH_Rev <- read_transcript("scraps//bill hicks revelations.txt", "Bill Hicks", "Revelations")
 BH_Relentless <- read_transcript("scraps//bill hicks relentless.txt", "Bill Hicks", "Relentless")
@@ -57,7 +63,15 @@ Bill_Hicks <- rbind(BH_Relentless, BH_Rev) %>% group_by(word) %>%
 #Bo Burnham
 BB_Happy <- read_transcript('scraps//bo burnham make happy.txt', 'Bo Burnham', 'Make Happy')
 BB_What <- read_transcript("youtube//bo burnham what.txt", "Bo Burnham", "What")
-Bo_Burnham <- rbind(BB_Happy, BB_What)%>% group_by(word) %>%
+Bo_Burnham <- rbind(BB_Happy, BB_What) %>% group_by(word) %>%
+  summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
+
+#Brian Posehn
+BP_Crim <- read_transcript("youtube//brian posehn criminally posehn.txt", 
+                           "Brian Posehn", "Criminally Posehn")
+BP_JFL <- read_transcript("youtube//brian posehn just for laughs.txt", 
+                          "Brian Posehn", "Just for Laughs")
+Brian_Posehn <- rbind(BP_JFL, BP_Crim) %>% group_by(word) %>%
   summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Chris Rock
@@ -70,7 +84,7 @@ Chris_Rock <- rbind(CR_BB, CR_Never, CR_Pain) %>% group_by(word) %>%
 #Daniel Tosh
 DT_Serious <- read_transcript("youtube//daniel tosh completely serious.txt", 
                          "Daniel Tosh", "Completely Serious")
-DT_People <- read_transcript("scraps//daniel tosh people please.txt", 
+DT_People <- read_transcript("scraps//daniel tosh people pleaser.txt", 
                              "Daniel Tosh", "People Pleaser")
 Daniel_Tosh <- rbind(DT_People, DT_Serious)%>% group_by(word) %>%
   summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
@@ -100,6 +114,8 @@ Demetri_Martin <- rbind(DM_Benefit, DM_If, DM_Live, DM_Standup) %>% group_by(wor
 
 #Donald Glover
 DG_Weirdo <- read_transcript("youtube//donald glover weirdo.txt", "Donald Glover", "Weirdo")
+Donald_Glover <- rbind(DG_Weirdo) %>% group_by(word) %>%
+  summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Eddie Murphy
 EM_Raw <- read_transcript("youtube//eddie murphy raw.txt", "Eddie Murphy", "Raw")
@@ -132,11 +148,11 @@ George_Carlin <- rbind(GC_Again, GC_Life, GC_USC)%>% group_by(word) %>%
   summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Hannibal Burress
-HB_Animal <- read_transript("youtube//hannibal burress animal furnace.txt", 
+HB_Animal <- read_transcript("youtube//hannibal burress animal furnace.txt", 
                             "Hannibal Burress", "Animal Furnace")
-HB_Comedy <- read_transcript("scraps//hannibal burress comedy camisado.txt", 
-                             "Hannibal Burress, Comedy Camisado")
-Hannibal_Burress <- rbind(HB_Comedy, HB_Animal) %>% group_by(word) %>% 
+#HB_Comedy <- read_transcript("scraps//hannibal burress cc.txt", 
+#                             "Hannibal Burress, Comedy Camisado")
+Hannibal_Burress <- rbind(HB_Animal) %>% group_by(word) %>% 
   summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Iliza Schlesinger
@@ -160,6 +176,8 @@ Jeff_Foxworthy <- rbind(JF_Georgia, JF_Totally, JF_Thinking) %>% group_by(word) 
 #Jerry Seinfeld
 JS_Telling <- read_transcript("youtube//jerry seinfeld telling you.txt", 
                          "Jerry Seinfeld", "I'm Telling You For The Last Time")
+Jerry_Seinfeld <- rbind(JS_Telling)%>% group_by(word) %>%
+  summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Jim Gaffigan
 JG_Universe <- read_transcript("youtube//jim gaffigan mr universe.txt", "Jim Gaffigan", "Mr Universe")
@@ -192,9 +210,13 @@ John_Mulaney <- rbind(JM_Comeback, JM_New) %>% group_by(word) %>%
 #Larry the Cable Guy
 LC_Thinking <- read_transcript("youtube//larry the cable guy weve been thinking.txt",
                                "Larry the Cable Guy", "We've Been Thinking")
+Larry_Cableguy <- rbind(LC_Thinking) %>% group_by(word) %>%
+  summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Lenny Bruce
 LB_Berk <- read_transcript("scraps//lenny bruce berkeley.txt", "Lenny Bruce", "Berkeley")
+Lenny_Bruce <- rbind(LB_Berk) %>% group_by(word) %>%
+  summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Louis CK
 CK_Chewed <- read_transcript("youtube//louis ck chewed up.txt", "Louis CK", "Chewed Up")
@@ -204,8 +226,16 @@ CK_Hilarious <- read_transcript("scraps//louis ck hilarious.txt", "Louis CK", "H
 Louis_CK <- rbind(CK_Chewed, CK_ONS, CK_Beacon, CK_Hilarious) %>% group_by(word) %>%
   summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
+#Maria Bamford
+MB_Baby <- read_transcript("scraps//maria bamford old baby.txt", 
+                           "Maria Bamford", "Old Baby")
+Maria_Bamford <- rbind(MB_Baby) %>% group_by(word) %>%
+  summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
+
 #Mitch Hedberg
 MH_Special <- read_transcript("scraps//mitch hedberg special.txt", "Mitch Hedberg", "Comedy Central Special")
+Mitch_Hedberg <- rbind(MH_Special) %>% group_by(word) %>%
+  summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Neal Brennan
 NB_WBD <- read_transcript("scraps//neal brennan women and black dudes.txt",
@@ -225,6 +255,8 @@ Patton_Oswalt <- rbind(PO_CCP, PO_Finest, PO_Talking) %>% group_by(word) %>%
 
 #Redd Foxx
 RF_HBO <- read_transcript("youtube//redd foxx hbo special.txt", "Redd Fox", "HBO Special")
+Redd_Foxx <- rbind(RF_HBO) %>% group_by(word) %>%
+  summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Richard Pryor
 RP_Here <- read_transcript("scraps//richard pryor here and now.txt",
@@ -241,6 +273,8 @@ Richard_Pryor <- rbind(RP_Here, RP_Smoke, RP_Sunset, RP_Live) %>% group_by(word)
 #Ricky Gervais
 RG_Out <- read_transcript("youtube//ricky gervais out of england.txt", 
                      "Ricky Gervais", "Out of England")
+Ricky_Gervais <- rbind(RG_Out) %>% group_by(word) %>%
+  summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Ron White
 RW_Unprof <- read_transcript("youtube//ron white a little unprofessional.txt", 
@@ -250,6 +284,11 @@ RW_Behavior <- read_transcript("youtube//ron white behavioral problems.txt",
 RW_Tater <- read_transcript("youtube//ron white they call me tater salad.txt", 
                             "Ron White", "They Call Me Tater Salad")
 Ron_White <- rbind(RW_Behavior, RW_Tater, RW_Unprof) %>% group_by(word) %>%
+  summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
+
+#Steven Wright
+SW_Special <- read_transcript("youtube//steven wright special.txt", "Steven Wright", "Special")
+Steven_Wright <- rbind(SW_Special) %>% group_by(word) %>%
   summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Steve Harvey
@@ -267,4 +306,64 @@ Tom_Segura <- rbind(TS_Mostly, TS_Normal)%>% group_by(word) %>%
   summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 
-#all_words <- rbind(Tom_Segura$words)
+all_words <- rbind(Amy_Schumer, Aziz_Ansari, Ali_Wong, Bill_Burr, Bill_Hicks, Bo_Burnham, Brian_Posehn,
+      Chris_Rock, Dave_Chappelle, Demetri_Martin, Donald_Glover, Daniel_Tosh, Eddie_Murphy, Frankie_Boyle,
+      George_Carlin, Iliza_Sch, Jeff_Foxworthy, Jimmy_Carr, Jim_Gaffigan, Jim_Jefferies,
+      John_Mulaney, Louis_CK, Lenny_Bruce, Maria_Bamford, Neal_Brennan, Patton_Oswalt, Richard_Pryor,
+      Ron_White, Ricky_Gervais, Steve_Harvey, Tom_Segura, Steven_Wright, Redd_Foxx, Jerry_Seinfeld,
+      Hannibal_Burress) %>% group_by(word) %>% 
+  summarize(n = sum(n))%>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
+
+words_only <- all_words %>% select(word)
+
+text_norm <- function(comedian){
+  normalized <- right_join(comedian, words_only)%>%
+    mutate(n = ifelse(is.na(n), 0, n), rf = n / sum(n))
+  return(normalized)
+}
+
+AA_norm <- text_norm(Aziz_Ansari)
+AW_norm <- text_norm(Ali_Wong)
+AS_norm <- text_norm(Amy_Schumer)
+BB_norm <- text_norm(Bo_Burnham)
+Burr_norm <- text_norm(Bill_Burr)
+BH_norm <- text_norm(Bill_Hicks)
+BP_norm <- text_norm(Brian_Posehn)
+CR_norm <- text_norm(Chris_Rock)
+DC_norm <- text_norm(Dave_Chappelle)
+DT_norm <- text_norm(Daniel_Tosh)
+DM_norm <- text_norm(Demetri_Martin)
+DG_norm <- text_norm(Donald_Glover)
+EM_norm <- text_norm(Eddie_Murphy)
+FB_norm <- text_norm(Frankie_Boyle)
+GC_norm <- text_norm(George_Carlin)
+HB_norm <- text_norm(Hannibal_Burress)
+IS_norm <- text_norm(Iliza_Sch)
+JC_norm <- text_norm(Jimmy_Carr)
+JG_norm <- text_norm(Jim_Gaffigan)
+JJ_norm <- text_norm(Jim_Jefferies)
+JF_norm <- text_norm(Jeff_Foxworthy)
+JS_norm <- text_norm(Jerry_Seinfeld)
+JM_norm <- text_norm(John_Mulaney)
+LC_norm <- text_norm(Larry_Cableguy)
+LB_norm <- text_norm(Lenny_Bruce)
+MB_norm <- text_norm(Maria_Bamford)
+MH_norm <- text_norm(Mitch_Hedberg)
+NB_norm <- text_norm(Neal_Brennan)
+PO_norm <- text_norm(Patton_Oswalt)
+RF_norm <- text_norm(Redd_Foxx)
+RP_norm <- text_norm(Richard_Pryor)
+RW_norm <- text_norm(Ron_White)
+RG_norm <- text_norm(Ricky_Gervais)
+SH_norm <- text_norm(Steve_Harvey)
+SW_norm <- text_norm(Steven_Wright)
+TS_norm <- text_norm(Tom_Segura)
+
+vocab_similarity <- function(c1, c2){
+  x <- norm(c2$rf, type = "2")
+  y <- norm(c1$rf, type = "2") 
+  z <- c1$rf %*% c2$rf
+  w <- x*y
+  answer <- z / w
+  return(answer)
+}

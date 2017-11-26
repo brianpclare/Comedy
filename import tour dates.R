@@ -1,96 +1,15 @@
 library(tidyverse)
 
-# Importing John Mulaney's tour history. This one is easy
 
-mulaney_tour <- read_tsv("shows//mulaney.txt") %>% unique() %>% mutate(comedian = "John Mulaney")
+#John Mulaney
+mulaney_tour <- read_tsv("shows//mulaney.txt") %>% unique() %>% select(-Ignore) %>%
+  mutate(comedian = "John Mulaney")
 
-#Jim Gaffigan. This one is annoying. Here's an empty dataframe we'll throw some stuff into 
+#Louis CK
+ck_tour <- read_tsv("shows//ck.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(Comedian = "Louis CK")
 
-gaffigan_tour <- as.tibble(matrix( nrow = 37, ncol = 3))
-colnames(gaffigan_tour) <- c("venue", "date", "citystate")
-
-gaffigan_tour$comedian <- "Jim Gaffigan"
-
-# Okay so we read in the txt copy-pasted from his website and filter out some comments
-# There's also a couple dates filtered out because they didn't copy-paste right
-# And I'm okay with having two missing tour dates
-
-
-gaffigan_tour_raw <- read_table("shows//gaffigan.txt", col_names = FALSE) %>% 
-  mutate(comedian = "Jim Gaffigan") %>% filter(X1 != "TICKETS" & X1 != "Sold Out!" & 
-       X1 != "Early Show" & X1 != "Late Show")
-
-# Everything is in one column, which sucks
-# So here are some for loops to split them up into different columns
-# There's probably a way to do this in tidyr or dplyr but I couldn't figure it out
-# If I go back and learn I'll change this
-
-i <- 3
-k <- 1
-while(i <= length(gaffigan_tour_raw$X1)){
-  gaffigan_tour$citystate[k] <- gaffigan_tour_raw$X1[i]
-  i <- i+3
-  k <- k+1
-}
-
-i <- 1
-k <- 1
-while(i <= length(gaffigan_tour_raw$X1)){
-
-  gaffigan_tour$date[k] <- gaffigan_tour_raw$X1[i]
-  i <- i+3
-  k <- k+1
-}
-
-i <- 2
-k <- 1
-while(i <= length(gaffigan_tour_raw$X1)){
-  gaffigan_tour$venue[k] <- gaffigan_tour_raw$X1[i]
-  i <- i+3
-  k <- k+1
-}
-
-# Okay let's move on to Louis CK
-
-ck_tour_raw <- read_table("shows//ck.txt", col_names = FALSE) %>%  
-  mutate(comedian = "Louis CK") %>% filter(X1 != "TICKETS" & X1 != "Sold Out!" & 
-        X1 != "Early Show" & X1 != "Late Show" & X1 != "Early show" & X1 != "Late show" &
-          X1 != "Benefit- All proceeds go to \"Equality NC\"" & X1 != "Late show - RECENTLY ADDED")
-
-# Same deal
-
-ck_tour <- as.tibble(matrix( nrow = 207, ncol = 3))
-colnames(ck_tour) <- c("venue", "date", "citystate")
-
-ck_tour$comedian <- "Louis CK"
-
-# Same deal
-
-i <- 3
-k <- 1
-while(i <= length(ck_tour_raw$X1)){
-  ck_tour$citystate[k] <- ck_tour_raw$X1[i]
-  i <- i+3
-  k <- k+1
-}
-
-i <- 1
-k <- 1
-while(i <= length(ck_tour_raw$X1)){
-  ck_tour$date[k] <- ck_tour_raw$X1[i]
-  i <- i+3
-  k <- k+1
-}
-
-i <- 2
-k <- 1
-while(i <= length(ck_tour_raw$X1)){
-  ck_tour$venue[k] <- ck_tour_raw$X1[i]
-  i <- i+3
-  k <- k+1
-}
-
-#Jimmy Carr had an american tour that I found some dates for online and made a table myself
+#Jimmy Carr
 carr_tour <- read_tsv("shows//jimmy carr.txt") %>% select(-Ignore) %>%
   unique() %>% mutate(Comedian = "Jimmy Carr")
 
@@ -102,7 +21,7 @@ burr_tour <- read_tsv("shows//bill burr.txt") %>% select(-Ignore) %>%
 burress_tour <- read_tsv("shows//hannibal burress.txt") %>% select(-Ignore) %>%
   unique() %>% mutate(comedian = "Hannibal Burress")
 
-#TOm Segure from bandsintown.com
+#Tom Segura from bandsintown.com
 segura_tour <- read_tsv("shows//tom segura.txt") %>% select(-Ignore) %>%
   unique() %>% mutate(comedian = "Tom Segura")
 
@@ -119,5 +38,49 @@ martin_tour <- read_tsv("shows//demetri martin.txt") %>% select(-Ignore) %>%
   unique() %>% mutate(comedian = "Demetri Martin")
 
 #Ron White
-white_tour <- read_tsv("shows/ron white.txt") %>% select(-Ignore) %>%
+white_tour <- read_tsv("shows//ron white.txt") %>% select(-Ignore) %>%
   unique() %>% mutate(comedian = "Ron White")
+
+#Jeff Foxworthy
+foxworthy_tour <- read_tsv("shows//jeff foxworthy.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Jeff Foxworthy")
+
+#Dave Chappelle
+chappelle_tour <- read_tsv("shows//dave chappelle.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Dave Chappelle")
+
+#Chris Rock
+rock_tour <- read_tsv("shows//chris rock.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Chris Rock")
+
+#Jim Gaffigan
+gaffigan_tour <- read_tsv("shows//gaffigan.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Jim Gaffigan")
+  
+#Jim Jefferies
+jefferies_tour <- read_tsv("shows//jim jefferies.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Jim Jefferies")
+
+#Brian Posehn
+posehn_tour <- read_tsv("shows//brian posehn.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Brian Posehn")
+
+#Daniel Tosh
+tosh_tour <- read_tsv("shows//daniel tosh.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Daniel Tosh")
+
+#Aziz Ansari
+ansari_tour <- read_tsv("shows//aziz ansari.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Aziz Ansari")
+
+#Bo Burnham
+burnham_tour <- read_tsv("shows//bo burnham.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Bo Burnham")
+
+#Iliza Schlesinger
+iliza_tour <- read_tsv("shows//iliza.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Iliza Schlesinger")
+
+#Neal Brennan
+brennan_tour <- read_tsv("shows//neal brennan.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Neal Brennan")
