@@ -89,6 +89,14 @@ Dave_Chappelle <- rbind(DC_Fwiw, DC_Killing, DC_Texas, DC_Spin) %>% group_by(wor
 
 #Demetri Martin
 DM_If <- read_transcript("youtube//demetri martin if i.txt", "Demetri Martin", "If I")
+DM_Live <- read_transcript("youtube//demetri martin live at the time.txt", 
+                           "Demetri Martin", "Live, at the time")
+DM_Benefit <- read_transcript("youtube//demetri martin benefit.txt", 
+                              "Demetri Martin", "Benefit clip")
+DM_Standup <- read_transcript("youtube//demetri martin standup comedian.txt", 
+                              "Demetri Martin", "Standup Comedian")
+Demetri_Martin <- rbind(DM_Benefit, DM_If, DM_Live, DM_Standup) %>% group_by(word) %>%
+  summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Donald Glover
 DG_Weirdo <- read_transcript("youtube//donald glover weirdo.txt", "Donald Glover", "Weirdo")
@@ -259,3 +267,4 @@ Tom_Segura <- rbind(TS_Mostly, TS_Normal)%>% group_by(word) %>%
   summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 
+#all_words <- rbind(Tom_Segura$words)

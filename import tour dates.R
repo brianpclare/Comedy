@@ -89,3 +89,35 @@ while(i <= length(ck_tour_raw$X1)){
   i <- i+3
   k <- k+1
 }
+
+#Jimmy Carr had an american tour that I found some dates for online and made a table myself
+carr_tour <- read_tsv("shows//jimmy carr.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(Comedian = "Jimmy Carr")
+
+#Bill Burr from bandsintown.com
+burr_tour <- read_tsv("shows//bill burr.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Bill Burr")
+
+#Hannibal Burress also from bandsintown.com
+burress_tour <- read_tsv("shows//hannibal burress.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Hannibal Burress")
+
+#TOm Segure from bandsintown.com
+segura_tour <- read_tsv("shows//tom segura.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Tom Segura")
+
+#Amy Schumer from bandsintown.com
+schumer_tour <- read_tsv("shows//amy schumer.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Amy Schumer")
+
+#Patton Oswalt
+oswalt_tour <- read_tsv("shows//patton oswalt.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Patton Oswalt")
+
+#Demetri Martin
+martin_tour <- read_tsv("shows//demetri martin.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Demetri Martin")
+
+#Ron White
+white_tour <- read_tsv("shows/ron white.txt") %>% select(-Ignore) %>%
+  unique() %>% mutate(comedian = "Ron White")
