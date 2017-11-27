@@ -26,7 +26,7 @@ Aug 11	Punch Line Comedy Club	Sacramento, CA	 I Was There
 Aug 09	The Tivoli	Brisbane, Australia	 I Was There
 Jul 29	Modell Performing Arts Center at The Lyric	Baltimore, MD	 I Was There
 Jul 27	Hampton Beach Casino Ballroom	Hampton Beach, NH	 I Was There
-Jul 26	Metropolis	Montréal, Canada	 I Was There
+Jul 26	Metropolis	Montreal, Canada	 I Was There
 Jul 15	Gaillard Auditorium	Charleston, SC	 I Was There
 Jul 14	Orange Peel	Asheville, NC	 I Was There
 Jul 13	Cone Denim Entertainment Center	Greensboro, NC	 I Was There
