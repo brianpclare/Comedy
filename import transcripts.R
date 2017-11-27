@@ -520,8 +520,6 @@ master <- rbind(Amy_Schumer, Aziz_Ansari, Ali_Wong, Bill_Burr, Bill_Hicks, Bill_
                 Steven_Wright, Redd_Foxx, Jerry_Seinfeld, Hannibal_Burress, Larry_Cableguy,
                 Mitch_Hedberg)
 
-ggplot(data = filter(master, word == "fucking") %>% top_n(10, rf), mapping = aes(x = name, y = rf)) +geom_col()
-
 wordsearch <- function(term){
   ggplot(data = filter(master, word == term) %>% 
            top_n(10, rf), mapping = aes(x = reorder(name, -rf), y = rf, fill = name)) + 
@@ -530,8 +528,4 @@ wordsearch <- function(term){
   
 }
 
-wordsearch("laugh")
-wordsearch("fart")
-wordsearch("gay")
-wordsearch("fuck")
-wordsearch("food")
+wordsearch("shit")
