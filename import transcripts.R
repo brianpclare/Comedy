@@ -520,12 +520,4 @@ master <- rbind(Amy_Schumer, Aziz_Ansari, Ali_Wong, Bill_Burr, Bill_Hicks, Bill_
                 Steven_Wright, Redd_Foxx, Jerry_Seinfeld, Hannibal_Burress, Larry_Cableguy,
                 Mitch_Hedberg)
 
-wordsearch <- function(term){
-  ggplot(data = filter(master, word == term) %>% 
-           top_n(10, rf), mapping = aes(x = reorder(name, -rf), y = rf, fill = name)) + 
-    geom_col() + theme(axis.text.x = element_text(angle = 60, hjust = 1), legend.position = "none") +
-    labs(x = "Comedian", y = "Frequency", title = "Comedians who say ___ most frequently")
-  
-}
 
-wordsearch("shit")
