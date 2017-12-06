@@ -1,0 +1,54 @@
+Date	Venue	Location	Ignore
+Mar 12, 2016	Wiilliam Aston Hall	Wrexham, United Kingdom	 I Was There
+Feb 19, 2016	eventim apollo	London, United Kingdom	 I Was There
+Feb 18, 2016	eventim apollo	London, United Kingdom	 I Was There
+Nov 20, 2015	Tyne Theatre and Opera House	Newcastle Upon Tyne, United Kingdom	 I Was There
+Nov 19, 2015	Tyne Theatre and Opera House	Newcastle Upon Tyne, United Kingdom	 I Was There
+Nov 14, 2015	O2 Apollo Manchester	Manchester, United Kingdom	 I Was There
+Oct 24, 2015	YORK BARBICAN	York, United Kingdom	 I Was There
+Oct 04, 2015	Academy	Manchester, United Kingdom	 I Was There
+Sep 05, 2015	King Theatre	Glasgow, United Kingdom	 I Was There
+Sep 04, 2015	King Theatre	Glasgow, United Kingdom	 I Was There
+Sep 03, 2015	Kings Theatre Glasgow	Glasgow, United Kingdom	 I Was There
+Aug 22, 2015	V Festival, Chelmsford	Chelmsford, United Kingdom	 I Was There
+Aug 21, 2015	V Festival (Hyland Park)	Weston, United Kingdom	 I Was There
+Jul 11, 2015	Citizens Theatre	Glasgow, United Kingdom	 I Was There
+Jul 10, 2015	Citizens Theatre	Glasgow, United Kingdom	 I Was There
+Jul 09, 2015	Citizens Theatre	Glasgow, United Kingdom	 I Was There
+Jul 08, 2015	Citizens Theatre	Glasgow, United Kingdom	 I Was There
+Jul 07, 2015	Citizens Theatre	Glasgow, United Kingdom	 I Was There
+Nov 02, 2014	Norwich UEA Waterfront	Norwich, United Kingdom	 I Was There
+Sep 22, 2012	O2 Apollo Manchester	Manchester, United Kingdom	 I Was There
+Sep 21, 2012	O2 Apollo Manchester	Manchester, United Kingdom	 I Was There
+Sep 20, 2012	O2 Apollo Manchester	Manchester, United Kingdom	 I Was There
+Dec 07, 2010	Manchester Evening News Arena	Manchester, United Kingdom	 I Was There
+Nov 03, 2010	HMV Hammersmith Apollo	London, United Kingdom	 I Was There
+Dec 17, 2008	Carling Apollo Hammersmith	London, United Kingdom	 I Was There
+Dec 13, 2008	Wulfrun Hall	Wolverhampton, United Kingdom	 I Was There
+Dec 13, 2008	Wolverhampton Civic Hall	Wolverhampton, United Kingdom	 I Was There
+Dec 12, 2008	Worthing Assembly Hall	Worthing, United Kingdom	 I Was There
+Dec 11, 2008	Carling Apollo Hammersmith	London, United Kingdom	 I Was There
+Dec 07, 2008	Carling Apollo Hammersmith	London, United Kingdom	 I Was There
+Dec 06, 2008	Carling Apollo Hammersmith	London, United Kingdom	 I Was There
+Dec 04, 2008	Portsmouth Guildhall	Portsmouth, United Kingdom	 I Was There
+Dec 03, 2008	Oakengate Theatre	Telford, United Kingdom	 I Was There
+Nov 30, 2008	Newcastle City Hall	Newcastle Upon Tyne, United Kingdom	 I Was There
+Nov 29, 2008	New Theatre Oxford	Oxford, United Kingdom	 I Was There
+Nov 28, 2008	Embassy Theatre	Orton Goldhay, United Kingdom	 I Was There
+Nov 26, 2008	Dorking Halls	Dorking, United Kingdom	 I Was There
+Nov 25, 2008	Anvil	Basingstoke, United Kingdom	 I Was There
+Nov 23, 2008	Colston Hall	Bristol, United Kingdom	 I Was There
+Nov 22, 2008	Corn Exchange	Cambridge, United Kingdom	 I Was There
+Nov 21, 2008	Victoria Hall	Stoke On Trent, United Kingdom	 I Was There
+Nov 20, 2008	Central Theatre	Chatham, United Kingdom	 I Was There
+Nov 19, 2008	Corn Exchange	Cambridge, United Kingdom	 I Was There
+Nov 18, 2008	Cheltenham Town Hall	Cheltenham, United Kingdom	 I Was There
+Nov 17, 2008	De Montfort Hall	Leicester, United Kingdom	 I Was There
+Nov 15, 2008	Wellsprings Leisure Centre	Taunton, United Kingdom	 I Was There
+Nov 14, 2008	The Princes Theatre	Torquay, United Kingdom	 I Was There
+Nov 12, 2008	St David's Hall	Cardiff, United Kingdom	 I Was There
+Nov 11, 2008	The Beck Theatre	Hayes, United Kingdom	 I Was There
+Nov 09, 2008	Cliffs Pavilion	Southend On Sea, United Kingdom	 I Was There
+Nov 07, 2008	Newcastle City Hall	Newcastle Upon Tyne, United Kingdom	 I Was There
+Oct 31, 2008	Carlisle Sand Centre	Carlisle, United Kingdom	 I Was There
+Apr 27, 2008	Wolverhampton Civic Hall	Wolverhampton, United Kingdom	 I Was There

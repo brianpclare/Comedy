@@ -106,7 +106,7 @@ Oct 27, 2010	Wilbur Theatre	Boston, MA	 I Was There
 Sep 25, 2010	Town Hall	New York, NY	 I Was There
 Sep 24, 2010	Town Hall	New York, NY	 I Was There
 Sep 11, 2010	Progress Energy Ctr. For The Perf. Arts	Raleigh, NC	 I Was There
-Sep 10, 2010	Hippodrome Theatre / France-Merrick Perf. Arts Ctr.	Baltimore, MD	 I Was There
+Sep 10, 2010	Hippodrome Theatre - France-Merrick Perf. Arts Ctr.	Baltimore, MD	 I Was There
 Aug 20, 2010	The Fillmore Miami Beach at Jackie Gleason Theater	Miami Beach, FL	 I Was There
 Jul 17, 2010	Meadowbrook Festival	Rochester, MI	 I Was There
 Jul 16, 2010	House of Blues Dallas	Dallas, TX	 I Was There
