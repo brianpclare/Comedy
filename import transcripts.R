@@ -7,8 +7,9 @@ data(stop_words)
 read_transcript <- function(file, comedian, title){
   df <- read_table(file, col_names = FALSE)
   
-  df <- df %>% unnest_tokens(word, X1) %>% filter(word != 'laughter')%>%
-    filter(word != 'applause') %>% filter(word != 'music') %>%   anti_join(stop_words) %>% 
+  df <- df %>% unnest_tokens(word, X1) %>% filter(word != 'laughter')%>% filter(word != "audience") %>% 
+    filter(word != 'applause') %>% filter(word != 'music') %>% filter(word != "ll") %>% 
+    filter(word != "nt") %>% filter(word != "ve") %>% filter(word != "laughs") %>%  anti_join(stop_words) %>% 
     count(word, sort = TRUE) %>% mutate(comedian = comedian, title = title) %>%
     mutate(RF = n / sum(n))
   
@@ -321,7 +322,8 @@ Steven_Wright <- rbind(SW_Special) %>% group_by(word) %>%
 #Steve Harvey
 SH_Trip <- read_transcript("youtube//steve harvey dont trip.txt", "Steve Harvey", "Don't Trip")
 SH_HBO <- read_transcript("youtube//steve harvey hbo special.txt", "Steve Harvey", "HBO Special")
-Steve_Harvey <- rbind(SH_HBO, SH_Trip) %>% group_by(word) %>%
+SH_Kings <- read_transcript("youtube//steve harvey kings of comedy.txt", "Steve Harvey", "Kings of Comedy")
+Steve_Harvey <- rbind(SH_HBO, SH_Trip, SH_Kings) %>% group_by(word) %>%
   summarize(n = sum(n), name = max(comedian)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Tom Segura
@@ -544,4 +546,15 @@ master <- rbind(Amy_Schumer, Aziz_Ansari, Ali_Wong, Bill_Burr, Bill_Hicks, Bill_
                 Steven_Wright, Redd_Foxx, Jerry_Seinfeld, Hannibal_Burress, Larry_Cableguy,
                 Mitch_Hedberg)
 
+master_freq <- AA_norm$n + AW_norm$n + AS_norm$n + Burr_norm$n + BH_norm$n + BE_norm$n + BB_norm$n +
+        CR_norm$n + BP_norm$n + DC_norm$n + DM_norm$n + DG_norm$n + DT_norm$n + EM_norm$n + FB_norm$n +
+        GC_norm$n + IS_norm$n + JF_norm$n + JC_norm$n + JG_norm$n + JJ_norm$n + JM_norm$n + CK_norm$n + 
+        LB_norm$n + MB_norm$n + NB_norm$n + PO_norm$n + RP_norm$n + RW_norm$n + RG_norm$n + SH_norm$n + 
+        SW_norm$n + RF_norm$n + JS_norm$n + HB_norm$n + LC_norm$n + MH_norm$n
 
+master_freq <- cbind(words_only, master_freq)
+colnames(master_freq) <- c("Word", "Frequency")
+
+top500 <- master_freq %>% top_n(500, Frequency) %>% arrange(desc(Frequency))
+top500_words <- as.tibble(top500$Word)
+colnames(top500_words) <- c("word")

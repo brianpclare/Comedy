@@ -1,0 +1,427 @@
+Date	Venue	Location	Ignore
+Oct 21	Kansas Star Event Center Arena	Mulvane, KS	 I Was There
+Sep 16	Jeff & Larry's Backyard BBQ	Cary, NC	 I Was There
+Sep 15	Jeff & Larry's Backyard BBQ	Charlotte, NC	 I Was There
+Sep 09	York Fair	York, PA	 I Was There
+Sep 08	Allegan County Fair	Allegan, MI	 I Was There
+Sep 01	Beau Rivage Biloxi - 10pm	Biloxi, MS	 I Was There
+Sep 01	Beau Rivage Biloxi - 7pm	Biloxi, MS	 I Was There
+Aug 26	Jeff & Larry's Backyard BBQ	Noblesville, IN	 I Was There
+Aug 25	Jeff & Larry's Backyard BBQ	Clarkston, MI	 I Was There
+Aug 20	Jeff & Larry's Backyard BBQ	Albuquerque, NM	 I Was There
+Aug 19	Jeff & Larry's Backyard BBQ	Englewood, CO	 I Was There
+Aug 18	Jeff & Larry's Backyard BBQ	West Valley City, UT	 I Was There
+Aug 14	Erie County Fair	Hamburg, NY	 I Was There
+Jul 16	Scotiabank Saddledome	Calgary, Canada	 I Was There
+Jun 30	Lazy Rockin' Stirrup Country Music Festival	Paulina, OR	 I Was There
+Apr 29	Fox Theatre - 8pm	Atlanta, GA	 I Was There
+Apr 29	Fox Theatre - 5pm	Atlanta, GA	 I Was There
+Apr 28	Denny Sanford PREMIER Center	Sioux Falls, SD	 I Was There
+Apr 23	Ryman Auditorium	Nashville, TN	 I Was There
+Apr 22	Taco Bell Arena	Boise, ID	 I Was There
+Apr 21	Broadmoor World Arena	Colorado Springs, CO	 I Was There
+Apr 15	Bok Center	Tulsa, OK	 I Was There
+Apr 14	FedExForum	Memphis, TN	 I Was There
+Apr 08	Molson Canadian Centre - 8pm	Moncton, NB	 I Was There
+Apr 08	Molson Canadian Centre - 5pm	Moncton, Canada	 I Was There
+Apr 07	Scotiabank Centre	Halifax, Canada	 I Was There
+Apr 06	Canadian Tire Centre	Ottawa, Canada	 I Was There
+Apr 01	Central National Bank Center - 8pm	Enid, OK	 I Was There
+Apr 01	Central National Bank Center - 5pm	Enid, OK	 I Was There
+Mar 31	Pinnacle Bank Arena	Lincoln, NE	 I Was There
+Mar 26	NYCB Theatre at Westbury	Wesbury, NY	 I Was There
+Mar 25	Budweiser Gardens	London, Canada	 I Was There
+Mar 24	DCU Center	Worcester, MA	 I Was There
+Mar 18	Hollywood Casino - 10pm	Charles Town, WV	 I Was There
+Mar 18	Hollywood Casino - 7pm	Charles Town, WV	 I Was There
+Mar 11	Peppermill Concert Hall - 9pm	West Wendover, NV	 I Was There
+Mar 11	Peppermill Concert Hall - 6pm	West Wendover, NV	 I Was There
+Mar 04	Canalta Centre	Medicine Hat, Canada	 I Was There
+Feb 18	Del Lago Resort & Casino - 9pm	Waterloo, NY	 I Was There
+Feb 18	Del Lago Resort & Casino - 6pm	Waterloo, NY	 I Was There
+Dec 28, 2013	Sands Bethlehem Event Center (9:30pm)	Bethlehem, PA	 I Was There
+Dec 28, 2013	Sands Bethlehem Event Center (6:30pm)	Bethlehem, PA	 I Was There
+Nov 15, 2013	Orpheum Theatre (9:30pm)	Omaha, NE	 I Was There
+Nov 15, 2013	Orpheum Theatre (7pm)	Omaha, NE	 I Was There
+Oct 26, 2013	Revel Ovation Hall	Atlantic City, NJ	 I Was There
+Oct 19, 2013	Paramount Arts Center (9pm)	Aurora, IL	 I Was There
+Oct 19, 2013	Paramount Arts Center (5pm)	Aurora, IL	 I Was There
+Oct 12, 2013	Ruth Eckerd Hall (8pm)	Clearwater, FL	 I Was There
+Oct 12, 2013	Ruth Eckerd Hall (5pm)	Clearwater, FL	 I Was There
+Sep 28, 2013	Crystal Beach Stadium	Woodward, OK	 I Was There
+Sep 20, 2013	Route 66 Casino (10pm)	Albuquerque, NM	 I Was There
+Sep 20, 2013	Route 66 Casino (7pm)	Albuquerque, NM	 I Was There
+Sep 19, 2013	Washington State Fair	Puyallup, WA	 I Was There
+Aug 17, 2013	Darling's Waterfront Pavilion	Bangor, ME	 I Was There
+Aug 16, 2013	Freedom Hill Amphitheatre	Sterling Heights, MI	 I Was There
+Aug 15, 2013	Casino Rama	Longford, Canada	 I Was There
+Aug 03, 2013	Wind Creek Casino & Hotel	Atmore, AL	 I Was There
+Aug 02, 2013	Jackpot Junction Casino Hotel	Morton, MN	 I Was There
+May 26, 2013	Deadwood Mountain Grand - 8:00pm Show	Deadwood, SD	 I Was There
+May 26, 2013	Deadwood Mountain Grand - 5:00pm Show	Deadwood, SD	 I Was There
+May 25, 2013	Mystic Lake Casino Hotel - 8:00pm Show	Prior Lake, MN	 I Was There
+May 25, 2013	Mystic Lake Casino Hotel - 4:00pm Show	Prior Lake, MN	 I Was There
+May 24, 2013	L'auberge Casino Resort - 10:00pm Show	Lake Charles, LA	 I Was There
+May 24, 2013	L'auberge Casino Resort - 7:00pm Show	Lake Charles, LA	 I Was There
+May 18, 2013	Monroe Civic Center	Monroe, LA	 I Was There
+May 17, 2013	Big Sandy Superstore Arena	Huntington, WV	 I Was There
+May 11, 2013	Bridge View Center - 8:00pm Show	Ottumwa, IA	 I Was There
+May 11, 2013	Bridge View Center - 4:30pm Show	Ottumwa, IA	 I Was There
+May 10, 2013	Sioux Falls Arena	Sioux Falls, SD	 I Was There
+May 04, 2013	Fox Theatre - 8pm Show	Atlanta, GA	 I Was There
+May 04, 2013	Fox Theatre - 5pm Show	Atlanta, GA	 I Was There
+May 03, 2013	Garrett Coliseum	Montgomery, AL	 I Was There
+May 02, 2013	Germain Arena	Estero, FL	 I Was There
+Apr 28, 2013	AVA Amphitheater	Tucson, AZ	 I Was There
+Apr 27, 2013	Peppermill Concert Hall - 9pm Show	West Wendover, NV	 I Was There
+Apr 27, 2013	Peppermill Concert Hall - 6pm Show	West Wendover, NV	 I Was There
+Apr 26, 2013	Resch Center	Green Bay, WI	 I Was There
+Apr 25, 2013	McLeod Center	Cedar Falls, IA	 I Was There
+Apr 20, 2013	Lucky Star Casino / Concho - 10:30pm Show	El Reno, OK	 I Was There
+Apr 20, 2013	Lucky Star Casino / Concho - 7:30pm Show	El Reno, OK	 I Was There
+Apr 19, 2013	First Council Hotel & Casino - 10:30pm Show	Newkirk, OK	 I Was There
+Apr 19, 2013	First Council Hotel & Casino - 7:30pm Show	Newkirk, OK	 I Was There
+Apr 14, 2013	Ford Park	Beaumont, TX	 I Was There
+Apr 13, 2013	Durham Performing Arts Center - 8pm Show	Durham, NC	 I Was There
+Apr 13, 2013	Durham Performing Arts Center - 5pm Show	Durham, NC	 I Was There
+Apr 12, 2013	Wesbanco Arena	Wheeling, WV	 I Was There
+Apr 11, 2013	BB&T Center  	Sunrise, FL	 I Was There
+Apr 06, 2013	WinStar World Casino	Thackerville, OK	 I Was There
+Apr 05, 2013	Honeywell Center - 10pm Show	Wabash, IN	 I Was There
+Apr 05, 2013	Honeywell Center - 7pm Show	Wabash, IN	 I Was There
+Mar 16, 2013	Shea's Performing Arts Center	Buffalo, NY	 I Was There
+Oct 11, 2012	Gibson Amphitheatre	Universal City, CA	 I Was There
+Jul 28, 2012	The Club at Hidden Creek	Navarre, FL	 I Was There
+Jul 23, 2012	Delaware State Fair	Harrington, DE	 I Was There
+Mar 30, 2012	Broome County Arena	Binghamton, NY	 I Was There
+Mar 10, 2012	State Theatre New Jeresy	New Brunswick, NJ	 I Was There
+Mar 09, 2012	Soaring Eagle Casino Concert Hall	Mount Pleasant, MI	 I Was There
+Mar 03, 2012	Wells Fargo Theatre, Colorado Convention Center	Denver, CO	 I Was There
+Feb 11, 2012	Palace Theatre Albany	Albany, NY	 I Was There
+Dec 10, 2011	Mid Hudson Valley Civic Center	Poughkeepsie, NY	 I Was There
+Dec 03, 2011	Wolstein Ctr. / Cleveland St. Univ.	Cleveland, OH	 I Was There
+Dec 02, 2011	Bank of Kentucky Center	Highland Heights, KY	 I Was There
+Nov 18, 2011	Xcel Energy Center	St Paul, MN	 I Was There
+Nov 12, 2011	TBA	Tampa, FL	 I Was There
+Nov 11, 2011	Time Warner Cable Arena	Charlotte, NC	 I Was There
+Nov 04, 2011	Mile One	Georgina, Canada	 I Was There
+Nov 03, 2011	The Centre at Casino New Brunswick	Moncton, Canada	 I Was There
+Nov 02, 2011	Harbour Station	Saint John, Canada	 I Was There
+Nov 01, 2011	Halifax Metro Centre	Halifax, Canada	 I Was There
+Oct 15, 2011	Pepsi Center**	Denver, CO	 I Was There
+Oct 14, 2011	New Orleans Arena	New Orleans, LA	 I Was There
+Oct 01, 2011	AT&T Center	San Antonio, TX	 I Was There
+Sep 30, 2011	Verizon Arena	Little Rock, AR	 I Was There
+Sep 25, 2011	Cactus Petes	Jackpot, NV	 I Was There
+Sep 24, 2011	Puyallup Fairgrounds	Puyallup, WA	 I Was There
+Aug 06, 2011	Mt Laurel Pocono Mountain Performing Arts Center	Bushkill, PA	 I Was There
+Aug 05, 2011	Frederick Fairgrounds	Frederick, MD	 I Was There
+Aug 01, 2011	Ocean Center	Daytona Beach, FL	 I Was There
+Jun 25, 2011	Crystal Grand Music Theatre	Wisconsin Dells, WI	 I Was There
+Jun 18, 2011	IP Casino, Resort & Spa	Biloxi, MS	 I Was There
+Jun 02, 2011	Second Wind Ranch	Comstock, NE	 I Was There
+May 28, 2011	Calvert Marine Museum	Solomons, MD	 I Was There
+May 27, 2011	Casino Rama	Rama, Canada	 I Was There
+May 14, 2011	Golden Moon Casino	Choctaw, MS	 I Was There
+May 13, 2011	Rockford MetroCentre	Rockford, IL	 I Was There
+May 07, 2011	Dodge City Civic Center	Dodge City, KS	 I Was There
+May 06, 2011	Qwest Center Omaha	Omaha, NE	 I Was There
+Apr 23, 2011	Broadbent Arena	Louisville, KY	 I Was There
+Apr 22, 2011	CONSOL Energy Center	Pittsburgh, PA	 I Was There
+Apr 21, 2011	John Labatt Centre	London, Canada	 I Was There
+Apr 20, 2011	General Motors Centre	Oshawa, Canada	 I Was There
+Apr 19, 2011	Essar Centre	Sault Ste Marie, Canada	 I Was There
+Apr 16, 2011	Verizon Wireless Arena	Manchester, NH	 I Was There
+Apr 15, 2011	GIANT Center	Hershey, PA	 I Was There
+Apr 14, 2011	Mohegan Sun Arena at Casey Plaza	Wilkes Barre, PA	 I Was There
+Apr 09, 2011	Salem Civic Center	Salem, VA	 I Was There
+Apr 08, 2011	First Arena	Elmira, NY	 I Was There
+Apr 02, 2011	Winstar Casino	Thackerville, OK	 I Was There
+Apr 01, 2011	Oil Palace	Tyler, TX	 I Was There
+Mar 26, 2011	Pechanga Resort & Casino	Temecula, CA	 I Was There
+Mar 25, 2011	Jobing.com Arena	Glendale, AZ	 I Was There
+Mar 19, 2011	Topeka Performing Arts Center	Topeka, KS	 I Was There
+Mar 12, 2011	Morris Performing Arts Center	South Bend, IN	 I Was There
+Mar 11, 2011	Scottrade Center	St Louis, MO	 I Was There
+Mar 05, 2011	Embassy Theatre	Fort Wayne, IN	 I Was There
+Feb 13, 2011	Brandt Centre	Regina, Canada	 I Was There
+Feb 12, 2011	Credit Union Centre	Saskatoon, Canada	 I Was There
+Jan 29, 2011	Philips Arena	Atlanta, GA	 I Was There
+Jan 28, 2011	Bridgestone Arena	Nashville, TN	 I Was There
+Jan 15, 2011	EnergySolutions Arena	Salt Lake City, UT	 I Was There
+Jan 14, 2011	Rexall Place	Edmonton, Canada	 I Was There
+Jan 13, 2011	Pengrowth Saddledome	Calgary, Canada	 I Was There
+Jan 10, 2011	Prince George CN Centre	Prince George, Canada	 I Was There
+Dec 11, 2010	Potawatomi Casino-Northern Lights Theatre	Milwaukee, WI	 I Was There
+Dec 04, 2010	Independence Events Center	Independence, MO	 I Was There
+Nov 27, 2010	Paragon Casino Resort	Marksville, LA	 I Was There
+Nov 24, 2010	Soaring Eagle Casino Concert Hall	Mount Pleasant, MI	 I Was There
+Nov 20, 2010	Fargodome	Fargo, ND	 I Was There
+Nov 19, 2010	All State Arena	Rosemont, IL	 I Was There
+Nov 18, 2010	Prairie Capital Convention Center	Springfield, IL	 I Was There
+Nov 17, 2010	Bemidji Regional Event Center	Bemidji, MN	 I Was There
+Nov 10, 2010	All State Arena	Rosemont, IL	 I Was There
+Nov 06, 2010	Harrah's Cherokee Casino	Cherokee, NC	 I Was There
+Oct 23, 2010	Bok Center	Tulsa, OK	 I Was There
+Oct 22, 2010	Prudential Center	Newark, NJ	 I Was There
+Oct 15, 2010	American Airlines Center	Dallas, TX	 I Was There
+Oct 02, 2010	Peppermill Concert Hall	West Wendover, NV	 I Was There
+Jun 25, 2010	Grand Casino Amphitheatre	Chanhassen, MN	 I Was There
+May 15, 2010	105 Valley St	Pasadena, CA	 I Was There
+Apr 25, 2010	Warner Theatre-CT	Torrington, CT	 I Was There
+Apr 11, 2010	Big Sandy Superstore Arena	Huntington, WV	 I Was There
+Apr 10, 2010	Wesbanco Arena	Wheeling, WV	 I Was There
+Apr 09, 2010	Tullio Arena	Erie, PA	 I Was There
+Mar 28, 2010	North Charleston Coliseum	North Charleston, SC	 I Was There
+Mar 27, 2010	Memorial Auditorium	Raleigh, NC	 I Was There
+Mar 26, 2010	BJCC Arena	Birmingham, AL	 I Was There
+Mar 21, 2010	Tyson Events Ctr. / Gateway Arena	Sioux City, IA	 I Was There
+Mar 20, 2010	River Center Adler Theatre	Davenport, IA	 I Was There
+Mar 19, 2010	DECC Arena	Duluth, MN	 I Was There
+Mar 13, 2010	BankAtlantic Center	Sunrise, FL	 I Was There
+Mar 12, 2010	RBC Center	Raleigh, NC	 I Was There
+Mar 11, 2010	EJ Nutter Center	Dayton, OH	 I Was There
+Mar 05, 2010	KeyArena at Seattle Center	Seattle, WA	 I Was There
+Mar 04, 2010	Rose Garden Arena	Portland, OR	 I Was There
+Mar 03, 2010	Interior Savings Centre	Kamloops, Canada	 I Was There
+Feb 27, 2010	Silver Spurs Arena At Osceola Heritage Park	Kissimmee, FL	 I Was There
+Feb 26, 2010	Baton Rouge River Center Theater	Baton Rouge, LA	 I Was There
+Feb 20, 2010	The Show At Agua Caliente Casino Resort Spa	Rancho Mirage, CA	 I Was There
+Feb 06, 2010	Conseco Fieldhouse	Indianapolis, IN	 I Was There
+Jan 30, 2010	Toyota Center	Houston, TX	 I Was There
+Jan 28, 2010	Cumberland County Civic Center	Portland, ME	 I Was There
+Jan 22, 2010	Riverwind Casino Showplace Theatre	Norman, OK	 I Was There
+Jan 16, 2010	State Theatre Minneapolis	Minneapolis, MN	 I Was There
+Dec 12, 2009	Mandalay Bay Events Center	Las Vegas, NV	 I Was There
+Dec 11, 2009	Chumash Casino	Santa Ynez, CA	 I Was There
+Dec 10, 2009	HP Pavilion at San Jose	San Jose, CA	 I Was There
+Dec 09, 2009	Wells Fargo Center for the Arts	Santa Rosa, CA	 I Was There
+Dec 08, 2009	Wells Fargo Center for the Arts	Santa Rosa, CA	 I Was There
+Dec 06, 2009	Spokane Arena	Spokane, WA	 I Was There
+Dec 05, 2009	Toyota Arena	Kennewick, WA	 I Was There
+Nov 14, 2009	Mohegan Sun Arena	Uncasville, CT	 I Was There
+Nov 13, 2009	Mohegan Sun Arena	Uncasville, CT	 I Was There
+Nov 12, 2009	Bryce Jordan Center	University Park, PA	 I Was There
+Nov 11, 2009	River Cree Resort & Casino	Enoch, Canada	 I Was There
+Nov 01, 2009	Majestic Theatre	San Antonio, TX	 I Was There
+Oct 30, 2009	Frank Erwin Center	Austin, TX	 I Was There
+Oct 29, 2009	Cal Farley Coliseum	Amarillo, TX	 I Was There
+Oct 25, 2009	DECC Arena	Duluth, MN	 I Was There
+Oct 23, 2009	Alerus Center	Grand Forks, ND	 I Was There
+Oct 10, 2009	Horseshow Southern Indiana	Elizabeth, IN	 I Was There
+Oct 08, 2009	Richmond Coliseum	Richmond, VA	 I Was There
+Oct 03, 2009	Benedum Center	Pittsburgh, PA	 I Was There
+Oct 02, 2009	Sovereign Bank Arena	Trenton, NJ	 I Was There
+Oct 01, 2009	Blue Cross Arena	Rochester, NY	 I Was There
+Sep 19, 2009	Winstar Casino	Thackerville, OK	 I Was There
+Sep 18, 2009	Winstar Casino	Thackerville, OK	 I Was There
+Sep 17, 2009	Riverwind Casino Showplace Theatre	Norman, OK	 I Was There
+Sep 06, 2009	Peppermill Concert Hall	West Wendover, NV	 I Was There
+Aug 29, 2009	Firelake Casino	Shawnee, OK	 I Was There
+Aug 28, 2009	Harrah's Rincon Casino	Valley Center, CA	 I Was There
+Aug 11, 2009	The Amphitheater at Clark County	Ridgefield, WA	 I Was There
+Aug 10, 2009	Oneida Bingo & Casino	Green Bay, WI	 I Was There
+Aug 09, 2009	Casino Rama Entertainment Centre	Longford, Canada	 I Was There
+Aug 08, 2009	Caesars Windsor	Ontario, Canada	 I Was There
+Aug 07, 2009	The Venue at Horseshoe Casino Hammond	Hammond, IN	 I Was There
+Jul 12, 2009	Soaring Eagle Casino Concert Hall	Mount Pleasant, MI	 I Was There
+Jul 11, 2009	Harrah's Casino Tunica Event Center	Robinsonville, MS	 I Was There
+Jul 10, 2009	Horseshoe Casino Riverdome	Bossier City, LA	 I Was There
+Jul 04, 2009	Memorial Stadium NE	Lincoln, NE	 I Was There
+Jun 27, 2009	Sentrum Scene	Oslo, Norway	 I Was There
+Jun 25, 2009	China Theatre	Stockholm, Sweden	 I Was There
+Jun 23, 2009	VEGA House Of Music	Copenhagen, Denmark	 I Was There
+Jun 18, 2009	VICAR STREET	Dublin, Ireland	 I Was There
+Jun 15, 2009	Apollo	Manchester, United Kingdom	 I Was There
+Jun 14, 2009	HMV Apollo Hammersmith	London, United Kingdom	 I Was There
+Jun 12, 2009	Carling Apollo Hammersmith	London, United Kingdom	 I Was There
+May 22, 2009	1st Mariner Arena	Baltimore, MD	 I Was There
+May 21, 2009	Regency Park	Cary, NC	 I Was There
+May 17, 2009	Casper Events Center	Casper, WY	 I Was There
+May 16, 2009	Wells Fargo Theatre	Denver, CO	 I Was There
+May 14, 2009	Yakima Valley Museum	Yakima, WA	 I Was There
+May 10, 2009	Swiftel Center	Brookings, SD	 I Was There
+May 09, 2009	Bismarck Civic Center	Bismarck, ND	 I Was There
+May 08, 2009	Metrapark Arena	Billings, MT	 I Was There
+May 07, 2009	Four Seasons Arena	Great Falls, MT	 I Was There
+May 03, 2009	St Joseph Civic Arena	St Joseph, MO	 I Was There
+May 02, 2009	JQH Arena	Springfield, MO	 I Was There
+May 01, 2009	Mizzou Arena	Columbia, MO	 I Was There
+Apr 30, 2009	First Tier Events Center	Kearney, NE	 I Was There
+Apr 26, 2009	Topeka Performing Arts Center	Topeka, KS	 I Was There
+Apr 25, 2009	Midland Theatre	Kansas City, MO	 I Was There
+Apr 24, 2009	The Arena at Southeastern Kentucky Agricultural and Exposition Center	Corbin, KY	 I Was There
+Apr 23, 2009	Von Braun Center Arena	Huntsville, AL	 I Was There
+Apr 19, 2009	Montgomery Performing Arts Centre	Montgomery, AL	 I Was There
+Apr 18, 2009	BI-LO Center	Greenville, SC	 I Was There
+Apr 17, 2009	James Brown Arena	Augusta, GA	 I Was There
+Apr 16, 2009	Jacksonville Veterans Memorial Arena	Jacksonville, FL	 I Was There
+Apr 05, 2009	Crouse Performance Hall	Lima, OH	 I Was There
+Apr 04, 2009	Assembly Hall	Champaign, IL	 I Was There
+Apr 03, 2009	Rialto Square Theatre	Joliet, IL	 I Was There
+Apr 02, 2009	The Bank of Kentucky Center	Highland Heights, KY	 I Was There
+Mar 29, 2009	Broome County Arena	Binghamton, NY	 I Was There
+Mar 28, 2009	Lowell Memorial Auditorium	Lowell, MA	 I Was There
+Mar 27, 2009	GIANT Center	Hershey, PA	 I Was There
+Mar 26, 2009	Glen Falls Civic Center	Glens Falls, NY	 I Was There
+Mar 22, 2009	UNO Lakefront Arena	New Orleans, LA	 I Was There
+Mar 21, 2009	Will Rogers Coliseum	Fort Worth, TX	 I Was There
+Mar 20, 2009	Beaumont Civic Center	Beaumont, TX	 I Was There
+Mar 19, 2009	Inn of the Mountain Gods Resort and Casino	Mescalero, NM	 I Was There
+Mar 15, 2009	Cabarrus Arena	Concord, NC	 I Was There
+Mar 14, 2009	Fox Theatre Atlanta	Atlanta, GA	 I Was There
+Mar 13, 2009	Albany Civic Center	Albany, GA	 I Was There
+Mar 12, 2009	Florence Civic Center	Florence, SC	 I Was There
+Mar 11, 2009	Duplin County Events Center	Kenansville, NC	 I Was There
+Mar 08, 2009	Shea's Performing Arts Center	Buffalo, NY	 I Was There
+Mar 07, 2009	Shea's Performing Arts Center	Buffalo, NY	 I Was There
+Mar 06, 2009	Landmark Theatre	Syracuse, NY	 I Was There
+Mar 05, 2009	Verizon Wireless Arena	Manchester, NH	 I Was There
+Mar 04, 2009	Assembly Hall	Champaign, IL	 I Was There
+Feb 22, 2009	Ryan Center	Kingston, RI	 I Was There
+Feb 21, 2009	1st Mariner Arena	Baltimore, MD	 I Was There
+Feb 20, 2009	John Paul Jones Arena	Charlottesville, VA	 I Was There
+Feb 19, 2009	Wachovia Arena	Wilkes Barre, PA	 I Was There
+Feb 18, 2009	Glen Falls Civic Center	Glens Falls, NY	 I Was There
+Feb 15, 2009	Barnhill Arena	Fayetteville, AR	 I Was There
+Feb 14, 2009	Convocation Center	Jonesboro, AR	 I Was There
+Feb 13, 2009	Bok Center	Tulsa, OK	 I Was There
+Feb 12, 2009	SHOWME CENTER	Cape Girardeau, MO	 I Was There
+Feb 07, 2009	Mid Hudson Valley Civic Center	Poughkeepsie, NY	 I Was There
+Feb 06, 2009	Canton Civic Center	Canton, OH	 I Was There
+Feb 05, 2009	Civic Center	Roanoke, VA	 I Was There
+Jan 25, 2009	DeVos Performance Hall	Grand Rapids, MI	 I Was There
+Jan 24, 2009	Fox Theatre	Detroit, MI	 I Was There
+Jan 22, 2009	Willow Island @ Alliant Energy Center	Madison, WI	 I Was There
+Jan 18, 2009	Civic Center	Des Moines, IA	 I Was There
+Jan 17, 2009	FABULOUS FOX THEATRE	St Louis, MO	 I Was There
+Jan 16, 2009	Embassy Theatre	Fort Wayne, IN	 I Was There
+Jan 15, 2009	Rockford MetroCentre	Rockford, IL	 I Was There
+Dec 14, 2008	Redding Convention Center	Redding, CA	 I Was There
+Dec 13, 2008	Orleans Arena	Las Vegas, NV	 I Was There
+Dec 12, 2008	Cox Arena	San Diego, CA	 I Was There
+Dec 11, 2008	Citizens Business Bank Arena	Ontario, CA	 I Was There
+Dec 09, 2008	Fred Kavli Theatre-Thousand Oaks Civic Arts	Thousand Oaks, CA	 I Was There
+Dec 08, 2008	Fred Kavli Theatre-Thousand Oaks Civic Arts	Thousand Oaks, CA	 I Was There
+Dec 06, 2008	Palace Theatre	Cleveland, OH	 I Was There
+Dec 05, 2008	Schottenstein Center	Columbus, OH	 I Was There
+Dec 04, 2008	Alltel Center	Mankato, MN	 I Was There
+Dec 03, 2008	MTS Centre	Winnipeg, Canada	 I Was There
+Nov 23, 2008	War Memorial Stadium	Greensboro, NC	 I Was There
+Nov 22, 2008	Louisville Palace	Louisville, KY	 I Was There
+Nov 21, 2008	Knoxville Auditorium	Knoxville, TN	 I Was There
+Nov 21, 2008	Knoxville Coliseum	Knoxville, TN	 I Was There
+Nov 20, 2008	Crossroads Arena	Corinth, TX	 I Was There
+Nov 15, 2008	King Performing Arts Center	Melbourne, FL	 I Was There
+Nov 14, 2008	Lakeland Center	Lakeland, FL	 I Was There
+Nov 13, 2008	Germain Arena	Estero, FL	 I Was There
+Nov 12, 2008	King Performing Arts Center	Melbourne, FL	 I Was There
+Nov 09, 2008	Joplin Memorial Hall	Joplin, MO	 I Was There
+Nov 06, 2008	Alltel Arena	North Little Rock, AR	 I Was There
+Nov 02, 2008	Pensacola Civic Center	Pensacola, FL	 I Was There
+Nov 01, 2008	Palace Theatre	Myrtle Beach, SC	 I Was There
+Oct 24, 2008	Peoria Civic Center	Peoria, IL	 I Was There
+Oct 18, 2008	Crysler Hall	Norfolk, VA	 I Was There
+Oct 12, 2008	The Morrison Center	Boise, ID	 I Was There
+Oct 11, 2008	Veterans Memorial Coliseum	Phoenix, AZ	 I Was There
+Oct 02, 2008	Pensacola Civic Center	Pensacola, FL	 I Was There
+Sep 26, 2008	Qwest Center Omaha	Omaha, NE	 I Was There
+Sep 05, 2008	York Fair Grandstand	York, PA	 I Was There
+Aug 23, 2008	Reno Events Center	Reno, NV	 I Was There
+Aug 22, 2008	Konocti Harbor Amphitheatre	Kelseyville, CA	 I Was There
+Aug 17, 2008	South Shore Mall	Hingham, MA	 I Was There
+Aug 16, 2008	Cape Cod Melody Tent	West Harwich, MA	 I Was There
+Aug 10, 2008	Mystic Lake Casino Hotel	Prior Lake, MN	 I Was There
+Aug 09, 2008	Mystic Lake Casino Hotel	Prior Lake, MN	 I Was There
+Aug 08, 2008	Mystic Lake Casino Hotel	Prior Lake, MN	 I Was There
+Aug 05, 2008	Glencoe Camp Resort	Sturgis, SD	 I Was There
+Aug 02, 2008	Big Valley Jamboree	Camrose, Canada	 I Was There
+May 25, 2008	Mark G. Etess Arena	Atlantic City, NJ	 I Was There
+May 24, 2008	Mark G. Etess Arena	Atlantic City, NJ	 I Was There
+May 17, 2008	Ruth Eckerd Hall	Clearwater, FL	 I Was There
+May 16, 2008	Ruth Eckerd Hall	Clearwater, FL	 I Was There
+May 15, 2008	Ruth Eckerd Hall	Clearwater, FL	 I Was There
+May 10, 2008	Palace Theatre	Albany, NY	 I Was There
+May 09, 2008	Palace Theatre	Albany, NY	 I Was There
+May 08, 2008	Stabler Arena	Allentown, PA	 I Was There
+May 04, 2008	Providence Performing Arts Center	Providence, RI	 I Was There
+May 03, 2008	Cumberland County Civic Center	Portland, ME	 I Was There
+May 03, 2008	Cumberland Co. Civic Center	Portland, ME	 I Was There
+May 02, 2008	Nassau Coliseum 	Uniondale, NY	 I Was There
+May 01, 2008	Copps Coliseum	Hamilton, Canada	 I Was There
+Apr 26, 2008	The Riverside Theater	Milwaukee, WI	 I Was There
+Apr 20, 2008	Community Arts Center	Williamsport, PA	 I Was There
+Apr 19, 2008	East. Michigan University	Ypsilanti, MI	 I Was There
+Apr 17, 2008	John Labatt Centre	London, Canada	 I Was There
+Apr 06, 2008	Star Plaza Theatre	Merrillville, IN	 I Was There
+Apr 04, 2008	MC Elroy Auditorium	Waterloo, IA	 I Was There
+Apr 03, 2008	Mark of Quad Cities	Moline, IL	 I Was There
+Mar 22, 2008	Ovens Auditorium	Charlotte, NC	 I Was There
+Mar 21, 2008	Wesbanco Arena	Wheeling, WV	 I Was There
+Mar 20, 2008	Cambria Co. War Mem. Arena	Johnstown, PA	 I Was There
+Mar 16, 2008	Genesee Theatre	Waukegan, IL	 I Was There
+Mar 15, 2008	Big Sandy Superstore Arena	Huntington, WV	 I Was There
+Mar 14, 2008	North Charleston Coliseum	North Charleston, SC	 I Was There
+Mar 09, 2008	RBC Center	Raleigh, NC	 I Was There
+Mar 08, 2008	Murat Theatre	Indianapolis, IN	 I Was There
+Mar 07, 2008	District Square	Kalamazoo, MI	 I Was There
+Mar 06, 2008	Resch Center	Green Bay, WI	 I Was There
+Mar 02, 2008	Rabobank Arena	Bakersfield, CA	 I Was There
+Mar 01, 2008	NOKIA Theatre LA LIVE	Los Angeles, CA	 I Was There
+Feb 29, 2008	Fantasy Springs Casino	Indio, CA	 I Was There
+Feb 24, 2008	Morris Performing Arts Center	South Bend, IN	 I Was There
+Feb 23, 2008	Taft Theatre	Cincinnati, OH	 I Was There
+Feb 22, 2008	Erie Civic Center	Erie, PA	 I Was There
+Feb 21, 2008	Sovereign Performing Arts Center	Reading, PA	 I Was There
+Feb 17, 2008	Warner Theatre	Washington, DC	 I Was There
+Feb 16, 2008	Warner Theatre	Washington, DC	 I Was There
+Feb 15, 2008	Warner Theatre	Washington, DC	 I Was There
+Feb 10, 2008	Leon County Civic Center	Tallahassee, FL	 I Was There
+Feb 09, 2008	Baton Rouge River Center Theater	Baton Rouge, LA	 I Was There
+Feb 08, 2008	Eastern Kentucky Exposition Center	Pikeville, KY	 I Was There
+Feb 07, 2008	Asheville Civic Center	Asheville, NC	 I Was There
+Jan 27, 2008	Verizon Wireless Theater	Houston, TX	 I Was There
+Jan 26, 2008	Verizon Wireless Theater	Houston, TX	 I Was There
+Jan 25, 2008	Verizon Wireless Theater	Houston, TX	 I Was There
+Jan 20, 2008	TN Perf Arts Ctr James K Polk Theater	Nashville, TN	 I Was There
+Jan 20, 2008	TN Perf Arts Ctr Andrew Jackson Hall	Nashville, TN	 I Was There
+Jan 19, 2008	TN Perf Arts Ctr James K Polk Theater	Nashville, TN	 I Was There
+Jan 19, 2008	TN Perf Arts Ctr Andrew Jackson Hall	Nashville, TN	 I Was There
+Jan 18, 2008	TN Perf Arts Ctr James K Polk Theater	Nashville, TN	 I Was There
+Jan 18, 2008	TN Perf Arts Ctr Andrew Jackson Hall	Nashville, TN	 I Was There
+Dec 16, 2007	US Airways Center	Phoenix, AZ	 I Was There
+Dec 15, 2007	Orleans Arena	Las Vegas, NV	 I Was There
+Dec 14, 2007	HP Pavilion at San Jose	San Jose, CA	 I Was There
+Dec 13, 2007	Stockton Arena	Stockton, CA	 I Was There
+Dec 11, 2007	Toyota Center	Kennewick, WA	 I Was There
+Dec 10, 2007	PNE Coliseum	Vancouver, Canada	 I Was There
+Dec 10, 2007	P.N.E. Pacific Coliseum	Vancouver, Canada	 I Was There
+Dec 09, 2007	Paramount Theatre	Seattle, WA	 I Was There
+Dec 08, 2007	Paramount Theatre	Seattle, WA	 I Was There
+Dec 07, 2007	Paramount Theatre	Seattle, WA	 I Was There
+Dec 06, 2007	Paramount Theatre	Seattle, WA	 I Was There
+Dec 01, 2007	Mohegan Sun Arena	Uncasville, CT	 I Was There
+Nov 30, 2007	Mohegan Sun Arena	Uncasville, CT	 I Was There
+Oct 25, 2007	Roberts Stadium	Evansville, IN	 I Was There
+Oct 24, 2007	Ervin J. Nutter Center	Dayton, OH	 I Was There
+Oct 23, 2007	Desoto County Civic Center	Southaven, MS	 I Was There
+Oct 19, 2007	Kansas Coliseum	Valley Center, KS	 I Was There
+Oct 18, 2007	Reed Arena	College Station, TX	 I Was There
+Oct 17, 2007	Mississippi Coast Coliseum	Biloxi, MS	 I Was There
+Oct 13, 2007	US Airways Center	Phoenix, AZ	 I Was There
+Oct 12, 2007	EnergySolutions Arena	Park City, UT	 I Was There
+Oct 11, 2007	Colorado Springs World Arena	Colorado Springs, CO	 I Was There
+Oct 10, 2007	KAY YEAGER COLISEUM	Wichita Falls, TX	 I Was There
+Oct 07, 2007	AT&T Center	San Antonio, TX	 I Was There
+Oct 06, 2007	Santa Ana Star Center	Albuquerque, NM	 I Was There
+Oct 06, 2007	Santa Ana Star Casino	Bernalillo, NM	 I Was There
+Oct 05, 2007	Budweiser Events Center	Loveland, CO	 I Was There
+Oct 04, 2007	Rushmore Plaza Civic Center	Rapid City, SD	 I Was There
+Sep 28, 2007	Ernest E Valdez Hall at Fresno Convention & Entertainment Center	Fresno, CA	 I Was There
+Sep 27, 2007	Tucson Convention Center	Tucson, AZ	 I Was There
+Sep 17, 2007	Turning Stone Resort Casino Event Center	Verona, NY	 I Was There
+Sep 16, 2007	Niagara Falls Casino	Niagara Falls, Canada	 I Was There
+Sep 08, 2007	Casablanca Casino	Mesquite, NV	 I Was There
+May 19, 2007	Verizon Wireless Theater	Houston, TX	 I Was There
+May 18, 2007	Verizon Wireless Theater	Houston, TX	 I Was There
+May 05, 2007	Wells Fargo Arena	Des Moines, IA	 I Was There

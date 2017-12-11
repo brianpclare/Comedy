@@ -43,7 +43,8 @@ by_state <- function(comedian){
 tour_names <- c("Amy Schumer", "Aziz Ansari", "Bill Burr", "Bill Engvall", "Bo Burnham", "Brian Posehn",
                 "Chris Rock", "Daniel Tosh", "Dave Chappelle", "Frankie Boyle", "Hannibal Burress", 
                 "Iliza Schlesinger", "Jeff Foxworthy", "Jim Gaffigan", "Jim Jefferies", "Jimmy Carr",
-                "John Mulaney", "Louis CK", "Neal Brennan", "Patton Oswalt", "Ron White", "Tom Segura")
+                "John Mulaney", "Louis CK", "Neal Brennan", "Patton Oswalt", "Ron White", "Tom Segura",
+                "Larry the Cable Guy")
 
 Ratios <- as.tibble(matrix(c(0), nrow = length(tour_names), ncol = 2))
 colnames(Ratios) <- c("Comedian", "Ratio of US Shows")
@@ -104,9 +105,9 @@ chappelle_US <- chappelle_tour %>% filter(State %in% state.abb)
 Ratios$`Ratio of US Shows`[9] <- US_ratio(chappelle_tour, chappelle_US)
 
 #Demetri Martin
-# martin_tour <- read_tsv("shows//demetri martin.txt", "Demetri Martin")
-# martin_tour <- fix_dates(martin_tour)
-# martin_US <- martin_tour %>% filter(State %in% state.abb)
+martin_tour <- read_tour("shows//demetri martin.txt", "Demetri Martin")
+martin_tour <- fix_dates(martin_tour)
+martin_US <- martin_tour %>% filter(State %in% state.abb)
 
 #Frankie Boyle
 boyle_tour <- read_tour("shows//frankie boyle.txt", "Frankie Boyle")
@@ -186,12 +187,20 @@ segura_tour <- fix_dates(segura_tour)
 segura_US <- segura_tour %>% filter(State %in% state.abb)
 Ratios$`Ratio of US Shows`[22] <- US_ratio(segura_tour, segura_US)
 
+#Larry the Cable Guy
+larry_tour <- read_tour("shows//larry the cable guy.txt", "Larry the Cable Guy")
+larry_tour <- fix_dates(larry_tour)
+larry_US <- larry_tour %>% filter(State %in% state.abb)
+Ratios$`Ratio of US Shows`[23] <- US_ratio(larry_tour, larry_US)
+
 state_freqs <- as.tibble(t(cbind(by_state(schumer_US)$count, by_state(ansari_US)$count, by_state(burr_US)$count,
                      by_state(engvall_US)$count, by_state(burnham_US)$count, by_state(posehn_US)$count, by_state(rock_US)$count,
-                     by_state(tosh_US)$count, by_state(chappelle_US)$count, by_state(boyle_US)$count, by_state(burress_US)$count,
-                     by_state(iliza_US)$count, by_state(fw_US)$count, by_state(gaffigan_US)$count, by_state(jefferies_US)$count,
+                     by_state(tosh_US)$count, by_state(chappelle_US)$count, by_state(martin_US)$count,
+                     by_state(boyle_US)$count, by_state(burress_US)$count, by_state(iliza_US)$count,
+                     by_state(fw_US)$count, by_state(gaffigan_US)$count, by_state(jefferies_US)$count,
                      by_state(carr_US)$count, by_state(mulaney_US)$count, by_state(ck_US)$count, by_state(brennan_US)$count, 
-                     by_state(oswalt_US)$count, by_state(white_US)$count, by_state(segura_US)$count)) )
+                     by_state(oswalt_US)$count, by_state(white_US)$count, by_state(segura_US)$count,
+                     by_state(larry_US)$count)) )
 
 state_freqs[is.na(state_freqs)] <- 0
 colnames(state_freqs) <- state.name
@@ -199,3 +208,17 @@ colnames(state_freqs) <- state.name
 state_freqs <- as.tibble(cbind(tour_names, state_freqs))
 colnames(state_freqs)[1] <- "Comedian"
 
+# top_in_state <- function(state){
+#   ggplot(data = state_freqs %>% top_n(10, state), mapping = aes(x = Comedian, y = state)) + geom_col()
+# }
+# 
+# top_in_state("California")
+
+tree_tour_table <- state_freqs %>% select(-Comedian)
+rownames(tree_tour_table) <- tour_names
+tour_tree <- hclust(dist(tree_tour_table))
+plot(tour_tree)
+
+tour_clust <- kmeans(state_freqs[2:50], 8, nstart = 20)
+state_freqs$cluster <- as.factor(tour_clust$cluster)
+tour_clusters <- state_freqs %>% select(Comedian, cluster)
