@@ -41,10 +41,10 @@ by_state <- function(comedian){
 }
 
 tour_names <- c("Amy Schumer", "Aziz Ansari", "Bill Burr", "Bill Engvall", "Bo Burnham", "Brian Posehn",
-                "Chris Rock", "Daniel Tosh", "Dave Chappelle", "Frankie Boyle", "Hannibal Burress", 
+                "Chris Rock", "Daniel Tosh", "Dave Chappelle", "Demetri Martin", "Frankie Boyle", "Hannibal Burress", 
                 "Iliza Schlesinger", "Jeff Foxworthy", "Jim Gaffigan", "Jim Jefferies", "Jimmy Carr",
                 "John Mulaney", "Louis CK", "Neal Brennan", "Patton Oswalt", "Ron White", "Tom Segura",
-                "Larry the Cable Guy")
+                "Larry the Cable Guy", "Maria Bamford")
 
 Ratios <- as.tibble(matrix(c(0), nrow = length(tour_names), ncol = 2))
 colnames(Ratios) <- c("Comedian", "Ratio of US Shows")
@@ -108,90 +108,97 @@ Ratios$`Ratio of US Shows`[9] <- US_ratio(chappelle_tour, chappelle_US)
 martin_tour <- read_tour("shows//demetri martin.txt", "Demetri Martin")
 martin_tour <- fix_dates(martin_tour)
 martin_US <- martin_tour %>% filter(State %in% state.abb)
+Ratios$`Ratio of US Shows`[10] <- US_ratio(martin_tour, martin_US)
 
 #Frankie Boyle
 boyle_tour <- read_tour("shows//frankie boyle.txt", "Frankie Boyle")
 boyle_tour <- fix_dates(boyle_tour)
 boyle_US <- boyle_tour %>% filter(State %in% state.abb)
-Ratios$`Ratio of US Shows`[10] <- US_ratio(boyle_tour, boyle_US)
+Ratios$`Ratio of US Shows`[11] <- US_ratio(boyle_tour, boyle_US)
 
 #Hannibal Burress
 burress_tour <- read_tour("shows//hannibal burress.txt", "Hannibal Burress")
 burress_tour <- fix_dates(burress_tour)
 burress_US <- burress_tour %>% filter(State %in% state.abb)
-Ratios$`Ratio of US Shows`[11] <- US_ratio(burress_tour, burress_US)
+Ratios$`Ratio of US Shows`[12] <- US_ratio(burress_tour, burress_US)
 
 #Iliza Schlesinger
 iliza_tour <- read_tour("shows//iliza.txt", "Iliza Schlesinger")
 iliza_tour <- fix_dates(iliza_tour)
 iliza_US <- iliza_tour %>% filter(State %in% state.abb)
-Ratios$`Ratio of US Shows`[12] <- US_ratio(iliza_tour, iliza_US)
+Ratios$`Ratio of US Shows`[13] <- US_ratio(iliza_tour, iliza_US)
 
 #Jeff Foxworthy
 fw_tour <- read_tour("shows//jeff foxworthy.txt", "Jeff Foxworthy")
 fw_tour <- fix_dates(fw_tour)
 fw_US <- fw_tour %>% filter(State %in% state.abb)
-Ratios$`Ratio of US Shows`[13] <- US_ratio(fw_tour, fw_US)
+Ratios$`Ratio of US Shows`[14] <- US_ratio(fw_tour, fw_US)
 
 #Jim Gaffigan
 gaffigan_tour <- read_tour("shows//gaffigan.txt", "Jim Gaffigan")
 gaffigan_tour <- fix_dates(gaffigan_tour)  
 gaffigan_US <- gaffigan_tour %>% filter(State %in% state.abb)
-Ratios$`Ratio of US Shows`[14] <- US_ratio(gaffigan_tour, gaffigan_US)
+Ratios$`Ratio of US Shows`[15] <- US_ratio(gaffigan_tour, gaffigan_US)
 
 #Jim Jefferies
 jefferies_tour <- read_tour("shows//jim jefferies.txt", "Jim Jefferies")
 jefferies_tour <- fix_dates(jefferies_tour)
 jefferies_US <- jefferies_tour %>% filter(State %in% state.abb)
-Ratios$`Ratio of US Shows`[15] <- US_ratio(jefferies_tour, jefferies_US)
+Ratios$`Ratio of US Shows`[16] <- US_ratio(jefferies_tour, jefferies_US)
 
 #Jimmy Carr
 carr_tour <- read_tour("shows//jimmy carr.txt", "Jimmy Carr")
 carr_tour <- fix_dates(carr_tour)
 carr_US <- carr_tour %>% filter(State %in% state.abb)
-Ratios$`Ratio of US Shows`[16] <- US_ratio(carr_tour, carr_US)
+Ratios$`Ratio of US Shows`[17] <- US_ratio(carr_tour, carr_US)
 
 #John Mulaney
 mulaney_tour <- read_tour("shows//mulaney.txt", "John Mulaney")
 mulaney_tour <- fix_dates(mulaney_tour)
 mulaney_US <- mulaney_tour %>% filter(State %in% state.abb)
-Ratios$`Ratio of US Shows`[17] <- US_ratio(mulaney_tour, mulaney_US)
+Ratios$`Ratio of US Shows`[18] <- US_ratio(mulaney_tour, mulaney_US)
 
 #Louis CK
 ck_tour <- read_tour("shows//ck.txt", "Louis CK")
 ck_tour <- fix_dates(ck_tour)
 ck_US <- ck_tour %>% filter(State %in% state.abb)
-Ratios$`Ratio of US Shows`[18] <- US_ratio(ck_tour, ck_US)
+Ratios$`Ratio of US Shows`[19] <- US_ratio(ck_tour, ck_US)
 
 #Neal Brennan
 brennan_tour <- read_tour("shows//neal brennan.txt", "Neal Brennan")
 brennan_tour <- fix_dates(brennan_tour)
 brennan_US <- brennan_tour %>% filter(State %in% state.abb)
-Ratios$`Ratio of US Shows`[19] <- US_ratio(brennan_tour, brennan_US)
+Ratios$`Ratio of US Shows`[20] <- US_ratio(brennan_tour, brennan_US)
 
 #Patton Oswalt
 oswalt_tour <- read_tour("shows//patton oswalt.txt", "Patton Oswalt")
 oswalt_tour <- fix_dates(oswalt_tour)
 oswalt_US <- oswalt_tour %>% filter(State %in% state.abb)
-Ratios$`Ratio of US Shows`[20] <- US_ratio(oswalt_tour, oswalt_US)
+Ratios$`Ratio of US Shows`[21] <- US_ratio(oswalt_tour, oswalt_US)
 
 #Ron White
 white_tour <- read_tour("shows//ron white.txt", "Ron White")
 white_tour <- fix_dates(white_tour)
 white_US <- white_tour %>% filter(State %in% state.abb)
-Ratios$`Ratio of US Shows`[21] <- US_ratio(white_tour, white_US)
+Ratios$`Ratio of US Shows`[22] <- US_ratio(white_tour, white_US)
 
 #Tom Segura
 segura_tour <- read_tour("shows//tom segura.txt", "Tom Segura")
 segura_tour <- fix_dates(segura_tour)
 segura_US <- segura_tour %>% filter(State %in% state.abb)
-Ratios$`Ratio of US Shows`[22] <- US_ratio(segura_tour, segura_US)
+Ratios$`Ratio of US Shows`[23] <- US_ratio(segura_tour, segura_US)
 
 #Larry the Cable Guy
 larry_tour <- read_tour("shows//larry the cable guy.txt", "Larry the Cable Guy")
 larry_tour <- fix_dates(larry_tour)
 larry_US <- larry_tour %>% filter(State %in% state.abb)
-Ratios$`Ratio of US Shows`[23] <- US_ratio(larry_tour, larry_US)
+Ratios$`Ratio of US Shows`[24] <- US_ratio(larry_tour, larry_US)
+
+#Maria Bamford
+bamford_tour <- read_tour("shows//maria bamford.txt", "Maria Bamford")
+bamford_tour <- fix_dates(bamford_tour)
+bamford_US <- bamford_tour %>% filter(State %in% state.abb)
+Ratios$`Ratio of US Shows`[25] <- US_ratio(bamford_tour, bamford_US)
 
 state_freqs <- as.tibble(t(cbind(by_state(schumer_US)$count, by_state(ansari_US)$count, by_state(burr_US)$count,
                      by_state(engvall_US)$count, by_state(burnham_US)$count, by_state(posehn_US)$count, by_state(rock_US)$count,
@@ -200,7 +207,7 @@ state_freqs <- as.tibble(t(cbind(by_state(schumer_US)$count, by_state(ansari_US)
                      by_state(fw_US)$count, by_state(gaffigan_US)$count, by_state(jefferies_US)$count,
                      by_state(carr_US)$count, by_state(mulaney_US)$count, by_state(ck_US)$count, by_state(brennan_US)$count, 
                      by_state(oswalt_US)$count, by_state(white_US)$count, by_state(segura_US)$count,
-                     by_state(larry_US)$count)) )
+                     by_state(larry_US)$count, by_state(bamford_US)$count)) )
 
 state_freqs[is.na(state_freqs)] <- 0
 colnames(state_freqs) <- state.name

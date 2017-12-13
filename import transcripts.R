@@ -1,3 +1,5 @@
+#Run this script first
+
 library(tidyverse)
 library(readr)
 library(tidytext)
@@ -138,12 +140,6 @@ FB_Hurt <- read_transcript("scraps//frankie boyle hurt like youve never been lov
 Frankie_Boyle <- rbind(FB_Hurt, FB_Live2, FB_Sodom) %>% group_by(word) %>% 
   summarize(n = sum(n), name = max(comedian)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
-#Gabriel Iglesias
-#GI_Haf <- read_transcript("scraps//gabriel iglesias hot and fluffy.txt", 
-#                          "Gabriel Iglesias", "Hot and Fluffy")
-#GI_Not <- read_transcript("scraps//gabriel iglesias not fat.txt", 
- #                         "Gabriel Iglesias", "I'm Not Fat I'm Fluffy")
-
 
 #George Carlin
 GC_Again <- read_transcript("scraps//george carlin again.txt", "George Carlin", "Again")
@@ -163,8 +159,8 @@ George_Carlin <- rbind(GC_Again, GC_Life, GC_USC, GC_Bad, GC_Diseased, GC_Back, 
 #Hannibal Burress
 HB_Animal <- read_transcript("youtube//hannibal burress animal furnace.txt", 
                             "Hannibal Burress", "Animal Furnace")
-# HB_Comedy <- read_transcript("scraps//hannibal burress cc.txt", 
-#                              "Hannibal Burress, Comedy Camisado")
+HB_Comedy <- read_transcript("scraps//hannibal burress cc.txt",
+                             "Hannibal Burress, Comedy Camisado")
 Hannibal_Burress <- rbind(HB_Animal) %>% group_by(word) %>% 
   summarize(n = sum(n), name = max(comedian)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
