@@ -159,8 +159,8 @@ George_Carlin <- rbind(GC_Again, GC_Life, GC_USC, GC_Bad, GC_Diseased, GC_Back, 
 #Hannibal Burress
 HB_Animal <- read_transcript("youtube//hannibal burress animal furnace.txt", 
                             "Hannibal Burress", "Animal Furnace")
-HB_Comedy <- read_transcript("scraps//hannibal burress cc.txt",
-                             "Hannibal Burress, Comedy Camisado")
+# HB_Comedy <- read_transcript("scraps//hannibal burress cc.txt",
+#                              "Hannibal Burress, Comedy Camisado")
 Hannibal_Burress <- rbind(HB_Animal) %>% group_by(word) %>% 
   summarize(n = sum(n), name = max(comedian)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 

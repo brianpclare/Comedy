@@ -9,24 +9,61 @@
 
 library(shiny)
 library(tidyverse)
+library(markdown)
+library(ggmap)
+library(maps)
+library(mapdata)
 
 # Define UI for application that draws a histogram
-ui <- fluidPage(
-   
-   # Application title
-   titlePanel("Stand Up Comedy"),
-   
-   # Sidebar with a slider input for number of bins 
-   sidebarLayout(
-      sidebarPanel(
-         textInput("term", "Word", value = "redneck")
+ 
+ui <- navbarPage("Comedy",  
+  
+   tabPanel("By Word",
+    sidebarLayout(
+        sidebarPanel(
+           textInput("term", "Word", value = "redneck")
       ),
-      
-      # Show a plot of the generated distribution
+    
       mainPanel(
          plotOutput("distPlot")
       )
-   )
+    )
+  ),
+
+  tabPanel("By Comedian",
+           sidebarLayout(
+             sidebarPanel(
+               selectInput("name", "Most Distinctive Vocabulary For:", comedians_list)
+             ),
+             
+             mainPanel(
+               tableOutput("dist_words")
+             )
+           )
+        ),
+  tabPanel("Touring - US",
+           sidebarLayout(
+             sidebarPanel(
+               helpText("Proportion of Shows in US")
+             ),
+
+             mainPanel(
+               dataTableOutput("US_tour")
+             )
+           )
+  ),
+  tabPanel("Touring - Map",
+           sidebarLayout(
+             sidebarPanel(
+               helpText("Most Visits to Each US State")
+             ),
+             
+             mainPanel(
+               plotOutput("Map")
+             )
+           )
+  )
+
 )
 
 # Define server logic required to draw a histogram
@@ -35,14 +72,43 @@ server <- function(input, output) {
   datasetInput <- reactive({
          filter(master, word == input$term) %>% top_n(10, rf)
   })
-          
+  
+  comedianInput <- reactive({
+    idf %>% filter(name == input$name) %>% top_n(10, tf_idf) %>% arrange(desc(tf_idf)) %>% 
+      mutate(tf_idf = 1000*tf_idf) %>% select(word, "Count" = n, "Distinctiveness" = tf_idf)
+  })
+  
+  tourInput <- reactive({
+    Ratios %>% arrange(desc(`Ratio of US Shows`))
+    
+  })
+  
           
    output$distPlot <- renderPlot({
      ggplot(datasetInput(), mapping = aes(x = reorder(name, -rf), y = rf, fill = name)) + 
-       geom_col() + theme(axis.text.x = element_text(angle = 60, hjust = 1), legend.position = "none") +
+       geom_col() + theme(axis.text.x = element_text(angle = 40, hjust = 1), legend.position = "none") +
        labs(x = "Comedian", y = "Frequency", title = str_c("Comedians who say '", input$term, "' most frequently"))
      
    })
+   
+   output$dist_words <- renderTable({comedianInput()})
+   
+   output$US_tour <- renderDataTable({tourInput()})
+
+   output$map <- renderPlot({
+     US_states <- map_data("states")
+     ditch_the_axes <- theme(
+       axis.text = element_blank(),
+       axis.line = element_blank(),
+       axis.ticks = element_blank(),
+       panel.border = element_blank(),
+       panel.grid = element_blank(),
+       axis.title = element_blank()
+     )
+     ggplot(data = state_freqs) + 
+       ditch_the_axes
+   })
+   
 }
 
 # Run the application 
