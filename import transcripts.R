@@ -185,7 +185,8 @@ Jeff_Foxworthy <- rbind(JF_Georgia, JF_Totally, JF_Thinking) %>% group_by(word) 
 #Jerry Seinfeld
 JS_Telling <- read_transcript("youtube//jerry seinfeld telling you.txt", 
                          "Jerry Seinfeld", "I'm Telling You For The Last Time")
-Jerry_Seinfeld <- rbind(JS_Telling)%>% group_by(word) %>%
+JS_Gotham <- read_transcript("youtube//seinfeld gotham.txt", "Jerry Seinfeld", "Gotham Comedy Club")
+Jerry_Seinfeld <- rbind(JS_Telling, JS_Gotham)%>% group_by(word) %>%
   summarize(n = sum(n), name = max(comedian)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Jim Gaffigan
@@ -506,30 +507,6 @@ top5 <- function(comedian){
   return(source[2:6,])
 }
 
-schumer5 <- top5("Amy Schumer")
-
-#Some grouping of comedians
-
-Blue_Collar <- rbind(JF_Georgia, JF_Thinking, JF_Totally, LC_Thinking, BE_Sign, 
-                     RW_Behavior, RW_Tater, RW_Unprof) %>% group_by(word) %>%
-  summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
-
-Blue_Collar_norm <- text_norm(Blue_Collar)
-
-UK <- rbind(JC_Comedian, JC_Concert, JC_Funny, JC_Laugh, RG_Out, FB_Hurt,
-            FB_Live2, FB_Sodom) %>% group_by(word) %>%
-        summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
-UK_norm <- text_norm(UK)
-
-Women <- rbind(AW_Baby, AS_Leather, AS_Live, AS_Sex, IS_Hot, IS_Kills, MB_Baby)%>% group_by(word) %>%
-  summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
-Women_norm <- text_norm(Women)
-
-Black <- rbind(DC_Fwiw, DC_Killing, DC_Spin, DC_Texas, CR_BB, CR_Never, CR_Pain, 
-               DG_Weirdo, EM_Del, EM_Raw, HB_Animal, RF_HBO, RP_Here, RP_Live, RP_Smoke,
-               RP_Sunset, SH_HBO, SH_Trip)%>% group_by(word) %>%
-  summarize(n = sum(n)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
-Black_norm <- text_norm(Black)
 
 #Put everything together
 
@@ -554,3 +531,8 @@ colnames(master_freq) <- c("Word", "Frequency")
 top500 <- master_freq %>% top_n(500, Frequency) %>% arrange(desc(Frequency))
 top500_words <- as.tibble(top500$Word)
 colnames(top500_words) <- c("word")
+
+
+top10 <- master_freq %>% top_n(10, Frequency) %>% arrange(desc(Frequency))
+top10_words <- as.tibble(top10$Word)
+colnames(top10_words) <- c("word")

@@ -70,7 +70,7 @@ word_matrix <- cbind(comedians_list, word_matrix)
 
 colnames(word_matrix)[1] <- "Name"
 
-clusters <- kmeans(word_matrix[2:504], 11, nstart = 20)
+clusters <- kmeans(word_matrix[2:501], 10, nstart = 20)
 word_matrix$cluster <- as.factor(clusters$cluster)
 
 comedy_clusters <- word_matrix %>% select(Name, cluster)
@@ -87,43 +87,39 @@ cluster7_words <- cbind( top500_words, as.tibble(clusters$centers[7,]) ) %>% arr
 cluster8_words <- cbind( top500_words, as.tibble(clusters$centers[8,]) ) %>% arrange(desc(value))
 cluster9_words <- cbind( top500_words, as.tibble(clusters$centers[9,]) ) %>% arrange(desc(value))
 cluster10_words <- cbind( top500_words, as.tibble(clusters$centers[10,]) ) %>% arrange(desc(value))
-cluster11_words <- cbind( top500_words, as.tibble(clusters$centers[11,]) ) %>% arrange(desc(value))
 
-
-
-
-zoom_matrix <- as.tibble(rbind(t(left_join(as.tibble(top500_words), AA_norm) %>% select(rf)),
-                               t(left_join(as.tibble(top500_words), DM_norm) %>% select(rf)),
-                               t(left_join(as.tibble(top500_words), DT_norm) %>% select(rf)),
-                               t(left_join(as.tibble(top500_words), IS_norm) %>% select(rf)),
-                               t(left_join(as.tibble(top500_words), JF_norm) %>% select(rf)),
-                               t(left_join(as.tibble(top500_words), JC_norm) %>% select(rf)),
-                               t(left_join(as.tibble(top500_words), JG_norm) %>% select(rf)),
-                               t(left_join(as.tibble(top500_words), JM_norm) %>% select(rf)),
-                               t(left_join(as.tibble(top500_words), PO_norm) %>% select(rf)),
-                               t(left_join(as.tibble(top500_words), RW_norm) %>% select(rf)),
-                               t(left_join(as.tibble(top500_words), RG_norm) %>% select(rf)),
-                               t(left_join(as.tibble(top500_words), SW_norm) %>% select(rf)),
-                               t(left_join(as.tibble(top500_words), JS_norm) %>% select(rf)),
-                               t(left_join(as.tibble(top500_words), HB_norm) %>% select(rf)),
-                               t(left_join(as.tibble(top500_words), MH_norm) %>% select(rf))
-                               )
-)
-
-colnames(zoom_matrix) <- t(top500_words)
-
-zoom_names <- c("Aziz Ansari", "Demetri Martin", "Daniel Tosh", "Iliza Schlesinger", "Jeff Foxworthy",
-                "Jimmy Carr", "Jim Gaffigan", "John Mulaney", "Patton Oswalt", "Ron White", "Ricky Gervais",
-                "Steven Wright", "Jerry Seinfeld", "Hannibal Burress", "Mitch Hedberg")
-
-zoom_matrix <- cbind(zoom_names, zoom_matrix)
-
-colnames(zoom_matrix)[1] <- "Name"
-
-zclusters <- kmeans(zoom_matrix[2:504], 4, nstart = 20)
-zoom_matrix$cluster <- as.factor(zclusters$cluster)
-
-zcomedy_clusters <- zoom_matrix %>% select(Name, cluster)
+ 
+# zoom_matrix <- as.tibble(rbind(t(left_join(as.tibble(top500_words), AA_norm) %>% select(rf)),
+#                                t(left_join(as.tibble(top500_words), DM_norm) %>% select(rf)),
+#                                t(left_join(as.tibble(top500_words), DT_norm) %>% select(rf)),
+#                                t(left_join(as.tibble(top500_words), IS_norm) %>% select(rf)),
+#                                t(left_join(as.tibble(top500_words), JF_norm) %>% select(rf)),
+#                                t(left_join(as.tibble(top500_words), JC_norm) %>% select(rf)),
+#                                t(left_join(as.tibble(top500_words), JM_norm) %>% select(rf)),
+#                                t(left_join(as.tibble(top500_words), PO_norm) %>% select(rf)),
+#                                t(left_join(as.tibble(top500_words), RW_norm) %>% select(rf)),
+#                                t(left_join(as.tibble(top500_words), RG_norm) %>% select(rf)),
+#                                t(left_join(as.tibble(top500_words), SW_norm) %>% select(rf)),
+#                                t(left_join(as.tibble(top500_words), JS_norm) %>% select(rf)),
+#                                t(left_join(as.tibble(top500_words), HB_norm) %>% select(rf)),
+#                                t(left_join(as.tibble(top500_words), MH_norm) %>% select(rf))
+#                                )
+# )
+# 
+# colnames(zoom_matrix) <- t(top500_words)
+# 
+# zoom_names <- c("Aziz Ansari", "Demetri Martin", "Daniel Tosh", "Iliza Schlesinger", "Jeff Foxworthy",
+#                 "Jimmy Carr", "John Mulaney", "Patton Oswalt", "Ron White", "Ricky Gervais",
+#                 "Steven Wright", "Jerry Seinfeld", "Hannibal Burress", "Mitch Hedberg")
+# 
+# zoom_matrix <- cbind(zoom_names, zoom_matrix)
+# 
+# colnames(zoom_matrix)[1] <- "Name"
+# 
+# zclusters <- kmeans(zoom_matrix[2:501], 4, nstart = 20)
+# zoom_matrix$cluster <- as.factor(zclusters$cluster)
+# 
+# zcomedy_clusters <- zoom_matrix %>% select(Name, cluster)
 
 tree_names <- word_matrix %>% select(-Name)
 rownames(tree_names) <- comedians_list
