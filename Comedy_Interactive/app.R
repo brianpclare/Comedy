@@ -41,6 +41,17 @@ ui <- navbarPage("Comedy",
              )
            )
         ),
+  tabPanel("Ranks",
+           sidebarLayout(
+             sidebarPanel(
+               helpText("Ranking of Comedians")
+             ),
+             
+             mainPanel(
+               dataTableOutput("ranks")
+             )
+           )
+  ),
   tabPanel("Touring - US",
            sidebarLayout(
              sidebarPanel(
@@ -83,6 +94,10 @@ server <- function(input, output) {
     
   })
   
+  rankInput <- reactive({
+    ranks %>% select(-Avg, -adjustment) %>% mutate(Aggregate = adj_avg) %>% select(-adj_avg)
+  })
+  
           
    output$distPlot <- renderPlot({
      ggplot(datasetInput(), mapping = aes(x = reorder(name, -rf), y = rf, fill = name)) + 
@@ -95,6 +110,8 @@ server <- function(input, output) {
    
    output$US_tour <- renderDataTable({tourInput()})
 
+   output$ranks <- renderDataTable({rankInput()})
+   
    output$map <- renderPlot({
      US_states <- map_data("states")
      ditch_the_axes <- theme(

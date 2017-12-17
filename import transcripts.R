@@ -166,9 +166,9 @@ Hannibal_Burress <- rbind(HB_Animal) %>% group_by(word) %>%
 
 #Iliza Schlesinger
 IS_Hot <- read_transcript("youtube//iliza schlesinger freezing hot.txt",
-                          "Iliza Schlesinger", "Freezing Hot")
+                          "Iliza Shlesinger", "Freezing Hot")
 IS_Kills <- read_transcript("youtube//iliza schlesinger confirmed kills.txt",
-                       "Iliza Schlesinger", "Confirmed Kills")
+                       "Iliza Shlesinger", "Confirmed Kills")
 Iliza_Sch <- rbind(IS_Hot, IS_Kills) %>% group_by(word) %>%
   summarize(n = sum(n), name = max(comedian)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
@@ -401,7 +401,7 @@ vocab_similarity(AW_norm, JC_norm)
 comedians_list <- c("Amy Schumer", "Aziz Ansari", "Ali Wong", "Bill Burr", "Bill Hicks",
   "Bo Burnham", "Brian Posehn", "Chris Rock", "Dave Chappelle", "Demetri Martin",
   "Donald Glover", "Daniel Tosh", "Eddie Murphy", "Frankie Boyle", "George Carlin",
-  "Iliza Schlesinger", "Jeff Foxworthy", "Jimmy Carr", "Jim Gaffigan", "Jim Jefferies",
+  "Iliza Shlesinger", "Jeff Foxworthy", "Jimmy Carr", "Jim Gaffigan", "Jim Jefferies",
   "John Mulaney", "Louis CK", "Lenny Bruce", "Maria Bamford", "Neal Brennan", "Patton Oswalt",
   "Richard Pryor", "Ron White", "Ricky Gervais", "Steve Harvey", "Tom Segura", "Steven Wright",
   "Redd Foxx", "Jerry Seinfeld", "Hannibal Burress", "Larry the Cable Guy", "Mitch Hedberg",
@@ -471,7 +471,7 @@ all_comparisons$`Daniel Tosh` <- do_comps(DT_norm)
 all_comparisons$`Eddie Murphy` <- do_comps(EM_norm)
 all_comparisons$`Frankie Boyle` <- do_comps(FB_norm)
 all_comparisons$`George Carlin` <- do_comps(GC_norm)
-all_comparisons$`Iliza Schlesinger` <- do_comps(IS_norm)
+all_comparisons$`Iliza Shlesinger` <- do_comps(IS_norm)
 all_comparisons$`Jeff Foxworthy` <- do_comps(JF_norm)
 all_comparisons$`Jimmy Carr` <- do_comps(JC_norm)
 all_comparisons$`Jim Gaffigan` <- do_comps(JG_norm)
@@ -517,13 +517,13 @@ master <- rbind(Amy_Schumer, Aziz_Ansari, Ali_Wong, Bill_Burr, Bill_Hicks, Bill_
                 John_Mulaney, Louis_CK, Lenny_Bruce, Maria_Bamford, Neal_Brennan, 
                 Patton_Oswalt, Richard_Pryor, Ron_White, Ricky_Gervais, Steve_Harvey, 
                 Steven_Wright, Redd_Foxx, Jerry_Seinfeld, Hannibal_Burress, Larry_Cableguy,
-                Mitch_Hedberg)
+                Mitch_Hedberg, Tom_Segura)
 
 master_freq <- AA_norm$n + AW_norm$n + AS_norm$n + Burr_norm$n + BH_norm$n + BE_norm$n + BB_norm$n +
         CR_norm$n + BP_norm$n + DC_norm$n + DM_norm$n + DG_norm$n + DT_norm$n + EM_norm$n + FB_norm$n +
         GC_norm$n + IS_norm$n + JF_norm$n + JC_norm$n + JG_norm$n + JJ_norm$n + JM_norm$n + CK_norm$n + 
         LB_norm$n + MB_norm$n + NB_norm$n + PO_norm$n + RP_norm$n + RW_norm$n + RG_norm$n + SH_norm$n + 
-        SW_norm$n + RF_norm$n + JS_norm$n + HB_norm$n + LC_norm$n + MH_norm$n
+        SW_norm$n + RF_norm$n + JS_norm$n + HB_norm$n + LC_norm$n + MH_norm$n + TS_norm$n
 
 master_freq <- cbind(words_only, master_freq)
 colnames(master_freq) <- c("Word", "Frequency")
@@ -536,3 +536,5 @@ colnames(top500_words) <- c("word")
 top10 <- master_freq %>% top_n(10, Frequency) %>% arrange(desc(Frequency))
 top10_words <- as.tibble(top10$Word)
 colnames(top10_words) <- c("word")
+
+top500rf <- top500 %>%  mutate(rf = Frequency / sum(Frequency))

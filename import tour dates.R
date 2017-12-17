@@ -135,8 +135,8 @@ burress_US <- burress_tour %>% filter(State %in% state.abb)
 Ratios$`Ratio of US Shows`[12] <- US_ratio(burress_tour, burress_US)
 Ratios$`Number of Shows`[12] <- length(burress_tour$Venue)
 
-#Iliza Schlesinger
-iliza_tour <- read_tour("shows//iliza.txt", "Iliza Schlesinger")
+#Iliza Shlesinger
+iliza_tour <- read_tour("shows//iliza.txt", "Iliza Shlesinger")
 iliza_tour <- fix_dates(iliza_tour)
 iliza_US <- iliza_tour %>% filter(State %in% state.abb)
 Ratios$`Ratio of US Shows`[13] <- US_ratio(iliza_tour, iliza_US)
@@ -266,7 +266,7 @@ for(i in 1:length(state.abb)){
   most_visits$`Top Comedian Visitor`[i] <- as.character(df$Comedian[1])
 }
     
-    
+
 # state_freqs$total <- apply(state_freqs[-1], 1, sum)
 
 
