@@ -1,0 +1,12 @@
+name: Comedy_Project
+title: Comedy_Project
+username:
+account: bclare
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 249807
+bundleId: 1140516
+url: https://bclare.shinyapps.io/Comedy_Project/
+when: 1513588299.66259
+asMultiple: FALSE
+asStatic: FALSE

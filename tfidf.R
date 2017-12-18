@@ -125,3 +125,5 @@ tree_names <- word_matrix %>% select(-Name)
 rownames(tree_names) <- comedians_list
 tree <- hclust(dist(tree_names))
 plot(tree)
+
+write_csv(idf, "Comedy_Interactive//idf.csv")

@@ -286,3 +286,7 @@ for(i in 1:length(state.abb)){
 # tour_clust <- kmeans(state_freqs[2:50], 8, nstart = 20)
 # state_freqs$cluster <- as.factor(tour_clust$cluster)
 # tour_clusters <- state_freqs %>% select(Comedian, cluster)
+
+write_csv(Ratios, "Comedy_Interactive//Ratios.csv")
+
+write_csv(tours_by_state, "Comedy_Interactive//tours_by_state.csv")

@@ -1,5 +1,4 @@
 library(tidyverse)
-library(ggmap)
 library(maps)
 library(mapdata)
 

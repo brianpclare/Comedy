@@ -1,0 +1,435 @@
+---
+title: "What's So Funny?"
+author: "Brian Clare"
+date: "December 18, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(readr)
+library(tidytext)
+library(readxl)
+library(maps)
+library(mapdata)
+```
+
+## Gathering Data - Transcripts
+
+The first thing we need to do is gather a bunch of data. 
+.txt files of the transcripts and touring information that I've gathered
+is all included on my github so if you're reading this you should have all of that
+Let's get a couple functions to clean up that data, starting with transcripts
+
+```{r}
+data(stop_words)
+
+read_transcript <- function(file, comedian, title){
+  df <- read_table(file, col_names = FALSE)
+  
+  df <- df %>% unnest_tokens(word, X1) %>% filter(word != 'laughter')%>% filter(word != "audience") %>% 
+    filter(word != 'applause') %>% filter(word != 'music') %>% filter(word != "ll") %>% 
+    filter(word != "nt") %>% filter(word != "ve") %>% filter(word != "laughs") %>%  anti_join(stop_words) %>% 
+    count(word, sort = TRUE) %>% mutate(comedian = comedian, title = title) %>%
+    mutate(RF = n / sum(n))
+  
+  return(df)
+}
+
+```
+
+So this function will read in a file, split it into individual words, filter out words that are useless
+or commonly non-verbal, filter out stop words, then summarize for the total number of times each word
+is included in that file.
+
+Here's an example of how this function is used; I don't want this document to be 100 pages long so I
+won't show all of them here, but they're in the "import transcripts.R" script which is included in
+github. There will be a lot of commented-out lines within the chunks of this Rmd file for that reason.
+
+```{r}
+#Amy Schumer
+AS_Leather <- read_transcript("youtube//amy schumer the leather special.txt",
+                              "Amy Schumer", "The Leather Special")
+AS_Sex <- read_transcript("scraps//amy schumer mostly sex stuff.txt",
+                          "Amy Schumer", "Mostly Sex Stuff")
+AS_Live <- read_transcript("scraps//amy schumer live at the apollo.txt", 
+                           "Amy Schumer", "Live at the Apollo")
+Amy_Schumer <- rbind(AS_Leather, AS_Sex, AS_Live) %>% group_by(word) %>%
+  summarize(n = sum(n), name = max(comedian)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
+```
+
+After importing all the transcripts and combining each individual comedian's pieces, we should
+look at all of the words
+
+```{r}
+all_words <- rbind(Amy_Schumer
+      #              Aziz_Ansari, Ali_Wong, Bill_Burr, Bill_Hicks, Bo_Burnham, Brian_Posehn,
+      # Chris_Rock, Dave_Chappelle, Demetri_Martin, Donald_Glover, Daniel_Tosh, Eddie_Murphy, Frankie_Boyle,
+      # George_Carlin, Iliza_Sch, Jeff_Foxworthy, Jimmy_Carr, Jim_Gaffigan, Jim_Jefferies,
+      # John_Mulaney, Louis_CK, Lenny_Bruce, Maria_Bamford, Neal_Brennan, Patton_Oswalt, Richard_Pryor,
+      # Ron_White, Ricky_Gervais, Steve_Harvey, Tom_Segura, Steven_Wright, Redd_Foxx, Jerry_Seinfeld,
+      # Hannibal_Burress
+      ) %>% group_by(word) %>% 
+  summarize(n = sum(n))%>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
+
+words_only <- all_words %>% select(word)
+
+text_norm <- function(comedian){
+  normalized <- right_join(comedian, words_only)%>%
+    mutate(n = ifelse(is.na(n), 0, n), rf = n / sum(n))
+  return(normalized)
+}
+
+AS_norm <- text_norm(Amy_Schumer)
+```
+
+This chunk will make a list of all words used by these comedians, and then "normalizes" each
+comedian's vocabulary by showing the relative frequencies of every word for that comedian.
+
+Now let's get everyone's frequencies of every word into one big big big table. We'll need this later.
+
+```{r}
+comedians_list <- c("Amy Schumer", "Aziz Ansari", "Ali Wong", "Bill Burr", "Bill Hicks",
+  "Bo Burnham", "Brian Posehn", "Chris Rock", "Dave Chappelle", "Demetri Martin",
+  "Donald Glover", "Daniel Tosh", "Eddie Murphy", "Frankie Boyle", "George Carlin",
+  "Iliza Shlesinger", "Jeff Foxworthy", "Jimmy Carr", "Jim Gaffigan", "Jim Jefferies",
+  "John Mulaney", "Louis CK", "Lenny Bruce", "Maria Bamford", "Neal Brennan", "Patton Oswalt",
+  "Richard Pryor", "Ron White", "Ricky Gervais", "Steve Harvey", "Tom Segura", "Steven Wright",
+  "Redd Foxx", "Jerry Seinfeld", "Hannibal Burress", "Larry the Cable Guy", "Mitch Hedberg",
+  "Bill Engvall")
+
+master <- rbind(Amy_Schumer 
+                # Aziz_Ansari, Ali_Wong, Bill_Burr, Bill_Hicks, Bill_Engvall,
+                # Bo_Burnham, Chris_Rock, Brian_Posehn, Dave_Chappelle, Demetri_Martin, 
+                # Donald_Glover, Daniel_Tosh, Eddie_Murphy, Frankie_Boyle, George_Carlin, 
+                # Iliza_Sch, Jeff_Foxworthy, Jimmy_Carr, Jim_Gaffigan, Jim_Jefferies, 
+                # John_Mulaney, Louis_CK, Lenny_Bruce, Maria_Bamford, Neal_Brennan, 
+                # Patton_Oswalt, Richard_Pryor, Ron_White, Ricky_Gervais, Steve_Harvey, 
+                # Steven_Wright, Redd_Foxx, Jerry_Seinfeld, Hannibal_Burress, Larry_Cableguy,
+                # Mitch_Hedberg, Tom_Segura
+                )
+
+master_freq <- AS_norm$n 
+# AA_norm$n + AW_norm$n + Burr_norm$n + BH_norm$n + BE_norm$n + BB_norm$n +
+#         CR_norm$n + BP_norm$n + DC_norm$n + DM_norm$n + DG_norm$n + DT_norm$n + EM_norm$n + FB_norm$n +
+#         GC_norm$n + IS_norm$n + JF_norm$n + JC_norm$n + JG_norm$n + JJ_norm$n + JM_norm$n + CK_norm$n + 
+#         LB_norm$n + MB_norm$n + NB_norm$n + PO_norm$n + RP_norm$n + RW_norm$n + RG_norm$n + SH_norm$n + 
+#         SW_norm$n + RF_norm$n + JS_norm$n + HB_norm$n + LC_norm$n + MH_norm$n + TS_norm$n
+
+master_freq <- cbind(words_only, master_freq)
+colnames(master_freq) <- c("Word", "Frequency")
+```
+
+Finally we'll make some lists of the most used words, so that we can check back with them later
+
+```{r}
+top500 <- master_freq %>% top_n(500, Frequency) %>% arrange(desc(Frequency))
+top500_words <- as.tibble(top500$Word)
+colnames(top500_words) <- c("word")
+
+
+top10 <- master_freq %>% top_n(10, Frequency) %>% arrange(desc(Frequency))
+top10_words <- as.tibble(top10$Word)
+colnames(top10_words) <- c("word")
+
+top500rf <- top500 %>%  mutate(rf = Frequency / sum(Frequency))
+```
+
+## Gathering Data - Touring
+
+Okay, similar idea here. We'll start with a couple functions to read in and clean the .txt files
+
+```{r}
+read_tour <- function(file, comedian){
+  doc <- read_tsv(file, col_names = TRUE) %>% unique() %>% select(-Ignore) %>% 
+    mutate(name = comedian) %>%
+    separate(col = Location, into = c("City", "State"), sep = ", ")
+  return(doc)
+}
+
+#The site where I found this data only listed the year if it wasn't this year (2017), so I had to add those in for recent shows
+
+fix_dates <- function(table){
+  for(i in 1:length(table$Date)){
+    if(!grepl(",", table$Date[i], fixed = TRUE)){
+      table$Date[i] <- str_c(table$Date[i], ", 2017", sep = "")
+    }
+  }
+  
+  table <- table %>% separate(col = Date, into = c("MD", "Year"), sep = ",")
+  table <- table %>% separate(col = MD, into = c("Month", "Day"), sep = " ")
+  return(table)
+}
+```
+
+One of the things I'm curious about is how often these comedians do shows outside the US; most are
+Americans but a few are not, and I bet they have a lower % of their shows in the US
+
+Most of the shows are in the US though, so let's filter down to those and group by state
+
+```{r}
+#Who is in the US the most?
+US_ratio <- function(tour, US){
+  ratio <- length(US$Venue) / length(tour$Venue)
+  return(ratio)
+}
+
+data(state)
+state_list <- as.tibble(matrix(state.abb), bycol = FALSE)
+colnames(state_list) <- c("State")
+
+by_state <- function(comedian){
+  df <- comedian %>% group_by(State) %>% summarize(count = n()) %>% right_join(state_list) %>% 
+    mutate(rel_freq = count / sum(count, na.rm = TRUE))
+  return(df)
+}
+```
+
+We don't have tour data for everyone that had transcript data. Some of those comedians are older, 
+several are dead, and a few I just couldn't find. Here's who we have, and then Amy Schumer again as an example of pulling in the data
+
+```{r}
+tour_names <- c("Amy Schumer", "Aziz Ansari", "Bill Burr", "Bill Engvall", "Bo Burnham", 
+                "Brian Posehn","Chris Rock", "Daniel Tosh", "Dave Chappelle", "Demetri Martin",                         "Frankie Boyle", "Hannibal Burress","Iliza Schlesinger", "Jeff Foxworthy", 
+                "Jim Gaffigan", "Jim Jefferies", "Jimmy Carr", "John Mulaney", "Louis CK", 
+                "Neal Brennan", "Patton Oswalt", "Ron White", "Tom Segura", "Larry the Cable Guy",
+                "Maria Bamford")
+
+Ratios <- as.tibble(matrix(c(0), nrow = length(tour_names), ncol = 3))
+colnames(Ratios) <- c("Comedian", "Ratio of US Shows", "Number of Shows")
+Ratios$Comedian <- tour_names
+
+#Amy Schumer
+schumer_tour <- read_tour("shows//amy schumer.txt", "Amy Schumer")
+schumer_tour <- fix_dates(schumer_tour)
+schumer_US <- schumer_tour %>% filter(State %in% state.abb)
+Ratios$`Ratio of US Shows`[1] <- US_ratio(schumer_tour, schumer_US)
+Ratios$`Number of Shows`[1] <- length(schumer_tour$Venue)
+
+```
+
+Now that we have lists of how many times each comedian has played in each state, let's summarize and
+get things into tidy format for future use
+
+```{r}
+state_freqs <- as.tibble(t(cbind(by_state(schumer_US)$count
+                                 # by_state(ansari_US)$count,
+                                 # by_state(burr_US)$count, by_state(engvall_US)$count,
+                                 # by_state(burnham_US)$count, by_state(posehn_US)$count,
+                                 # by_state(rock_US)$count, by_state(tosh_US)$count,
+                                 # by_state(chappelle_US)$count, by_state(martin_US)$count,
+                                 # by_state(boyle_US)$count, by_state(burress_US)$count,
+                                 # by_state(iliza_US)$count, by_state(fw_US)$count,
+                                 # by_state(gaffigan_US)$count, by_state(jefferies_US)$count,
+                                 # by_state(carr_US)$count, by_state(mulaney_US)$count,
+                                 # by_state(ck_US)$count, by_state(brennan_US)$count,
+                                 # by_state(oswalt_US)$count, by_state(white_US)$count,
+                                 # by_state(segura_US)$count, by_state(larry_US)$count,
+                                 # by_state(bamford_US)$count
+                                 )) )
+
+state_freqs[is.na(state_freqs)] <- 0
+colnames(state_freqs) <- state.name
+
+state_freqs <- as.tibble(cbind(tour_names, state_freqs))
+colnames(state_freqs)[1] <- "Comedian"
+
+combined_state_freqs <- as.tibble(colSums(state_freqs[2:51]))
+combined_state_freqs <- as.tibble(cbind(tolower(state.name), combined_state_freqs$value))
+colnames(combined_state_freqs) <- c("region", "Total")
+
+state_rel_freqs <- as.tibble(t(cbind(by_state(schumer_US)$rel_freq
+                                     # by_state(ansari_US)$rel_freq,
+                                     # by_state(burr_US)$rel_freq, by_state(engvall_US)$rel_freq,
+                                     # by_state(burnham_US)$rel_freq, by_state(posehn_US)$rel_freq,
+                                     # by_state(rock_US)$rel_freq, by_state(tosh_US)$rel_freq,
+                                     # by_state(chappelle_US)$rel_freq, by_state(martin_US)$rel_freq,
+                                     # by_state(boyle_US)$rel_freq, by_state(burress_US)$rel_freq,
+                                     # by_state(iliza_US)$rel_freq, by_state(fw_US)$rel_freq,
+                                     # by_state(gaffigan_US)$rel_freq, by_state(jefferies_US)$rel_freq,
+                                     # by_state(carr_US)$rel_freq, by_state(mulaney_US)$rel_freq,
+                                     # by_state(ck_US)$rel_freq, by_state(brennan_US)$rel_freq,
+                                     # by_state(oswalt_US)$rel_freq, by_state(white_US)$rel_freq,
+                                     # by_state(segura_US)$rel_freq, by_state(larry_US)$rel_freq,
+                                     # by_state(bamford_US)$rel_freq
+                                     )) )
+
+state_rel_freqs[is.na(state_rel_freqs)] <- 0
+colnames(state_rel_freqs) <- state.name
+
+state_rel_freqs <- as.tibble(cbind(tour_names, state_rel_freqs))
+colnames(state_rel_freqs)[1] <- "Comedian"
+
+state_for_map <- as.tibble(t(select(state_rel_freqs, -Comedian)))
+colnames(state_for_map) <- tour_names
+state_for_map$region <- state.name
+```
+
+## Finally some analysis - TF-IDF
+
+So what we'll do now is find the tf-idf for each word used by each comedian, from the "master" table
+we made earlier. tf is term frequency (how often the comedian uses that word) and idf is inverse
+document frequency; a document here is one comedian, so basically how many other comedians use that 
+word. A larger value for tf-idf means that word is more distinctive for that comedian.
+
+```{r}
+idf <- master %>% bind_tf_idf(word, name, n)
+```
+
+Okay that was easy. Since there are over 20000 distinct words used though, it's a little unwieldy. 
+Instead let's summarize the tf-idfs of the top 500 words for each comedian
+
+```{r}
+word_matrix <- as.tibble(rbind(t(left_join(as.tibble(top500_words), AS_norm) %>% select(rf)) 
+                               # etc etc for every other comedian
+                               # It was tricky getting this code to work right and there's
+                               # probably a nicer-looking way to do it
+))
+
+
+colnames(word_matrix) <- t(top500_words)
+
+word_matrix <- cbind(comedians_list, word_matrix)
+
+colnames(word_matrix)[1] <- "Name"
+```
+
+
+When we have this table, we can use it to find distances between comedians by vocabulary,
+and with distances we can find clusters by similarity of word use
+
+```{r}
+# clusters <- kmeans(word_matrix[2:501], 10, nstart = 20)
+# word_matrix$cluster <- as.factor(clusters$cluster)
+# 
+# comedy_clusters <- word_matrix %>% select(Name, cluster)
+
+```
+
+There's a bit more code in the tfidf.R script about looking at the top words for each cluster, and 
+zooming in to the largest cluster. The conclusions are laid out in the google slides presentation.
+
+## Rankings
+
+In an effort to quantify the idea of the best or funniest standup comedians, I came across a few 
+different rankings. While there were some interesting rankings of the best standup specials, most
+influential comedians, and others, I stuck with 3 rankings of the greatest comedians of all time.
+I entered the results into an excel file, then read it into R
+
+```{r}
+ranks <- read_xlsx("rankings.xlsx")
+ranks <- ranks %>% mutate(Avg = rowMeans(ranks[2:4], na.rm = TRUE))
+
+ranks$adjustment <- rowSums(is.na(ranks))
+ranks$adj_avg <- ranks$Avg / ( 1- (ranks$adjustment / 3))
+```
+
+## Swearing
+
+One of the central dividers in standup comedy is between comics who curse regularly and those who 
+don't. I've defined what I subjectively feel are the strongest swear words, and looked at how often
+those words are used by comedians.
+
+```{r}
+swears <- c("fuck", "fucking", "shit", "fucked", "motherfuckers", "cunt")
+swear_matrix <- word_matrix %>% select(Name, swears)
+swear_matrix <- swear_matrix %>% mutate(total_freq = rowSums(swear_matrix[2:7])) %>% 
+  select(Comedian = Name, total_freq)
+
+```
+
+## Models
+
+Okay so does swearing make you funnier? Well not you personally, but successful standup comedians.
+We'll build a simple linear model here to examine the relationship, and then plot a graph.
+
+
+```{r}
+
+ranks_min <- ranks %>% select(Comedian, Ranking = adj_avg) %>% filter(Ranking < 50)
+
+model_swears <- inner_join(ranks_min, swear_matrix)
+model_swears <- model_swears %>% select(Comedian, Swears = total_freq, Ranking) %>% 
+  mutate(Swears = 100*Swears)
+
+model_swears$decade <- c("70s", "70s", "90s", "00s", "00s", "80s", "80s", "10s", "60s", "90s", 
+                         "00s", "60s", "90s", "00s", "00s", "10s")
+
+lm_swears <- lm(data = model_swears, Ranking ~ Swears)
+summary(lm_swears)
+
+factor(model_swears$decade, levels = c("60s", "70s", "80s", "90s", "00s", "10s"))
+
+ggplot(data = model_swears, mapping = aes(x = Swears, y = Ranking, label = Comedian, color = decade)) +
+  geom_point() + geom_text(aes(label = Comedian), hjust = 0, vjust = 0) +
+  scale_x_continuous(limits = c(0, 12)) + scale_color_discrete(name = "Decade")
+```
+
+This turns out to be a less fruitful endeavor, but I also wanted to look at the effect of various
+words on ranking. I didn't want to spend the time doing a regression for every single word, but 
+because of the small sample size I couldn't reasonably use a large number of words, so I've just
+looked at the top 10 words in overall frequency.
+
+```{r}
+top10_word_matrix <- word_matrix %>% select(Comedian = Name, top10_words$word)
+
+model_words <- inner_join(ranks_min, top10_word_matrix)
+model_words <- model_words %>% select(-Comedian)
+
+lm_words <- lm(data = model_words, Ranking ~ .)
+summary(lm_words)
+```
+
+## Mapping
+
+We have all that tour data but we haven't really used it yet. Let's try to make some pretty maps
+of the US showing where comedians go. This next chunk mostly just sets up a few things
+
+```{r}
+all_states <- map_data("state")
+state_for_map$region <- sapply(state_for_map$region, tolower)
+tours_by_state <- full_join(state_for_map, all_states)
+tours_by_state$region <- as.factor(tours_by_state$region)
+tours_by_state <- tours_by_state %>% filter(is.na(long) == FALSE)
+
+tours_by_state[is.na(tours_by_state)] <- 0
+
+
+ditch_the_axes <- theme(
+  axis.text = element_blank(),
+  axis.line = element_blank(),
+  axis.ticks = element_blank(),
+  panel.border = element_blank(),
+  panel.grid = element_blank(),
+  axis.title = element_blank(),
+  legend.title = element_blank()
+)
+
+combined_state_map <- full_join(combined_state_freqs, all_states)
+combined_state_map$region <- as.factor(combined_state_map$region)
+combined_state_map$Total <- as.numeric(combined_state_map$Total)
+
+mid <- mean(combined_state_map$Total, na.rm = TRUE)
+lmid <- log(mid)
+```
+
+Okay great - let's make the plots. Here's all comedians combined, then an example for just one comedian
+
+```{r}
+ggplot(data = combined_state_map) + geom_polygon(aes(x = long, y = lat, group = group, fill = Total),
+                                                 color = "black") +
+  scale_fill_gradient2(midpoint = lmid, low = "red", high = "blue", mid = "white",
+                       space = "Lab", trans = "log") + coord_fixed(1.3) + ditch_the_axes + 
+  labs(title = "Frequency of Comedian Visits to US States")
+
+ggplot() + geom_polygon(data = tours_by_state,
+                        mapping = aes(x = long, y = lat, group = group, fill = `Amy Schumer`),
+                        color = "black") +
+  coord_fixed(1.3) + ditch_the_axes + 
+  scale_fill_gradient2(midpoint = log(0.05), low = "red", high = "blue", mid = "white",
+                       space = "Lab", trans = "log") +
+  labs(title = "Amy Schumer")
+```
+
+

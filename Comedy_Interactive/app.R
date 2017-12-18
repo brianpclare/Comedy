@@ -1,20 +1,35 @@
-#
-# This is a Shiny web application. You can run the application by clicking
-# the 'Run App' button above.
-#
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
-#
-
 library(shiny)
 library(tidyverse)
 library(markdown)
-library(ggmap)
 library(maps)
 library(mapdata)
+library(readr)
 
-# Define UI for application that draws a histogram
+comedians_list <- c("Amy Schumer", "Aziz Ansari", "Ali Wong", "Bill Burr", "Bill Hicks",
+                    "Bo Burnham", "Brian Posehn", "Chris Rock", "Dave Chappelle", "Demetri Martin",
+                    "Donald Glover", "Daniel Tosh", "Eddie Murphy", "Frankie Boyle", "George Carlin",
+                    "Iliza Shlesinger", "Jeff Foxworthy", "Jimmy Carr", "Jim Gaffigan", "Jim Jefferies",
+                    "John Mulaney", "Louis CK", "Lenny Bruce", "Maria Bamford", "Neal Brennan", "Patton Oswalt",
+                    "Richard Pryor", "Ron White", "Ricky Gervais", "Steve Harvey", "Tom Segura", "Steven Wright",
+                    "Redd Foxx", "Jerry Seinfeld", "Hannibal Burress", "Larry the Cable Guy", "Mitch Hedberg",
+                    "Bill Engvall")
+
+tour_names <- c("Amy Schumer", "Aziz Ansari", "Bill Burr", "Bill Engvall", "Bo Burnham", "Brian Posehn",
+                "Chris Rock", "Daniel Tosh", "Dave Chappelle", "Demetri Martin", "Frankie Boyle", "Hannibal Burress", 
+                "Iliza Schlesinger", "Jeff Foxworthy", "Jim Gaffigan", "Jim Jefferies", "Jimmy Carr",
+                "John Mulaney", "Louis CK", "Neal Brennan", "Patton Oswalt", "Ron White", "Tom Segura",
+                "Larry the Cable Guy", "Maria Bamford")
+
+master <- read_csv("master.csv")
+
+ranks <- read_csv("ranks.csv")
+
+Ratios <- read_csv("Ratios.csv")
+
+tours_by_state <- read_csv("tours_by_state.csv")
+
+idf <- read_csv("idf.csv")
+
  
 ui <- navbarPage("Comedy",  
   

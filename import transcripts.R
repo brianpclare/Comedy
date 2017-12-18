@@ -538,3 +538,5 @@ top10_words <- as.tibble(top10$Word)
 colnames(top10_words) <- c("word")
 
 top500rf <- top500 %>%  mutate(rf = Frequency / sum(Frequency))
+
+write_csv(master, "Comedy_Interactive//master.csv")
