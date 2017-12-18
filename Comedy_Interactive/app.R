@@ -66,7 +66,7 @@ ui <- navbarPage("Comedy",
   tabPanel("Touring - Map",
            sidebarLayout(
              sidebarPanel(
-               helpText("Most Visits to Each US State")
+               selectInput("map_name", "Proportion of Shows by State", tour_names)
              ),
              
              mainPanel(
@@ -98,6 +98,9 @@ server <- function(input, output) {
     ranks %>% select(-Avg, -adjustment) %>% mutate(Aggregate = adj_avg) %>% select(-adj_avg)
   })
   
+  mapInput <- reactive({
+    input$map_name
+  })
           
    output$distPlot <- renderPlot({
      ggplot(datasetInput(), mapping = aes(x = reorder(name, -rf), y = rf, fill = name)) + 
@@ -112,18 +115,22 @@ server <- function(input, output) {
 
    output$ranks <- renderDataTable({rankInput()})
    
-   output$map <- renderPlot({
-     US_states <- map_data("states")
+   output$Map <- renderPlot({
      ditch_the_axes <- theme(
        axis.text = element_blank(),
        axis.line = element_blank(),
        axis.ticks = element_blank(),
        panel.border = element_blank(),
        panel.grid = element_blank(),
-       axis.title = element_blank()
+       axis.title = element_blank(),
+       legend.title = element_blank()
      )
-     ggplot(data = state_freqs) + 
-       ditch_the_axes
+     ggplot() + geom_polygon(data = tours_by_state,
+                             mapping = aes(x = long, y = lat, group = group, fill = tours_by_state[mapInput()]),
+                             color = "black") +
+       coord_fixed(1.3) + ditch_the_axes + 
+       scale_fill_gradient2(midpoint = log(0.05), low = "red", high = "blue", mid = "white",
+                            space = "Lab", trans = "log")
    })
    
 }

@@ -241,6 +241,9 @@ colnames(state_freqs) <- state.name
 state_freqs <- as.tibble(cbind(tour_names, state_freqs))
 colnames(state_freqs)[1] <- "Comedian"
 
+combined_state_freqs <- as.tibble(colSums(state_freqs[2:51]))
+combined_state_freqs <- as.tibble(cbind(tolower(state.name), combined_state_freqs$value))
+colnames(combined_state_freqs) <- c("region", "Total")
 
 state_rel_freqs <- as.tibble(t(cbind(by_state(schumer_US)$rel_freq, by_state(ansari_US)$rel_freq, by_state(burr_US)$rel_freq,
                                  by_state(engvall_US)$rel_freq, by_state(burnham_US)$rel_freq, by_state(posehn_US)$rel_freq, by_state(rock_US)$rel_freq,
@@ -256,6 +259,11 @@ colnames(state_rel_freqs) <- state.name
 
 state_rel_freqs <- as.tibble(cbind(tour_names, state_rel_freqs))
 colnames(state_rel_freqs)[1] <- "Comedian"
+
+state_for_map <- as.tibble(t(select(state_rel_freqs, -Comedian)))
+colnames(state_for_map) <- tour_names
+state_for_map$region <- state.name
+
 
 most_visits <- as.tibble(cbind(state.abb, 0))
 
