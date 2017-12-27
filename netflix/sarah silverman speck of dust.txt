@@ -1,0 +1,1418 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" xml:id="bottom"/>
+<region tts:displayAlign="before" tts:extent="80.00% 40.00%" tts:origin="10.00% 10.00%" xml:id="top"/>
+</layout>
+</head>
+<body region="bottom">
+<div xml:space="preserve">
+<p begin="60059999t" end="80080000t" style="normal" xml:id="subtitle0">[upbeat music playing]</p>
+<p begin="136136000t" end="156156000t" style="normal" xml:id="subtitle1">[man whistling on soundtrack]</p>
+<p begin="305638666t" end="344344000t" style="normal" xml:id="subtitle2">[man] <span style="normal_1">Girls and boys,</span><br/><span style="normal_1">please welcome to the stage</span></p>
+<p begin="351684666t" end="367367000t" style="normal" xml:id="subtitle3"><span style="normal_1">Sarah Silverman!</span></p>
+<p begin="368034332t" end="388054332t" style="normal" xml:id="subtitle4">[audience cheering and applauding]</p>
+<p begin="414747666t" end="424757666t" style="normal" xml:id="subtitle5">[mouthing] Hi.</p>
+<p begin="533199332t" end="544210332t" style="normal" xml:id="subtitle6">Well, thank you.</p>
+<p begin="632965666t" end="645645000t" style="normal" xml:id="subtitle7">Thank you so much.</p>
+<p begin="646312332t" end="668334332t" style="normal" xml:id="subtitle8">I am so happy you guys are here.</p>
+<p begin="675341332t" end="697697000t" style="normal" xml:id="subtitle9">I'm sorry about the metal detectors.</p>
+<p begin="698364332t" end="730730000t" style="normal" xml:id="subtitle10">-That is my bad. I, um...<br/>-[audience laughs]</p>
+<p begin="731397332t" end="775441332t" style="normal" xml:id="subtitle11">...tweeted something,<br/>and, uh, it made some people</p>
+<p begin="776108666t" end="812812000t" style="normal" xml:id="subtitle12">feel the need to express, um,<br/>wanting to kill me.</p>
+<p begin="813479332t" end="835167666t" style="normal" xml:id="subtitle13">-And...<br/>-[audience laughs]</p>
+<p begin="844510332t" end="867866999t" style="normal" xml:id="subtitle14">I'm sorry I called for a military coup.</p>
+<p begin="868534332t" end="883215666t" style="normal" xml:id="subtitle15">[audience laughing]</p>
+<p begin="883882999t" end="901233666t" style="normal" xml:id="subtitle16">I knew it was a long shot.</p>
+<p begin="925257666t" end="968634332t" style="normal" xml:id="subtitle17">You know, when you're a comedian now,<br/>you really have to think things through</p>
+<p begin="971303666t" end="995327666t" style="normal" xml:id="subtitle18">before you post them,<br/>you know, on Twitter.</p>
+<p begin="995994999t" end="1017015999t" style="normal" xml:id="subtitle19">Who do we think we are, presidents?</p>
+<p begin="1017683332t" end="1037703332t" style="normal" xml:id="subtitle20">[audience laughing]</p>
+<p begin="1056722332t" end="1071403666t" style="normal" xml:id="subtitle21">[audience cheering and applauding]</p>
+<p begin="1078077000t" end="1101767332t" style="normal" xml:id="subtitle22">Oh. Not necessary.</p>
+<p begin="1105771332t" end="1118117000t" style="normal" xml:id="subtitle23">But appreciated.</p>
+<p begin="1135467666t" end="1156155000t" style="normal" xml:id="subtitle24">I'm, uh... I'm not a fancy person.</p>
+<p begin="1156822332t" end="1171837332t" style="normal" xml:id="subtitle25">I don't, um...</p>
+<p begin="1176508666t" end="1193192000t" style="normal" xml:id="subtitle26">You know, I'm wearing a onesie.</p>
+<p begin="1193859332t" end="1213879332t" style="normal" xml:id="subtitle27">[audience laughs]</p>
+<p begin="1225557666t" end="1265264000t" style="normal" xml:id="subtitle28">I'm not-- I have friends<br/>that love jewelry, and I love them.</p>
+<p begin="1265931332t" end="1311643666t" style="normal" xml:id="subtitle29">But I-- I don't really understand<br/>the value of jewelry at all.</p>
+<p begin="1312311000t" end="1351350000t" style="normal" xml:id="subtitle30">That said... I love a nice hotel room.</p>
+<p begin="1352017332t" end="1358690666t" style="normal" xml:id="subtitle31">[audience laughs]</p>
+<p begin="1361360000t" end="1377376000t" style="normal" xml:id="subtitle32">I need a soaking tub.</p>
+<p begin="1378043332t" end="1393058332t" style="normal" xml:id="subtitle33">So, I have my things.</p>
+<p begin="1397729666t" end="1413412000t" style="normal" xml:id="subtitle34">And I was just on the road,</p>
+<p begin="1414079332t" end="1448447000t" style="normal" xml:id="subtitle35">and I got to stay<br/>in some really nice hotels.</p>
+<p begin="1455787666t" end="1507172332t" style="normal" xml:id="subtitle36">And, um, I'll never complain,<br/>because I'm so afraid of being, like,</p>
+<p begin="1507839666t" end="1532864666t" style="normal" xml:id="subtitle37">a complaining Jew.</p>
+<p begin="1536535000t" end="1556555000t" style="normal" xml:id="subtitle38">[audience laughing]</p>
+<p begin="1563895666t" end="1581580000t" style="normal" xml:id="subtitle39">Which is a stereotype.</p>
+<p begin="1591590000t" end="1646978666t" style="normal" xml:id="subtitle40">-Based on facts and patterns.<br/>-[audience laughing]</p>
+<p begin="1647646000t" end="1682347332t" style="normal" xml:id="subtitle41">And then, like,<br/>deducing from those patterns.</p>
+<p begin="1696027666t" end="1718049666t" style="normal" xml:id="subtitle42">Why are you selling out<br/>your culture, Sarah?</p>
+<p begin="1718716999t" end="1732063666t" style="normal" xml:id="subtitle43">Sorry.</p>
+<p begin="1752750999t" end="1768766999t" style="normal" xml:id="subtitle44">Did it get a laugh? Yes. Okay.</p>
+<p begin="1769434332t" end="1793791999t" style="normal" xml:id="subtitle45">[audience laughing]</p>
+<p begin="1798796999t" end="1823154666t" style="normal" xml:id="subtitle46">Um... But I did call down.</p>
+<p begin="1827158666t" end="1849180666t" style="normal" xml:id="subtitle47">And I was like,<br/>"Everything is so amazing.</p>
+<p begin="1851849999t" end="1864862999t" style="normal" xml:id="subtitle48">Thank you so much.</p>
+<p begin="1868533332t" end="1883881999t" style="normal" xml:id="subtitle49">Um, but I...</p>
+<p begin="1893558332t" end="1924255666t" style="normal" xml:id="subtitle50">noticed there seems to be, um...</p>
+<p begin="1946611332t" end="1968966999t" style="normal" xml:id="subtitle51">-semen on the...<br/>-[audience laughs]</p>
+<p begin="1979644332t" end="1997995999t" style="normal" xml:id="subtitle52">I think it's called a duvet.</p>
+<p begin="1998663332t" end="2018015999t" style="normal" xml:id="subtitle53">And-- Or a comforter.</p>
+<p begin="2026023999t" end="2039704332t" style="normal" xml:id="subtitle54">And also, um...</p>
+<p begin="2046377666t" end="2087084999t" style="normal" xml:id="subtitle55">There's also some on,<br/>like, the nightstand.</p>
+<p begin="2087752332t" end="2099430666t" style="normal" xml:id="subtitle56">[audience laughing]</p>
+<p begin="2107438666t" end="2154485666t" style="normal" xml:id="subtitle57">And, um, also, I noticed<br/>there's come all over my tits. It's...</p>
+<p begin="2155153000t" end="2175173000t" style="normal" xml:id="subtitle58">[audience laughing]</p>
+<p begin="2183848332t" end="2195193000t" style="normal" xml:id="subtitle59">I'm sorry.</p>
+<p begin="2218883332t" end="2234899332t" style="normal" xml:id="subtitle60">I just, you know, if there's a--</p>
+<p begin="2243908332t" end="2254919332t" style="normal" xml:id="subtitle61">I hate to complain.</p>
+<p begin="2255586666t" end="2282947332t" style="normal" xml:id="subtitle62">If there's an upgrade to be had,<br/>I would...</p>
+<p begin="2294292000t" end="2307972332t" style="normal" xml:id="subtitle63">[with vocal fry] in I'd take it."</p>
+<p begin="2316647666t" end="2339003332t" style="normal" xml:id="subtitle64">Can you hear me<br/>when I just talk like this?</p>
+<p begin="2345009332t" end="2362693666t" style="normal" xml:id="subtitle65">[in normal voice] This is a good<br/>sound system.</p>
+<p begin="2363361000t" end="2386050332t" style="normal" xml:id="subtitle66">[with vocal fry] You can hear me<br/>when I just talk like this?</p>
+<p begin="2386717666t" end="2398062332t" style="normal" xml:id="subtitle67">[audience chuckles]</p>
+<p begin="2407738666t" end="2446777666t" style="normal" xml:id="subtitle68">-I, uh, got laser hair removal.<br/>-[audience member claps]</p>
+<p begin="2447445000t" end="2460124332t" style="normal" xml:id="subtitle69">And...</p>
+<p begin="2476474000t" end="2489153332t" style="normal" xml:id="subtitle70">Did you just applaud that?</p>
+<p begin="2489820666t" end="2506170332t" style="normal" xml:id="subtitle71">You're like, "Finally."</p>
+<p begin="2506837666t" end="2524522000t" style="normal" xml:id="subtitle72">[audience laughing]</p>
+<p begin="2525189332t" end="2537868666t" style="normal" xml:id="subtitle73">I got laser hair removal.</p>
+<p begin="2538536000t" end="2566897666t" style="normal" xml:id="subtitle74">I waited a really long time to do it.</p>
+<p begin="2567565000t" end="2604602000t" style="normal" xml:id="subtitle75">Uh... I wanted the science<br/>to be at its peak.</p>
+<p begin="2605269332t" end="2622953666t" style="normal" xml:id="subtitle76">[audience chuckles]</p>
+<p begin="2623621000t" end="2667998666t" style="normal" xml:id="subtitle77">You know, like, we landed on Mars...<br/>I think it was August 2012.</p>
+<p begin="2668666000t" end="2680344332t" style="normal" xml:id="subtitle78">[man chuckles]</p>
+<p begin="2687685000t" end="2699029666t" style="normal" xml:id="subtitle79">[audience laughing]</p>
+<p begin="2725055666t" end="2746410332t" style="normal" xml:id="subtitle80">Are you just impressed<br/>that I remember the date?</p>
+<p begin="2765095666t" end="2777441332t" style="normal" xml:id="subtitle81">What I'm saying is...</p>
+<p begin="2793457332t" end="2818816000t" style="normal" xml:id="subtitle82">we landed on Mars in 2012.</p>
+<p begin="2819483332t" end="2839169666t" style="normal" xml:id="subtitle83">I waited four more years.</p>
+<p begin="2855853000t" end="2915245666t" style="normal" xml:id="subtitle84">And then I looked up<br/>the highest-rated laser hair removal place</p>
+<p begin="2915913000t" end="2935933000t" style="normal" xml:id="subtitle85">within three blocks of my apartment.</p>
+<p begin="2936600332t" end="2946610332t" style="normal" xml:id="subtitle86">And I went there.</p>
+<p begin="2947277666t" end="2966630332t" style="normal" xml:id="subtitle87">[audience laughing]</p>
+<p begin="2967297666t" end="2982980000t" style="normal" xml:id="subtitle88">It was called LaserAway.</p>
+<p begin="2994658332t" end="3004001000t" style="normal" xml:id="subtitle89">And, um...</p>
+<p begin="3015012000t" end="3027357666t" style="normal" xml:id="subtitle90">it wasn't what I--</p>
+<p begin="3035699332t" end="3057054000t" style="normal" xml:id="subtitle91">I think I was naive,<br/>and I just thought you go,</p>
+<p begin="3057721332t" end="3093423666t" style="normal" xml:id="subtitle92">and you get-- And your hair gets removed.<br/>But it's a much longer process.</p>
+<p begin="3094091000t" end="3129459666t" style="normal" xml:id="subtitle93">For every section of hair<br/>you want removed,</p>
+<p begin="3130127000t" end="3175839332t" style="normal" xml:id="subtitle94">you have to go<br/>have eight separate sessions,</p>
+<p begin="3179509666t" end="3190520666t" style="normal" xml:id="subtitle95">you know, like on each--</p>
+<p begin="3193190000t" end="3236900332t" style="normal" xml:id="subtitle96">So, for me, I was doing, like,<br/>from right below my belly button</p>
+<p begin="3237567666t" end="3254251000t" style="normal" xml:id="subtitle97">down to the floor.</p>
+<p begin="3254918332t" end="3283947332t" style="normal" xml:id="subtitle98">And then back up<br/>to about the middle of my back.</p>
+<p begin="3290287000t" end="3320984332t" style="normal" xml:id="subtitle99">And, um-- Isn't that funny<br/>that that's funny? And it's a lie.</p>
+<p begin="3323653666t" end="3335999332t" style="normal" xml:id="subtitle100">I did my arms, too.</p>
+<p begin="3336666666t" end="3357687666t" style="normal" xml:id="subtitle101">-[audience laughing]<br/>-But, um... [chuckles]</p>
+<p begin="3368698666t" end="3387383999t" style="normal" xml:id="subtitle102">I can't lie to you guys.</p>
+<p begin="3395391999t" end="3404067332t" style="normal" xml:id="subtitle103">I can't.</p>
+<p begin="3408071332t" end="3434097332t" style="normal" xml:id="subtitle104">Uh-- Right.<br/>So, they make you pay up front.</p>
+<p begin="3434764666t" end="3461124332t" style="normal" xml:id="subtitle105">Which makes so much sense,<br/>now that I think about it.</p>
+<p begin="3463793666t" end="3495158332t" style="normal" xml:id="subtitle106">Because... it hurts so much.</p>
+<p begin="3495825666t" end="3540536999t" style="normal" xml:id="subtitle107">By the second session you're like,<br/>"Oh, I would gladly pay $3000</p>
+<p begin="3541204332t" end="3569565999t" style="normal" xml:id="subtitle108">to never come back here again.<br/>That would be a bargain."</p>
+<p begin="3570233332t" end="3580576999t" style="normal" xml:id="subtitle109">It's so painful.</p>
+<p begin="3581244332t" end="3606602999t" style="normal" xml:id="subtitle110">And I have a--<br/>I feel like I have a high pain--</p>
+<p begin="3610606999t" end="3647310332t" style="normal" xml:id="subtitle111">I think most women<br/>have a high pain threshold.</p>
+<p begin="3647977666t" end="3688684999t" style="normal" xml:id="subtitle112">I've been punched in the face thrice.<br/>And that's another story for another time.</p>
+<p begin="3689352332t" end="3698361332t" style="normal" xml:id="subtitle113">But I...</p>
+<p begin="3709705999t" end="3739402332t" style="normal" xml:id="subtitle114">It's a different kind of pain.<br/>It's like nerve ending--</p>
+<p begin="3740069666t" end="3749745999t" style="normal" xml:id="subtitle115">Like nerve damage.</p>
+<p begin="3750413332t" end="3787116666t" style="normal" xml:id="subtitle116">Like, they give you stress balls,<br/>and you squeeze them.</p>
+<p begin="3787783999t" end="3823819999t" style="normal" xml:id="subtitle117">And by the time<br/>you pry your fingers open,</p>
+<p begin="3829158666t" end="3865528332t" style="normal" xml:id="subtitle118">they're just, like,<br/>pyramids of powder, basically.</p>
+<p begin="3866195666t" end="3894223666t" style="normal" xml:id="subtitle119">-[audience laughing]<br/>-It hurts so much.</p>
+<p begin="3894890999t" end="3934263666t" style="normal" xml:id="subtitle120">I remember telling myself like,<br/>"You are a grown woman.</p>
+<p begin="3934930999t" end="3960623332t" style="normal" xml:id="subtitle121">That is your money to waste.<br/>You earned that money.</p>
+<p begin="3961290666t" end="3981310666t" style="normal" xml:id="subtitle122">Throw it out the window.<br/>It doesn't matter."</p>
+<p begin="3983979999t" end="4038701332t" style="normal" xml:id="subtitle123">And, uh, as I was walking back to my car<br/>after the second session--</p>
+<p begin="4044373666t" end="4086415666t" style="normal" xml:id="subtitle124">I actually can remember exactly,<br/>like, the words I was saying to myself</p>
+<p begin="4087082999t" end="4106435666t" style="normal" xml:id="subtitle125">as I was walking to the car. I was like:</p>
+<p begin="4117112999t" end="4137466666t" style="normal" xml:id="subtitle126">"What you just went through was trauma.</p>
+<p begin="4138133999t" end="4161824332t" style="normal" xml:id="subtitle127">[audience laughing]</p>
+<p begin="4164493666t" end="4184847332t" style="normal" xml:id="subtitle128">That was traumatic."</p>
+<p begin="4185514666t" end="4221216999t" style="normal" xml:id="subtitle129">And right in that moment<br/>I got a text message from my boyfriend,</p>
+<p begin="4221884332t" end="4247576666t" style="normal" xml:id="subtitle130">who was in Guatemala at the time<br/>with UNICEF.</p>
+<p begin="4256585666t" end="4278607666t" style="normal" xml:id="subtitle131">-And it just said--<br/>-[audience laughs]</p>
+<p begin="4285280999t" end="4307970332t" style="normal" xml:id="subtitle132">It said, "I just spent the morning</p>
+<p begin="4308637666t" end="4337333000t" style="normal" xml:id="subtitle133">with a woman<br/>who watched her son get murdered."</p>
+<p begin="4354350000t" end="4381043332t" style="normal" xml:id="subtitle134">And I was like, "You think that's bad?"</p>
+<p begin="4381710666t" end="4400062332t" style="normal" xml:id="subtitle135">-[audience laughing]<br/>-'Cause I have--</p>
+<p begin="4450446000t" end="4468464000t" style="normal" xml:id="subtitle136">I have a hard time with perspective.</p>
+<p begin="4469131332t" end="4507836666t" style="normal" xml:id="subtitle137">Like, I don't gain it<br/>with experience, I guess.</p>
+<p begin="4530526000t" end="4577573000t" style="normal" xml:id="subtitle138">I was walking around<br/>here in Los Angeles, judging people.</p>
+<p begin="4584913666t" end="4610272332t" style="normal" xml:id="subtitle139">And that's not me being my best self.<br/>I'm not proud of it.</p>
+<p begin="4610939666t" end="4628624000t" style="normal" xml:id="subtitle140">But that was just the scenario.</p>
+<p begin="4629291332t" end="4651980666t" style="normal" xml:id="subtitle141">And I remember just thinking,<br/>like, "You fucking...</p>
+<p begin="4659321332t" end="4698694000t" style="normal" xml:id="subtitle142">petty, small-minded, materialistic twats.</p>
+<p begin="4699361332t" end="4710706000t" style="normal" xml:id="subtitle143">You do not get it."</p>
+<p begin="4711373332t" end="4736064666t" style="normal" xml:id="subtitle144">With their, like, $1500 purses.</p>
+<p begin="4736732000t" end="4756084666t" style="normal" xml:id="subtitle145">It's a bag. It holds shit.</p>
+<p begin="4756752000t" end="4769765000t" style="normal" xml:id="subtitle146">Get a backpack. You're silly.</p>
+<p begin="4780108666t" end="4799795000t" style="normal" xml:id="subtitle147">You know? I'm like,<br/>"You don't even get it.</p>
+<p begin="4800462332t" end="4838500332t" style="normal" xml:id="subtitle148">We're breathing egos,<br/>acting like we aren't a speck of dust</p>
+<p begin="4839167666t" end="4871199666t" style="normal" xml:id="subtitle149">on a speck of dust on a speck of dust<br/>hurtling through outer space.</p>
+<p begin="4871867000t" end="4881209666t" style="normal" xml:id="subtitle150">We're nothing."</p>
+<p begin="4887215666t" end="4908904000t" style="normal" xml:id="subtitle151">And then in the very next moment<br/>I'll be like:</p>
+<p begin="4918246666t" end="4932260666t" style="normal" xml:id="subtitle152">"I want my face on money."</p>
+<p begin="4939601332t" end="4962290666t" style="normal" xml:id="subtitle153">-I really do.<br/>-[audience laughing]</p>
+<p begin="4990318666t" end="5017345666t" style="normal" xml:id="subtitle154">I feel like I deserve--<br/>I want my face on money, period.</p>
+<p begin="5018013000t" end="5027022000t" style="normal" xml:id="subtitle155">I just...</p>
+<p begin="5038033000t" end="5066061000t" style="normal" xml:id="subtitle156">I want my period face on money. [chuckles]</p>
+<p begin="5066728332t" end="5076071000t" style="normal" xml:id="subtitle157">It's like: [groans]</p>
+<p begin="5076738332t" end="5091419666t" style="normal" xml:id="subtitle158">No, it's more stoic. It's like:</p>
+<p begin="5092087000t" end="5112107000t" style="normal" xml:id="subtitle159">[audience laughing]</p>
+<p begin="5198526666t" end="5220215000t" style="normal" xml:id="subtitle160">Aw, I just heard my sister laughing.</p>
+<p begin="5220882332t" end="5231559666t" style="normal" xml:id="subtitle161">[audience laughing]</p>
+<p begin="5232227000t" end="5251246000t" style="normal" xml:id="subtitle162">[chuckles] She's dead.</p>
+<p begin="5251913332t" end="5281943332t" style="normal" xml:id="subtitle163">-[audience laughing]<br/>-No, she's here. I'm kidding. She's here.</p>
+<p begin="5353014332t" end="5388049332t" style="normal" xml:id="subtitle164">I, um-- I had a dog for many, many years.</p>
+<p begin="5388716666t" end="5413074332t" style="normal" xml:id="subtitle165">And he was my best friend.</p>
+<p begin="5415743666t" end="5438433000t" style="normal" xml:id="subtitle166">And I was always talking to him.</p>
+<p begin="5439100332t" end="5466794666t" style="normal" xml:id="subtitle167">Whenever I was home,<br/>I was talking to him.</p>
+<p begin="5475803666t" end="5512840666t" style="normal" xml:id="subtitle168">And then he died,<br/>and I stopped talking to him.</p>
+<p begin="5515510000t" end="5522517000t" style="normal" xml:id="subtitle169">Makes sense.</p>
+<p begin="5536531000t" end="5563224332t" style="normal" xml:id="subtitle170">Or does it? I don't know.<br/>I mean, does that really make sense?</p>
+<p begin="5572233332t" end="5602263332t" style="normal" xml:id="subtitle171">He's just as much a part<br/>of the conversation now...</p>
+<p begin="5602930666t" end="5618613000t" style="normal" xml:id="subtitle172">[audience laughing]</p>
+<p begin="5629624000t" end="5648643000t" style="normal" xml:id="subtitle173">in a box on my desk.</p>
+<p begin="5649310332t" end="5666994666t" style="normal" xml:id="subtitle174">[audience laughing]</p>
+<p begin="5686347332t" end="5702029666t" style="normal" xml:id="subtitle175">I stopped-- This is what it is.</p>
+<p begin="5702697000t" end="5739400332t" style="normal" xml:id="subtitle176">I stopped talking to myself<br/>because there wasn't a dog in the room.</p>
+<p begin="5740067666t" end="5749410332t" style="normal" xml:id="subtitle177">That's crazy.</p>
+<p begin="5750077666t" end="5771766000t" style="normal" xml:id="subtitle178">[audience laughing]</p>
+<p begin="5772433332t" end="5803464332t" style="normal" xml:id="subtitle179">So, now I have a new dog, Mary.</p>
+<p begin="5806133666t" end="5826487332t" style="normal" xml:id="subtitle180">I, um-- I rescued her.</p>
+<p begin="5827154666t" end="5842169666t" style="normal" xml:id="subtitle181">Or I like to think she rescued me.</p>
+<p begin="5842837000t" end="5866193666t" style="normal" xml:id="subtitle182">I don't know which is the less cunty way<br/>of putting it.</p>
+<p begin="5866861000t" end="5896223666t" style="normal" xml:id="subtitle183">-But I have her.<br/>-[audience laughing]</p>
+<p begin="5920581332t" end="5947942000t" style="normal" xml:id="subtitle184">And she is my world.</p>
+<p begin="5952279666t" end="5983644332t" style="normal" xml:id="subtitle185">And, uh, I love her so much.</p>
+<p begin="5986313666t" end="5996323666t" style="normal" xml:id="subtitle186">She's my everything.</p>
+<p begin="5996991000t" end="6013340666t" style="normal" xml:id="subtitle187">She's young, and she's full of life.</p>
+<p begin="6016010000t" end="6033360666t" style="normal" xml:id="subtitle188">And she's obsessed with squirrels.</p>
+<p begin="6036030000t" end="6059053000t" style="normal" xml:id="subtitle189">-And she's kind of gotten me into it, too.<br/>-[audience laughs]</p>
+<p begin="6059720332t" end="6087081000t" style="normal" xml:id="subtitle190">And she's just, like, such a cuddler,<br/>and we play.</p>
+<p begin="6087748332t" end="6103097000t" style="normal" xml:id="subtitle191">And we, like, spoon at night, and...</p>
+<p begin="6119780332t" end="6153480666t" style="normal" xml:id="subtitle192">I'm just gonna put a pin in that<br/>for a second and double back and say...</p>
+<p begin="6160821332t" end="6210537666t" style="normal" xml:id="subtitle193">that squirrel line, I would call that,<br/>in comedy, a throwaway joke.</p>
+<p begin="6216210000t" end="6236563666t" style="normal" xml:id="subtitle194">I knew it was gonna get a laugh<br/>when I said:</p>
+<p begin="6237231000t" end="6267594666t" style="normal" xml:id="subtitle195">"She's obsessed with squirrels,<br/>and she's kind of gotten me into it, too."</p>
+<p begin="6268262000t" end="6276937332t" style="normal" xml:id="subtitle196">[audience laughs]</p>
+<p begin="6277604666t" end="6311305000t" style="normal" xml:id="subtitle197">But you just keep going to that main joke.</p>
+<p begin="6311972332t" end="6333327000t" style="normal" xml:id="subtitle198">That's a throwaway joke.<br/>It makes it extra cool.</p>
+<p begin="6333994332t" end="6379373000t" style="normal" xml:id="subtitle199">Now I've ruined it 'cause I doubled back<br/>and, like, I'm, like, talking about it.</p>
+<p begin="6380040332t" end="6389716666t" style="normal" xml:id="subtitle200">Now it's ruined.</p>
+<p begin="6390384000t" end="6411071332t" style="normal" xml:id="subtitle201">It's not a throwaway joke anymore.<br/>But it was.</p>
+<p begin="6417077332t" end="6438432000t" style="normal" xml:id="subtitle202">This is probably for two people<br/>in the audience,</p>
+<p begin="6439099332t" end="6470130332t" style="normal" xml:id="subtitle203">but I would say<br/>a throwaway joke is cool...</p>
+<p begin="6480474000t" end="6500494000t" style="normal" xml:id="subtitle204">the way that it's cool, like--</p>
+<p begin="6507167332t" end="6539199332t" style="normal" xml:id="subtitle205">I play basketball.<br/>If you, like, during a pickup game,</p>
+<p begin="6539866666t" end="6560220332t" style="normal" xml:id="subtitle206">you make, like, a sweet three-point shot,</p>
+<p begin="6567561000t" end="6590584000t" style="normal" xml:id="subtitle207">and then afterwards, you don't smile.</p>
+<p begin="6591251332t" end="6608268332t" style="normal" xml:id="subtitle208">[audience laughing]</p>
+<p begin="6608935666t" end="6628955666t" style="normal" xml:id="subtitle209">You just go right back into defense.</p>
+<p begin="6636963666t" end="6662322332t" style="normal" xml:id="subtitle210">That's the same coolness<br/>of a throwaway joke. All right.</p>
+<p begin="6678004666t" end="6694354332t" style="normal" xml:id="subtitle211">-So-- Really?<br/>-[audience applauding]</p>
+<p begin="6697023666t" end="6711705000t" style="normal" xml:id="subtitle212">That's never gotten a laugh before.</p>
+<p begin="6730390332t" end="6750410332t" style="normal" xml:id="subtitle213">Well, you didn't have to undo it.</p>
+<p begin="6751077666t" end="6770430332t" style="normal" xml:id="subtitle214">-Keep laughing.<br/>-[audience laughs]</p>
+<p begin="6776769999t" end="6790783999t" style="normal" xml:id="subtitle215">So, um...</p>
+<p begin="6797790999t" end="6824150666t" style="normal" xml:id="subtitle216">The truth is,<br/>I am-- I have gotten into squirrels.</p>
+<p begin="6826819999t" end="6848508332t" style="normal" xml:id="subtitle217">And now I'm gonna get you into squirrels.</p>
+<p begin="6849175666t" end="6860186666t" style="normal" xml:id="subtitle218">I'm not kidding.</p>
+<p begin="6860853999t" end="6871531332t" style="normal" xml:id="subtitle219">Wait until you see.</p>
+<p begin="6878204666t" end="6900560332t" style="normal" xml:id="subtitle220">I learned a fun fact about squirrels...</p>
+<p begin="6914574332t" end="6939599332t" style="normal" xml:id="subtitle221">that I'm so excited to tell you.<br/>I can't-- I'm--</p>
+<p begin="6950943999t" end="6968961999t" style="normal" xml:id="subtitle222">Okay, this is what it is. It's this.</p>
+<p begin="6986979999t" end="6997990999t" style="normal" xml:id="subtitle223">Squirrels...</p>
+<p begin="7019011999t" end="7062722332t" style="normal" xml:id="subtitle224">cannot find 80 percent<br/>of the nuts they hide.</p>
+<p begin="7063389666t" end="7080072999t" style="normal" xml:id="subtitle225">[audience laughing]</p>
+<p begin="7094420666t" end="7108100999t" style="normal" xml:id="subtitle226">Are you kidding me?</p>
+<p begin="7138464666t" end="7163823332t" style="normal" xml:id="subtitle227">Is that the greatest thing<br/>you've ever heard in your life?</p>
+<p begin="7198858332t" end="7223549666t" style="normal" xml:id="subtitle228">First of all,<br/>animals aren't supposed to make mistakes.</p>
+<p begin="7230222999t" end="7241901332t" style="normal" xml:id="subtitle229">But secondly...</p>
+<p begin="7252578666t" end="7274266999t" style="normal" xml:id="subtitle230">I made this realization<br/>that is gonna blow--</p>
+<p begin="7274934332t" end="7311971332t" style="normal" xml:id="subtitle231">Hold your skulls in, because your brains<br/>are gonna fucking explode.</p>
+<p begin="7312638666t" end="7321981332t" style="normal" xml:id="subtitle232">[audience laughs]</p>
+<p begin="7340332999t" end="7359018332t" style="normal" xml:id="subtitle233">That's how trees are planted.</p>
+<p begin="7364023332t" end="7377703666t" style="normal" xml:id="subtitle234">Are you fucking kidding me?</p>
+<p begin="7378370999t" end="7398390999t" style="normal" xml:id="subtitle235">[audience laughing, then clapping]</p>
+<p begin="7409401999t" end="7431757666t" style="normal" xml:id="subtitle236">That's how trees are planted.</p>
+<p begin="7439098332t" end="7464456999t" style="normal" xml:id="subtitle237">God, or the universe,<br/>or nature, or whatever the fuck,</p>
+<p begin="7465124332t" end="7495154332t" style="normal" xml:id="subtitle238">created this anxiety-ridden...</p>
+<p begin="7497823666t" end="7513839666t" style="normal" xml:id="subtitle239">[audience laughing]</p>
+<p begin="7514506999t" end="7540532999t" style="normal" xml:id="subtitle240">...paranoid cokehead...</p>
+<p begin="7553212332t" end="7577569999t" style="normal" xml:id="subtitle241">that thinks that everybody<br/>wants their acorns.</p>
+<p begin="7578237332t" end="7594253332t" style="normal" xml:id="subtitle242">Nobody wants your acorns.</p>
+<p begin="7617943666t" end="7641967666t" style="normal" xml:id="subtitle243">No one else in the world eats acorns.</p>
+<p begin="7642634999t" end="7651643999t" style="normal" xml:id="subtitle244">Only you.</p>
+<p begin="7671330332t" end="7689348332t" style="normal" xml:id="subtitle245">That they hide them everywhere.</p>
+<p begin="7698357332t" end="7724049666t" style="normal" xml:id="subtitle246">And then they're so fucked up on coke...</p>
+<p begin="7724716999t" end="7744736999t" style="normal" xml:id="subtitle247">[audience laughing]</p>
+<p begin="7752744999t" end="7788447332t" style="normal" xml:id="subtitle248">they can only find two out of every ten.</p>
+<p begin="7828820999t" end="7843502332t" style="normal" xml:id="subtitle249">Squirrels plant trees.</p>
+<p begin="7858517332t" end="7870195666t" style="normal" xml:id="subtitle250">In Israel.</p>
+<p begin="7870862999t" end="7898223666t" style="normal" xml:id="subtitle251">Right. That I added.<br/>That's not true. I added that.</p>
+<p begin="7950609332t" end="7964956999t" style="normal" xml:id="subtitle252">So, Mary is my dog.</p>
+<p begin="7970629332t" end="7982307666t" style="normal" xml:id="subtitle253">And I love her.</p>
+<p begin="7990649332t" end="8008333666t" style="normal" xml:id="subtitle254">And she got me into squirrels.</p>
+<p begin="8014005999t" end="8044369666t" style="normal" xml:id="subtitle255">And she's young,<br/>and she's full of energy. But...</p>
+<p begin="8059718332t" end="8071730332t" style="normal" xml:id="subtitle256">she's dying...</p>
+<p begin="8093084999t" end="8118777332t" style="normal" xml:id="subtitle257">in that, it's out there.</p>
+<p begin="8131790332t" end="8184843332t" style="normal" xml:id="subtitle258">It might be in two weeks.<br/>It might be in 12 years.</p>
+<p begin="8198523666t" end="8224215999t" style="normal" xml:id="subtitle259">But it's out there,<br/>and it's looming over me.</p>
+<p begin="8224883332t" end="8238897332t" style="normal" xml:id="subtitle260">And my heart can't take it.</p>
+<p begin="8239564666t" end="8263588666t" style="normal" xml:id="subtitle261">I made a mistake.<br/>I shouldn't have gotten another dog.</p>
+<p begin="8264255999t" end="8272931332t" style="normal" xml:id="subtitle262">It's too much.</p>
+<p begin="8295620666t" end="8315974332t" style="normal" xml:id="subtitle263">[audience chuckles]</p>
+<p begin="8323982332t" end="8332991332t" style="normal" xml:id="subtitle264">I'm...</p>
+<p begin="8342667666t" end="8368359999t" style="normal" xml:id="subtitle265">Don't judge me.<br/>I'm gonna put her to sleep now. I just...</p>
+<p begin="8369027332t" end="8389047332t" style="normal" xml:id="subtitle266">[audience laughing]</p>
+<p begin="8404395999t" end="8418743666t" style="normal" xml:id="subtitle267">I need it to be done.</p>
+<p begin="8482807666t" end="8503161332t" style="normal" xml:id="subtitle268">And you know what? In my defense...</p>
+<p begin="8513838666t" end="8531856666t" style="normal" xml:id="subtitle269">in the scope of history...</p>
+<p begin="8540531999t" end="8582907666t" style="normal" xml:id="subtitle270">whether she dies tomorrow when<br/>I put her to sleep, which I'm doing...</p>
+<p begin="8583574999t" end="8603595000t" style="normal" xml:id="subtitle271">[audience laughing]</p>
+<p begin="8612270332t" end="8645970666t" style="normal" xml:id="subtitle272">or she dies naturally in 12 years,</p>
+<p begin="8653311332t" end="8679671000t" style="normal" xml:id="subtitle273">it's not even a blip<br/>in the scope of history.</p>
+<p begin="8680338332t" end="8693017666t" style="normal" xml:id="subtitle274">It's the same exact time.</p>
+<p begin="8705029666t" end="8720378332t" style="normal" xml:id="subtitle275">So, I'm right.</p>
+<p begin="8721045666t" end="8729721000t" style="normal" xml:id="subtitle276">And I...</p>
+<p begin="8749741000t" end="8784108666t" style="normal" xml:id="subtitle277">And she won't die in vain,<br/>'cause I'll crucify her.</p>
+<p begin="8784776000t" end="8814806000t" style="normal" xml:id="subtitle278">-Oh, my God. How cute would that be?<br/>-[audience laughing]</p>
+<p begin="8815473332t" end="8845169666t" style="normal" xml:id="subtitle279">I didn't tell you, she's little,<br/>and she's got, like, long legs.</p>
+<p begin="8845837000t" end="8884542332t" style="normal" xml:id="subtitle280">And, like, her feet kind of naturally<br/>do that thing anyway.</p>
+<p begin="8885209666t" end="8923247666t" style="normal" xml:id="subtitle281">And then like:<br/>Oh, I would have to break her arms.</p>
+<p begin="8923915000t" end="8942266666t" style="normal" xml:id="subtitle282">-I would.<br/>-[audience groaning]</p>
+<p begin="8949607332t" end="8974632332t" style="normal" xml:id="subtitle283">Listen, if you wanna be a legend,<br/>you've gotta suffer.</p>
+<p begin="8975299666t" end="8989981000t" style="normal" xml:id="subtitle284">[audience laughs]</p>
+<p begin="8990648332t" end="9033357666t" style="normal" xml:id="subtitle285">You think Jesus would be famous<br/>if we put him down like a household pet?</p>
+<p begin="9034025000t" end="9043034000t" style="normal" xml:id="subtitle286">No.</p>
+<p begin="9051375666t" end="9074065000t" style="normal" xml:id="subtitle287">Jesus, son of God...</p>
+<p begin="9083741332t" end="9099757332t" style="normal" xml:id="subtitle288">died for your sins...</p>
+<p begin="9104428666t" end="9145469666t" style="normal" xml:id="subtitle289">uh, in his sleep<br/>while surrounded by his favorite toys?</p>
+<p begin="9146137000t" end="9171829332t" style="normal" xml:id="subtitle290">-That's ridiculous.<br/>-[audience laughing]</p>
+<p begin="9203194000t" end="9216874332t" style="normal" xml:id="subtitle291">I'm gonna-- Okay.</p>
+<p begin="9219543666t" end="9232223000t" style="normal" xml:id="subtitle292">I'm gonna be indulgent...</p>
+<p begin="9239563666t" end="9265256000t" style="normal" xml:id="subtitle293">and tell a story that's just a true story.</p>
+<p begin="9279937332t" end="9313971332t" style="normal" xml:id="subtitle294">Um... It's about one of my sisters.<br/>I have three sisters.</p>
+<p begin="9325316000t" end="9340331000t" style="normal" xml:id="subtitle295">This is about one of them.</p>
+<p begin="9340998332t" end="9370027332t" style="normal" xml:id="subtitle296">Um... I won't say which one. But...</p>
+<p begin="9380371000t" end="9392383000t" style="normal" xml:id="subtitle297">her name is Jodyne.</p>
+<p begin="9393050332t" end="9414738666t" style="normal" xml:id="subtitle298">[audience laughing]</p>
+<p begin="9426417000t" end="9450441000t" style="normal" xml:id="subtitle299">Um, Jodyne went to Boston University.</p>
+<p begin="9455446000t" end="9493484000t" style="normal" xml:id="subtitle300">And if you're familiar with BU,<br/>they have coed dorms.</p>
+<p begin="9494151332t" end="9520844666t" style="normal" xml:id="subtitle301">Which most universities have now. Um--</p>
+<p begin="9525516000t" end="9564555000t" style="normal" xml:id="subtitle302">But they have coed bathrooms<br/>in the coed dorms.</p>
+<p begin="9575232332t" end="9620277332t" style="normal" xml:id="subtitle303">And Jodyne, uh, got the drunkest<br/>she had ever been her freshman year,</p>
+<p begin="9620944666t" end="9633624000t" style="normal" xml:id="subtitle304">like so many freshmen do.</p>
+<p begin="9650307332t" end="9712369332t" style="normal" xml:id="subtitle305">And she stumbled back to her room,<br/>and she managed to get her, uh, jeans off,</p>
+<p begin="9713036666t" end="9754077666t" style="normal" xml:id="subtitle306">you know, and just passed out<br/>in a T-shirt and underwear.</p>
+<p begin="9771762000t" end="9800457332t" style="normal" xml:id="subtitle307">And a few minutes later,<br/>the room started spinning.</p>
+<p begin="9806463332t" end="9846837000t" style="normal" xml:id="subtitle308">And she ran to the bathroom,<br/>and she started throwing up.</p>
+<p begin="9847504332t" end="9862519332t" style="normal" xml:id="subtitle309">And she's vomiting.</p>
+<p begin="9871194666t" end="9903894000t" style="normal" xml:id="subtitle310">And while she's vomiting, she can feel</p>
+<p begin="9904561332t" end="9942265666t" style="normal" xml:id="subtitle311">that somebody<br/>is tugging her underwear down.</p>
+<p begin="9953276666t" end="9985308666t" style="normal" xml:id="subtitle312">But she couldn't turn around<br/>or stop it, um,</p>
+<p begin="9985976000t" end="10006329666t" style="normal" xml:id="subtitle313">because she was throwing up so hard.</p>
+<p begin="10015005000t" end="10060383666t" style="normal" xml:id="subtitle314">And she's vomiting and vomiting,<br/>and they're tugging her underwear down.</p>
+<p begin="10061051000t" end="10083073000t" style="normal" xml:id="subtitle315">It's going down,<br/>all the way down to the ground.</p>
+<p begin="10103760332t" end="10124781332t" style="normal" xml:id="subtitle316">And she finally finishes throwing up,</p>
+<p begin="10125448666t" end="10152475666t" style="normal" xml:id="subtitle317">and she whips her head around<br/>to see who's there.</p>
+<p begin="10160483666t" end="10175165000t" style="normal" xml:id="subtitle318">But she didn't see anybody.</p>
+<p begin="10183506666t" end="10206863332t" style="normal" xml:id="subtitle319">Because she had been shitting herself.</p>
+<p begin="10207530666t" end="10227550666t" style="normal" xml:id="subtitle320">[audience laughing]</p>
+<p begin="10364354000t" end="10381704666t" style="normal" xml:id="subtitle321">That's-- That's a true story.</p>
+<p begin="10444434000t" end="10455111332t" style="normal" xml:id="subtitle322">I'm gonna say--</p>
+<p begin="10476132332t" end="10502158332t" style="normal" xml:id="subtitle323">Like, I would call that a relief laugh.</p>
+<p begin="10502825666t" end="10513836666t" style="normal" xml:id="subtitle324">[audience laughing]</p>
+<p begin="10514504000t" end="10532855666t" style="normal" xml:id="subtitle325">Or, like, a release laugh.</p>
+<p begin="10553876666t" end="10580903666t" style="normal" xml:id="subtitle326">[groans] I know that I'm your show.</p>
+<p begin="10581571000t" end="10610600000t" style="normal" xml:id="subtitle327">But you have to understand,<br/>like, you're my show.</p>
+<p begin="10611267332t" end="10642965666t" style="normal" xml:id="subtitle328">And you were so beautiful.</p>
+<p begin="10643633000t" end="10667990666t" style="normal" xml:id="subtitle329">You were so-- You had so much empathy.</p>
+<p begin="10673663000t" end="10685675000t" style="normal" xml:id="subtitle330">You were so worried.</p>
+<p begin="10686342332t" end="10712368332t" style="normal" xml:id="subtitle331">You could hear a pin drop in this story.</p>
+<p begin="10722378332t" end="10737059666t" style="normal" xml:id="subtitle332">It was so nice.</p>
+<p begin="10737727000t" end="10756078666t" style="normal" xml:id="subtitle333">And, you know, I understand.</p>
+<p begin="10756746000t" end="10774096666t" style="normal" xml:id="subtitle334">You thought she was gonna get raped.</p>
+<p begin="10778100666t" end="10804460332t" style="normal" xml:id="subtitle335">And she thought she was gonna get raped.</p>
+<p begin="10805127666t" end="10827483332t" style="normal" xml:id="subtitle336">[audience laughing]</p>
+<p begin="10828150666t" end="10851507332t" style="normal" xml:id="subtitle337">She thought she was about to get raped.</p>
+<p begin="10856178666t" end="10878200666t" style="normal" xml:id="subtitle338">And I've really thought about this.<br/>And I--</p>
+<p begin="10890880000t" end="10942932000t" style="normal" xml:id="subtitle339">I think this may be one of<br/>the only scenarios where you can look down</p>
+<p begin="10948604332t" end="10967289666t" style="normal" xml:id="subtitle340">at a pair of underwear...</p>
+<p begin="10981637332t" end="10991313666t" style="normal" xml:id="subtitle341">just:</p>
+<p begin="11001657332t" end="11024013000t" style="normal" xml:id="subtitle342">Just filled with your own shit...</p>
+<p begin="11054710332t" end="11076732332t" style="normal" xml:id="subtitle343">and think, "Oh, thank God.</p>
+<p begin="11077399666t" end="11093082000t" style="normal" xml:id="subtitle344">-[audience laughing]<br/>-Oh, my God.</p>
+<p begin="11101757332t" end="11121777332t" style="normal" xml:id="subtitle345">[audience clapping]</p>
+<p begin="11133122000t" end="11155144000t" style="normal" xml:id="subtitle346">Oh, literally, yay."</p>
+<p begin="11155811332t" end="11175831332t" style="normal" xml:id="subtitle347">[audience laughing]</p>
+<p begin="11234223000t" end="11246902332t" style="normal" xml:id="subtitle348">My sister came to visit me.</p>
+<p begin="11247569666t" end="11285607666t" style="normal" xml:id="subtitle349">Not the "shitting in her pants" sister,<br/>but the, um... My oldest sister.</p>
+<p begin="11286275000t" end="11308964332t" style="normal" xml:id="subtitle350">Although, I'm sure she's shit her pants.</p>
+<p begin="11324980332t" end="11363685666t" style="normal" xml:id="subtitle351">-She's a Silverman, after all. [chuckles]<br/>-[audience laughing]</p>
+<p begin="11376365000t" end="11387376000t" style="normal" xml:id="subtitle352">[clears throat]</p>
+<p begin="11396051332t" end="11416405000t" style="normal" xml:id="subtitle353">Uh, no, this is my oldest sister, Susie.</p>
+<p begin="11417072332t" end="11431753666t" style="normal" xml:id="subtitle354">She is a rabbi.</p>
+<p begin="11441763666t" end="11456111332t" style="normal" xml:id="subtitle355">She lives in Jerusalem.</p>
+<p begin="11462784666t" end="11487809666t" style="normal" xml:id="subtitle356">Um... "Oh, my God, a godless comedian</p>
+<p begin="11488477000t" end="11528517000t" style="normal" xml:id="subtitle357">and, like, a total God-person rabbi<br/>are sisters?</p>
+<p begin="11529184332t" end="11563218332t" style="normal" xml:id="subtitle358">What must that be like?" is something<br/>you can muse about in the car.</p>
+<p begin="11571893666t" end="11596251332t" style="normal" xml:id="subtitle359">So, Susie came to town.</p>
+<p begin="11596918666t" end="11636625000t" style="normal" xml:id="subtitle360">And she said, "Sarah,<br/>I'm meeting my friend Amber tomorrow."</p>
+<p begin="11637292332t" end="11658647000t" style="normal" xml:id="subtitle361">And then she told me all about Amber.</p>
+<p begin="11659314332t" end="11679000666t" style="normal" xml:id="subtitle362">She's like, "Amber is so amazing.</p>
+<p begin="11681670000t" end="11702357332t" style="normal" xml:id="subtitle363">She was born and raised in Ethiopia.</p>
+<p begin="11703024666t" end="11729050666t" style="normal" xml:id="subtitle364">She single-handedly<br/>ran an orphanage there.</p>
+<p begin="11731720000t" end="11745400332t" style="normal" xml:id="subtitle365">She's so inspiring.</p>
+<p begin="11746067666t" end="11764753000t" style="normal" xml:id="subtitle366">I'm meeting her tomorrow at 8 a.m.</p>
+<p begin="11765420332t" end="11782771000t" style="normal" xml:id="subtitle367">Can we use your apartment to meet?"</p>
+<p begin="11783438332t" end="11803792000t" style="normal" xml:id="subtitle368">And I said, "Of course, sure." You know.</p>
+<p begin="11804459332t" end="11824479332t" style="normal" xml:id="subtitle369">"Use your key.<br/>I'll be sleeping. But, yeah."</p>
+<p begin="11832821000t" end="11857178666t" style="normal" xml:id="subtitle370">So, the next morning,<br/>she forgot her key, of course.</p>
+<p begin="11857846000t" end="11892547332t" style="normal" xml:id="subtitle371">And she's knocking at the door,<br/>and I go to answer the door.</p>
+<p begin="11893214666t" end="11908563332t" style="normal" xml:id="subtitle372">My eyes are, like, glued shut.</p>
+<p begin="11917572332t" end="11945600332t" style="normal" xml:id="subtitle373">And I open the door, and she goes,<br/>"Sarah, this is Amber."</p>
+<p begin="11946267666t" end="11966621332t" style="normal" xml:id="subtitle374">And I said,<br/>"Amber, it's so nice to meet you.</p>
+<p begin="11967288666t" end="11993314666t" style="normal" xml:id="subtitle375">I've heard so much about you."<br/>And I grabbed her hand.</p>
+<p begin="11993982000t" end="12026681332t" style="normal" xml:id="subtitle376">And her hand was a hook.</p>
+<p begin="12027348666t" end="12039360666t" style="normal" xml:id="subtitle377">[audience groans]</p>
+<p begin="12042030000t" end="12053708332t" style="normal" xml:id="subtitle378">And...</p>
+<p begin="12054375666t" end="12072060000t" style="normal" xml:id="subtitle379">[audience laughing]</p>
+<p begin="12072727332t" end="12093081000t" style="normal" xml:id="subtitle380">Not important to the story,<br/>just for color,</p>
+<p begin="12093748332t" end="12109430666t" style="normal" xml:id="subtitle381">both of her hands were hooks.</p>
+<p begin="12125780332t" end="12155476666t" style="normal" xml:id="subtitle382">But, um... I was in too deep.</p>
+<p begin="12156144000t" end="12175830332t" style="normal" xml:id="subtitle383">I just-- I shook it.</p>
+<p begin="12188176000t" end="12204525666t" style="normal" xml:id="subtitle384">I shook her hook.</p>
+<p begin="12205193000t" end="12225213000t" style="normal" xml:id="subtitle385">[audience laughs]</p>
+<p begin="12232887332t" end="12254909332t" style="normal" xml:id="subtitle386">And it was such a false moment, too.</p>
+<p begin="12255576666t" end="12284605666t" style="normal" xml:id="subtitle387">I'm sure she would have appreciated<br/>if I was like:</p>
+<p begin="12285273000t" end="12315636666t" style="normal" xml:id="subtitle388">"You have a hook for a hand.<br/>I don't know what the etiquette is."</p>
+<p begin="12316304000t" end="12354342000t" style="normal" xml:id="subtitle389">And she'd be like,<br/>"Thank you for being real with me.</p>
+<p begin="12355009332t" end="12368022332t" style="normal" xml:id="subtitle390">Nobody's ever real with me.</p>
+<p begin="12368689666t" end="12387041332t" style="normal" xml:id="subtitle391">Yes, you can shake it, whatever."</p>
+<p begin="12387708666t" end="12425079332t" style="normal" xml:id="subtitle392">And then we would be real friends,<br/>and we'd probably have inside jokes,</p>
+<p begin="12432753666t" end="12453441000t" style="normal" xml:id="subtitle393">and that's how it plays out in my mind.<br/>But...</p>
+<p begin="12473461000t" end="12509163332t" style="normal" xml:id="subtitle394">I just shook her hook as if to say:</p>
+<p begin="12517505000t" end="12536190332t" style="normal" xml:id="subtitle395">"This is what a hand feels like to me."</p>
+<p begin="12536857666t" end="12545866666t" style="normal" xml:id="subtitle396">[audience laughing]</p>
+<p begin="12546534000t" end="12555209332t" style="normal" xml:id="subtitle397">Bye.</p>
+<p begin="12555876666t" end="12567888666t" style="normal" xml:id="subtitle398">And went back to sleep.</p>
+<p begin="12575896666t" end="12598919666t" style="normal" xml:id="subtitle399">And pretended it was all a neat dream.</p>
+<p begin="12599587000t" end="12617938666t" style="normal" xml:id="subtitle400">[audience laughs]</p>
+<p begin="12618606000t" end="12635623000t" style="normal" xml:id="subtitle401">But Jesus Christ, rabbi.</p>
+<p begin="12636290332t" end="12663984666t" style="normal" xml:id="subtitle402">She must have told me nine things<br/>about Amber.</p>
+<p begin="12664652000t" end="12684672000t" style="normal" xml:id="subtitle403">[audience laughing]</p>
+<p begin="12707361332t" end="12742730000t" style="normal" xml:id="subtitle404">Two of them should have been hooks, right?<br/>I'm not being an asshole.</p>
+<p begin="12763083666t" end="12770424332t" style="normal" xml:id="subtitle405">Minimum.</p>
+<p begin="12786106666t" end="12799787000t" style="normal" xml:id="subtitle406">She's got hooks for hands.</p>
+<p begin="12800454332t" end="12812800000t" style="normal" xml:id="subtitle407">She's amazing.</p>
+<p begin="12813467332t" end="12826480332t" style="normal" xml:id="subtitle408">She lives in Ethiopia.</p>
+<p begin="12827147666t" end="12843831000t" style="normal" xml:id="subtitle409">She single-handedly ran an--</p>
+<p begin="12844498332t" end="12859179666t" style="normal" xml:id="subtitle410">That would have made more sense.</p>
+<p begin="12864518332t" end="12887207666t" style="normal" xml:id="subtitle411">She's brilliant, she's inspiring.</p>
+<p begin="12890544332t" end="12917571332t" style="normal" xml:id="subtitle412">Double back, just a reminder...</p>
+<p begin="12924244666t" end="12935589332t" style="normal" xml:id="subtitle413">she's got hooks for hands.</p>
+<p begin="12936256666t" end="12956276666t" style="normal" xml:id="subtitle414">[audience laughing]</p>
+<p begin="12970624332t" end="12987641332t" style="normal" xml:id="subtitle415">But not Susie, not the rabbi.</p>
+<p begin="12988308666t" end="12998318666t" style="normal" xml:id="subtitle416">She doesn't see color.</p>
+<p begin="12998986000t" end="13016670332t" style="normal" xml:id="subtitle417">She doesn't even see hands.</p>
+<p begin="13017337666t" end="13037024000t" style="normal" xml:id="subtitle418">-[audience laughing]<br/>-That's how amazing she is.</p>
+<p begin="13083737332t" end="13094748332t" style="normal" xml:id="subtitle419">I'm a-- I'm a...</p>
+<p begin="13109429666t" end="13126446666t" style="normal" xml:id="subtitle420">I'm a very sexual person.</p>
+<p begin="13137124000t" end="13170157000t" style="normal" xml:id="subtitle421">Um... You can always tell a sexual person</p>
+<p begin="13170824332t" end="13209196000t" style="normal" xml:id="subtitle422">because they, um, tell you as a segue</p>
+<p begin="13209863332t" end="13238892332t" style="normal" xml:id="subtitle423">-to their next bit in their stand-up act.<br/>-[audience laughs]</p>
+<p begin="13239559666t" end="13253907332t" style="normal" xml:id="subtitle424">It's kind of a little hint.</p>
+<p begin="13267587666t" end="13276930332t" style="normal" xml:id="subtitle425">I am, though. I--</p>
+<p begin="13283270000t" end="13306293000t" style="normal" xml:id="subtitle426">I know that it's cool<br/>to talk crazy during sex,</p>
+<p begin="13306960332t" end="13329649666t" style="normal" xml:id="subtitle427">and I-- I have tried that.</p>
+<p begin="13330317000t" end="13360680666t" style="normal" xml:id="subtitle428">And it doesn't work for me,<br/>because I just...</p>
+<p begin="13369356000t" end="13404057332t" style="normal" xml:id="subtitle429">I find that the truth, uh,<br/>gets in the way, I guess.</p>
+<p begin="13404724666t" end="13414734666t" style="normal" xml:id="subtitle430">Like, I...</p>
+<p begin="13425745666t" end="13469122332t" style="normal" xml:id="subtitle431">Like, "God, your cock is so--<br/>Oh, no, never-- It was a shadow."</p>
+<p begin="13469789666t" end="13490143332t" style="normal" xml:id="subtitle432">[audience laughing]</p>
+<p begin="13504824666t" end="13540526999t" style="normal" xml:id="subtitle433">What I do, I feel like, is way crazier.</p>
+<p begin="13554874666t" end="13580566999t" style="normal" xml:id="subtitle434">I like to talk crazy right after sex.</p>
+<p begin="13597917666t" end="13617937666t" style="normal" xml:id="subtitle435">When things have calmed down a beat.</p>
+<p begin="13635621999t" end="13659979666t" style="normal" xml:id="subtitle436">Get right in his face, real quiet.</p>
+<p begin="13690009666t" end="13717036666t" style="normal" xml:id="subtitle437">"What do you think would happen<br/>if I went to the hospital</p>
+<p begin="13717703999t" end="13730716999t" style="normal" xml:id="subtitle438">and got a rape exam right now?</p>
+<p begin="13731384332t" end="13745398332t" style="normal" xml:id="subtitle439">[audience laughing]</p>
+<p begin="13754073666t" end="13765084666t" style="normal" xml:id="subtitle440">Yeah, what do you think?</p>
+<p begin="13815134666t" end="13850836999t" style="normal" xml:id="subtitle441">You think they'd find your semen<br/>all over and inside me?</p>
+<p begin="13851504332t" end="13860513332t" style="normal" xml:id="subtitle442">'Cause I do.</p>
+<p begin="13870523332t" end="13885204666t" style="normal" xml:id="subtitle443">Oh, I really do.</p>
+<p begin="13926245666t" end="13951604332t" style="normal" xml:id="subtitle444">Maybe you should tickle my back<br/>till I fall asleep.</p>
+<p begin="13954273666t" end="13978631332t" style="normal" xml:id="subtitle445">Is that a good idea, motherfucker?"</p>
+<p begin="13979298666t" end="13999318666t" style="normal" xml:id="subtitle446">[audience laughing]</p>
+<p begin="14017670332t" end="14055374666t" style="normal" xml:id="subtitle447">My boyfriend's foreign, so, then I get,<br/>like, really nose to nose with him</p>
+<p begin="14056041999t" end="14085404666t" style="normal" xml:id="subtitle448">and go, [whispering] "USA's number one."</p>
+<p begin="14086071999t" end="14106091999t" style="normal" xml:id="subtitle449">[audience laughing]</p>
+<p begin="14119772332t" end="14140793332t" style="normal" xml:id="subtitle450">[in normal voice] He'll be like,<br/>"Number one in what?"</p>
+<p begin="14147132999t" end="14164817332t" style="normal" xml:id="subtitle451">"You don't worry about it.</p>
+<p begin="14165484666t" end="14174493666t" style="normal" xml:id="subtitle452">[audience laughing]</p>
+<p begin="14175160999t" end="14196515666t" style="normal" xml:id="subtitle453">It's important to us<br/>that we're number one.</p>
+<p begin="14211530666t" end="14231884332t" style="normal" xml:id="subtitle454">Juvenile diabetes."</p>
+<p begin="14234553666t" end="14254573666t" style="normal" xml:id="subtitle455">[audience laughing]</p>
+<p begin="14288941332t" end="14299952332t" style="normal" xml:id="subtitle456">What is the etiquette--?</p>
+<p begin="14300619666t" end="14330315999t" style="normal" xml:id="subtitle457">I don't know if there are, like,<br/>any Emily Post-ish people here.</p>
+<p begin="14339992332t" end="14394713666t" style="normal" xml:id="subtitle458">But for postcoital cuddling, uh,<br/>or after-sex cuddling, if you're stupid,</p>
+<p begin="14399051332t" end="14414399999t" style="normal" xml:id="subtitle459">-what is the...?<br/>-[audience laughing]</p>
+<p begin="14425077332t" end="14461780666t" style="normal" xml:id="subtitle460">What is the etiquette<br/>for where I would put my...</p>
+<p begin="14464449999t" end="14484803666t" style="normal" xml:id="subtitle461">"his asshole" fingers?</p>
+<p begin="14489141332t" end="14509161332t" style="normal" xml:id="subtitle462">[audience laughing]</p>
+<p begin="14519504999t" end="14537856666t" style="normal" xml:id="subtitle463">Is it just straight out to the side?</p>
+<p begin="14538523999t" end="14565884666t" style="normal" xml:id="subtitle464">Or... under a pillow?</p>
+<p begin="14576895666t" end="14595914666t" style="normal" xml:id="subtitle465">Or just-- Just sever it.</p>
+<p begin="14596581999t" end="14614933666t" style="normal" xml:id="subtitle466">Just cut it off completely.</p>
+<p begin="14615600999t" end="14637956666t" style="normal" xml:id="subtitle467">That's--<br/>That's what happened to Amber's hands.</p>
+<p begin="14638623999t" end="14660645999t" style="normal" xml:id="subtitle468">[audience laughing, then clapping]</p>
+<p begin="14678330332t" end="14691009666t" style="normal" xml:id="subtitle469">I'm kidding, you guys.</p>
+<p begin="14691676999t" end="14704689999t" style="normal" xml:id="subtitle470">Come on.</p>
+<p begin="14718370332t" end="14729047666t" style="normal" xml:id="subtitle471">Relax.</p>
+<p begin="14729714999t" end="14750735999t" style="normal" xml:id="subtitle472">It was land mines when she was 7.</p>
+<p begin="14751403332t" end="14771423332t" style="normal" xml:id="subtitle473">[audience laughing and groaning]</p>
+<p begin="14794779999t" end="14830148666t" style="normal" xml:id="subtitle474">Look, sometimes I like to end a joke<br/>with a sad truth.</p>
+<p begin="14867519332t" end="14878196666t" style="normal" xml:id="subtitle475">Thank you, Jodyne.</p>
+<p begin="14878863999t" end="14895213666t" style="normal" xml:id="subtitle476">[audience laughing]</p>
+<p begin="14895880999t" end="14907225666t" style="normal" xml:id="subtitle477">[chuckling]</p>
+<p begin="14941593332t" end="14954939999t" style="normal" xml:id="subtitle478">You're killing it, Sarah.</p>
+<p begin="14989307666t" end="15038022999t" style="normal" xml:id="subtitle479">We give our daughters Barbie dolls<br/>so that they have an image</p>
+<p begin="15038690332t" end="15082734332t" style="normal" xml:id="subtitle480">of what they should look like<br/>when they grow up that is not attainable</p>
+<p begin="15085403666t" end="15108760332t" style="normal" xml:id="subtitle481">so that they can learn<br/>that they're a piece of shit</p>
+<p begin="15109427666t" end="15125443666t" style="normal" xml:id="subtitle482">and they should kill themselves.</p>
+<p begin="15130448666t" end="15147799332t" style="normal" xml:id="subtitle483">It's so important.</p>
+<p begin="15156808332t" end="15172156999t" style="normal" xml:id="subtitle484">We have to teach them young.</p>
+<p begin="15186838332t" end="15206524666t" style="normal" xml:id="subtitle485">I'm not sure, uh...</p>
+<p begin="15210862332t" end="15256574666t" style="normal" xml:id="subtitle486">who designs the schematics<br/>of these Barbie dolls, or Bratz dolls,</p>
+<p begin="15257241999t" end="15279597666t" style="normal" xml:id="subtitle487">or any of the sex-worker dolls.</p>
+<p begin="15280264999t" end="15295613666t" style="normal" xml:id="subtitle488">[audience laughing]</p>
+<p begin="15296280999t" end="15320972332t" style="normal" xml:id="subtitle489">I'm not sure who we're protecting.</p>
+<p begin="15321639666t" end="15332316999t" style="normal" xml:id="subtitle490">Uh...</p>
+<p begin="15345663666t" end="15371355999t" style="normal" xml:id="subtitle491">Where the obscenity lies, or--</p>
+<p begin="15372023332t" end="15388706666t" style="normal" xml:id="subtitle492">Okay, so, Barbie.</p>
+<p begin="15389373999t" end="15422406999t" style="normal" xml:id="subtitle493">Like, her legs are twice the length<br/>of the rest of her body.</p>
+<p begin="15423074332t" end="15455773666t" style="normal" xml:id="subtitle494">And her feet are just:<br/>They're just on tiptoes.</p>
+<p begin="15456440999t" end="15475793666t" style="normal" xml:id="subtitle495">She can only wear high heels.</p>
+<p begin="15480798666t" end="15500151332t" style="normal" xml:id="subtitle496">She couldn't wear flats if she wanted to.</p>
+<p begin="15500818666t" end="15532183332t" style="normal" xml:id="subtitle497">When she's taking a shit<br/>at 3 in the morning, she's in heels.</p>
+<p begin="15537855666t" end="15548532999t" style="normal" xml:id="subtitle498">'Cause she's a lady.</p>
+<p begin="15549200332t" end="15562546999t" style="normal" xml:id="subtitle499">[audience laughs]</p>
+<p begin="15577895666t" end="15597915666t" style="normal" xml:id="subtitle500">Her breasts-- Okay.</p>
+<p begin="15602586999t" end="15621605999t" style="normal" xml:id="subtitle501">So, uh...</p>
+<p begin="15622273332t" end="15658976666t" style="normal" xml:id="subtitle502">she only has, like, the big,<br/>fat, shiny part of the breast</p>
+<p begin="15659643999t" end="15677328332t" style="normal" xml:id="subtitle503">that guys jerk off to.</p>
+<p begin="15692343332t" end="15717701999t" style="normal" xml:id="subtitle504">We have to protect our daughters...</p>
+<p begin="15727378332t" end="15753070666t" style="normal" xml:id="subtitle505">from the life-nourishing nipple.</p>
+<p begin="15755739999t" end="15770421332t" style="normal" xml:id="subtitle506">We-- That's just too obscene.</p>
+<p begin="15776427332t" end="15788105666t" style="normal" xml:id="subtitle507">No nipples.</p>
+<p begin="15817134666t" end="15857508332t" style="normal" xml:id="subtitle508">We can't have our daughters<br/>seeing what nourishes life.</p>
+<p begin="15858175666t" end="15882533332t" style="normal" xml:id="subtitle509">Just the part<br/>that can sandwich a hard cock.</p>
+<p begin="15883200666t" end="15903220666t" style="normal" xml:id="subtitle510">[audience laughing]</p>
+<p begin="15938589332t" end="15950267666t" style="normal" xml:id="subtitle511">No pubic hair.</p>
+<p begin="15963614332t" end="15977628332t" style="normal" xml:id="subtitle512">That is attainable.</p>
+<p begin="15978295666t" end="15990974999t" style="normal" xml:id="subtitle513">You're right, audience.</p>
+<p begin="15991642332t" end="16001652332t" style="normal" xml:id="subtitle514">[audience laughing]</p>
+<p begin="16002319666t" end="16021338666t" style="normal" xml:id="subtitle515">You know what?<br/>Thanks for keeping me honest.</p>
+<p begin="16022005999t" end="16039022999t" style="normal" xml:id="subtitle516">That's important. It is attainable.</p>
+<p begin="16039690332t" end="16063714332t" style="normal" xml:id="subtitle517">Not everybody can pull that look off,<br/>but yes.</p>
+<p begin="16072055999t" end="16101084999t" style="normal" xml:id="subtitle518">People always want Angelina Jolie's lips.</p>
+<p begin="16101752332t" end="16139456666t" style="normal" xml:id="subtitle519">And I'm not bragging.<br/>I basically have Angelina Jolie's lips.</p>
+<p begin="16140123999t" end="16157140999t" style="normal" xml:id="subtitle520">It's not all it's cracked up to be.</p>
+<p begin="16162145999t" end="16186837332t" style="normal" xml:id="subtitle521">But, um, mine are in my underpants.</p>
+<p begin="16187504666t" end="16196847332t" style="normal" xml:id="subtitle522">But--</p>
+<p begin="16197514666t" end="16217200999t" style="normal" xml:id="subtitle523">[audience laughing]</p>
+<p begin="16246563666t" end="16262579666t" style="normal" xml:id="subtitle524">That's why I like a nice...</p>
+<p begin="16277260999t" end="16296947332t" style="normal" xml:id="subtitle525">groomed but triangular...</p>
+<p begin="16312295999t" end="16329312999t" style="normal" xml:id="subtitle526">nuanced bush.</p>
+<p begin="16340657666t" end="16370020332t" style="normal" xml:id="subtitle527">That doesn't technically make sense,<br/>but it sounded fancy.</p>
+<p begin="16370687666t" end="16390707666t" style="normal" xml:id="subtitle528">[audience laughing]</p>
+<p begin="16411728666t" end="16426409999t" style="normal" xml:id="subtitle529">I did a, um...</p>
+<p begin="16471121332t" end="16486803666t" style="normal" xml:id="subtitle530">Art reflects life.</p>
+<p begin="16501818666t" end="16547864666t" style="normal" xml:id="subtitle531">Okay?<br/>And then, uh, life informs art, you know?</p>
+<p begin="16548531999t" end="16559876666t" style="normal" xml:id="subtitle532">And then, um...</p>
+<p begin="16560543999t" end="16609259332t" style="normal" xml:id="subtitle533">But we don't-- Movies, I don't feel like<br/>really reflect life totally for women.</p>
+<p begin="16609926666t" end="16633283332t" style="normal" xml:id="subtitle534">It's more of like<br/>a male's projection of it.</p>
+<p begin="16633950666t" end="16662979666t" style="normal" xml:id="subtitle535">It's getting a little better,<br/>but even in artsy-fartsy movies,</p>
+<p begin="16663646999t" end="16696679999t" style="normal" xml:id="subtitle536">like, if you see a woman masturbating<br/>in a scene,</p>
+<p begin="16697347332t" end="16729045666t" style="normal" xml:id="subtitle537">she's always on her back.<br/>All dreamy and sexy.</p>
+<p begin="16729712999t" end="16769419332t" style="normal" xml:id="subtitle538">She's never on her stomach,<br/>dead-eyed and slack-jawed, like it is.</p>
+<p begin="16770086666t" end="16791774999t" style="normal" xml:id="subtitle539">[audience laughing]</p>
+<p begin="16792442332t" end="16803786999t" style="normal" xml:id="subtitle540">It's work.</p>
+<p begin="16862178666t" end="16899882999t" style="normal" xml:id="subtitle541">We learn what love is<br/>from movies and television,</p>
+<p begin="16900550332t" end="16917900999t" style="normal" xml:id="subtitle542">and it's ruined love for us.</p>
+<p begin="16921904999t" end="16954604332t" style="normal" xml:id="subtitle543">Romantic comedies, all that shit,<br/>it's ruined love.</p>
+<p begin="16957273666t" end="16996979999t" style="normal" xml:id="subtitle544">We-- It's taught us<br/>that we are incomplete people</p>
+<p begin="17002985999t" end="17041691332t" style="normal" xml:id="subtitle545">who need to find that one person<br/>in the whole world that will complete us.</p>
+<p begin="17042358666t" end="17064380666t" style="normal" xml:id="subtitle546">I promise you,<br/>there are thousands of people</p>
+<p begin="17067049999t" end="17094410666t" style="normal" xml:id="subtitle547">that are perfectly good matches<br/>for any one of you.</p>
+<p begin="17097079999t" end="17107089999t" style="normal" xml:id="subtitle548">[audience laughs]</p>
+<p begin="17107757332t" end="17127443666t" style="normal" xml:id="subtitle549">And I don't want to be complete--<br/>I don't--</p>
+<p begin="17128110999t" end="17169151999t" style="normal" xml:id="subtitle550">I'm working very hard to be<br/>a complete person every day, you know?</p>
+<p begin="17169819332t" end="17188504666t" style="normal" xml:id="subtitle551">I don't-- I don't wanna make you whole.</p>
+<p begin="17189172000t" end="17200516666t" style="normal" xml:id="subtitle552">I want you to come whole.</p>
+<p begin="17201184000t" end="17228211000t" style="normal" xml:id="subtitle553">I want you to be in--<br/>And I know I just said "come hole."</p>
+<p begin="17228878332t" end="17248898332t" style="normal" xml:id="subtitle554">[audience laughing]</p>
+<p begin="17281264000t" end="17303953332t" style="normal" xml:id="subtitle555">Another thing Barbie does not have.</p>
+<p begin="17304620666t" end="17324640666t" style="normal" xml:id="subtitle556">[audience laughing]</p>
+<p begin="17353669666t" end="17379362000t" style="normal" xml:id="subtitle557">That would be<br/>a really weird feminist stance.</p>
+<p begin="17384700666t" end="17403052332t" style="normal" xml:id="subtitle558">"Why doesn't Barbie have a come hole?"</p>
+<p begin="17403719666t" end="17419068332t" style="normal" xml:id="subtitle559">[audience laughing]</p>
+<p begin="17419735666t" end="17429745666t" style="normal" xml:id="subtitle560">[groans]</p>
+<p begin="17458107332t" end="17469452000t" style="normal" xml:id="subtitle561">[chuckles]</p>
+<p begin="17470119332t" end="17492141332t" style="normal" xml:id="subtitle562">"I don't know. What is that?<br/>It's subjective."</p>
+<p begin="17530179332t" end="17539522000t" style="normal" xml:id="subtitle563">Noted.</p>
+<p begin="17558874666t" end="17589238332t" style="normal" xml:id="subtitle564">I did a fundraiser here a few years ago</p>
+<p begin="17589905666t" end="17631280332t" style="normal" xml:id="subtitle565">with, um, my friend Lizz Winstead's<br/>organization, Lady Parts Justice.</p>
+<p begin="17631947666t" end="17649965666t" style="normal" xml:id="subtitle566">-Check it out.<br/>-[audience applauding]</p>
+<p begin="17650633000t" end="17694343332t" style="normal" xml:id="subtitle567">And, uh, it was basically--<br/>I always say it was like a, you know, um,</p>
+<p begin="17695010666t" end="17710025666t" style="normal" xml:id="subtitle568">"right to choose" kind of thing.</p>
+<p begin="17710693000t" end="17748063666t" style="normal" xml:id="subtitle569">But it was, technically,<br/>literally, just for women in Texas.</p>
+<p begin="17748731000t" end="17773422332t" style="normal" xml:id="subtitle570">Because, at the time,<br/>every abortion clinic</p>
+<p begin="17774089666t" end="17799448332t" style="normal" xml:id="subtitle571">was being shut down in Texas.<br/>They were down to five.</p>
+<p begin="17804787000t" end="17830813000t" style="normal" xml:id="subtitle572">It's since gotten much worse. But, um...</p>
+<p begin="17831480332t" end="17859174666t" style="normal" xml:id="subtitle573">And we just literally<br/>wanted to raise money</p>
+<p begin="17859842000t" end="17875524332t" style="normal" xml:id="subtitle574">to give to women in Texas</p>
+<p begin="17878193666t" end="17904219666t" style="normal" xml:id="subtitle575">so they could, like, hire a babysitter</p>
+<p begin="17904887000t" end="17930579332t" style="normal" xml:id="subtitle576">while they drive 12 hours<br/>to get an abortion.</p>
+<p begin="17931246666t" end="17971620332t" style="normal" xml:id="subtitle577">Or an affordable mammogram,<br/>or a, you know, pap smear, or whatever.</p>
+<p begin="17975624332t" end="18030012000t" style="normal" xml:id="subtitle578">And, uh, so, we did this show,<br/>and there were protestors outside.</p>
+<p begin="18035017000t" end="18089404666t" style="normal" xml:id="subtitle579">Um, you know, "right to life," uh,<br/>Westboro Baptist Church-y, NPR people.</p>
+<p begin="18090072000t" end="18105754332t" style="normal" xml:id="subtitle580">-And-- Not NPR.<br/>-[audience laughs]</p>
+<p begin="18108423666t" end="18118433666t" style="normal" xml:id="subtitle581">NRA.</p>
+<p begin="18119101000t" end="18139121000t" style="normal" xml:id="subtitle582">[audience laughing]</p>
+<p begin="18148797332t" end="18163812332t" style="normal" xml:id="subtitle583">That is-- They are different.</p>
+<p begin="18204186000t" end="18220869332t" style="normal" xml:id="subtitle584">Completely different tote bags.</p>
+<p begin="18221536666t" end="18241556666t" style="normal" xml:id="subtitle585">[audience laughing]</p>
+<p begin="18258573666t" end="18279261000t" style="normal" xml:id="subtitle586">Um, and they were outside protesting.</p>
+<p begin="18279928332t" end="18325974332t" style="normal" xml:id="subtitle587">And I'm not gonna shit on them,<br/>because I am them.</p>
+<p begin="18328643666t" end="18338320000t" style="normal" xml:id="subtitle588">We're the same.</p>
+<p begin="18338987332t" end="18360342000t" style="normal" xml:id="subtitle589">You know,<br/>I'm the product of how I was raised.</p>
+<p begin="18361009332t" end="18414729666t" style="normal" xml:id="subtitle590">I was raised by a couple<br/>of liberal bleeding-heart Democrat Jews,</p>
+<p begin="18415397000t" end="18442424000t" style="normal" xml:id="subtitle591">and now I am one.<br/>And I would love to think</p>
+<p begin="18443091332t" end="18469451000t" style="normal" xml:id="subtitle592">that I'd get there on my own,<br/>but probably not.</p>
+<p begin="18470118332t" end="18489137332t" style="normal" xml:id="subtitle593">I'm the product of how I was raised.</p>
+<p begin="18492807666t" end="18519167332t" style="normal" xml:id="subtitle594">And these people were raised<br/>by people who loved them</p>
+<p begin="18519834666t" end="18559541000t" style="normal" xml:id="subtitle595">who said, "There are people out there<br/>that want to murder babies."</p>
+<p begin="18560208332t" end="18584899666t" style="normal" xml:id="subtitle596">If I was that kid, I'd be like,<br/>"We have to stop them."</p>
+<p begin="18585567000t" end="18610592000t" style="normal" xml:id="subtitle597">And I'd be outside there protesting.</p>
+<p begin="18614596000t" end="18654636000t" style="normal" xml:id="subtitle598">So, I went outside,<br/>and I just wanted to say hi</p>
+<p begin="18655303332t" end="18705019666t" style="normal" xml:id="subtitle599">and show a warm, friendly face<br/>to baby murderer.</p>
+<p begin="18712694000t" end="18763745000t" style="normal" xml:id="subtitle600">And I said, uh, "Hey, hi.<br/>Isn't it great--? I just wanna say,</p>
+<p begin="18764412332t" end="18811125666t" style="normal" xml:id="subtitle601">isn't it great that we live in a country<br/>where I can put on this show</p>
+<p begin="18811793000t" end="18831813000t" style="normal" xml:id="subtitle602">because it's something that I believe in,</p>
+<p begin="18832480332t" end="18865847000t" style="normal" xml:id="subtitle603">and you can protest this show<br/>because of what you believe in,</p>
+<p begin="18866514332t" end="18900214666t" style="normal" xml:id="subtitle604">and we can occupy<br/>the same space peacefully?"</p>
+<p begin="18906220666t" end="18931913000t" style="normal" xml:id="subtitle605">And he said, "God, you're totally right."</p>
+<p begin="18932580332t" end="18954936000t" style="normal" xml:id="subtitle606">I'm just kidding.<br/>He goes, "You're going to hell."</p>
+<p begin="18955603332t" end="18975289666t" style="normal" xml:id="subtitle607">And I was like, "Okay, nice to meet you."</p>
+<p begin="18975957000t" end="18996644332t" style="normal" xml:id="subtitle608">[audience laughing]</p>
+<p begin="18999313666t" end="19051699332t" style="normal" xml:id="subtitle609">But there was, like, a 9-year-old girl<br/>there with a little pink cardigan.</p>
+<p begin="19052366666t" end="19084732332t" style="normal" xml:id="subtitle610">And she had a huge--<br/>She had a sign, like, twice her size.</p>
+<p begin="19091739332t" end="19130778332t" style="normal" xml:id="subtitle611">And it said, uh,<br/>"Abortion is bloody murder."</p>
+<p begin="19136784332t" end="19184165000t" style="normal" xml:id="subtitle612">And the "bloody" was, like, in red paint,<br/>dripping down.</p>
+<p begin="19191505666t" end="19223204000t" style="normal" xml:id="subtitle613">And that was the first time I was like,<br/>"Oh, they had to go to, like,</p>
+<p begin="19223871332t" end="19265246000t" style="normal" xml:id="subtitle614">Michaels or Blick's<br/>or something and buy crafts.</p>
+<p begin="19276257000t" end="19299947332t" style="normal" xml:id="subtitle615">Hobby Lobby, probably."</p>
+<p begin="19300614666t" end="19313961332t" style="normal" xml:id="subtitle616">-And she goes:<br/>-[audience laughing]</p>
+<p begin="19331979332t" end="19346327000t" style="normal" xml:id="subtitle617">"God hates you."</p>
+<p begin="19360674666t" end="19392706666t" style="normal" xml:id="subtitle618">And I was like,<br/>"Do you really think God hates?"</p>
+<p begin="19396710666t" end="19415062332t" style="normal" xml:id="subtitle619">And she goes, "Yeah, he hates you."</p>
+<p begin="19423070332t" end="19451098332t" style="normal" xml:id="subtitle620">And then-- Oh, I told her a doodie joke.</p>
+<p begin="19451765666t" end="19460774666t" style="normal" xml:id="subtitle621">And she was like:</p>
+<p begin="19464778666t" end="19474455000t" style="normal" xml:id="subtitle622">[snorts]</p>
+<p begin="19475122332t" end="19495142332t" style="normal" xml:id="subtitle623">[Sarah &amp; audience laughing]</p>
+<p begin="19509490000t" end="19529843666t" style="normal" xml:id="subtitle624">It really is the great unifier.</p>
+<p begin="19545526000t" end="19584231332t" style="normal" xml:id="subtitle625">But she is right.<br/>Abortion does kill, like, your whole day.</p>
+<p begin="19589903666t" end="19606253332t" style="normal" xml:id="subtitle626">[audience laughing]</p>
+<p begin="19616597000t" end="19643290332t" style="normal" xml:id="subtitle627">It literally sucks the life out of you.</p>
+<p begin="19643957666t" end="19663977666t" style="normal" xml:id="subtitle628">[audience laughing and groaning]</p>
+<p begin="19686333332t" end="19730377332t" style="normal" xml:id="subtitle629">Look, I know those last two jokes,<br/>they aren't smart.</p>
+<p begin="19731044666t" end="19760073666t" style="normal" xml:id="subtitle630">They have nothing deep to say.<br/>They're just wordplay.</p>
+<p begin="19760741000t" end="19777090666t" style="normal" xml:id="subtitle631">But I love them like my...</p>
+<p begin="19791104666t" end="19806787000t" style="normal" xml:id="subtitle632">very own aborted fetuses.</p>
+<p begin="19807454332t" end="19822803000t" style="normal" xml:id="subtitle633">-[chuckles]<br/>-[audience laughing]</p>
+<p begin="19830143666t" end="19837150666t" style="normal" xml:id="subtitle634">Um...</p>
+<p begin="19851164666t" end="19861174666t" style="normal" xml:id="subtitle635">Put a pin in that.</p>
+<p begin="19861842000t" end="19872519332t" style="normal" xml:id="subtitle636">Congratulations, Texas.</p>
+<p begin="19873186666t" end="19905552332t" style="normal" xml:id="subtitle637">Texas was almost the third state...</p>
+<p begin="19912893000t" end="19944591332t" style="normal" xml:id="subtitle638">uh, but then a judge<br/>put the kibosh on it.</p>
+<p begin="19950597332t" end="19983964000t" style="normal" xml:id="subtitle639">You should know this. I'm not blaming<br/>you for not knowing about this law,</p>
+<p begin="19984631332t" end="19994975000t" style="normal" xml:id="subtitle640">because we've been--</p>
+<p begin="20000647332t" end="20040687332t" style="normal" xml:id="subtitle641">Just atrocity after atrocity<br/>has been coming at us every day.</p>
+<p begin="20041354666t" end="20061708332t" style="normal" xml:id="subtitle642">But you're not gonna believe this.<br/>It's true.</p>
+<p begin="20062375666t" end="20097410666t" style="normal" xml:id="subtitle643">They have a law where<br/>if you get an abortion in those states</p>
+<p begin="20100080000t" end="20117430666t" style="normal" xml:id="subtitle644">or have a miscarriage,</p>
+<p begin="20123436666t" end="20163143000t" style="normal" xml:id="subtitle645">you are responsible<br/>for paying for a funeral</p>
+<p begin="20163810332t" end="20176489666t" style="normal" xml:id="subtitle646">for the fetal tissue.</p>
+<p begin="20190837332t" end="20197844332t" style="normal" xml:id="subtitle647">[man] What?</p>
+<p begin="20200513666t" end="20207520666t" style="normal" xml:id="subtitle648">[woman] What?</p>
+<p begin="20223536666t" end="20232545666t" style="normal" xml:id="subtitle649">Crazy.</p>
+<p begin="20242222000t" end="20255235000t" style="normal" xml:id="subtitle650">And heinous.</p>
+<p begin="20255902332t" end="20294274000t" style="normal" xml:id="subtitle651">And I want to speak<br/>at those funerals so bad.</p>
+<p begin="20294941332t" end="20314961332t" style="normal" xml:id="subtitle652">[audience laughing]</p>
+<p begin="20372685666t" end="20391704666t" style="normal" xml:id="subtitle653">He died the way he lived.</p>
+<p begin="20392372000t" end="20410723666t" style="normal" xml:id="subtitle654">[audience laughing]</p>
+<p begin="20430410000t" end="20471117332t" style="normal" xml:id="subtitle655">The size of a sesame seed<br/>with no discernable brain function.</p>
+<p begin="20491471000t" end="20514494000t" style="normal" xml:id="subtitle656">He will be returned now to the soil...</p>
+<p begin="20525171332t" end="20536182332t" style="normal" xml:id="subtitle657">where he will...</p>
+<p begin="20545858666t" end="20564877666t" style="normal" xml:id="subtitle658">I don't know,<br/>get eaten by a cricket, maybe.</p>
+<p begin="20565545000t" end="20585565000t" style="normal" xml:id="subtitle659">[audience laughing]</p>
+<p begin="20611924666t" end="20641954666t" style="normal" xml:id="subtitle660">[sighs] So, anyway, this fundraiser.</p>
+<p begin="20657636998t" end="20701681000t" style="normal" xml:id="subtitle661">This is the thing, is the religious right<br/>knows that it will be a bear of a--</p>
+<p begin="20702348332t" end="20731711000t" style="normal" xml:id="subtitle662">Not the religious right.<br/>I guess the government now...</p>
+<p begin="20732378332t" end="20772418332t" style="normal" xml:id="subtitle663">-knows that it would be a bear of a job<br/>-[audience laughs]</p>
+<p begin="20773085666t" end="20822468332t" style="normal" xml:id="subtitle664">to overturn <span style="normal_1">Roe v. Wade,</span><br/>to just make abortion illegal all at once.</p>
+<p begin="20823135666t" end="20873185666t" style="normal" xml:id="subtitle665">So, what they do is they chip away at it<br/>from the sides, you know.</p>
+<p begin="20873853000t" end="20923569332t" style="normal" xml:id="subtitle666">They make little laws, insincere laws,<br/>that kind of are an ends to their means.</p>
+<p begin="20924236666t" end="20967279666t" style="normal" xml:id="subtitle667">You know, uh, "All right, uh,<br/>your clinic has to have hallways</p>
+<p begin="20967946998t" end="20982961998t" style="normal" xml:id="subtitle668">that are 18 feet wide."</p>
+<p begin="20987633332t" end="21010990000t" style="normal" xml:id="subtitle669">And then the clinics are like, "We can't--</p>
+<p begin="21016996000t" end="21055701332t" style="normal" xml:id="subtitle670">We don't have-- I mean, that would cost--<br/>We couldn't afford to--"</p>
+<p begin="21056368666t" end="21085064000t" style="normal" xml:id="subtitle671">"Well, I guess you're gonna<br/>have to close, then, aren't you?"</p>
+<p begin="21085731332t" end="21118764332t" style="normal" xml:id="subtitle672">You know, it's very, uh, Boss Hogg<br/>from <span style="normal_1">Dukes of Hazzard </span>or something.</p>
+<p begin="21121433666t" end="21147793332t" style="normal" xml:id="subtitle673">You know, like,<br/>smashing your headlights and going:</p>
+<p begin="21148460666t" end="21167146000t" style="normal" xml:id="subtitle674">[in Southern drawl]<br/>"Looks like you can't drive.</p>
+<p begin="21167813332t" end="21194506666t" style="normal" xml:id="subtitle675">You got a smashed headlight."<br/>[in normal voice] It's exactly that.</p>
+<p begin="21198510666t" end="21225537666t" style="normal" xml:id="subtitle676">And violating-- Uh...</p>
+<p begin="21233212000t" end="21278924332t" style="normal" xml:id="subtitle677">Infantilizing laws about abortion<br/>where women have to think about it.</p>
+<p begin="21281593666t" end="21301280000t" style="normal" xml:id="subtitle678">Go home for three days and think about it.</p>
+<p begin="21305284000t" end="21328974332t" style="normal" xml:id="subtitle679">Yeah, I think I've been thinking about it,<br/>fuckface.</p>
+<p begin="21331643666t" end="21348327000t" style="normal" xml:id="subtitle680">-Or, like...<br/>-[audience laughing]</p>
+<p begin="21348994332t" end="21395707666t" style="normal" xml:id="subtitle681">Violating ultrasounds, you know,<br/>where they shove a camera inside you</p>
+<p begin="21396375000t" end="21444756666t" style="normal" xml:id="subtitle682">and make you look at the ultrasound<br/>and see the life in your uterus.</p>
+<p begin="21445424000t" end="21472784666t" style="normal" xml:id="subtitle683">And-- Put a pin in that for a second.</p>
+<p begin="21473452000t" end="21507152332t" style="normal" xml:id="subtitle684">Because I have another fun fact for you<br/>you're gonna love.</p>
+<p begin="21518163332t" end="21551530000t" style="normal" xml:id="subtitle685">This is true. Scientists have known this<br/>for almost two decades.</p>
+<p begin="21552197332t" end="21565877666t" style="normal" xml:id="subtitle686">If you believe in science.</p>
+<p begin="21566545000t" end="21582894666t" style="normal" xml:id="subtitle687">-[audience laughing]<br/>-That--</p>
+<p begin="21591903666t" end="21598910666t" style="normal" xml:id="subtitle688">And this is it.</p>
+<p begin="21607252332t" end="21635280332t" style="normal" xml:id="subtitle689">Sperm can smell.</p>
+<p begin="21648960666t" end="21684996666t" style="normal" xml:id="subtitle690">I know-- I know sperm can--<br/>We all know sperm can smell.</p>
+<p begin="21689000666t" end="21706685000t" style="normal" xml:id="subtitle691">-But...<br/>-[audience laughs]</p>
+<p begin="21707352332t" end="21746391332t" style="normal" xml:id="subtitle692">sperm cells-- Seashells by the seashore.</p>
+<p begin="21747058666t" end="21768747000t" style="normal" xml:id="subtitle693">Sarah, come on, focus.</p>
+<p begin="21775086666t" end="21785430332t" style="normal" xml:id="subtitle694">This is a big night.</p>
+<p begin="21786097666t" end="21806117666t" style="normal" xml:id="subtitle695">[audience laughing]</p>
+<p begin="21809454332t" end="21825136666t" style="normal" xml:id="subtitle696">This is serious, though.</p>
+<p begin="21825804000t" end="21866177666t" style="normal" xml:id="subtitle697">Sperm cells have a sense of smell.</p>
+<p begin="21877522332t" end="21897542332t" style="normal" xml:id="subtitle698">They have olfactory senses. That's true.</p>
+<p begin="21911890000t" end="21956601332t" style="normal" xml:id="subtitle699">And you know what that means.<br/>That means that sperm is life.</p>
+<p begin="21972283666t" end="21988633332t" style="normal" xml:id="subtitle700">And you know what that means.</p>
+<p begin="21989300666t" end="22011990000t" style="normal" xml:id="subtitle701">[audience laughs]</p>
+<p begin="22012657332t" end="22032010000t" style="normal" xml:id="subtitle702">We've gotta legislate that shit.</p>
+<p begin="22039017000t" end="22063374666t" style="normal" xml:id="subtitle703">[audience clapping and cheering]</p>
+<p begin="22064042000t" end="22097408666t" style="normal" xml:id="subtitle704">We have to protect the babies.</p>
+<p begin="22098076000t" end="22125436666t" style="normal" xml:id="subtitle705">I-- I just wanna save the unborn babies.</p>
+<p begin="22126104000t" end="22154799332t" style="normal" xml:id="subtitle706">That's all I'm worried about,<br/>and this is what we're gonna do.</p>
+<p begin="22162473666t" end="22195173000t" style="normal" xml:id="subtitle707">The next time you feel like<br/>you're gonna jerk off into a gym sock</p>
+<p begin="22195840332t" end="22222533666t" style="normal" xml:id="subtitle708">or down your shower drain or, uh...</p>
+<p begin="22223201000t" end="22259237000t" style="normal" xml:id="subtitle709">I don't know why,<br/>I peg you as an "on the belly" guy.</p>
+<p begin="22259904332t" end="22282593666t" style="normal" xml:id="subtitle710">-[audience laughing]<br/>-It doesn't matter, though.</p>
+<p begin="22289934332t" end="22313291000t" style="normal" xml:id="subtitle711">It doesn't matter.<br/>Whatever your jerk-off style,</p>
+<p begin="22313958332t" end="22325636666t" style="normal" xml:id="subtitle712">there is no judgment here.</p>
+<p begin="22335646666t" end="22353331000t" style="normal" xml:id="subtitle713">I was right, wasn't I?</p>
+<p begin="22353998332t" end="22369347000t" style="normal" xml:id="subtitle714">-[audience laughing]<br/>-I have a sense.</p>
+<p begin="22394372000t" end="22426737666t" style="normal" xml:id="subtitle715">If only that was a superpower<br/>that could help the world.</p>
+<p begin="22427405000t" end="22436414000t" style="normal" xml:id="subtitle716">But...</p>
+<p begin="22455433000t" end="22478456000t" style="normal" xml:id="subtitle717">This is what we're gonna do.<br/>Before you do jerk off,</p>
+<p begin="22479123332t" end="22494472000t" style="normal" xml:id="subtitle718">whatever style it is--</p>
+<p begin="22499143332t" end="22523834666t" style="normal" xml:id="subtitle719">Um... I feel like keeping going. Like...</p>
+<p begin="22535179332t" end="22567211332t" style="normal" xml:id="subtitle720">you are like a hands-free<br/>fucking the mattress.</p>
+<p begin="22567878666t" end="22585229332t" style="normal" xml:id="subtitle721">Like, you're just flat...</p>
+<p begin="22585896666t" end="22605916666t" style="normal" xml:id="subtitle722">[audience laughing]</p>
+<p begin="22615259332t" end="22635279332t" style="normal" xml:id="subtitle723">Blink once if-- I knew it!</p>
+<p begin="22635946666t" end="22650294332t" style="normal" xml:id="subtitle724">You guys are humoring me.</p>
+<p begin="22652963666t" end="22663974666t" style="normal" xml:id="subtitle725">You guys are nice.</p>
+<p begin="22664642000t" end="22676654000t" style="normal" xml:id="subtitle726">All right. Come on, Sarah.</p>
+<p begin="22690000666t" end="22726370332t" style="normal" xml:id="subtitle727">Before you do it,<br/>you're gonna come on down to the clinic.</p>
+<p begin="22733711000t" end="22757735000t" style="normal" xml:id="subtitle728">We're gonna take a long, thin--</p>
+<p begin="22758402332t" end="22795439332t" style="normal" xml:id="subtitle729">Like a knitting-needle-shaped<br/>GoPro camera, basically.</p>
+<p begin="22799109666t" end="22845823000t" style="normal" xml:id="subtitle730">It's gonna go up your urethra,<br/>your penis hole.</p>
+<p begin="22846490332t" end="22863841000t" style="normal" xml:id="subtitle731">Up, up, up. Really picture it.</p>
+<p begin="22864508332t" end="22899209666t" style="normal" xml:id="subtitle732">And then down,<br/>down into your testicular sac.</p>
+<p begin="22906216666t" end="22926236666t" style="normal" xml:id="subtitle733">We're gonna bring the ultrasound around,</p>
+<p begin="22926904000t" end="22953597332t" style="normal" xml:id="subtitle734">and you're gonna be able to actually see</p>
+<p begin="22958268666t" end="22983627332t" style="normal" xml:id="subtitle735">the life in your balls.</p>
+<p begin="22984294666t" end="23004314666t" style="normal" xml:id="subtitle736">[audience laughing, then clapping]</p>
+<p begin="23018328666t" end="23034344666t" style="normal" xml:id="subtitle737">I truly believe...</p>
+<p begin="23046356666t" end="23080057000t" style="normal" xml:id="subtitle738">that most men<br/>will not even want to jerk off after that.</p>
+<p begin="23080724332t" end="23096073000t" style="normal" xml:id="subtitle739">And that's a beautiful thing.</p>
+<p begin="23096740332t" end="23116760332t" style="normal" xml:id="subtitle740">[audience laughing]</p>
+<p begin="23164141000t" end="23179823332t" style="normal" xml:id="subtitle741">Show business is so weird.</p>
+<p begin="23180490666t" end="23208518666t" style="normal" xml:id="subtitle742">I don't know why this is when<br/>it really struck me.</p>
+<p begin="23209186000t" end="23247891332t" style="normal" xml:id="subtitle743">But I did an episode-- A few years ago,<br/>I did that show, <span style="normal_1">The Good Wife.</span></p>
+<p begin="23248558666t" end="23276920332t" style="normal" xml:id="subtitle744">Okay? And it's, like, a law drama.</p>
+<p begin="23277587666t" end="23289599666t" style="normal" xml:id="subtitle745">And it was really fun.</p>
+<p begin="23290267000t" end="23326303000t" style="normal" xml:id="subtitle746">And maybe it's 'cause I was, like, sitting<br/>and watching a lot of them shoot.</p>
+<p begin="23330307000t" end="23363673666t" style="normal" xml:id="subtitle747">You would never believe<br/>how show business works. It's so crazy.</p>
+<p begin="23364341000t" end="23376686666t" style="normal" xml:id="subtitle748">Like, okay.</p>
+<p begin="23385695666t" end="23407050332t" style="normal" xml:id="subtitle749">Let's see if I can explain this.<br/>Like... It's--</p>
+<p begin="23407717666t" end="23456433000t" style="normal" xml:id="subtitle750">So, this scene is a big boardroom scene,<br/>right, 'cause it's a law drama.</p>
+<p begin="23457100332t" end="23479122332t" style="normal" xml:id="subtitle751">And it's got a bunch of characters in it.</p>
+<p begin="23479789666t" end="23507484000t" style="normal" xml:id="subtitle752">And they're all talking,<br/>and all this shit happens in it.</p>
+<p begin="23508151332t" end="23560870666t" style="normal" xml:id="subtitle753">So, the first shot they do, they do a big,<br/>wide shot of the whole scene</p>
+<p begin="23563540000t" end="23580890666t" style="normal" xml:id="subtitle754">with all the characters and everything.</p>
+<p begin="23587897666t" end="23615925666t" style="normal" xml:id="subtitle755">They do that a few times.<br/>Then they go in close</p>
+<p begin="23616593000t" end="23647290332t" style="normal" xml:id="subtitle756">and they shoot, like, a tight shot<br/>where it's just, like--</p>
+<p begin="23647957666t" end="23670647000t" style="normal" xml:id="subtitle757">You only see, like,<br/>three of the characters.</p>
+<p begin="23671314332t" end="23710353332t" style="normal" xml:id="subtitle758">And when they exit that scene,<br/>like, in our minds we see the whole room</p>
+<p begin="23711020666t" end="23725702000t" style="normal" xml:id="subtitle759">because we've seen it before.</p>
+<p begin="23726369332t" end="23764073666t" style="normal" xml:id="subtitle760">But in reality, when they're shooting it,<br/>the rest of the room isn't even there.</p>
+<p begin="23764741000t" end="23778421332t" style="normal" xml:id="subtitle761">It's, like, filled up with, like,</p>
+<p begin="23785094666t" end="23809118666t" style="normal" xml:id="subtitle762">reflecting boards and cameras and lights</p>
+<p begin="23809786000t" end="23840483332t" style="normal" xml:id="subtitle763">and, you know,<br/>all this other shit, you know.</p>
+<p begin="23841150666t" end="23854831000t" style="normal" xml:id="subtitle764">I don't know all the words.</p>
+<p begin="23855498332t" end="23874851000t" style="normal" xml:id="subtitle765">[audience laughs]</p>
+<p begin="23875518332t" end="23899542332t" style="normal" xml:id="subtitle766">Cameramen and, uh, all that shit.</p>
+<p begin="23906883000t" end="23939582332t" style="normal" xml:id="subtitle767">So, it's like, uh,<br/>Christine Baranski will go:</p>
+<p begin="23940249666t" end="23966609332t" style="normal" xml:id="subtitle768">"I want those papers<br/>on my desk Monday morning."</p>
+<p begin="23987296666t" end="23997306666t" style="normal" xml:id="subtitle769">[audience laughing]</p>
+<p begin="23997974000t" end="24036345666t" style="normal" xml:id="subtitle770">And she's literally<br/>in her skirt suit and heels.</p>
+<p begin="24047690332t" end="24105414666t" style="normal" xml:id="subtitle771">Christine Baranski in a ball<br/>because she can't leave entirely,</p>
+<p begin="24106082000t" end="24129772332t" style="normal" xml:id="subtitle772">'cause there's so much shit<br/>blocking the way.</p>
+<p begin="24130439666t" end="24148791332t" style="normal" xml:id="subtitle773">But she has to get as low as possible</p>
+<p begin="24149458666t" end="24185494666t" style="normal" xml:id="subtitle774">so she doesn't block the lights<br/>for the rest of the scene,</p>
+<p begin="24186162000t" end="24215858332t" style="normal" xml:id="subtitle775">for the actors that are still<br/>in the scene. So, she's like this.</p>
+<p begin="24216525666t" end="24230206000t" style="normal" xml:id="subtitle776">And then Josh Charles is like:</p>
+<p begin="24236545666t" end="24256899332t" style="normal" xml:id="subtitle777">"She's a piece of work.<br/>I'll see you Monday."</p>
+<p begin="24267576666t" end="24287263000t" style="normal" xml:id="subtitle778">[audience laughing]</p>
+<p begin="24294937332t" end="24309952332t" style="normal" xml:id="subtitle779">Everything you watch is that.</p>
+<p begin="24357666666t" end="24369011332t" style="normal" xml:id="subtitle780">I just burped.</p>
+<p begin="24369678666t" end="24381690666t" style="normal" xml:id="subtitle781">I'm a human being.</p>
+<p begin="24466108332t" end="24491467000t" style="normal" xml:id="subtitle782">I was, uh--<br/>Three weeks ago, I was at a red light.</p>
+<p begin="24510819666t" end="24531173332t" style="normal" xml:id="subtitle783">No, put a pin in that for a second.<br/>Okay.</p>
+<p begin="24541850666t" end="24577886666t" style="normal" xml:id="subtitle784">I took an acting class<br/>when I was 10 in New Hampshire.</p>
+<p begin="24595237332t" end="24605581000t" style="normal" xml:id="subtitle785">This goes together.</p>
+<p begin="24617926666t" end="24650626000t" style="normal" xml:id="subtitle786">And, first of all,<br/>this acting teacher was mean.</p>
+<p begin="24651293332t" end="24669311332t" style="normal" xml:id="subtitle787">I remember he said, like, um--</p>
+<p begin="24669978666t" end="24696004666t" style="normal" xml:id="subtitle788">Oh, one assignment was,<br/>bring in your favorite song</p>
+<p begin="24696672000t" end="24715357332t" style="normal" xml:id="subtitle789">and, like, act out to it.</p>
+<p begin="24716024666t" end="24747055666t" style="normal" xml:id="subtitle790">And then I brought in my favorite song,<br/>which is, like, um...</p>
+<p begin="24761403332t" end="24797439332t" style="normal" xml:id="subtitle791">♪ <span style="normal_1">Just a city boy</span><br/><span style="normal_1">Born and raised</span>... ♪</p>
+<p begin="24798106666t" end="24811119666t" style="normal" xml:id="subtitle792">"Don't Stop Believin'."</p>
+<p begin="24811787000t" end="24822130666t" style="normal" xml:id="subtitle793">Sorry.</p>
+<p begin="24824800000t" end="24867509332t" style="normal" xml:id="subtitle794">And, like,<br/>I thought that acting was mouthing it.</p>
+<p begin="24868176666t" end="24877185666t" style="normal" xml:id="subtitle795">So, I was like:</p>
+<p begin="24896872000t" end="24922230666t" style="normal" xml:id="subtitle796">And he went bananas on me.</p>
+<p begin="24935911000t" end="24968610332t" style="normal" xml:id="subtitle797">And you know, I wish at 10<br/>I had the wherewithal to be like:</p>
+<p begin="24977953000t" end="25001977000t" style="normal" xml:id="subtitle798">"You know what?<br/>He's probably going through something.</p>
+<p begin="25002644332t" end="25018660332t" style="normal" xml:id="subtitle799">[audience laughing]</p>
+<p begin="25019327666t" end="25029671332t" style="normal" xml:id="subtitle800">That's his."</p>
+<p begin="25042017000t" end="25061703332t" style="normal" xml:id="subtitle801">No.<br/>I didn't know to do that when I was 10.</p>
+<p begin="25062370666t" end="25080388666t" style="normal" xml:id="subtitle802">I just assumed I was a piece of shit.</p>
+<p begin="25086061000t" end="25105080000t" style="normal" xml:id="subtitle803">But that's not the story I wanted to tell.</p>
+<p begin="25105747332t" end="25130772332t" style="normal" xml:id="subtitle804">So, the first day of acting class,<br/>he said this:</p>
+<p begin="25141783332t" end="25151459666t" style="normal" xml:id="subtitle805">"Acting...</p>
+<p begin="25168810332t" end="25198506666t" style="normal" xml:id="subtitle806">is reacting."</p>
+<p begin="25199174000t" end="25217859332t" style="normal" xml:id="subtitle807">And I'm like, "What does that mean?"</p>
+<p begin="25218526666t" end="25235543666t" style="normal" xml:id="subtitle808">Like, "re"?</p>
+<p begin="25239881332t" end="25259901332t" style="normal" xml:id="subtitle809">I knew "re" meant again.</p>
+<p begin="25260568666t" end="25278920332t" style="normal" xml:id="subtitle810">So, I was like, "Acting again?"</p>
+<p begin="25279587666t" end="25288596666t" style="normal" xml:id="subtitle811">Anyway...</p>
+<p begin="25295937332t" end="25316291000t" style="normal" xml:id="subtitle812">Three weeks ago, I was at a red light.</p>
+<p begin="25316958332t" end="25326301000t" style="normal" xml:id="subtitle813">And I was like:</p>
+<p begin="25338313000t" end="25349657666t" style="normal" xml:id="subtitle814">"Oh, reacting.</p>
+<p begin="25350325000t" end="25371012332t" style="normal" xml:id="subtitle815">[audience laughing]</p>
+<p begin="25371679666t" end="25385693666t" style="normal" xml:id="subtitle816">Right.</p>
+<p begin="25386361000t" end="25395370000t" style="normal" xml:id="subtitle817">Oh, yeah.</p>
+<p begin="25407382000t" end="25430738666t" style="normal" xml:id="subtitle818">I agree with that, yes.<br/>Acting is reacting.</p>
+<p begin="25441416000t" end="25458099332t" style="normal" xml:id="subtitle819">You should have said it that way."</p>
+<p begin="25487128332t" end="25497472000t" style="normal" xml:id="subtitle820">Latent...</p>
+<p begin="25512153332t" end="25525833666t" style="normal" xml:id="subtitle821">realizations.</p>
+<p begin="25530505000t" end="25562203332t" style="normal" xml:id="subtitle822">That's the theme of this chunk<br/>when I do my special.</p>
+<p begin="25567542000t" end="25605913666t" style="normal" xml:id="subtitle823">Latent-- Latent realizations. Like...</p>
+<p begin="25611919666t" end="25636944666t" style="normal" xml:id="subtitle824">Okay, I had to go to sleepaway camp...</p>
+<p begin="25645953666t" end="25675983666t" style="normal" xml:id="subtitle825">every year since I was 6 years old.</p>
+<p begin="25681322332t" end="25723364332t" style="normal" xml:id="subtitle826">And, uh, it was terrible for me</p>
+<p begin="25726033666t" end="25756397332t" style="normal" xml:id="subtitle827">because I was a chronic bed wetter<br/>till I was, like, 15.</p>
+<p begin="25766073666t" end="25778419332t" style="normal" xml:id="subtitle828">So, it was a nightmare.</p>
+<p begin="25779086666t" end="25816123666t" style="normal" xml:id="subtitle829">I learned a lot of skills,<br/>like complete disassociation.</p>
+<p begin="25820127666t" end="25836477332t" style="normal" xml:id="subtitle830">[audience laughing]</p>
+<p begin="25837144666t" end="25883190666t" style="normal" xml:id="subtitle831">Making a cot over soaking-wet sheets<br/>while I stink like piss</p>
+<p begin="25885860000t" end="25912887000t" style="normal" xml:id="subtitle832">and pretending like that's not the case.</p>
+<p begin="25931238666t" end="25971946000t" style="normal" xml:id="subtitle833">What kind of parents would send<br/>a chronic bed wetter to sleepaway camp?</p>
+<p begin="25972613332t" end="25990297666t" style="normal" xml:id="subtitle834">They must be monsters. No.</p>
+<p begin="25998639332t" end="26010651332t" style="normal" xml:id="subtitle835">They're not monsters.</p>
+<p begin="26016657332t" end="26029003000t" style="normal" xml:id="subtitle836">Here's the thing. Okay.</p>
+<p begin="26037011000t" end="26050024000t" style="normal" xml:id="subtitle837">Like, my dad...</p>
+<p begin="26061368666t" end="26098072000t" style="normal" xml:id="subtitle838">his dad beat the shit out of him<br/>every day.</p>
+<p begin="26103744332t" end="26162136000t" style="normal" xml:id="subtitle839">And then during the school year<br/>he was sent away to goyim.</p>
+<p begin="26162803332t" end="26183157000t" style="normal" xml:id="subtitle840">To boarding school. I'm sorry.</p>
+<p begin="26183824332t" end="26193500666t" style="normal" xml:id="subtitle841">[audience laughs]</p>
+<p begin="26196170000t" end="26207848332t" style="normal" xml:id="subtitle842">To boarding school.</p>
+<p begin="26213187000t" end="26229870332t" style="normal" xml:id="subtitle843">And then at boarding school...</p>
+<p begin="26236543666t" end="26262236000t" style="normal" xml:id="subtitle844">he got the shit kicked out of him<br/>every day,</p>
+<p begin="26262903332t" end="26279920332t" style="normal" xml:id="subtitle845">called a dirty Jew kike,</p>
+<p begin="26280587666t" end="26296937332t" style="normal" xml:id="subtitle846">because it was back when, like...</p>
+<p begin="26306613666t" end="26320294000t" style="normal" xml:id="subtitle847">America was great.</p>
+<p begin="26320961332t" end="26329636666t" style="normal" xml:id="subtitle848">[audience laughing]</p>
+<p begin="26330304000t" end="26339980332t" style="normal" xml:id="subtitle849">And...</p>
+<p begin="26388028332t" end="26408382000t" style="normal" xml:id="subtitle850">-And then in the-- All right.<br/>-[audience clapping]</p>
+<p begin="26409049332t" end="26432739666t" style="normal" xml:id="subtitle851">[chuckles] That was pretty good.</p>
+<p begin="26433407000t" end="26448755666t" style="normal" xml:id="subtitle852">[audience laughs]</p>
+<p begin="26449423000t" end="26467774666t" style="normal" xml:id="subtitle853">And then in the summertime,</p>
+<p begin="26471445000t" end="26512152332t" style="normal" xml:id="subtitle854">he went to camp and blossomed</p>
+<p begin="26512819666t" end="26551191332t" style="normal" xml:id="subtitle855">and was a star and was, like,<br/>everything he wanted to be.</p>
+<p begin="26557197332t" end="26583557000t" style="normal" xml:id="subtitle856">And so, parents, they just think--</p>
+<p begin="26584224332t" end="26610917666t" style="normal" xml:id="subtitle857">You know, he just thought,<br/>"No, camp is great.</p>
+<p begin="26611585000t" end="26632606000t" style="normal" xml:id="subtitle858">It will define her. It will be her joy.</p>
+<p begin="26633273332t" end="26654294332t" style="normal" xml:id="subtitle859">Because that's what it was for me."<br/>You know?</p>
+<p begin="26660634000t" end="26678652000t" style="normal" xml:id="subtitle860">So, I had to go to camp.</p>
+<p begin="26682656000t" end="26713353332t" style="normal" xml:id="subtitle861">And as a compromise,<br/>he would give me joke books.</p>
+<p begin="26720026666t" end="26731705000t" style="normal" xml:id="subtitle862">Because I loved jokes.</p>
+<p begin="26732372332t" end="26760066666t" style="normal" xml:id="subtitle863">And then, also,<br/>maybe I'd make friends that way.</p>
+<p begin="26760734000t" end="26781755000t" style="normal" xml:id="subtitle864">So, I remember the summer I was 8</p>
+<p begin="26788094666t" end="26819125666t" style="normal" xml:id="subtitle865">because I had just learned to read<br/>when I was 7.</p>
+<p begin="26823797000t" end="26858498332t" style="normal" xml:id="subtitle866">Someone in the audience when I was<br/>in Vermont was like, "I was 4."</p>
+<p begin="26859165666t" end="26874180666t" style="normal" xml:id="subtitle867">Fucking good for you. I was 7.</p>
+<p begin="26880854000t" end="26899205666t" style="normal" xml:id="subtitle868">I learned to read when I was 7.</p>
+<p begin="26907213666t" end="26922562332t" style="normal" xml:id="subtitle869">So, I was 8, I was excited.</p>
+<p begin="26923229666t" end="26942248666t" style="normal" xml:id="subtitle870">I had books. I was gonna read.</p>
+<p begin="26942915999t" end="26966939999t" style="normal" xml:id="subtitle871">And my dad has no boundaries.</p>
+<p begin="26967607332t" end="26999972999t" style="normal" xml:id="subtitle872">I don't know if he flipped<br/>through these at all or didn't.</p>
+<p begin="27004310666t" end="27038010999t" style="normal" xml:id="subtitle873">Um, but it was <span style="normal_1">Truly Tasteless Jokes</span><br/>book one and two.</p>
+<p begin="27042014999t" end="27060032999t" style="normal" xml:id="subtitle874">[audience laughing]</p>
+<p begin="27060700332t" end="27093733332t" style="normal" xml:id="subtitle875">And I remember the first joke<br/>on the first page.</p>
+<p begin="27094400666t" end="27121761332t" style="normal" xml:id="subtitle876">It was a paragraph long,<br/>but I can tell it in two seconds.</p>
+<p begin="27122428666t" end="27152792332t" style="normal" xml:id="subtitle877">It was "Little Red Riding Hood,<br/>blah, blah, blah.</p>
+<p begin="27153459666t" end="27180486666t" style="normal" xml:id="subtitle878">And then the big bad wolf is like,<br/>'I'm gonna eat you.'</p>
+<p begin="27181153999t" end="27207179999t" style="normal" xml:id="subtitle879">And then Little Red Riding Hood's like,<br/>'Eat, eat, eat.</p>
+<p begin="27207847332t" end="27223863332t" style="normal" xml:id="subtitle880">Doesn't anybody fuck anymore?'"</p>
+<p begin="27224530666t" end="27244884332t" style="normal" xml:id="subtitle881">And I'm like, "What does this mean?"</p>
+<p begin="27247553666t" end="27267573666t" style="normal" xml:id="subtitle882">[audience laughing]</p>
+<p begin="27318958332t" end="27344316999t" style="normal" xml:id="subtitle883">Then when I was 30<br/>I was like, "Oh, Jesus Christ.</p>
+<p begin="27344984332t" end="27361333999t" style="normal" xml:id="subtitle884">That's so inappropriate."</p>
+<p begin="27379351999t" end="27418390999t" style="normal" xml:id="subtitle885">He was, uh-- My dad isn't--<br/>He has no boundaries.</p>
+<p begin="27419058332t" end="27437743666t" style="normal" xml:id="subtitle886">He's not approp-- I don't really--</p>
+<p begin="27438410999t" end="27460766666t" style="normal" xml:id="subtitle887">He-- He treated us like bros.</p>
+<p begin="27461433999t" end="27499805666t" style="normal" xml:id="subtitle888">Like, um, I remember one time<br/>when I was really young,</p>
+<p begin="27500472999t" end="27518157332t" style="normal" xml:id="subtitle889">he and my mom went on a double date.</p>
+<p begin="27518824666t" end="27554860666t" style="normal" xml:id="subtitle890">And when he came home,<br/>he, like, plopped down on the front hall--</p>
+<p begin="27557529999t" end="27578550999t" style="normal" xml:id="subtitle891">There was, like,<br/>a bench in the front hall.</p>
+<p begin="27579218332t" end="27605244332t" style="normal" xml:id="subtitle892">And I was sitting there,<br/>and I asked him how it went.</p>
+<p begin="27607913666t" end="27628600999t" style="normal" xml:id="subtitle893">And he was like,<br/>"Oh, it was the fucking worst.</p>
+<p begin="27629268332t" end="27651623999t" style="normal" xml:id="subtitle894">Uh, we were supposed to go out<br/>with the Sterlings,</p>
+<p begin="27652291332t" end="27671643999t" style="normal" xml:id="subtitle895">and then only Mr. Sterling showed up.</p>
+<p begin="27672311332t" end="27693332332t" style="normal" xml:id="subtitle896">Because he said Mrs. Sterling<br/>had her period.</p>
+<p begin="27693999666t" end="27720025666t" style="normal" xml:id="subtitle897">And when she gets her period,<br/>it comes out like liver.</p>
+<p begin="27720692999t" end="27740379332t" style="normal" xml:id="subtitle898">And I'm like,<br/>'I don't need to know that.'"</p>
+<p begin="27741046666t" end="27759731999t" style="normal" xml:id="subtitle899">[audience laughing]</p>
+<p begin="27798770999t" end="27814453332t" style="normal" xml:id="subtitle900">I was like, "Dad, I get it.</p>
+<p begin="27815120666t" end="27844149666t" style="normal" xml:id="subtitle901">Like, I'm 5,<br/>and I don't even need to know that."</p>
+<p begin="27870509332t" end="27883188666t" style="normal" xml:id="subtitle902">But my dad, um...</p>
+<p begin="27892531332t" end="27905210666t" style="normal" xml:id="subtitle903">Camp was where he thrived.</p>
+<p begin="27907879999t" end="27931903999t" style="normal" xml:id="subtitle904">And, like, they're still his best friends<br/>to this day.</p>
+<p begin="27932571332t" end="27952924999t" style="normal" xml:id="subtitle905">His best friends<br/>are his friends from camp.</p>
+<p begin="27959598332t" end="27999971999t" style="normal" xml:id="subtitle906">And he's about to be 80,<br/>and they're having a reunion, even.</p>
+<p begin="28000639332t" end="28045350666t" style="normal" xml:id="subtitle907">And he has a picture of all of them,<br/>uh, when they became counselors.</p>
+<p begin="28052023999t" end="28074045999t" style="normal" xml:id="subtitle908">And it's amazing. It's from 1953.</p>
+<p begin="28074713332t" end="28099070999t" style="normal" xml:id="subtitle909">And I said,<br/>"Dad, you have to send me this."</p>
+<p begin="28099738332t" end="28132103999t" style="normal" xml:id="subtitle910">And he sent it to me with, like,<br/>a glossary of who everybody is</p>
+<p begin="28132771332t" end="28154459666t" style="normal" xml:id="subtitle911">and what they're doing now. And it's like:</p>
+<p begin="28155126999t" end="28185156999t" style="normal" xml:id="subtitle912">"This is Phil Holman. He's a judge now.</p>
+<p begin="28185824332t" end="28202173999t" style="normal" xml:id="subtitle913">This is Arnie Goldstein.</p>
+<p begin="28202841332t" end="28228199999t" style="normal" xml:id="subtitle914">You know, he owns Martin's House of Cloth.</p>
+<p begin="28228867332t" end="28243214999t" style="normal" xml:id="subtitle915">This is Danny Gold.</p>
+<p begin="28252223999t" end="28294265999t" style="normal" xml:id="subtitle916">Danny Gold once gave Punchy Kramer a BJ<br/>and we all watched.</p>
+<p begin="28305944332t" end="28320959332t" style="normal" xml:id="subtitle917">This is Cy Schwartz.</p>
+<p begin="28321626666t" end="28341646666t" style="normal" xml:id="subtitle918">He works at the Clam King.</p>
+<p begin="28342313999t" end="28363001332t" style="normal" xml:id="subtitle919">This is bah, bah, bah. He da, da, da.</p>
+<p begin="28363668666t" end="28380685666t" style="normal" xml:id="subtitle920">This is Morris Simon.</p>
+<p begin="28381352999t" end="28401039332t" style="normal" xml:id="subtitle921">This is Punchy Kramer.</p>
+<p begin="28408379999t" end="28424062332t" style="normal" xml:id="subtitle922">This is, you know, blah, blah, blah."</p>
+<p begin="28424729666t" end="28454092332t" style="normal" xml:id="subtitle923">I'm like,<br/>"Dad, open with it or close with it."</p>
+<p begin="28460431999t" end="28472777666t" style="normal" xml:id="subtitle924">He has no sense.</p>
+<p begin="28473444999t" end="28492130332t" style="normal" xml:id="subtitle925">[audience laughing]</p>
+<p begin="28492797666t" end="28536174332t" style="normal" xml:id="subtitle926">So, he went to camp all the way up<br/>until he became a counselor.</p>
+<p begin="28538843666t" end="28573211332t" style="normal" xml:id="subtitle927">And, uh, you know, we think of counselors,<br/>like, as grown-ups.</p>
+<p begin="28581886666t" end="28602240332t" style="normal" xml:id="subtitle928">But, you know, they're 16-year-old kids.</p>
+<p begin="28602907666t" end="28641612999t" style="normal" xml:id="subtitle929">So, for each camper,<br/>he had to fill out a form,</p>
+<p begin="28645616999t" end="28664302332t" style="normal" xml:id="subtitle930">uh, every week for each camper.</p>
+<p begin="28664969666t" end="28691662999t" style="normal" xml:id="subtitle931">And it would say, like, "Is he behaving?</p>
+<p begin="28692330332t" end="28712683999t" style="normal" xml:id="subtitle932">Is he sleeping? Did he brush his teeth?</p>
+<p begin="28713351332t" end="28729700999t" style="normal" xml:id="subtitle933">Did he go to the bathroom?"</p>
+<p begin="28730368332t" end="28763401332t" style="normal" xml:id="subtitle934">And under that it said, "L/H."</p>
+<p begin="28769073666t" end="28789760999t" style="normal" xml:id="subtitle935">And my dad didn't know what that meant.</p>
+<p begin="28790428332t" end="28814452332t" style="normal" xml:id="subtitle936">But he was too embarrassed to ask anybody.</p>
+<p begin="28815119666t" end="28845149666t" style="normal" xml:id="subtitle937">So, he just used his logic,<br/>and he's like, "Okay.</p>
+<p begin="28851822999t" end="28892196666t" style="normal" xml:id="subtitle938">It comes after bathroom,<br/>so it must mean...</p>
+<p begin="28901205666t" end="28919557332t" style="normal" xml:id="subtitle939">'loose or hard.'"</p>
+<p begin="28920224666t" end="28940244666t" style="normal" xml:id="subtitle940">[audience laughing]</p>
+<p begin="28973277666t" end="28993297666t" style="normal" xml:id="subtitle941">So, for a summer...</p>
+<p begin="29001972999t" end="29021992999t" style="normal" xml:id="subtitle942">[audience laughing]</p>
+<p begin="29044014999t" end="29081385666t" style="normal" xml:id="subtitle943">my dad had his campers come get him...</p>
+<p begin="29096066999t" end="29114752332t" style="normal" xml:id="subtitle944">after they took shits...</p>
+<p begin="29139443666t" end="29161131999t" style="normal" xml:id="subtitle945">so that he could go look at them...</p>
+<p begin="29204174999t" end="29222192999t" style="normal" xml:id="subtitle946">and make a rough guesstimate...</p>
+<p begin="29240544666t" end="29260898332t" style="normal" xml:id="subtitle947">if it was indeed loose or hard.</p>
+<p begin="29279583666t" end="29293931332t" style="normal" xml:id="subtitle948">I love that so much.</p>
+<p begin="29304608666t" end="29340310999t" style="normal" xml:id="subtitle949">It just means there's, like, a generation<br/>of old men in therapy...</p>
+<p begin="29351321999t" end="29360998332t" style="normal" xml:id="subtitle950">who are like:</p>
+<p begin="29372342999t" end="29412382999t" style="normal" xml:id="subtitle951">"Well, I did have a camp counselor<br/>that was, like, obsessed with my shits.</p>
+<p begin="29413050332t" end="29422059332t" style="normal" xml:id="subtitle952">Is that...?"</p>
+<p begin="29444748666t" end="29459429999t" style="normal" xml:id="subtitle953">You were sexually abused.</p>
+<p begin="29460097332t" end="29480117332t" style="normal" xml:id="subtitle954">[audience laughing]</p>
+<p begin="29497134332t" end="29522159332t" style="normal" xml:id="subtitle955">Oh, it meant "letter home."</p>
+<p begin="29522826666t" end="29542846666t" style="normal" xml:id="subtitle956">[audience laughing]</p>
+<p begin="29552522999t" end="29566870666t" style="normal" xml:id="subtitle957">But thank God he didn't ask.</p>
+<p begin="29569539999t" end="29585555999t" style="normal" xml:id="subtitle958">That would have been so embarrassing.</p>
+<p begin="29624928666t" end="29651288332t" style="normal" xml:id="subtitle959">My parents got divorced when I was 7.</p>
+<p begin="29651955666t" end="29686323332t" style="normal" xml:id="subtitle960">And my mom went back to college<br/>to get her degree.</p>
+<p begin="29686990666t" end="29705342332t" style="normal" xml:id="subtitle961">And my sisters were older.</p>
+<p begin="29706009666t" end="29727364332t" style="normal" xml:id="subtitle962">So, I got babysat by nuns.</p>
+<p begin="29730033666t" end="29761398332t" style="normal" xml:id="subtitle963">I went to, like, a nun--<br/>A convent, I guess.</p>
+<p begin="29762065666t" end="29774077666t" style="normal" xml:id="subtitle964">But it looked like a--</p>
+<p begin="29782085666t" end="29811448332t" style="normal" xml:id="subtitle965">Like a Victorian house or something,<br/>where nuns were.</p>
+<p begin="29815452332t" end="29829799999t" style="normal" xml:id="subtitle966">And they had day care.</p>
+<p begin="29830467332t" end="29856493332t" style="normal" xml:id="subtitle967">And I have since met amazing nuns.</p>
+<p begin="29857160666t" end="29876846999t" style="normal" xml:id="subtitle968">These were not them. These were cunts.</p>
+<p begin="29877514332t" end="29892195666t" style="normal" xml:id="subtitle969">[audience laughing]</p>
+<p begin="29892862999t" end="29903873999t" style="normal" xml:id="subtitle970">They-- They were.</p>
+<p begin="29904541332t" end="29916886999t" style="normal" xml:id="subtitle971">They hit us.</p>
+<p begin="29917554332t" end="29950920999t" style="normal" xml:id="subtitle972">It was--<br/>I had not been hit before, you know.</p>
+<p begin="29951588332t" end="29972275666t" style="normal" xml:id="subtitle973">And I was so scared of them.</p>
+<p begin="29972942999t" end="30010313666t" style="normal" xml:id="subtitle974">Like, if we weren't sleeping<br/>on our, like, little mats during nap time,</p>
+<p begin="30010980999t" end="30025995999t" style="normal" xml:id="subtitle975">they would hit us.</p>
+<p begin="30026663332t" end="30050019999t" style="normal" xml:id="subtitle976">And then, like, um, for lunch</p>
+<p begin="30050687332t" end="30077046999t" style="normal" xml:id="subtitle977">we would go out into the woods,<br/>'cause it's New Hampshire,</p>
+<p begin="30077714332t" end="30114083999t" style="normal" xml:id="subtitle978">and they gave us<br/>these peanut-butter-and-jelly sandwiches,</p>
+<p begin="30114751332t" end="30144781332t" style="normal" xml:id="subtitle979">and we had to eat the whole thing,<br/>or they would hit us.</p>
+<p begin="30145448666t" end="30165468666t" style="normal" xml:id="subtitle980">[audience laughing]</p>
+<p begin="30166135999t" end="30184821332t" style="normal" xml:id="subtitle981">And I loved peanut butter and jelly.</p>
+<p begin="30200503666t" end="30215852332t" style="normal" xml:id="subtitle982">But this was different.</p>
+<p begin="30216519666t" end="30232535666t" style="normal" xml:id="subtitle983">It was peanut butter and jam.</p>
+<p begin="30237206999t" end="30246215999t" style="normal" xml:id="subtitle984">And jam is...</p>
+<p begin="30255224999t" end="30276245999t" style="normal" xml:id="subtitle985">I hadn't experienced jam before.</p>
+<p begin="30276913332t" end="30301270999t" style="normal" xml:id="subtitle986">It's like... It's different.</p>
+<p begin="30307944332t" end="30336305999t" style="normal" xml:id="subtitle987">It has, like, pieces in it.</p>
+<p begin="30336973332t" end="30357994332t" style="normal" xml:id="subtitle988">[audience laughing]</p>
+<p begin="30360663666t" end="30391360999t" style="normal" xml:id="subtitle989">But we had to eat the whole thing,<br/>or they would hit us.</p>
+<p begin="30392028332t" end="30406042332t" style="normal" xml:id="subtitle990">I was so scared, I--</p>
+<p begin="30412715666t" end="30437406999t" style="normal" xml:id="subtitle991">'Cause I didn't know I could take a punch<br/>at that time.</p>
+<p begin="30447083332t" end="30465101332t" style="normal" xml:id="subtitle992">And I-- Okay, wait.</p>
+<p begin="30465768666t" end="30478114332t" style="normal" xml:id="subtitle993">Put a pin in that.</p>
+<p begin="30486455999t" end="30511480999t" style="normal" xml:id="subtitle994">Put a pin in that<br/>while I tell you something.</p>
+<p begin="30521157332t" end="30566202332t" style="normal" xml:id="subtitle995">This is human behavior,<br/>that we tell ourselves horror--</p>
+<p begin="30571874666t" end="30585221332t" style="normal" xml:id="subtitle996">Horror stories.</p>
+<p begin="30593562999t" end="30605574999t" style="normal" xml:id="subtitle997">Horror stories.</p>
+<p begin="30606242332t" end="30617586999t" style="normal" xml:id="subtitle998">Horror stories.</p>
+<p begin="30618254332t" end="30631934666t" style="normal" xml:id="subtitle999">Horror stories.</p>
+<p begin="30643946666t" end="30652621999t" style="normal" xml:id="subtitle1000">Horror.</p>
+<p begin="30657293332t" end="30674977666t" style="normal" xml:id="subtitle1001">Horror stories. We tell ourselves--</p>
+<p begin="30683652999t" end="30701003666t" style="normal" xml:id="subtitle1002">I said it too many times.</p>
+<p begin="30701670999t" end="30720689999t" style="normal" xml:id="subtitle1003">[audience laughing]</p>
+<p begin="30721357332t" end="30745047666t" style="normal" xml:id="subtitle1004">We tell ourselves horror stories.</p>
+<p begin="30745714999t" end="30771740999t" style="normal" xml:id="subtitle1005">That's just the human condition.</p>
+<p begin="30777413332t" end="30815117666t" style="normal" xml:id="subtitle1006">You know, like we go, uh,<br/>"I have to pass that crack in the road</p>
+<p begin="30815784999t" end="30844146666t" style="normal" xml:id="subtitle1007">before that car passes me, or I'll die."</p>
+<p begin="30855491332t" end="30874510332t" style="normal" xml:id="subtitle1008">That wasn't just you. That's everybody.</p>
+<p begin="30875177666t" end="30891860999t" style="normal" xml:id="subtitle1009">Everybody does that.</p>
+<p begin="30892528332t" end="30926228666t" style="normal" xml:id="subtitle1010">My therapist says<br/>it's how we deal with mortality.</p>
+<p begin="30936905999t" end="30987289666t" style="normal" xml:id="subtitle1011">Um, so, I was eating<br/>this peanut-butter-and-jam sandwich,</p>
+<p begin="30993962999t" end="31026328666t" style="normal" xml:id="subtitle1012">and I was telling myself horror stories.</p>
+<p begin="31033001999t" end="31052354666t" style="normal" xml:id="subtitle1013">And the horror story was...</p>
+<p begin="31057693332t" end="31092060999t" style="normal" xml:id="subtitle1014">this jam is the nuns' period blood.</p>
+<p begin="31096064999t" end="31116084999t" style="normal" xml:id="subtitle1015">[audience groaning and laughing]</p>
+<p begin="31158126999t" end="31187489666t" style="normal" xml:id="subtitle1016">But I had to eat it all.<br/>I was so scared of getting hit.</p>
+<p begin="31188156999t" end="31198500666t" style="normal" xml:id="subtitle1017">I ate it like this.</p>
+<p begin="31205173999t" end="31215851332t" style="normal" xml:id="subtitle1018">[retches]</p>
+<p begin="31228196999t" end="31248884332t" style="normal" xml:id="subtitle1019">And I gobbled it down.<br/>I don't know what...</p>
+<p begin="31267235999t" end="31283919332t" style="normal" xml:id="subtitle1020">put in my head that...</p>
+<p begin="31295597666t" end="31351653666t" style="normal" xml:id="subtitle1021">jam would, you know, have, like,<br/>chunky liver-like pieces in it.</p>
+<p begin="31352320999t" end="31372340999t" style="normal" xml:id="subtitle1022">[audience laughing]</p>
+<p begin="31388690666t" end="31424392999t" style="normal" xml:id="subtitle1023">Okay, I'm gonna try<br/>to tell you this story.</p>
+<p begin="31434402999t" end="31446748666t" style="normal" xml:id="subtitle1024">I almost died this summer.</p>
+<p begin="31447415999t" end="31465433999t" style="normal" xml:id="subtitle1025">I really almost died this summer.</p>
+<p begin="31466101332t" end="31483451999t" style="normal" xml:id="subtitle1026">I, um-- I was on the road.</p>
+<p begin="31489124332t" end="31504139332t" style="normal" xml:id="subtitle1027">Had a shitty sore throat.</p>
+<p begin="31504806666t" end="31518486999t" style="normal" xml:id="subtitle1028">Didn't think much about it.</p>
+<p begin="31524826666t" end="31547849666t" style="normal" xml:id="subtitle1029">Kind of turned into a cold,<br/>that kind of thing.</p>
+<p begin="31553521999t" end="31579214332t" style="normal" xml:id="subtitle1030">Uh, then I came home,<br/>and I got that same sore throat again.</p>
+<p begin="31581883666t" end="31607909666t" style="normal" xml:id="subtitle1031">So, I go, "Ehh, I'm home.<br/>I'll go to the doctor."</p>
+<p begin="31608576999t" end="31622924666t" style="normal" xml:id="subtitle1032">Which I never do.</p>
+<p begin="31623591999t" end="31635937666t" style="normal" xml:id="subtitle1033">So, I went to the doctor.</p>
+<p begin="31643945666t" end="31671639999t" style="normal" xml:id="subtitle1034">And, uh, he made me wait,<br/>like, a long time.</p>
+<p begin="31672307332t" end="31697999666t" style="normal" xml:id="subtitle1035">And I was going to go, like,<br/>"Oh, fuck this." But I stayed.</p>
+<p begin="31708009666t" end="31726694999t" style="normal" xml:id="subtitle1036">He looks down my throat, and he's like:</p>
+<p begin="31727362332t" end="31745380332t" style="normal" xml:id="subtitle1037">"We're going to the emergency room."</p>
+<p begin="31746047666t" end="31788423332t" style="normal" xml:id="subtitle1038">I had a--<br/>Like an abscess at the top of my...</p>
+<p begin="31797765999t" end="31834802999t" style="normal" xml:id="subtitle1039">windpipe, which is where<br/>your breathing comes from.</p>
+<p begin="31841809999t" end="31884519332t" style="normal" xml:id="subtitle1040">So, um, like, this abscess was either<br/>gonna grow another millimeter</p>
+<p begin="31885186666t" end="31921889999t" style="normal" xml:id="subtitle1041">and stop my breathing and I would die,</p>
+<p begin="31922557332t" end="31939240666t" style="normal" xml:id="subtitle1042">or it was gonna explode,</p>
+<p begin="31941909999t" end="31968603332t" style="normal" xml:id="subtitle1043">and it's filled with poison,<br/>and that would kill me.</p>
+<p begin="31975610332t" end="31984285666t" style="normal" xml:id="subtitle1044">Um...</p>
+<p begin="31984952999t" end="32015650332t" style="normal" xml:id="subtitle1045">Don't be scared. It's really rare.<br/>It's not going to happen to you.</p>
+<p begin="32016317666t" end="32039006999t" style="normal" xml:id="subtitle1046">-Unless it does, I guess.<br/>-[audience laughing]</p>
+<p begin="32039674332t" end="32048349666t" style="normal" xml:id="subtitle1047">But...</p>
+<p begin="32058359666t" end="32078045999t" style="normal" xml:id="subtitle1048">So, I had to go to the hospital.</p>
+<p begin="32078713332t" end="32135102999t" style="normal" xml:id="subtitle1049">And then, um, they put me under,<br/>like, a general--</p>
+<p begin="32135770332t" end="32158793332t" style="normal" xml:id="subtitle1050">Like a-- Some sort of drug</p>
+<p begin="32159460666t" end="32189490666t" style="normal" xml:id="subtitle1051">just to chill me out before surgery.</p>
+<p begin="32195496666t" end="32215182999t" style="normal" xml:id="subtitle1052">And, like, unbeknownst to me,</p>
+<p begin="32215850332t" end="32255222999t" style="normal" xml:id="subtitle1053">they're telling my, uh, friend Amy<br/>and my boyfriend, Michael,</p>
+<p begin="32255890332t" end="32282583666t" style="normal" xml:id="subtitle1054">they're like, um,<br/>"This is a very dangerous surgery.</p>
+<p begin="32283250999t" end="32304605666t" style="normal" xml:id="subtitle1055">She might not make it.</p>
+<p begin="32305272999t" end="32327962332t" style="normal" xml:id="subtitle1056">You know, it's very risky."<br/>Blah, blah, blah.</p>
+<p begin="32328629666t" end="32355656666t" style="normal" xml:id="subtitle1057">Meanwhile, I feel fine.</p>
+<p begin="32356323999t" end="32390024332t" style="normal" xml:id="subtitle1058">And I'm just like, "I'm not high enough."</p>
+<p begin="32392693666t" end="32412713666t" style="normal" xml:id="subtitle1059">I was complaining<br/>that I wasn't high enough.</p>
+<p begin="32413380999t" end="32465432999t" style="normal" xml:id="subtitle1060">And I can tell you exactly what happened<br/>because Amy had the utter distaste</p>
+<p begin="32466100332t" end="32487121332t" style="normal" xml:id="subtitle1061">to record this whole thing.</p>
+<p begin="32494128332t" end="32503137332t" style="normal" xml:id="subtitle1062">So...</p>
+<p begin="32503804666t" end="32515816666t" style="normal" xml:id="subtitle1063">[chuckles]</p>
+<p begin="32519820666t" end="32545179332t" style="normal" xml:id="subtitle1064">You just see me going like,<br/>"I'm not high enough."</p>
+<p begin="32545846666t" end="32563530999t" style="normal" xml:id="subtitle1065">And then they're like, "You're okay."</p>
+<p begin="32564198332t" end="32596230332t" style="normal" xml:id="subtitle1066">And then I proved to them<br/>that I wasn't high enough,</p>
+<p begin="32596897666t" end="32626927666t" style="normal" xml:id="subtitle1067">um, by explaining Brexit.</p>
+<p begin="32627594999t" end="32647281332t" style="normal" xml:id="subtitle1068">[audience laughing]</p>
+<p begin="32647948666t" end="32676643999t" style="normal" xml:id="subtitle1069">And it was very nuanced,<br/>and I had opinions.</p>
+<p begin="32677311332t" end="32694661999t" style="normal" xml:id="subtitle1070">It was, like, really perfect.</p>
+<p begin="32695329332t" end="32718352332t" style="normal" xml:id="subtitle1071">Like, you can hear<br/>the anesthesiologist go, like:</p>
+<p begin="32719019666t" end="32736370332t" style="normal" xml:id="subtitle1072">"Wow, she's right on."</p>
+<p begin="32744378332t" end="32753720999t" style="normal" xml:id="subtitle1073">And, um...</p>
+<p begin="32763397332t" end="32796096666t" style="normal" xml:id="subtitle1074">And then, uh, you see me,<br/>like, getting wheeled out.</p>
+<p begin="32796763999t" end="32836803999t" style="normal" xml:id="subtitle1075">And then, um, like, Michael and Amy<br/>couldn't come with me,</p>
+<p begin="32837471332t" end="32864831999t" style="normal" xml:id="subtitle1076">like, past the operating-room doors<br/>or whatever.</p>
+<p begin="32865499332t" end="32909209666t" style="normal" xml:id="subtitle1077">So, as I'm leaving, I said to Michael--<br/>Which is something we like to do,</p>
+<p begin="32909876999t" end="32934234666t" style="normal" xml:id="subtitle1078">if the elevator doors are closing<br/>or something:</p>
+<p begin="32934901999t" end="32948582332t" style="normal" xml:id="subtitle1079">"I wanna see other people."</p>
+<p begin="32949249666t" end="32957924999t" style="normal" xml:id="subtitle1080">And then...</p>
+<p begin="32958592332t" end="32978612332t" style="normal" xml:id="subtitle1081">[audience laughing]</p>
+<p begin="32986286666t" end="33029329666t" style="normal" xml:id="subtitle1082">And then the last thing you see<br/>on the video is me looking into her phone</p>
+<p begin="33029996999t" end="33060694332t" style="normal" xml:id="subtitle1083">and going like, "Play this in slow motion<br/>on my death reel."</p>
+<p begin="33063363666t" end="33070036999t" style="normal" xml:id="subtitle1084">So, um...</p>
+<p begin="33070704332t" end="33088722332t" style="normal" xml:id="subtitle1085">[audience laughing]</p>
+<p begin="33089389666t" end="33125091999t" style="normal" xml:id="subtitle1086">[chuckles] So, then I had this surgery.</p>
+<p begin="33125759332t" end="33147113999t" style="normal" xml:id="subtitle1087">And I lived. And, um...</p>
+<p begin="33155455666t" end="33184484666t" style="normal" xml:id="subtitle1088">But it was really-- It was a rough week</p>
+<p begin="33185151999t" end="33226526666t" style="normal" xml:id="subtitle1089">because I have very low blood pressure,<br/>I guess.</p>
+<p begin="33227193999t" end="33256222999t" style="normal" xml:id="subtitle1090">And so,<br/>they couldn't put me to sleep for it.</p>
+<p begin="33260894332t" end="33283249999t" style="normal" xml:id="subtitle1091">And so, I had to have--</p>
+<p begin="33283917332t" end="33320620666t" style="normal" xml:id="subtitle1092">Once the surgery was done,<br/>they put a breathing tube down my throat.</p>
+<p begin="33326960332t" end="33365331999t" style="normal" xml:id="subtitle1093">And then because it's human nature<br/>if you're awake</p>
+<p begin="33365999332t" end="33397030332t" style="normal" xml:id="subtitle1094">to pull something<br/>that's in your throat out,</p>
+<p begin="33401034332t" end="33427727666t" style="normal" xml:id="subtitle1095">they had to tie my hands down.</p>
+<p begin="33436402999t" end="33458424999t" style="normal" xml:id="subtitle1096">So, every time I would wake up,</p>
+<p begin="33459092332t" end="33487787666t" style="normal" xml:id="subtitle1097">I would go to pull this thing<br/>out of my throat.</p>
+<p begin="33488454999t" end="33516816666t" style="normal" xml:id="subtitle1098">And then I would see that my hands<br/>were tied down,</p>
+<p begin="33517483999t" end="33546512999t" style="normal" xml:id="subtitle1099">and then I just thought<br/>what anyone would think</p>
+<p begin="33547180332t" end="33578878666t" style="normal" xml:id="subtitle1100">in that situation, which is,<br/>"I've been captured by ISIS."</p>
+<p begin="33579545999t" end="33589889666t" style="normal" xml:id="subtitle1101">[audience laughing]</p>
+<p begin="33590556999t" end="33605238332t" style="normal" xml:id="subtitle1102">And it was so scary.</p>
+<p begin="33605905666t" end="33633933666t" style="normal" xml:id="subtitle1103">And then a sister would have to come<br/>to my side and be like,</p>
+<p begin="33634600999t" end="33654954666t" style="normal" xml:id="subtitle1104">"Sweetie, you're okay.<br/>You just had surgery.</p>
+<p begin="33655621999t" end="33687653999t" style="normal" xml:id="subtitle1105">They have to have your hand--"<br/>You know, and then I would understand.</p>
+<p begin="33688321332t" end="33718684999t" style="normal" xml:id="subtitle1106">And then I would fall asleep,<br/>and a minute later I would wake up</p>
+<p begin="33719352332t" end="33738371332t" style="normal" xml:id="subtitle1107">and the whole thing would happen again.</p>
+<p begin="33739038666t" end="33751050666t" style="normal" xml:id="subtitle1108">And it was really scary.</p>
+<p begin="33753719999t" end="33775074666t" style="normal" xml:id="subtitle1109">It was a nightmare. I don't remember--</p>
+<p begin="33775741999t" end="33818784999t" style="normal" xml:id="subtitle1110">Like, I was awake,<br/>but I don't remember anything.</p>
+<p begin="33819452332t" end="33844143666t" style="normal" xml:id="subtitle1111">And there were a few funny stories.</p>
+<p begin="33844810999t" end="33851484332t" style="normal" xml:id="subtitle1112">Like, um...</p>
+<p begin="33874173666t" end="33887186666t" style="normal" xml:id="subtitle1113">I would be really itchy.</p>
+<p begin="33887853999t" end="33909208666t" style="normal" xml:id="subtitle1114">The medicine that was in me was so itchy.</p>
+<p begin="33909875999t" end="33926559332t" style="normal" xml:id="subtitle1115">But my hands were tied down.</p>
+<p begin="33927226666t" end="33946912999t" style="normal" xml:id="subtitle1116">And my sisters would fight<br/>with the nurses</p>
+<p begin="33947580332t" end="33975941999t" style="normal" xml:id="subtitle1117">to just let one hand free<br/>so I could scratch.</p>
+<p begin="33976609332t" end="33989622332t" style="normal" xml:id="subtitle1118">So, they finally did.</p>
+<p begin="33996295666t" end="34011644332t" style="normal" xml:id="subtitle1119">And, uh, it was...</p>
+<p begin="34019318666t" end="34048347666t" style="normal" xml:id="subtitle1120">like, I had an itch, like,<br/>just vagina-adjacent.</p>
+<p begin="34049014999t" end="34081046999t" style="normal" xml:id="subtitle1121">And I-- It felt--<br/>It was, like, so much relief.</p>
+<p begin="34081714332t" end="34115080999t" style="normal" xml:id="subtitle1122">And then my friend John<br/>was standing in the corner.</p>
+<p begin="34115748332t" end="34139104999t" style="normal" xml:id="subtitle1123">And I guess-- I don't remember this.<br/>I was told this.</p>
+<p begin="34139772332t" end="34154453666t" style="normal" xml:id="subtitle1124">I pulled my hand out</p>
+<p begin="34155120999t" end="34176475666t" style="normal" xml:id="subtitle1125">and then I, like, served it to John.</p>
+<p begin="34177142999t" end="34196161999t" style="normal" xml:id="subtitle1126">[audience laughing]</p>
+<p begin="34196829332t" end="34221186999t" style="normal" xml:id="subtitle1127">And then, another time, like,<br/>my hands were tied down.</p>
+<p begin="34227192999t" end="34235868332t" style="normal" xml:id="subtitle1128">And, um...</p>
+<p begin="34236535666t" end="34254553666t" style="normal" xml:id="subtitle1129">[audience laughing]</p>
+<p begin="34255220999t" end="34265230999t" style="normal" xml:id="subtitle1130">That I served it?</p>
+<p begin="34277576666t" end="34296929332t" style="normal" xml:id="subtitle1131">And then, um-- He was like:</p>
+<p begin="34297596666t" end="34307606666t" style="normal" xml:id="subtitle1132">[huffing]</p>
+<p begin="34316949332t" end="34330963332t" style="normal" xml:id="subtitle1133">In my mind. I don't remember.</p>
+<p begin="34354653666t" end="34371337000t" style="normal" xml:id="subtitle1134">Oh, another time...</p>
+<p begin="34380012332t" end="34409375000t" style="normal" xml:id="subtitle1135">I was told, a nurse was in the room,</p>
+<p begin="34410042332t" end="34449748666t" style="normal" xml:id="subtitle1136">and I, somehow, like,<br/>even though I had no mouth or hands,</p>
+<p begin="34450416000t" end="34479445000t" style="normal" xml:id="subtitle1137">but I, like, made it clear to her, like,<br/>it was an emergency.</p>
+<p begin="34480112332t" end="34516482000t" style="normal" xml:id="subtitle1138">I had to tell her something.<br/>And they had given me paper and a pencil.</p>
+<p begin="34517149332t" end="34554853666t" style="normal" xml:id="subtitle1139">And I'm writing,<br/>and it's, like, so important.</p>
+<p begin="34555521000t" end="34577543000t" style="normal" xml:id="subtitle1140">And I finally finish,<br/>and then I show it to her,</p>
+<p begin="34578210332t" end="34614580000t" style="normal" xml:id="subtitle1141">and she looks, and it just says,<br/>"Do you live with your mother?"</p>
+<p begin="34615247332t" end="34628594000t" style="normal" xml:id="subtitle1142">With a picture of a dick.</p>
+<p begin="34629261332t" end="34650282332t" style="normal" xml:id="subtitle1143">[audience laughing]</p>
+<p begin="34650949666t" end="34660292332t" style="normal" xml:id="subtitle1144">And, I mean...</p>
+<p begin="34679311332t" end="34716682000t" style="normal" xml:id="subtitle1145">it's really proof that once<br/>your conscious mind is out of the way,</p>
+<p begin="34717349332t" end="34739705000t" style="normal" xml:id="subtitle1146">it's just, like, sheer comic genius.</p>
+<p begin="34768066666t" end="34792090666t" style="normal" xml:id="subtitle1147">You guys, we've reached the denouement.</p>
+<p begin="34805771000t" end="34821119666t" style="normal" xml:id="subtitle1148">[audience laughing]</p>
+<p begin="34821787000t" end="34858156666t" style="normal" xml:id="subtitle1149">Were you making a noise because<br/>you're impressed that I knew that word?</p>
+<p begin="34864830000t" end="34872170666t" style="normal" xml:id="subtitle1150">Thank you.</p>
+<p begin="34884850000t" end="34918550332t" style="normal" xml:id="subtitle1151">You've been very vocal,<br/>but in the perfect amount.</p>
+<p begin="34938570332t" end="34947913000t" style="normal" xml:id="subtitle1152">You're welcome.</p>
+<p begin="34968600332t" end="34988620332t" style="normal" xml:id="subtitle1153">[audience laughing]</p>
+<p begin="35000632332t" end="35038336666t" style="normal" xml:id="subtitle1154">Like, the next time you wanna, like,<br/>be like, "Yay," for me or something,</p>
+<p begin="35039004000t" end="35056688332t" style="normal" xml:id="subtitle1155">let's do this. You can go like this:</p>
+<p begin="35091056000t" end="35106404666t" style="normal" xml:id="subtitle1156">Okay, the denouement.</p>
+<p begin="35107072000t" end="35117415666t" style="normal" xml:id="subtitle1157">Did I say it right?</p>
+<p begin="35118083000t" end="35136768332t" style="normal" xml:id="subtitle1158">[Sarah chuckles]</p>
+<p begin="35142440666t" end="35170135000t" style="normal" xml:id="subtitle1159">Now we're gonna have to, like, pick up<br/>a shot of you going:</p>
+<p begin="35176141000t" end="35188486666t" style="normal" xml:id="subtitle1160">[audience laughing]</p>
+<p begin="35189154000t" end="35202834332t" style="normal" xml:id="subtitle1161">[laughs]</p>
+<p begin="35218516666t" end="35237202000t" style="normal" xml:id="subtitle1162">Um, yeah, because we're here.</p>
+<p begin="35250882332t" end="35271236000t" style="normal" xml:id="subtitle1163">Um... Jesus is coming back.</p>
+<p begin="35280578666t" end="35297929332t" style="normal" xml:id="subtitle1164">Oh, on my back.</p>
+<p begin="35298596666t" end="35317949332t" style="normal" xml:id="subtitle1165">-That's what it is.<br/>-[audience laughing]</p>
+<p begin="35338303000t" end="35361659666t" style="normal" xml:id="subtitle1166">It was water. He turned it to come.</p>
+<p begin="35362327000t" end="35391689666t" style="normal" xml:id="subtitle1167">-[audience laughing]<br/>-How clever is that?</p>
+<p begin="35441406000t" end="35457755666t" style="normal" xml:id="subtitle1168">I don't know if there's God.</p>
+<p begin="35462427000t" end="35482113332t" style="normal" xml:id="subtitle1169">I mean, I cannot imagine there's God.</p>
+<p begin="35482780666t" end="35502467000t" style="normal" xml:id="subtitle1170">But I don't know.</p>
+<p begin="35503134332t" end="35516481000t" style="normal" xml:id="subtitle1171">Neither do you, you know?</p>
+<p begin="35517148332t" end="35548513000t" style="normal" xml:id="subtitle1172">But if there is God,<br/>it's a God that's, like,</p>
+<p begin="35549180332t" end="35572870666t" style="normal" xml:id="subtitle1173">totally fine with murder</p>
+<p begin="35575540000t" end="35626591000t" style="normal" xml:id="subtitle1174">and, uh, children starving<br/>and... spin class.</p>
+<p begin="35627258332t" end="35657955666t" style="normal" xml:id="subtitle1175">You know, all the--<br/>All the atrocities of life.</p>
+<p begin="35669300332t" end="35678309332t" style="normal" xml:id="subtitle1176">I take--</p>
+<p begin="35678976666t" end="35691656000t" style="normal" xml:id="subtitle1177">Spin class is great,</p>
+<p begin="35692323332t" end="35730361332t" style="normal" xml:id="subtitle1178">if you love being punched in the vagina<br/>70 times a minute.</p>
+<p begin="35731028666t" end="35741706000t" style="normal" xml:id="subtitle1179">[audience chuckling]</p>
+<p begin="35742373332t" end="35771068666t" style="normal" xml:id="subtitle1180">While just an ocean--</p>
+<p begin="35771736000t" end="35786417332t" style="normal" xml:id="subtitle1181">Thank you, Steve Agee.</p>
+<p begin="35801432332t" end="35856821000t" style="normal" xml:id="subtitle1182">While just an ocean of white people<br/>are singing the N-word with such glee.</p>
+<p begin="35892857000t" end="35919884000t" style="normal" xml:id="subtitle1183">It's because they play hip-hop music<br/>in there.</p>
+<p begin="35920551332t" end="35932897000t" style="normal" xml:id="subtitle1184">Did I need to say that?</p>
+<p begin="35933564332t" end="35949246666t" style="normal" xml:id="subtitle1185">-Oh, my gosh.<br/>-[audience laughing]</p>
+<p begin="35970601332t" end="35999630332t" style="normal" xml:id="subtitle1186">Were you guys like,<br/>"Is that what they do in there?</p>
+<p begin="36000297666t" end="36020317666t" style="normal" xml:id="subtitle1187">[audience laughing]</p>
+<p begin="36031662332t" end="36048679332t" style="normal" xml:id="subtitle1188">Can I burn calories doing that?"</p>
+<p begin="36049346666t" end="36059023000t" style="normal" xml:id="subtitle1189">Yes.</p>
+<p begin="36091388666t" end="36100064000t" style="normal" xml:id="subtitle1190">I feel--</p>
+<p begin="36109740332t" end="36133764332t" style="normal" xml:id="subtitle1191">I feel like a fraud<br/>because I feel like I talk so much</p>
+<p begin="36136433666t" end="36157121000t" style="normal" xml:id="subtitle1192">about God and Jesus and all this stuff,</p>
+<p begin="36157788332t" end="36186483666t" style="normal" xml:id="subtitle1193">and... I'm embarrassed to admit this,<br/>but I'm going to admit it.</p>
+<p begin="36187151000t" end="36206837332t" style="normal" xml:id="subtitle1194">...I have not read the Bible.</p>
+<p begin="36219850332t" end="36236533666t" style="normal" xml:id="subtitle1195">I've tried. I have tried.</p>
+<p begin="36237201000t" end="36263227000t" style="normal" xml:id="subtitle1196">In my defense, it's unreadable.</p>
+<p begin="36263894332t" end="36276907332t" style="normal" xml:id="subtitle1197">[audience laughing]</p>
+<p begin="36277574666t" end="36296593666t" style="normal" xml:id="subtitle1198">It's so boring.</p>
+<p begin="36303267000t" end="36316280000t" style="normal" xml:id="subtitle1199">It's so dense.</p>
+<p begin="36316947332t" end="36341305000t" style="normal" xml:id="subtitle1200">But it's, like,<br/>not as deep as it thinks it is.</p>
+<p begin="36341972332t" end="36393023332t" style="normal" xml:id="subtitle1201">And it just reads like a super-shitty<br/><span style="normal_1">Game of Thrones</span> spec script or something.</p>
+<p begin="36434064332t" end="36459423000t" style="normal" xml:id="subtitle1202">When is that coming back, <span style="normal_1">Game of Thrones?</span></p>
+<p begin="36460090332t" end="36472769666t" style="normal" xml:id="subtitle1203">-Not until--<br/>-[woman] June.</p>
+<p begin="36473437000t" end="36489786666t" style="normal" xml:id="subtitle1204">-April?<br/>-[man] June.</p>
+<p begin="36490454000t" end="36500464000t" style="normal" xml:id="subtitle1205">-[woman] June.<br/>-June?</p>
+<p begin="36501131332t" end="36516480000t" style="normal" xml:id="subtitle1206">It just was June.</p>
+<p begin="36523153332t" end="36536833666t" style="normal" xml:id="subtitle1207">Oh, my God.</p>
+<p begin="36537501000t" end="36547844666t" style="normal" xml:id="subtitle1208">I love it so much.</p>
+<p begin="36548512000t" end="36559189332t" style="normal" xml:id="subtitle1209">It's not perfect.</p>
+<p begin="36569199332t" end="36581878666t" style="normal" xml:id="subtitle1210">It isn't perfect, though.</p>
+<p begin="36582546000t" end="36626590000t" style="normal" xml:id="subtitle1211">It's like they-- 'Cause, look,<br/>everybody wears 900 pounds of armor.</p>
+<p begin="36640270332t" end="36658955666t" style="normal" xml:id="subtitle1212">Then nothing from here to here.</p>
+<p begin="36667964666t" end="36683313332t" style="normal" xml:id="subtitle1213">They just have this area to breathe.</p>
+<p begin="36699996666t" end="36731695000t" style="normal" xml:id="subtitle1214">You know what the number one cause<br/>of death is in Game of Throne-y times?</p>
+<p begin="36732362332t" end="36748712000t" style="normal" xml:id="subtitle1215">Neck stabs.</p>
+<p begin="36757721000t" end="36773069666t" style="normal" xml:id="subtitle1216">Head-chopped-offs.</p>
+<p begin="36787083666t" end="36802432332t" style="normal" xml:id="subtitle1217">Throat slits.</p>
+<p begin="36820784000t" end="36854484332t" style="normal" xml:id="subtitle1218">I'm just saying, there's a blacksmith in<br/>the fictional past that should be fired.</p>
+<p begin="36857153666t" end="36877173666t" style="normal" xml:id="subtitle1219">[audience laughing]</p>
+<p begin="36891187666t" end="36928224666t" style="normal" xml:id="subtitle1220">The app that I do Twitter with,<br/>I can, um...</p>
+<p begin="36940236666t" end="36958588332t" style="normal" xml:id="subtitle1221">I just sounded so old saying that.</p>
+<p begin="36959255666t" end="36982946000t" style="normal" xml:id="subtitle1222">The app that I do Twitter with,</p>
+<p begin="36991955000t" end="37022318666t" style="normal" xml:id="subtitle1223">it's like I can schedule tweets.</p>
+<p begin="37022986000t" end="37053683332t" style="normal" xml:id="subtitle1224">Which I like, because sometimes<br/>I'll think of two, three tweets.</p>
+<p begin="37054350666t" end="37069365666t" style="normal" xml:id="subtitle1225">I don't wanna spoil you.</p>
+<p begin="37072702332t" end="37084047000t" style="normal" xml:id="subtitle1226">I space them out.</p>
+<p begin="37098394666t" end="37129092000t" style="normal" xml:id="subtitle1227">Many years ago now,<br/>the beginning of Twitter, practically,</p>
+<p begin="37138101000t" end="37152115000t" style="normal" xml:id="subtitle1228">I scheduled a tweet.</p>
+<p begin="37169132000t" end="37211841332t" style="normal" xml:id="subtitle1229">I scheduled it for 8:05 p.m. Pacific Time.</p>
+<p begin="37212508666t" end="37224854332t" style="normal" xml:id="subtitle1230">Why would I remember that?</p>
+<p begin="37237867332t" end="37263893332t" style="normal" xml:id="subtitle1231">Because at 8 p.m. Pacific Time...</p>
+<p begin="37274237000t" end="37300930332t" style="normal" xml:id="subtitle1232">we captured and killed Osama bin Laden.</p>
+<p begin="37320283000t" end="37338968332t" style="normal" xml:id="subtitle1233">The Twitterverse was aflame.</p>
+<p begin="37359655666t" end="37374337000t" style="normal" xml:id="subtitle1234">At 8:05...</p>
+<p begin="37375004332t" end="37398694666t" style="normal" xml:id="subtitle1235">[audience laughs]</p>
+<p begin="37399362000t" end="37413709666t" style="normal" xml:id="subtitle1236">I tweeted:</p>
+<p begin="37433062332t" end="37461757666t" style="normal" xml:id="subtitle1237">"Why do my dog's doodies come out cold?"</p>
+<p begin="37462425000t" end="37482445000t" style="normal" xml:id="subtitle1238">[audience laughing]</p>
+<p begin="37542505000t" end="37574537000t" style="normal" xml:id="subtitle1239">Let me just remind you,<br/>I scheduled that tweet.</p>
+<p begin="37575204332t" end="37592555000t" style="normal" xml:id="subtitle1240">That's how good I thought it was.</p>
+<p begin="37617913666t" end="37643939666t" style="normal" xml:id="subtitle1241">And I feel a little bit like Peter Sellers<br/>in <span style="normal_1">Being There.</span></p>
+<p begin="37644607000t" end="37690653000t" style="normal" xml:id="subtitle1242">Like, people put more depth on me<br/>than I have at all.</p>
+<p begin="37691320332t" end="37721016666t" style="normal" xml:id="subtitle1243">I bet there were people<br/>that saw that tweet and were like:</p>
+<p begin="37721684000t" end="37751714000t" style="normal" xml:id="subtitle1244">"You know what? That was cold.<br/>But it is our duty."</p>
+<p begin="37752381332t" end="37772401332t" style="normal" xml:id="subtitle1245">[audience laughing]</p>
+<p begin="37844473332t" end="37863492332t" style="normal" xml:id="subtitle1246">Okay, this is how I'm gonna end.</p>
+<p begin="37892521332t" end="37918881000t" style="normal" xml:id="subtitle1247">I'm guessing this is<br/>a pretty godless crowd.</p>
+<p begin="37919548332t" end="37963258666t" style="normal" xml:id="subtitle1248">Um, I like to-- I've been on the road,<br/>and I like to end by asking if there's a--</p>
+<p begin="37963926000t" end="37985280666t" style="normal" xml:id="subtitle1249">Now I feel like a bully<br/>because it's so godless.</p>
+<p begin="37987950000t" end="38010973000t" style="normal" xml:id="subtitle1250">Usually when I'm in the rest<br/>of the country,</p>
+<p begin="38011640332t" end="38028991000t" style="normal" xml:id="subtitle1251">I'm the only godless one,</p>
+<p begin="38029658332t" end="38048010000t" style="normal" xml:id="subtitle1252">and then I don't feel like an asshole.</p>
+<p begin="38054683332t" end="38088717332t" style="normal" xml:id="subtitle1253">But are there any guys here<br/>that believe in God?</p>
+<p begin="38089384666t" end="38123752332t" style="normal" xml:id="subtitle1254">Not like, "I believe there's something."<br/>I mean, like, an organized religion.</p>
+<p begin="38124419666t" end="38160122000t" style="normal" xml:id="subtitle1255">Like Christian, Muslim, Jewish,<br/>bah, bah, bah...</p>
+<p begin="38165794332t" end="38199494666t" style="normal" xml:id="subtitle1256">You've got, like, five seconds<br/>to raise your hand, if you're close.</p>
+<p begin="38208170000t" end="38219848332t" style="normal" xml:id="subtitle1257">Yeah, I didn't think so.</p>
+<p begin="38220515666t" end="38229191000t" style="normal" xml:id="subtitle1258">Really?</p>
+<p begin="38233862332t" end="38268897332t" style="normal" xml:id="subtitle1259">Can you come up closer to me<br/>so that I'm in the light?</p>
+<p begin="38272901332t" end="38291920332t" style="normal" xml:id="subtitle1260">But just come up to the stage.</p>
+<p begin="38295924332t" end="38309604666t" style="normal" xml:id="subtitle1261">What's your religion?</p>
+<p begin="38310272000t" end="38333962332t" style="normal" xml:id="subtitle1262">[man] Uh... I would say I'm Christian.</p>
+<p begin="38353982332t" end="38379341000t" style="normal" xml:id="subtitle1263">-You would say you're Christian?<br/>-[audience laughing]</p>
+<p begin="38380008332t" end="38404699666t" style="normal" xml:id="subtitle1264">[man] There's, like,<br/>a lot of different words we could use.</p>
+<p begin="38405367000t" end="38415377000t" style="normal" xml:id="subtitle1265">I'm Protestant.</p>
+<p begin="38416044332t" end="38440735666t" style="normal" xml:id="subtitle1266">I would probably classify myself<br/>as Lutheran.</p>
+<p begin="38450745666t" end="38460088332t" style="normal" xml:id="subtitle1267">All right.</p>
+<p begin="38460755666t" end="38469764666t" style="normal" xml:id="subtitle1268">Okay.</p>
+<p begin="38481776666t" end="38496124332t" style="normal" xml:id="subtitle1269">What is your name, sir?</p>
+<p begin="38498793666t" end="38513808666t" style="normal" xml:id="subtitle1270">-Troy.<br/>-Hi, Troy.</p>
+<p begin="38514476000t" end="38531159332t" style="normal" xml:id="subtitle1271">-[Troy] Hi.<br/>-Thank you for doing this.</p>
+<p begin="38531826666t" end="38543505000t" style="normal" xml:id="subtitle1272">This is very brave.</p>
+<p begin="38550178332t" end="38568863666t" style="normal" xml:id="subtitle1273">We're in Los Angeles. It's very godless.</p>
+<p begin="38569531000t" end="38589551000t" style="normal" xml:id="subtitle1274">I draw the godless out.</p>
+<p begin="38590218332t" end="38619914666t" style="normal" xml:id="subtitle1275">So, I don't want you to feel bullied<br/>or something.</p>
+<p begin="38620582000t" end="38648943666t" style="normal" xml:id="subtitle1276">[Troy] It's okay.<br/>I raised my hand voluntarily.</p>
+<p begin="38649611000t" end="38665293332t" style="normal" xml:id="subtitle1277">What did you say your name was? Troy?</p>
+<p begin="38665960666t" end="38689317332t" style="normal" xml:id="subtitle1278">-Troy.<br/>-Oh, okay. That's fun.</p>
+<p begin="38689984666t" end="38699327332t" style="normal" xml:id="subtitle1279">All right, Troy.</p>
+<p begin="38704332332t" end="38722016666t" style="normal" xml:id="subtitle1280">I'm dying to ask this question.</p>
+<p begin="38722684000t" end="38745373332t" style="normal" xml:id="subtitle1281">I'm so excited there's a God person here.</p>
+<p begin="38752046666t" end="38769397332t" style="normal" xml:id="subtitle1282">All right, you're a Christian.</p>
+<p begin="38770064666t" end="38782744000t" style="normal" xml:id="subtitle1283">-[Troy] Right.<br/>-Protestant area.</p>
+<p begin="38803097666t" end="38815443332t" style="normal" xml:id="subtitle1284">This is a question...</p>
+<p begin="38835463332t" end="38869831000t" style="normal" xml:id="subtitle1285">that I think should be<br/>one of the big questions, even.</p>
+<p begin="38870498332t" end="38881509332t" style="normal" xml:id="subtitle1286">Okay.</p>
+<p begin="38882176666t" end="38891853000t" style="normal" xml:id="subtitle1287">Yes or no...</p>
+<p begin="38903865000t" end="38933895000t" style="normal" xml:id="subtitle1288">would you let God come in your mouth?</p>
+<p begin="38934562332t" end="38954582332t" style="normal" xml:id="subtitle1289">[audience laughing, then clapping]</p>
+<p begin="39002296666t" end="39018980000t" style="normal" xml:id="subtitle1290">-[Troy] No, no.<br/>-No?</p>
+<p begin="39019647332t" end="39033995000t" style="normal" xml:id="subtitle1291">-[Troy] No.<br/>-Okay, go back to your seat.</p>
+<p begin="39034662332t" end="39050011000t" style="normal" xml:id="subtitle1292">-Oh, my God, no.<br/>-[audience laughing]</p>
+<p begin="39050678332t" end="39061022000t" style="normal" xml:id="subtitle1293">Thank you very much.</p>
+<p begin="39061689332t" end="39071365666t" style="normal" xml:id="subtitle1294">Thank you, Troy.</p>
+<p begin="39074702332t" end="39095056000t" style="normal" xml:id="subtitle1295">No. That's mind-blowing to me.</p>
+<p begin="39095723332t" end="39115076000t" style="normal" xml:id="subtitle1296">And yet not unique.</p>
+<p begin="39125086000t" end="39145106000t" style="normal" xml:id="subtitle1297">Not a unique answer, I'll tell you that.</p>
+<p begin="39145773332t" end="39180474666t" style="normal" xml:id="subtitle1298">I would say the answer has to be yes.</p>
+<p begin="39185146000t" end="39222183000t" style="normal" xml:id="subtitle1299">Um, but I will tell you<br/>that as I've been touring the country,</p>
+<p begin="39222850332t" end="39260554666t" style="normal" xml:id="subtitle1300">80 percent, at least,<br/>of men say no, like Troy.</p>
+<p begin="39261222000t" end="39292920332t" style="normal" xml:id="subtitle1301">So, congratulations on not being unique.</p>
+<p begin="39293587666t" end="39326954332t" style="normal" xml:id="subtitle1302">-And yet being wrong, in my opinion.<br/>-[audience laughing]</p>
+<p begin="39329623666t" end="39359653666t" style="normal" xml:id="subtitle1303">That is, uh, so petty, I think.</p>
+<p begin="39360321000t" end="39399360000t" style="normal" xml:id="subtitle1304">You know, it's like, up until now,<br/>Troy, you're saying, "God...</p>
+<p begin="39407034332t" end="39439733666t" style="normal" xml:id="subtitle1305">I know that there's AIDS and rape</p>
+<p begin="39440401000t" end="39465426000t" style="normal" xml:id="subtitle1306">and famine and genocide and murder.</p>
+<p begin="39466093332t" end="39502129332t" style="normal" xml:id="subtitle1307">But I know you have a plan,<br/>and I am your servant.</p>
+<p begin="39502796666t" end="39515142332t" style="normal" xml:id="subtitle1308">Unless you're serving come.</p>
+<p begin="39515809666t" end="39525152332t" style="normal" xml:id="subtitle1309">Then I'm out."</p>
+<p begin="39525819666t" end="39545839666t" style="normal" xml:id="subtitle1310">[audience laughing]</p>
+<p begin="39569530000t" end="39580874666t" style="normal" xml:id="subtitle1311">That's so petty.</p>
+<p begin="39611572000t" end="39654948666t" style="normal" xml:id="subtitle1312">God told Abraham to kill his son.</p>
+<p begin="39662956666t" end="39681308332t" style="normal" xml:id="subtitle1313">And you know what Abraham said?</p>
+<p begin="39681975666t" end="39700994666t" style="normal" xml:id="subtitle1314">"No problem. Chip!</p>
+<p begin="39707000666t" end="39719680000t" style="normal" xml:id="subtitle1315">Get down here!"</p>
+<p begin="39752379332t" end="39791084666t" style="normal" xml:id="subtitle1316">I know, I didn't read the Bible, but<br/>everybody knows Abraham's son was Chip.</p>
+<p begin="39791752000t" end="39813106666t" style="normal" xml:id="subtitle1317">[audience laughing]</p>
+<p begin="39813774000t" end="39847140666t" style="normal" xml:id="subtitle1318">And Abraham was gonna murder his son.</p>
+<p begin="39849810000t" end="39880841000t" style="normal" xml:id="subtitle1319">And then right before he did,<br/>God was like, "I'm kidding.</p>
+<p begin="39886179666t" end="39897524332t" style="normal" xml:id="subtitle1320">Can I come in your mouth?"</p>
+<p begin="39900193666t" end="39912539332t" style="normal" xml:id="subtitle1321">[audience laughing]</p>
+<p begin="39913206666t" end="39923550332t" style="normal" xml:id="subtitle1322">[chuckles]</p>
+<p begin="39967260666t" end="40004965000t" style="normal" xml:id="subtitle1323">Abraham's like,<br/>"Is that a test of my faith?"</p>
+<p begin="40017310666t" end="40043336666t" style="normal" xml:id="subtitle1324">God's like, "Sure. Yes."</p>
+<p begin="40044004000t" end="40064024000t" style="normal" xml:id="subtitle1325">[audience laughing]</p>
+<p begin="40082709332t" end="40113406666t" style="normal" xml:id="subtitle1326">And then God came in Abraham--</p>
+<p begin="40114074000t" end="40156449666t" style="normal" xml:id="subtitle1327">This is turning into fan fiction.<br/>But God came in Abraham's mouth.</p>
+<p begin="40181141000t" end="40191484666t" style="normal" xml:id="subtitle1328">And Abraham's like:</p>
+<p begin="40201828332t" end="40251544666t" style="normal" xml:id="subtitle1329">"Wow, I really thought that<br/>you were gonna stop at the last second</p>
+<p begin="40252212000t" end="40287914332t" style="normal" xml:id="subtitle1330">like you did with the killing my--"<br/>Or I guess he'd be like,</p>
+<p begin="40290583666t" end="40317610666t" style="normal" xml:id="subtitle1331">[in muffled voice]<br/>"Like you did with the killing my son."</p>
+<p begin="40320280000t" end="40340300000t" style="normal" xml:id="subtitle1332">[audience laughing]</p>
+<p begin="40365992332t" end="40392685666t" style="normal" xml:id="subtitle1333">God's like, "I work in mysterious ways."</p>
+<p begin="40405031332t" end="40417710666t" style="normal" xml:id="subtitle1334">Thank you guys so much.</p>
+<p begin="40420380000t" end="40440400000t" style="normal" xml:id="subtitle1335">[audience cheering and applauding]</p>
+<p begin="40492452000t" end="40512472000t" style="normal" xml:id="subtitle1336">[upbeat music playing]</p>
+<p begin="40573199332t" end="40594220332t" style="normal" xml:id="subtitle1337">-[woman] Okay.<br/>-[Sarah] I'm sharp as a tack.</p>
+<p begin="40603229332t" end="40626252332t" style="normal" xml:id="subtitle1338">-[man] There you go.<br/>-[Sarah] But they did just put something</p>
+<p begin="40626919666t" end="40662288332t" style="normal" xml:id="subtitle1339">in intravenously.<br/>And it-- And it feels like maybe...</p>
+<p begin="40671631000t" end="40681974666t" style="normal" xml:id="subtitle1340">I'm getting high.</p>
+<p begin="40707333332t" end="40721013666t" style="normal" xml:id="subtitle1341">Am I getting high?</p>
+<p begin="40748040666t" end="40763389332t" style="normal" xml:id="subtitle1342">It feels like...</p>
+<p begin="40778070666t" end="40795755000t" style="normal" xml:id="subtitle1343">It's not that big a deal, actually.</p>
+<p begin="40796422332t" end="40813773000t" style="normal" xml:id="subtitle1344">It's not very intense.</p>
+<p begin="40827453332t" end="40845471332t" style="normal" xml:id="subtitle1345">I feel like I could give a--</p>
+<p begin="40846138666t" end="40871163666t" style="normal" xml:id="subtitle1346">I could argue a political side.</p>
+<p begin="40881173666t" end="40915875000t" style="normal" xml:id="subtitle1347">[Michael] Mm-hm. So, tell me--<br/>Talk me through Brexit.</p>
+<p begin="40916542332t" end="40962588332t" style="normal" xml:id="subtitle1348">[Sarah] Brexit is like, you know,<br/>the same people that, uh...</p>
+<p begin="40973933000t" end="41011303666t" style="normal" xml:id="subtitle1349">name their kids... Bentley</p>
+<p begin="41011971000t" end="41033325666t" style="normal" xml:id="subtitle1350">'cause they think that's classy.</p>
+<p begin="41033993000t" end="41058350666t" style="normal" xml:id="subtitle1351">They are the people voting for Brexit.</p>
+<p begin="41072364666t" end="41113405666t" style="normal" xml:id="subtitle1352">Completely unknowing, innocent.</p>
+<p begin="41114073000t" end="41142768332t" style="normal" xml:id="subtitle1353">Uh...<br/>Thinking it's in their best interest.</p>
+<p begin="41143435666t" end="41167459666t" style="normal" xml:id="subtitle1354">They're voting<br/>completely against their best interest.</p>
+<p begin="41168127000t" end="41233192000t" style="normal" xml:id="subtitle1355">These things that the EU provide<br/>their lives to make them livable.</p>
+<p begin="41243535666t" end="41261887332t" style="normal" xml:id="subtitle1356">Uh, they've just ousted that.</p>
+<p begin="41265557666t" end="41306598666t" style="normal" xml:id="subtitle1357">And they're counting on the NHS,<br/>and that was a big sham promise.</p>
+<p begin="41313605666t" end="41322614666t" style="normal" xml:id="subtitle1358">[Michael] Mm-hm.</p>
+<p begin="41334293000t" end="41344303000t" style="normal" xml:id="subtitle1359">[Sarah] Uh...</p>
+<p begin="41355313998t" end="41364323000t" style="normal" xml:id="subtitle1360">You know.</p>
+<p begin="41372664666t" end="41403695666t" region="top" style="normal" xml:id="subtitle1361">So, what are you gonna do?<br/>There are a lot of Bentleys in the world.</p>
+<p begin="41404363000t" end="41434059332t" region="top" style="normal" xml:id="subtitle1362">A lot of Mercedes and Porsches.</p>
+<p begin="41447072332t" end="41465090332t" region="top" style="normal" xml:id="subtitle1363">And they're gonna be strippers.</p>
+<p begin="41465757666t" end="41497456000t" region="top" style="normal" xml:id="subtitle1364">But some of them might be<br/>Supreme Court justices.</p>
+<p begin="41498123332t" end="41508800666t" style="normal" xml:id="subtitle1365">[Michael] Mm-hm.</p>
+<p begin="41517142332t" end="41532824666t" style="normal" xml:id="subtitle1366">[Sarah] And I have hope.</p>
+<p begin="41533492000t" end="41552177332t" style="normal" xml:id="subtitle1367">And I believe in people.</p>
+<p begin="41552844666t" end="41573198332t" style="normal" xml:id="subtitle1368">We're all just listening to the same--</p>
+<p begin="41577869666t" end="41596888666t" style="normal" xml:id="subtitle1369">To different sets of lies.</p>
+<p begin="41613238332t" end="41624583000t" style="normal" xml:id="subtitle1370">[Michael] Maybe you should...</p>
+<p begin="41625250332t" end="41655947666t" style="normal" xml:id="subtitle1371">-[man] And she's still making sense, too.<br/>-[Michael] Maybe you should give her more.</p>
+<p begin="41656615000t" end="41672297332t" style="normal" xml:id="subtitle1372">[Sarah] I am. I don't feel very high.</p>
+<p begin="41672964666t" end="41687646000t" style="normal" xml:id="subtitle1373">[man] No, that's right.</p>
+<p begin="41688313332t" end="41707666000t" style="normal" xml:id="subtitle1374">No, no. That's good. You're perfect.</p>
+<p begin="41708333332t" end="41745036666t" style="normal" xml:id="subtitle1375">[Sarah] You know...<br/>just if people were spoken to...</p>
+<p begin="41745703998t" end="41763722000t" style="normal" xml:id="subtitle1376">[Michael] This is what she's like<br/>every day.</p>
+<p begin="41764389332t" end="41781740000t" style="normal" xml:id="subtitle1377">[Sarah] ...by people<br/>who don't have agendas</p>
+<p begin="41782407332t" end="41803094666t" style="normal" xml:id="subtitle1378">and can just honestly<br/>make an earnest decision</p>
+<p begin="41803762000t" end="41839130666t" style="normal" xml:id="subtitle1379">based on what they think is best<br/>for themselves and the country,</p>
+<p begin="41841800000t" end="41866825000t" style="normal" xml:id="subtitle1380">we would have wild success all around.</p>
+<p begin="41867492332t" end="41882841000t" style="normal" xml:id="subtitle1381">-[man] I know, right?<br/>-[woman laughs]</p>
+<p begin="41892183666t" end="41933558332t" style="normal" xml:id="subtitle1382">[Sarah] But we don't have that,<br/>unfortunately.</p>
+<p begin="41945903998t" end="41963254666t" style="normal" xml:id="subtitle1383">I'm not high yet at all.</p>
+<p begin="41963922000t" end="41979270666t" style="normal" xml:id="subtitle1384">This stuff is shit.</p>
+<p begin="42029654332t" end="42038663332t" style="normal" xml:id="subtitle1385">Well...</p>
+<p begin="42047338666t" end="42072030000t" style="normal" xml:id="subtitle1386">They're gonna roll me into the ER</p>
+<p begin="42072697332t" end="42102060000t" style="normal" xml:id="subtitle1387">and put me to sleep for a few days<br/>with a breathing tube.</p>
+<p begin="42134425666t" end="42149107000t" style="normal" xml:id="subtitle1388">Some kind of new diet.</p>
+<p begin="42149774332t" end="42174132000t" style="normal" xml:id="subtitle1389">[man] Is that what you were expecting<br/>when you woke up?</p>
+<p begin="42174799332t" end="42189480666t" style="normal" xml:id="subtitle1390">[Sarah] That wasn't what<br/>I was expecting.</p>
+<p begin="42205830332t" end="42239197000t" style="normal" xml:id="subtitle1391">-[man] Okay.<br/>-[Sarah] Bye. I love you both so much.</p>
+<p begin="42239864332t" end="42257882332t" style="normal" xml:id="subtitle1392">-[woman] I love you.<br/>-[Michael] See you soon.</p>
+<p begin="42263221000t" end="42275233000t" style="normal" xml:id="subtitle1393">See you on the flip side.</p>
+<p begin="42275900332t" end="42292917332t" style="normal" xml:id="subtitle1394">[Sarah] Michael,<br/>I wanna see other people.</p>
+<p begin="42293584666t" end="42313604666t" style="normal" xml:id="subtitle1395">[Michael laughing]</p>
+<p begin="42317608666t" end="42329620666t" style="normal" xml:id="subtitle1396">[Michael] Damn you.</p>
+<p begin="42389680666t" end="42403361000t" style="normal" xml:id="subtitle1397">[woman] Okay, we love you.</p>
+<p begin="42404028332t" end="42417708666t" style="normal" xml:id="subtitle1398">[Michael] Love you. Bye-bye.</p>
+<p begin="42428386000t" end="42460084332t" style="normal" xml:id="subtitle1399">[Sarah] Play that last bit<br/>in slow motion on my death reel.</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,1287 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:fontStyle="italic" xml:id="style_0"/>
+</styling>
+<layout>
+<region tts:displayAlign="before" tts:extent="90.00% 40.00%" tts:origin="5.00% 5.00%" tts:textAlign="center" xml:id="rgn00000"/>
+<region tts:displayAlign="after" tts:extent="90.00% 40.00%" tts:origin="5.00% 55.00%" tts:textAlign="center" xml:id="rgn00001"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="29333333t" end="53000000t" region="rgn00000" xml:id="subtitle0">-[chattering]<br/>-[man] Whoo!</p>
+<p begin="53666666t" end="72333333t" region="rgn00001" xml:id="subtitle1">[chattering]</p>
+<p begin="97333333t" end="140000000t" region="rgn00001" xml:id="subtitle2">[woman] <span style="style_0">♪ Kathleen ♪</span></p>
+<p begin="140666666t" end="176000000t" region="rgn00000" xml:id="subtitle3"><span style="style_0">♪ Madigan ♪</span></p>
+<p begin="184000000t" end="223666666t" region="rgn00000" xml:id="subtitle4"><span style="style_0">♪ Kathleen ♪</span></p>
+<p begin="224333333t" end="251000000t" region="rgn00000" xml:id="subtitle5"><span style="style_0">♪ Madigan ♪</span></p>
+<p begin="251666666t" end="297000000t" region="rgn00000" xml:id="subtitle6"><span style="style_0">-♪ She’s coming on the stage now ♪</span><br/>-[audience laughs]</p>
+<p begin="297666666t" end="337666666t" region="rgn00000" xml:id="subtitle7"><span style="style_0">♪ She’s gonna be here shortly ♪</span></p>
+<p begin="338333333t" end="381666666t" region="rgn00000" xml:id="subtitle8"><span style="style_0">♪ She even put some pants on ♪</span></p>
+<p begin="382333333t" end="427333333t" region="rgn00000" xml:id="subtitle9"><span style="style_0">♪ At least I think she might have ♪</span></p>
+<p begin="428000000t" end="471333333t" region="rgn00000" xml:id="subtitle10"><span style="style_0">♪ ’Cause she’s professional ♪</span></p>
+<p begin="488333333t" end="574000000t" region="rgn00000" xml:id="subtitle11"><span style="style_0">♪ Kathleen ♪</span></p>
+<p begin="574666666t" end="656333333t" region="rgn00000" xml:id="subtitle12"><span style="style_0">♪ Madigan ♪</span></p>
+<p begin="657000000t" end="673666666t" region="rgn00001" xml:id="subtitle13">[male announcer] <span style="style_0">She is wearing pants.</span></p>
+<p begin="674333333t" end="692666666t" region="rgn00001" xml:id="subtitle14"><span style="style_0">She is a professional.</span></p>
+<p begin="693333333t" end="738666666t" region="rgn00001" xml:id="subtitle15"><span style="style_0">Ladies and gentlemen,</span><br/><span style="style_0">welcome to the stage Kathleen Madigan.</span></p>
+<p begin="739333333t" end="760333333t" region="rgn00001" xml:id="subtitle16">[cheering]</p>
+<p begin="846333333t" end="872666666t" region="rgn00001" xml:id="subtitle17">Thank you. Thank you so much.</p>
+<p begin="873333333t" end="896000000t" region="rgn00001" xml:id="subtitle18">Thank you. Wow.</p>
+<p begin="896666666t" end="910000000t" region="rgn00001" xml:id="subtitle19">And--</p>
+<p begin="910666666t" end="957333333t" region="rgn00001" xml:id="subtitle20">Another hand for the most overqualified<br/>opening act, Mr. Lewis Black.</p>
+<p begin="958000000t" end="989333333t" region="rgn00001" xml:id="subtitle21">[cheering]</p>
+<p begin="990000000t" end="1018666666t" region="rgn00001" xml:id="subtitle22">And another hand for Jann Arden,</p>
+<p begin="1019333333t" end="1044000000t" region="rgn00001" xml:id="subtitle23">who couldn’t be here to sing that<br/>in real life</p>
+<p begin="1044666666t" end="1079333333t" region="rgn00001" xml:id="subtitle24">but was nice enough to send that to me<br/>in the computer.</p>
+<p begin="1080000000t" end="1121333333t" region="rgn00001" xml:id="subtitle25">And a big hand for you people<br/>that are borderline alcoholics.</p>
+<p begin="1122000000t" end="1139333333t" region="rgn00001" xml:id="subtitle26">-You’ve made it out tonight.<br/>-[cheering]</p>
+<p begin="1140000000t" end="1153000000t" region="rgn00001" xml:id="subtitle27">-You’ve--<br/>-[cheering continues]</p>
+<p begin="1182666666t" end="1209333333t" region="rgn00001" xml:id="subtitle28">I do feel a kinship. This is a beer town.</p>
+<p begin="1210666666t" end="1239333333t" region="rgn00001" xml:id="subtitle29">I’m from a beer town.<br/>I’m actually from St. Louis, Missouri.</p>
+<p begin="1240000000t" end="1271333333t" region="rgn00001" xml:id="subtitle30">-[cheering]<br/>-Thank you. You like that.</p>
+<p begin="1272000000t" end="1339666666t" region="rgn00001" xml:id="subtitle31">Specifically, I’m from very near Ferguson.<br/>Maybe you saw our travel brochure.</p>
+<p begin="1355000000t" end="1376000000t" region="rgn00001" xml:id="subtitle32">People are like,<br/>“Really? Are you really from there?”</p>
+<p begin="1376666666t" end="1388666666t" region="rgn00001" xml:id="subtitle33">Yeah, I am.</p>
+<p begin="1389333333t" end="1410666666t" region="rgn00001" xml:id="subtitle34">They’re like, “Can you believe<br/>all that happened?”</p>
+<p begin="1411333333t" end="1429333333t" region="rgn00001" xml:id="subtitle35">Yeah, I can.</p>
+<p begin="1430000000t" end="1464333333t" region="rgn00001" xml:id="subtitle36">I can’t believe we kept a lid on that shit<br/>for 25 years.</p>
+<p begin="1471666666t" end="1493666666t" region="rgn00001" xml:id="subtitle37">Every day I felt the tension. Every day.</p>
+<p begin="1494333333t" end="1516666666t" region="rgn00001" xml:id="subtitle38">Even In high school,<br/>I came home and I said,</p>
+<p begin="1517333333t" end="1545333333t" region="rgn00001" xml:id="subtitle39">“I don’t really know<br/>if our school’s that safe anymore, Dad.</p>
+<p begin="1546000000t" end="1576666666t" region="rgn00001" xml:id="subtitle40">A girl got stabbed to death<br/>in the third-floor bathroom.”</p>
+<p begin="1577333333t" end="1594000000t" region="rgn00001" xml:id="subtitle41">He didn’t stop doing the crossword puzzle.</p>
+<p begin="1594666666t" end="1633666666t" region="rgn00001" xml:id="subtitle42">He goes, “Well, don’t use that bathroom.<br/>What are you, a goddamn idiot, Kathleen?</p>
+<p begin="1634333333t" end="1657333333t" region="rgn00001" xml:id="subtitle43">Jesus Christ. Use your mind.”</p>
+<p begin="1715333333t" end="1739000000t" region="rgn00001" xml:id="subtitle44">It’s not a very exciting state, Missouri.</p>
+<p begin="1739666666t" end="1765000000t" region="rgn00001" xml:id="subtitle45">It’s really just in the middle--</p>
+<p begin="1765666666t" end="1787333333t" region="rgn00001" xml:id="subtitle46">Clearly, though, to Southerners it’s not.</p>
+<p begin="1788000000t" end="1804000000t" region="rgn00001" xml:id="subtitle47">I was in Birmingham, Alabama.</p>
+<p begin="1804666666t" end="1830333333t" region="rgn00001" xml:id="subtitle48">I get done with the show,<br/>and this guy at the bar goes,</p>
+<p begin="1831000000t" end="1857666666t" region="rgn00001" xml:id="subtitle49">“Ma’am, I could tell by the way you talk<br/>you’re a Yankee.”</p>
+<p begin="1858333333t" end="1879000000t" region="rgn00001" xml:id="subtitle50">I’m like, “Sir, I’m from Missouri.</p>
+<p begin="1879666666t" end="1903666666t" region="rgn00001" xml:id="subtitle51">And let me tell you<br/>this little piece of history.</p>
+<p begin="1904333333t" end="1927333333t" region="rgn00001" xml:id="subtitle52">I don’t even know if we were in the war.</p>
+<p begin="1928000000t" end="1985666666t" region="rgn00001" xml:id="subtitle53">I think we were half and half<br/>and just beat the crap out of one another.</p>
+<p begin="1986333333t" end="2017000000t" region="rgn00001" xml:id="subtitle54">We never even left our own property, sir.”</p>
+<p begin="2017666666t" end="2039666666t" region="rgn00001" xml:id="subtitle55">“Fight Local.”<br/>That was our bumper sticker.</p>
+<p begin="2040333333t" end="2058000000t" region="rgn00001" xml:id="subtitle56">“Fight Local.”</p>
+<p begin="2065333333t" end="2085666666t" region="rgn00001" xml:id="subtitle57">’Cause we couldn’t decide.</p>
+<p begin="2095000000t" end="2125000000t" region="rgn00001" xml:id="subtitle58">We were half Confederate and half Union.<br/>We still can’t decide.</p>
+<p begin="2125666666t" end="2156666666t" region="rgn00001" xml:id="subtitle59">CNN had a map<br/>of the Syrian refugee crisis,</p>
+<p begin="2157333333t" end="2187333333t" region="rgn00001" xml:id="subtitle60">a map of the United States,<br/>and who would take them and who wouldn’t.</p>
+<p begin="2188000000t" end="2210666666t" region="rgn00001" xml:id="subtitle61">The South, yellow. No.</p>
+<p begin="2211333333t" end="2239000000t" region="rgn00001" xml:id="subtitle62">The Northeast said yes,<br/>we’ll take ’em. Blue.</p>
+<p begin="2239666666t" end="2279333333t" region="rgn00001" xml:id="subtitle63">For no reason explained till the very end<br/>of the show, Missouri was purple.</p>
+<p begin="2289000000t" end="2303333333t" region="rgn00001" xml:id="subtitle64">The only state.</p>
+<p begin="2304000000t" end="2334000000t" region="rgn00001" xml:id="subtitle65">And then at the end, they go,<br/>“Oh, the purple signifies no decision.</p>
+<p begin="2334666666t" end="2355666666t" region="rgn00001" xml:id="subtitle66">They can’t make up their minds.”</p>
+<p begin="2368000000t" end="2393666666t" region="rgn00001" xml:id="subtitle67">Of course we can’t make up our minds.</p>
+<p begin="2394333333t" end="2415000000t" region="rgn00001" xml:id="subtitle68">I don’t really consider, um--</p>
+<p begin="2415666666t" end="2437333333t" region="rgn00001" xml:id="subtitle69">I don’t know what I consider.<br/>I don’t know if it’s north or south.</p>
+<p begin="2438000000t" end="2461333333t" region="rgn00001" xml:id="subtitle70">But I know sometimes<br/>when I’m in the South,</p>
+<p begin="2462000000t" end="2496666666t" region="rgn00001" xml:id="subtitle71">I see things on bumper stickers,<br/>I read things in their newspaper</p>
+<p begin="2497333333t" end="2511333333t" region="rgn00001" xml:id="subtitle72">where I think to myself,</p>
+<p begin="2512000000t" end="2561666666t" region="rgn00001" xml:id="subtitle73">seriously, I think we may need<br/>to have this Civil War again.</p>
+<p begin="2562333333t" end="2589666666t" region="rgn00001" xml:id="subtitle74">I’m not sure they got it.</p>
+<p begin="2590333333t" end="2622666666t" region="rgn00001" xml:id="subtitle75">I feel like it’s beating up<br/>a drunk in an alley</p>
+<p begin="2623333333t" end="2648333333t" region="rgn00001" xml:id="subtitle76">and then wake up and be like,<br/>“That was bullshit.</p>
+<p begin="2649000000t" end="2669666666t" region="rgn00001" xml:id="subtitle77">I wasn’t ready. Come back.”</p>
+<p begin="2670333333t" end="2700000000t" region="rgn00001" xml:id="subtitle78">No. No, drunky. We’re not coming back.</p>
+<p begin="2700666666t" end="2732666666t" region="rgn00001" xml:id="subtitle79">I was in Louisiana,<br/>and you can google this.</p>
+<p begin="2733333333t" end="2764333333t" region="rgn00001" xml:id="subtitle80">’Cause I couldn’t believe this was true.<br/>It is true.</p>
+<p begin="2765000000t" end="2809000000t" region="rgn00001" xml:id="subtitle81">They are teaching children in schools<br/>in Louisiana that will accept vouchers.</p>
+<p begin="2809666666t" end="2821333333t" region="rgn00001" xml:id="subtitle82">So that’s tax money.</p>
+<p begin="2822000000t" end="2841666666t" region="rgn00001" xml:id="subtitle83">They’re private schools,<br/>but they accept vouchers.</p>
+<p begin="2842333333t" end="2866333333t" region="rgn00001" xml:id="subtitle84">This is in science class.</p>
+<p begin="2867000000t" end="2897000000t" region="rgn00001" xml:id="subtitle85">Now, put on your science hat<br/>and try to follow this syllogism.</p>
+<p begin="2897666666t" end="2937000000t" region="rgn00001" xml:id="subtitle86">They’re teaching the kids<br/>that the Loch Ness Monster is real.</p>
+<p begin="2937666666t" end="2968333333t" region="rgn00001" xml:id="subtitle87">Now, as an aside, I agree with that.</p>
+<p begin="2969000000t" end="2996333333t" region="rgn00001" xml:id="subtitle88">But nobody taught me that.</p>
+<p begin="2997000000t" end="3031333333t" region="rgn00001" xml:id="subtitle89">I had to stay up really late<br/>watching the Discovery Channel,</p>
+<p begin="3032000000t" end="3063333333t" region="rgn00001" xml:id="subtitle90">drinking a lot of wine<br/>and weeding through a lot of crap</p>
+<p begin="3064000000t" end="3078666666t" region="rgn00001" xml:id="subtitle91">to make my decision.</p>
+<p begin="3097000000t" end="3150333333t" region="rgn00001" xml:id="subtitle92">Anyway, they’re teaching the children<br/>that the Loch Ness Monster is real.</p>
+<p begin="3151000000t" end="3198666666t" region="rgn00001" xml:id="subtitle93">Therefore, evolution is not real</p>
+<p begin="3199333333t" end="3242333333t" region="rgn00001" xml:id="subtitle94">’cause the Loch Ness Monster<br/>is a dinosaur.</p>
+<p begin="3262666666t" end="3300666666t" region="rgn00001" xml:id="subtitle95">I don’t even have a joke for that.<br/>I just want you to know that.</p>
+<p begin="3301333333t" end="3345666666t" region="rgn00001" xml:id="subtitle96">Those are fellow Americans<br/>that I think should be airlifted out. I--</p>
+<p begin="3358000000t" end="3392000000t" region="rgn00001" xml:id="subtitle97">Someone needs to get the children.<br/>Leave the adults.</p>
+<p begin="3399000000t" end="3418333333t" region="rgn00001" xml:id="subtitle98">Take the children.</p>
+<p begin="3450333333t" end="3479000000t" region="rgn00001" xml:id="subtitle99">My state is not a state<br/>that you really wanna brag about.</p>
+<p begin="3479666666t" end="3518333333t" region="rgn00001" xml:id="subtitle100">We just try to lay low. That’s our<br/>best outcome: if we’re not noticed.</p>
+<p begin="3519000000t" end="3543000000t" region="rgn00001" xml:id="subtitle101">Because every time--<br/>Like Ferguson, that whole thing.</p>
+<p begin="3543666666t" end="3574000000t" region="rgn00001" xml:id="subtitle102">That was not exactly something<br/>that you feel proud of.</p>
+<p begin="3574666666t" end="3611000000t" region="rgn00001" xml:id="subtitle103">Uh, two summers ago,<br/>I turned on CNN somewhere on the road,</p>
+<p begin="3611666666t" end="3634666666t" region="rgn00001" xml:id="subtitle104">and it said,<br/>“Missouri State Senate debates--”</p>
+<p begin="3635333333t" end="3678000000t" region="rgn00001" xml:id="subtitle105">Now, you think the next word would be<br/>“health care” or “right-to-work clause.”</p>
+<p begin="3678666666t" end="3699333333t" region="rgn00001" xml:id="subtitle106">No. “Noodling.”</p>
+<p begin="3710666666t" end="3746000000t" region="rgn00001" xml:id="subtitle107">Yeah. We spent two weeks,<br/>eight hours a day, the senate.</p>
+<p begin="3746666666t" end="3772666666t" region="rgn00001" xml:id="subtitle108">For those of you who don’t know<br/>what noodling is, congratulations.</p>
+<p begin="3773333333t" end="3811333333t" region="rgn00001" xml:id="subtitle109">You have led a very classy life.</p>
+<p begin="3812000000t" end="3836000000t" region="rgn00001" xml:id="subtitle110">But I’m gonna tell you what it is.</p>
+<p begin="3836666666t" end="3874666666t" region="rgn00001" xml:id="subtitle111">Noodling is when hillbilly people<br/>get in muddy rivers,</p>
+<p begin="3875333333t" end="3896333333t" region="rgn00001" xml:id="subtitle112">like the Mississippi<br/>or the Missouri River,</p>
+<p begin="3897000000t" end="3919333333t" region="rgn00001" xml:id="subtitle113">and they get into water about chest high</p>
+<p begin="3920000000t" end="3955000000t" region="rgn00001" xml:id="subtitle114">and then they go along the riverbank<br/>with their hands underneath the water</p>
+<p begin="3955666666t" end="3984333333t" region="rgn00001" xml:id="subtitle115">searching for catfish breeding holes.</p>
+<p begin="3985000000t" end="4023000000t" region="rgn00001" xml:id="subtitle116">Then when they find one,<br/>they shove their arm in the hole.</p>
+<p begin="4023666666t" end="4051333333t" region="rgn00001" xml:id="subtitle117">They wait for the catfish to bite it.</p>
+<p begin="4052000000t" end="4082333333t" region="rgn00001" xml:id="subtitle118">Then they yank it out<br/>and they’ve caught a fish.</p>
+<p begin="4132333333t" end="4198666666t" region="rgn00001" xml:id="subtitle119">I was not aware that this is illegal<br/>in my home state of Missouri.</p>
+<p begin="4206666666t" end="4266000000t" region="rgn00001" xml:id="subtitle120">I was also not aware that it is legal<br/>in our neighboring state of Oklahoma.</p>
+<p begin="4266666666t" end="4321000000t" region="rgn00001" xml:id="subtitle121">I certainly was not aware that we have<br/>a Missouri Noodlers Association.</p>
+<p begin="4353333333t" end="4375000000t" region="rgn00001" xml:id="subtitle122">CNN sent a young reporter</p>
+<p begin="4375666666t" end="4414666666t" region="rgn00001" xml:id="subtitle123">to interview the president<br/>of the Missouri Noodlers Association,</p>
+<p begin="4415333333t" end="4437333333t" region="rgn00001" xml:id="subtitle124">who immediately became my new hero</p>
+<p begin="4438000000t" end="4487000000t" region="rgn00001" xml:id="subtitle125">because for his interview on CNN,<br/>he chose not to wear a shirt.</p>
+<p begin="4487666666t" end="4509333333t" region="rgn00001" xml:id="subtitle126">[audience cheering]</p>
+<p begin="4556666666t" end="4575333333t" region="rgn00001" xml:id="subtitle127">She was clearly petrified of the guy.</p>
+<p begin="4576000000t" end="4601000000t" region="rgn00001" xml:id="subtitle128">I have never seen anyone hold<br/>a microphone further away</p>
+<p begin="4601666666t" end="4612000000t" region="rgn00001" xml:id="subtitle129">from another human being.</p>
+<p begin="4612666666t" end="4632000000t" region="rgn00001" xml:id="subtitle130">She said, “Sir, I understand</p>
+<p begin="4632666666t" end="4661333333t" region="rgn00001" xml:id="subtitle131">you’re the president<br/>of the Missouri Noodlers Association.</p>
+<p begin="4662000000t" end="4686000000t" region="rgn00001" xml:id="subtitle132">Could you please tell us<br/>your position on noodling?”</p>
+<p begin="4692000000t" end="4727666666t" region="rgn00001" xml:id="subtitle133">He goes, “Yeah. Yeah.</p>
+<p begin="4728333333t" end="4747333333t" region="rgn00001" xml:id="subtitle134">I’ll tell you my position.</p>
+<p begin="4748000000t" end="4799000000t" region="rgn00001" xml:id="subtitle135">If I wanna shove my arm in a hole<br/>and get a fish,</p>
+<p begin="4799666666t" end="4823333333t" region="rgn00001" xml:id="subtitle136">you tell my why I can’t.”</p>
+<p begin="4853666666t" end="4877000000t" region="rgn00001" xml:id="subtitle137">So that was the argument for it.</p>
+<p begin="4909666666t" end="4941666666t" region="rgn00001" xml:id="subtitle138">Then I thought, what is the problem?<br/>I don’t know.</p>
+<p begin="4942333333t" end="4967666666t" region="rgn00001" xml:id="subtitle139">Well, they go interview<br/>the people against it.</p>
+<p begin="4968333333t" end="4993666666t" region="rgn00001" xml:id="subtitle140">It was, like,<br/>basically an environmental group,</p>
+<p begin="4994333333t" end="5022000000t" region="rgn00001" xml:id="subtitle141">and they go,<br/>“Well, our problem with it is two-fold.</p>
+<p begin="5022666666t" end="5044000000t" region="rgn00001" xml:id="subtitle142">Number one, every time they do this,</p>
+<p begin="5044666666t" end="5064000000t" region="rgn00001" xml:id="subtitle143">they’re destroying<br/>the catfish breeding holes.</p>
+<p begin="5064666666t" end="5082000000t" region="rgn00001" xml:id="subtitle144">And number two, and more importantly,</p>
+<p begin="5082666666t" end="5109666666t" region="rgn00001" xml:id="subtitle145">sometimes these catfish,<br/>especially if near a dam,</p>
+<p begin="5110333333t" end="5152666666t" region="rgn00001" xml:id="subtitle146">can grow to be 150 to 250 pounds.”</p>
+<p begin="5153333333t" end="5171000000t" region="rgn00001" xml:id="subtitle147">Yes. I swear. Google it.</p>
+<p begin="5171666666t" end="5222666666t" region="rgn00001" xml:id="subtitle148">“So sometimes when the hillbilly<br/>shoves his arm in the hole,</p>
+<p begin="5223333333t" end="5256666666t" region="rgn00001" xml:id="subtitle149">the hillbilly does not come back up.”</p>
+<p begin="5286333333t" end="5320000000t" region="rgn00001" xml:id="subtitle150">But I was like,<br/>“Yeah, but let’s think that through.</p>
+<p begin="5332666666t" end="5359666666t" region="rgn00001" xml:id="subtitle151">What have we gained<br/>and what have we lost?”</p>
+<p begin="5360333333t" end="5380666666t" region="rgn00001" xml:id="subtitle152">Everything--</p>
+<p begin="5381333333t" end="5404666666t" region="rgn00001" xml:id="subtitle153">[applause]</p>
+<p begin="5430666666t" end="5449333333t" region="rgn00001" xml:id="subtitle154">“We might have lost Billy Bob,</p>
+<p begin="5450000000t" end="5485000000t" region="rgn00001" xml:id="subtitle155">but somebody just got<br/>his brand-new truck full of Busch light.”</p>
+<p begin="5485666666t" end="5500666666t" region="rgn00001" xml:id="subtitle156">What?</p>
+<p begin="5537333333t" end="5569666666t" region="rgn00001" xml:id="subtitle157">I don’t expect people<br/>to know much about Missouri.</p>
+<p begin="5570333333t" end="5606666666t" region="rgn00001" xml:id="subtitle158">I do expect people to know it’s a state.<br/>That I do.</p>
+<p begin="5607333333t" end="5622000000t" region="rgn00001" xml:id="subtitle159">And there are people--</p>
+<p begin="5622666666t" end="5653333333t" region="rgn00001" xml:id="subtitle160">I was in California, in a Macy’s,<br/>trying to buy jeans.</p>
+<p begin="5654000000t" end="5672000000t" region="rgn00001" xml:id="subtitle161">And the girl was young,<br/>I’ll give her that.</p>
+<p begin="5672666666t" end="5700666666t" region="rgn00001" xml:id="subtitle162">[imitating valley girl] She was<br/>one of the girls who talk like that,</p>
+<p begin="5701333333t" end="5736666666t" region="rgn00001" xml:id="subtitle163">and she just couldn’t be bothered<br/>with anything, okay?</p>
+<p begin="5737333333t" end="5765666666t" region="rgn00001" xml:id="subtitle164">[normal voice] I go to check out<br/>and I give her my credit card.</p>
+<p begin="5766333333t" end="5794333333t" region="rgn00001" xml:id="subtitle165">She goes,<br/>“I’m gonna need to see your license.”</p>
+<p begin="5795000000t" end="5824333333t" region="rgn00001" xml:id="subtitle166">I go, “Okay, that’s not a problem.”</p>
+<p begin="5825000000t" end="5836333333t" region="rgn00001" xml:id="subtitle167">And I--</p>
+<p begin="5846666666t" end="5887000000t" region="rgn00001" xml:id="subtitle168">I’m still not sure exactly what happened.<br/>I’m gonna show you what happened.</p>
+<p begin="5887666666t" end="5911666666t" region="rgn00001" xml:id="subtitle169">I gave her my license, and she went,</p>
+<p begin="5912333333t" end="5929666666t" region="rgn00001" xml:id="subtitle170">“Missouri.” [clicks teeth]</p>
+<p begin="5930333333t" end="5944333333t" region="rgn00001" xml:id="subtitle171">“Uh...</p>
+<p begin="5952666666t" end="5966666666t" region="rgn00001" xml:id="subtitle172">no.”</p>
+<p begin="5993666666t" end="6003666666t" region="rgn00001" xml:id="subtitle173">“No?</p>
+<p begin="6004333333t" end="6032666666t" region="rgn00001" xml:id="subtitle174">Did you just do a search in your brain</p>
+<p begin="6033333333t" end="6054666666t" region="rgn00001" xml:id="subtitle175">and your hard drive<br/>came back with nothing,</p>
+<p begin="6055333333t" end="6075333333t" region="rgn00001" xml:id="subtitle176">so you negated my whole state?”</p>
+<p begin="6076000000t" end="6094333333t" region="rgn00001" xml:id="subtitle177">“Uh, no.”</p>
+<p begin="6143666666t" end="6178000000t" region="rgn00001" xml:id="subtitle178">Missouri is a very special place<br/>to one group of people,</p>
+<p begin="6178666666t" end="6197666666t" region="rgn00001" xml:id="subtitle179">and it’s the Mormons.</p>
+<p begin="6198333333t" end="6216000000t" region="rgn00001" xml:id="subtitle180">Not the ones that went to Utah.</p>
+<p begin="6216666666t" end="6250000000t" region="rgn00001" xml:id="subtitle181">Joseph Smith, the leader,<br/>had a son, Joseph Smith, Jr.</p>
+<p begin="6255666666t" end="6278333333t" region="rgn00001" xml:id="subtitle182">That man believed</p>
+<p begin="6279000000t" end="6337333333t" region="rgn00001" xml:id="subtitle183">that the original Garden of Eden<br/>was 35 miles north of Kansas City.</p>
+<p begin="6357333333t" end="6373000000t" region="rgn00001" xml:id="subtitle184">Not in Mesopotamia.</p>
+<p begin="6373666666t" end="6394666666t" region="rgn00001" xml:id="subtitle185">No, no, no, no, no.</p>
+<p begin="6395333333t" end="6409333333t" region="rgn00001" xml:id="subtitle186">Missouri.</p>
+<p begin="6410000000t" end="6436000000t" region="rgn00001" xml:id="subtitle187">They also believe</p>
+<p begin="6436666666t" end="6480333333t" region="rgn00001" xml:id="subtitle188">that when Christ comes back,<br/>that’s where he’s going.</p>
+<p begin="6490000000t" end="6518333333t" region="rgn00001" xml:id="subtitle189">First stop, Kansas City.</p>
+<p begin="6519000000t" end="6547333333t" region="rgn00001" xml:id="subtitle190">He’s not gonna go<br/>to Bethlehem or Jerusalem.</p>
+<p begin="6548000000t" end="6606666666t" region="rgn00001" xml:id="subtitle191">He’s getting a Southwest flight<br/>and he’s going straight to Kansas City.</p>
+<p begin="6631000000t" end="6645333333t" region="rgn00001" xml:id="subtitle192">Look, I am from Missouri.</p>
+<p begin="6646000000t" end="6686000000t" region="rgn00001" xml:id="subtitle193">And if you think<br/>Jesus is going back to Kansas City,</p>
+<p begin="6686666666t" end="6711000000t" region="rgn00001" xml:id="subtitle194">35 miles outside of it, by the way,</p>
+<p begin="6711666666t" end="6745333333t" region="rgn00001" xml:id="subtitle195">then you must believe<br/>that Jesus is a big fan</p>
+<p begin="6746000000t" end="6768000000t" region="rgn00001" xml:id="subtitle196">of barbecue and crystal meth,</p>
+<p begin="6768666666t" end="6827000000t" region="rgn00001" xml:id="subtitle197">because that is what’s happening<br/>35 miles outside of Kansas City.</p>
+<p begin="6860000000t" end="6879000000t" region="rgn00001" xml:id="subtitle198">My whole family lives there.</p>
+<p begin="6879666666t" end="6910666666t" region="rgn00001" xml:id="subtitle199">Well, my parents<br/>are in Florida in the winter right now.</p>
+<p begin="6911333333t" end="6966333333t" region="rgn00001" xml:id="subtitle200">As most Midwest old people with a car,<br/>they leave on December 26.</p>
+<p begin="6967000000t" end="6986000000t" region="rgn00001" xml:id="subtitle201">They’re like geese. They just leave.</p>
+<p begin="6986666666t" end="7006000000t" region="rgn00001" xml:id="subtitle202">Flocks of ’em leave from the Midwest.</p>
+<p begin="7006666666t" end="7043666666t" region="rgn00001" xml:id="subtitle203">My parents bought a new car.<br/>They haven’t had a new car in ten years.</p>
+<p begin="7044333333t" end="7065000000t" region="rgn00001" xml:id="subtitle204">They bought a black Lincoln Town Car.</p>
+<p begin="7065666666t" end="7095666666t" region="rgn00001" xml:id="subtitle205">Little did they know that that’s one<br/>of the more expensive rides</p>
+<p begin="7096333333t" end="7106333333t" region="rgn00001" xml:id="subtitle206">on the Uber app.</p>
+<p begin="7107000000t" end="7157000000t" region="rgn00001" xml:id="subtitle207">So I, unbeknownst to them,<br/>have signed them up to be Uber drivers...</p>
+<p begin="7170000000t" end="7203000000t" region="rgn00001" xml:id="subtitle208">so they can pick up other old people<br/>on the way to Florida,</p>
+<p begin="7203666666t" end="7225666666t" region="rgn00001" xml:id="subtitle209">make a little spending cash.</p>
+<p begin="7226333333t" end="7256333333t" region="rgn00001" xml:id="subtitle210">’Cause my mom will do<br/>whatever the phone says, I’m telling you.</p>
+<p begin="7257000000t" end="7271000000t" region="rgn00001" xml:id="subtitle211">“Jack, we have to pull over.</p>
+<p begin="7271666666t" end="7293666666t" region="rgn00001" xml:id="subtitle212">We’re the blue dot,<br/>and it’s saying pull over.</p>
+<p begin="7294333333t" end="7321666666t" region="rgn00001" xml:id="subtitle213">There are people that need a ride<br/>for some reason.</p>
+<p begin="7322333333t" end="7358000000t" region="rgn00001" xml:id="subtitle214">I don’t know why the phone is doing this.<br/>It’s never done this before.</p>
+<p begin="7358666666t" end="7388666666t" region="rgn00001" xml:id="subtitle215">But I’m afraid if we don’t,<br/>there’s gonna be a problem, Jack.”</p>
+<p begin="7443000000t" end="7469666666t" region="rgn00001" xml:id="subtitle216">They go to Sarasota now, on that side.</p>
+<p begin="7470333333t" end="7511000000t" region="rgn00001" xml:id="subtitle217">But for about three years in a row,<br/>they went to a place called the Villages.</p>
+<p begin="7511666666t" end="7556333333t" region="rgn00001" xml:id="subtitle218">I don’t know if any of you’ve<br/>seen it advertised on TV.</p>
+<p begin="7557000000t" end="7585000000t" region="rgn00001" xml:id="subtitle219">Go to their Web site.<br/>There’s nothing like it in the world.</p>
+<p begin="7585666666t" end="7618000000t" region="rgn00001" xml:id="subtitle220">It’s the largest retirement community<br/>in the nation.</p>
+<p begin="7618666666t" end="7630666666t" region="rgn00001" xml:id="subtitle221">Well, the world, probably.</p>
+<p begin="7631333333t" end="7679333333t" region="rgn00001" xml:id="subtitle222">It’s 35 minutes, or if my mom’s driving,<br/>eight and a half hours away</p>
+<p begin="7680000000t" end="7705666666t" region="rgn00001" xml:id="subtitle223">from the Orlando airport.</p>
+<p begin="7706333333t" end="7718333333t" region="rgn00001" xml:id="subtitle224">Some guy thought of it.</p>
+<p begin="7719000000t" end="7744666666t" region="rgn00001" xml:id="subtitle225">He thought, “I’m gonna buy<br/>all of this crappy swampland,</p>
+<p begin="7745333333t" end="7765666666t" region="rgn00001" xml:id="subtitle226">and I’m gonna make nirvana for old people.</p>
+<p begin="7766333333t" end="7788666666t" region="rgn00001" xml:id="subtitle227">I’ll build it. They will come.”<br/>And they came.</p>
+<p begin="7789333333t" end="7812333333t" region="rgn00001" xml:id="subtitle228">There’s 350,000 of ’em.</p>
+<p begin="7813000000t" end="7836666666t" region="rgn00001" xml:id="subtitle229">They have their own zip code.<br/>They have their own post office.</p>
+<p begin="7837333333t" end="7863000000t" region="rgn00001" xml:id="subtitle230">They’ve got golf courses, swimming pools.</p>
+<p begin="7863666666t" end="7898000000t" region="rgn00001" xml:id="subtitle231">I mean, it’s really something.<br/>It really is something.</p>
+<p begin="7898666666t" end="7919000000t" region="rgn00001" xml:id="subtitle232">And my parents were there, and I go,</p>
+<p begin="7919666666t" end="7935000000t" region="rgn00001" xml:id="subtitle233">“Oh, good.<br/>You’re gonna be at the Villages.</p>
+<p begin="7935666666t" end="7952333333t" region="rgn00001" xml:id="subtitle234">That’s great,<br/>’cause I have shows in Florida,</p>
+<p begin="7953000000t" end="7973000000t" region="rgn00001" xml:id="subtitle235">and I have nowhere to go<br/>in between shows.”</p>
+<p begin="7973666666t" end="7992666666t" region="rgn00001" xml:id="subtitle236">My mom goes, “You can come over here,</p>
+<p begin="7993333333t" end="8016000000t" region="rgn00001" xml:id="subtitle237">but you can’t spend the night<br/>on the property.”</p>
+<p begin="8024000000t" end="8038666666t" region="rgn00001" xml:id="subtitle238">I said, “Why not?”</p>
+<p begin="8039333333t" end="8067333333t" region="rgn00001" xml:id="subtitle239">She goes,<br/>“The law at the Villages, Kathleen,</p>
+<p begin="8068000000t" end="8137333333t" region="rgn00001" xml:id="subtitle240">is no one under the age of 55 is allowed<br/>to spend the night on the property.”</p>
+<p begin="8147333333t" end="8165333333t" region="rgn00001" xml:id="subtitle241">I said, “Really? Fifty-five?</p>
+<p begin="8166000000t" end="8199333333t" region="rgn00001" xml:id="subtitle242">So you’re telling me at age 48,</p>
+<p begin="8200000000t" end="8235333333t" region="rgn00001" xml:id="subtitle243">I’m gonna have to again go get a fake ID--</p>
+<p begin="8236000000t" end="8252666666t" region="rgn00001" xml:id="subtitle244">[audience laughing]</p>
+<p begin="8314000000t" end="8338666666t" region="rgn00001" xml:id="subtitle245">so that I can spend the night<br/>with you freaks.</p>
+<p begin="8339333333t" end="8360333333t" region="rgn00001" xml:id="subtitle246">Mom, where would I even go?</p>
+<p begin="8361000000t" end="8387666666t" region="rgn00001" xml:id="subtitle247">To, like, a bingo game<br/>and roll an old redheaded lady</p>
+<p begin="8388333333t" end="8411333333t" region="rgn00001" xml:id="subtitle248">and go,<br/>‘Sorry. I’ll have this back in two days.</p>
+<p begin="8412000000t" end="8449000000t" region="rgn00001" xml:id="subtitle249">I just need it to get into the Villages.’”</p>
+<p begin="8460333333t" end="8488333333t" region="rgn00001" xml:id="subtitle250">I said, “Mom, how are they gonna know<br/>if I’m there? Seriously.</p>
+<p begin="8489000000t" end="8532333333t" region="rgn00001" xml:id="subtitle251">Does an old man come in a golf cart<br/>and do bed check every night?”</p>
+<p begin="8533000000t" end="8577666666t" region="rgn00001" xml:id="subtitle252">She goes, “Yes. That’s what I’ve heard.<br/>Yes. That’s what I think happens.”</p>
+<p begin="8593333333t" end="8623666666t" region="rgn00001" xml:id="subtitle253">I said, “Well, I’m going to come there<br/>and I am gonna spend the night.</p>
+<p begin="8624333333t" end="8649333333t" region="rgn00001" xml:id="subtitle254">But I will meet you halfway<br/>so you’re not nervous.</p>
+<p begin="8650000000t" end="8697666666t" region="rgn00001" xml:id="subtitle255">I’m gonna sleep in my tennis shoes,<br/>sports bra and T-shirt and shorts.</p>
+<p begin="8698333333t" end="8720333333t" region="rgn00001" xml:id="subtitle256">And if I hear the golf cart,</p>
+<p begin="8721000000t" end="8761666666t" region="rgn00001" xml:id="subtitle257">I’m gonna get up,<br/>and I’m gonna run into the family room,</p>
+<p begin="8762333333t" end="8782000000t" region="rgn00001" xml:id="subtitle258">and I’m gonna hide behind the La-Z-Boy.</p>
+<p begin="8782666666t" end="8799666666t" region="rgn00001" xml:id="subtitle259">’Cause in my own mind, Mom,</p>
+<p begin="8800333333t" end="8837000000t" region="rgn00001" xml:id="subtitle260">I’m gonna pretend like I’m<br/>in the last scene of <span style="style_0">The Sound of Music</span></p>
+<p begin="8837666666t" end="8873666666t" region="rgn00001" xml:id="subtitle261">and we’re the Von Trapps<br/>on top of the convent</p>
+<p begin="8874333333t" end="8898333333t" region="rgn00001" xml:id="subtitle262">hiding behind tombstones...</p>
+<p begin="8905666666t" end="8924666666t" region="rgn00001" xml:id="subtitle263">from the Nazis.</p>
+<p begin="8925333333t" end="8965000000t" region="rgn00001" xml:id="subtitle264">And then when the golf cart guy<br/>shines his flashlight,</p>
+<p begin="8965666666t" end="8998666666t" region="rgn00001" xml:id="subtitle265">just for my own amusement,<br/>I’m gonna pop out from behind it</p>
+<p begin="8999333333t" end="9039333333t" region="rgn00001" xml:id="subtitle266">and go, ‘Don’t do it, Ralph.<br/>You’re not one of them.</p>
+<p begin="9040000000t" end="9065666666t" region="rgn00001" xml:id="subtitle267">Don’t take us. Come with us.’</p>
+<p begin="9066333333t" end="9105000000t" region="rgn00001" xml:id="subtitle268">And then I’m gonna laugh and laugh.<br/>He won’t laugh, but I don’t care.</p>
+<p begin="9105666666t" end="9132666666t" region="rgn00001" xml:id="subtitle269">It’s not the point. I’m gonna laugh.</p>
+<p begin="9133333333t" end="9169666666t" region="rgn00001" xml:id="subtitle270">And then I’m gonna run by him, Mom,<br/>and I’m gonna run away,</p>
+<p begin="9170333333t" end="9199000000t" region="rgn00001" xml:id="subtitle271">and I’m gonna make it over<br/>the whole border of the Villages.</p>
+<p begin="9199666666t" end="9231000000t" region="rgn00001" xml:id="subtitle272">I’m gonna make it to freedom, and--</p>
+<p begin="9231666666t" end="9254666666t" region="rgn00001" xml:id="subtitle273">Do you know how I know<br/>I’m confident I can do that?</p>
+<p begin="9255333333t" end="9295666666t" region="rgn00001" xml:id="subtitle274">Because I’m the only person out of 350,000</p>
+<p begin="9296333333t" end="9333666666t" region="rgn00001" xml:id="subtitle275">that has both of their real knees, Mom.</p>
+<p begin="9366666666t" end="9403666666t" region="rgn00001" xml:id="subtitle276">I am the Usain Bolt of this community.</p>
+<p begin="9413000000t" end="9443666666t" region="rgn00001" xml:id="subtitle277">I don’t think<br/>you’re respecting my powers.”</p>
+<p begin="9488000000t" end="9520000000t" region="rgn00001" xml:id="subtitle278">Prepared to getting older, there’s<br/>moments where you’re hanging out with them</p>
+<p begin="9520666666t" end="9557000000t" region="rgn00001" xml:id="subtitle279">and you’re like, “Wow. Are you actually<br/>going crazy in front of me?</p>
+<p begin="9557666666t" end="9609666666t" region="rgn00001" xml:id="subtitle280">Like, should I call someone?<br/>I don’t know what to do.”</p>
+<p begin="9611000000t" end="9629666666t" region="rgn00001" xml:id="subtitle281">I was in Target with my mom.</p>
+<p begin="9630333333t" end="9651666666t" region="rgn00001" xml:id="subtitle282">She opened her wallet</p>
+<p begin="9652333333t" end="9704000000t" region="rgn00001" xml:id="subtitle283">and all her credit cards<br/>were individually wrapped in tin foil.</p>
+<p begin="9728000000t" end="9752333333t" region="rgn00001" xml:id="subtitle284">She unwraps one and hands it to me</p>
+<p begin="9753000000t" end="9788000000t" region="rgn00001" xml:id="subtitle285">as if that’s a completely normal exchange<br/>of information.</p>
+<p begin="9796666666t" end="9816666666t" region="rgn00001" xml:id="subtitle286">I go, “We’re not gonna talk about that?”</p>
+<p begin="9824000000t" end="9841000000t" region="rgn00001" xml:id="subtitle287">She goes, “Talk about what, Kathleen?”</p>
+<p begin="9841666666t" end="9871000000t" region="rgn00001" xml:id="subtitle288">I go, “The tin foil, Mom. The tin foil.”</p>
+<p begin="9871666666t" end="9905666666t" region="rgn00001" xml:id="subtitle289">She goes, “Well, obviously, you have<br/>not been keeping up with the news.”</p>
+<p begin="9912000000t" end="9934666666t" region="rgn00001" xml:id="subtitle290">I said,<br/>“No, I actually thought I had been.”</p>
+<p begin="9935333333t" end="9974333333t" region="rgn00001" xml:id="subtitle291">“Well, then you must have missed the story<br/>about the raygun people.”</p>
+<p begin="9997333333t" end="10016333333t" region="rgn00001" xml:id="subtitle292">“Who are the raygun people?”</p>
+<p begin="10017000000t" end="10064666666t" region="rgn00001" xml:id="subtitle293">She said, “Well, your father and I saw it<br/>on ‘20-40’ or ‘60-80’ or ‘100 Minutes,’</p>
+<p begin="10065333333t" end="10098666666t" region="rgn00001" xml:id="subtitle294">whatever those serious--<br/>It was a very serious program.</p>
+<p begin="10106333333t" end="10145000000t" region="rgn00001" xml:id="subtitle295">There are people now, Kathleen,<br/>with computer rayguns,</p>
+<p begin="10145666666t" end="10189000000t" region="rgn00001" xml:id="subtitle296">and they can shoot that raygun<br/>through my purse, through my wallet,</p>
+<p begin="10189666666t" end="10212666666t" region="rgn00001" xml:id="subtitle297">and they gather<br/>all of your personal information</p>
+<p begin="10213333333t" end="10240666666t" region="rgn00001" xml:id="subtitle298">off of that strip<br/>on the back of your debit card.</p>
+<p begin="10241333333t" end="10269000000t" region="rgn00001" xml:id="subtitle299">They can shoot through your father’s ass<br/>at a gas station,</p>
+<p begin="10269666666t" end="10299000000t" region="rgn00001" xml:id="subtitle300">right through his ass, into his wallet.”</p>
+<p begin="10346333333t" end="10382000000t" region="rgn00001" xml:id="subtitle301">I went, “Okay.” My mom’s not stupid.<br/>She was a nurse for a million years.</p>
+<p begin="10382666666t" end="10419333333t" region="rgn00001" xml:id="subtitle302">So I called my friend in Boston<br/>who’s been a cop forever,</p>
+<p begin="10420000000t" end="10470333333t" region="rgn00001" xml:id="subtitle303">and I asked him about the raygun people<br/>and told him about the tin foil.</p>
+<p begin="10470999999t" end="10489000000t" region="rgn00001" xml:id="subtitle304">He said, “Two things, Kathleen.</p>
+<p begin="10489666666t" end="10525333333t" region="rgn00001" xml:id="subtitle305">Number one, no. I have not heard<br/>about the raygun people.</p>
+<p begin="10526000000t" end="10544666666t" region="rgn00001" xml:id="subtitle306">But in fairness to your mom,</p>
+<p begin="10545333333t" end="10567333333t" region="rgn00001" xml:id="subtitle307">I haven’t checked my work e-mail<br/>in three days.</p>
+<p begin="10568000000t" end="10578333333t" region="rgn00001" xml:id="subtitle308">Now--</p>
+<p begin="10612333333t" end="10638000000t" region="rgn00001" xml:id="subtitle309">Number two, and more importantly,</p>
+<p begin="10638666666t" end="10673666666t" region="rgn00001" xml:id="subtitle310">what I do know<br/>from being a cop for 20 years</p>
+<p begin="10674333333t" end="10714000000t" region="rgn00001" xml:id="subtitle311">is that crazy people love tin foil.</p>
+<p begin="10749666666t" end="10767333333t" region="rgn00001" xml:id="subtitle312">You don’t need to tell your mother.</p>
+<p begin="10768000000t" end="10809333333t" region="rgn00001" xml:id="subtitle313">I’m just telling you<br/>so you know that is a fact.</p>
+<p begin="10810666666t" end="10846333333t" region="rgn00001" xml:id="subtitle314">An old cop told me that.<br/>Always carry tin foil in your squad car.</p>
+<p begin="10847000000t" end="10879666666t" region="rgn00001" xml:id="subtitle315">If you come across someone who’s<br/>mentally ill and having a psychotic break</p>
+<p begin="10880333333t" end="10920666666t" region="rgn00001" xml:id="subtitle316">or maybe someone in a drug frenzy,<br/>you just tear off a piece of tin foil,</p>
+<p begin="10921333333t" end="10957000000t" region="rgn00001" xml:id="subtitle317">you calmly walk over and go, ‘Make a hat,’</p>
+<p begin="10957666666t" end="10987333333t" region="rgn00001" xml:id="subtitle318">and the whole situation--”</p>
+<p begin="11057333333t" end="11082000000t" region="rgn00001" xml:id="subtitle319">They drive to Florida<br/>’cause my mom won’t fly anymore.</p>
+<p begin="11082666666t" end="11124666666t" region="rgn00001" xml:id="subtitle320">The fear of flying has literally gone over<br/>the edge with her. It started years ago.</p>
+<p begin="11125333333t" end="11153666666t" region="rgn00001" xml:id="subtitle321">And I do feel sorry for people<br/>who have that fear, ’cause it is real.</p>
+<p begin="11154333333t" end="11175000000t" region="rgn00001" xml:id="subtitle322">And you see people at airports.<br/>You can always tell.</p>
+<p begin="11175666666t" end="11200333333t" region="rgn00001" xml:id="subtitle323">’Cause their hands, their palms<br/>are real sweaty. They’ll talk to anyone.</p>
+<p begin="11201000000t" end="11226333333t" region="rgn00001" xml:id="subtitle324">God forbid the time of departure changes.</p>
+<p begin="11227000000t" end="11253000000t" region="rgn00001" xml:id="subtitle325">Then they completely unravel.<br/>They’re like, “This is it.</p>
+<p begin="11253666666t" end="11284333333t" region="rgn00001" xml:id="subtitle326">I think this plane’s broken,<br/>and they’re gonna fly it. Don’t you?”</p>
+<p begin="11285000000t" end="11315000000t" region="rgn00001" xml:id="subtitle327">“Yeah, I do. Today is the day.</p>
+<p begin="11322333333t" end="11360000000t" region="rgn00001" xml:id="subtitle328">American Airlines is gonna go,<br/>‘Fuck it. Give it a whirl. I don’t care.’</p>
+<p begin="11360666666t" end="11398666666t" region="rgn00001" xml:id="subtitle329">Wha-- Every part can’t be that important.”</p>
+<p begin="11439666666t" end="11461000000t" region="rgn00001" xml:id="subtitle330">But it’s weird to me that strangers--</p>
+<p begin="11461666666t" end="11490666666t" region="rgn00001" xml:id="subtitle331">There will always be a stranger<br/>who will say to another stranger,</p>
+<p begin="11491333333t" end="11515333333t" region="rgn00001" xml:id="subtitle332">“Oh, you shouldn’t have a fear of flying,</p>
+<p begin="11516000000t" end="11553333333t" region="rgn00001" xml:id="subtitle333">because I’ll tell you what, you have<br/>a better chance of being in a car crash</p>
+<p begin="11554000000t" end="11573666666t" region="rgn00001" xml:id="subtitle334">than you do of being in a plane crash.”</p>
+<p begin="11574333333t" end="11599333333t" region="rgn00001" xml:id="subtitle335">And I wanna say,<br/>but I won’t ’cause it would be mean,</p>
+<p begin="11600000000t" end="11644000000t" region="rgn00001" xml:id="subtitle336">“Yeah, but you have a much better chance<br/>of getting in a forgettable car crash</p>
+<p begin="11644666666t" end="11676000000t" region="rgn00001" xml:id="subtitle337">than you do of being<br/>in a forgettable plane crash.”</p>
+<p begin="11676666666t" end="11710333333t" region="rgn00001" xml:id="subtitle338">There’s no way<br/>you’re gonna be in a plane crash,</p>
+<p begin="11711000000t" end="11741666666t" region="rgn00001" xml:id="subtitle339">go to work on Monday, and then Wednesday<br/>look at somebody you work with</p>
+<p begin="11742333333t" end="11790000000t" region="rgn00001" xml:id="subtitle340">and go,<br/>“Oh, shit, did I forget to tell you?</p>
+<p begin="11808000000t" end="11833000000t" region="rgn00001" xml:id="subtitle341">On the way home from Milwaukee,<br/>my plane crashed.</p>
+<p begin="11833666666t" end="11874000000t" region="rgn00001" xml:id="subtitle342">I don’t know if you saw that on CNN. I was<br/>the lady running through the cornfield.</p>
+<p begin="11874666666t" end="11908333333t" region="rgn00001" xml:id="subtitle343">My hair had caught on fire<br/>because I’m near-sighted</p>
+<p begin="11909000000t" end="11937333333t" region="rgn00001" xml:id="subtitle344">and I’d lost my glasses in the turbulence.</p>
+<p begin="11938000000t" end="11973333333t" region="rgn00001" xml:id="subtitle345">I actually ran towards the explosion<br/>versus away from the explosion.</p>
+<p begin="11982333333t" end="12019666666t" region="rgn00001" xml:id="subtitle346">That’s why I called in sick yesterday<br/>’cause...</p>
+<p begin="12031333333t" end="12076666666t" region="rgn00001" xml:id="subtitle347">my head hurt ’cause it had been on fire.”</p>
+<p begin="12137666666t" end="12159000000t" region="rgn00001" xml:id="subtitle348">I fly every week,<br/>and I’ve never even thought</p>
+<p begin="12159666666t" end="12185000000t" region="rgn00001" xml:id="subtitle349">about what if something<br/>happened to the plane</p>
+<p begin="12185666666t" end="12238666666t" region="rgn00001" xml:id="subtitle350">until missing Malaysian Flight 370,<br/>which I am admittedly obsessed with.</p>
+<p begin="12239333333t" end="12259333333t" region="rgn00001" xml:id="subtitle351">My youngest brother,<br/>who I talk to almost every day,</p>
+<p begin="12260000000t" end="12283000000t" region="rgn00001" xml:id="subtitle352">has banned me from speaking about it.</p>
+<p begin="12283666666t" end="12319666666t" region="rgn00001" xml:id="subtitle353">He goes, “Seriously, Kathleen,<br/>if you bring it up, I’m gonna hang up.</p>
+<p begin="12320333333t" end="12337000000t" region="rgn00001" xml:id="subtitle354">It’s been almost two years.</p>
+<p begin="12337666666t" end="12369666666t" region="rgn00001" xml:id="subtitle355">I don’t wanna hear anything<br/>that you’ve read on the Internet.</p>
+<p begin="12370333333t" end="12406666666t" region="rgn00001" xml:id="subtitle356">I don’t wanna hear what you and your<br/>drunk friends decided happened to it.</p>
+<p begin="12407333333t" end="12419666666t" region="rgn00001" xml:id="subtitle357">I--”</p>
+<p begin="12420333333t" end="12446666666t" region="rgn00001" xml:id="subtitle358">He goes, “You’ve never been obsessed<br/>with a plane crash.”</p>
+<p begin="12447333333t" end="12487000000t" region="rgn00001" xml:id="subtitle359">“Ah, ah, ah. What is the problem<br/>with that sentence, Pat?</p>
+<p begin="12487666666t" end="12500666666t" region="rgn00001" xml:id="subtitle360">You just said ‘plane crash.’</p>
+<p begin="12501333333t" end="12524333333t" region="rgn00001" xml:id="subtitle361">We don’t know<br/>if this plane crashed, do we?”</p>
+<p begin="12530333333t" end="12575666666t" region="rgn00001" xml:id="subtitle362">That’s-- That’s why I’m obsessed with it.</p>
+<p begin="12576333333t" end="12620000000t" region="rgn00001" xml:id="subtitle363">About seven months ago, they found a wing<br/>of a Triple Seven in the Indian Ocean.</p>
+<p begin="12620666666t" end="12637333333t" region="rgn00001" xml:id="subtitle364">That’s what that plane was,<br/>a Triple Seven.</p>
+<p begin="12638000000t" end="12659000000t" region="rgn00001" xml:id="subtitle365">And they sent that wing to the French.</p>
+<p begin="12659666666t" end="12692666666t" region="rgn00001" xml:id="subtitle366">I do not know<br/>why the French are in charge of science.</p>
+<p begin="12702666666t" end="12734333333t" region="rgn00001" xml:id="subtitle367">I’d have given it to the Germans.<br/>But whatever.</p>
+<p begin="12745666666t" end="12761000000t" region="rgn00001" xml:id="subtitle368">They actually came out and said,</p>
+<p begin="12761666666t" end="12806000000t" region="rgn00001" xml:id="subtitle369">“Well, yeah, um, this definitely<br/>is the wing of a Triple Seven,</p>
+<p begin="12806666666t" end="12853666666t" region="rgn00001" xml:id="subtitle370">but we cannot confirm<br/>it’s missing Malaysian Flight 370.”</p>
+<p begin="12859333333t" end="12893333333t" region="rgn00001" xml:id="subtitle371">“Well, has anyone else called...</p>
+<p begin="12930666666t" end="12955333333t" region="rgn00001" xml:id="subtitle372">Lost and Found...</p>
+<p begin="12963000000t" end="12984333333t" region="rgn00001" xml:id="subtitle373">looking for a wing?”</p>
+<p begin="13037666666t" end="13063333333t" region="rgn00001" xml:id="subtitle374">They found another little piece,<br/>like, three days ago.</p>
+<p begin="13064000000t" end="13105666666t" region="rgn00001" xml:id="subtitle375">But all it says is that--<br/>It just says, “Do not step here.”</p>
+<p begin="13106333333t" end="13130666666t" region="rgn00001" xml:id="subtitle376">So it could be that or a ladder.</p>
+<p begin="13131333333t" end="13158000000t" region="rgn00001" xml:id="subtitle377">Who kno-- Nobody-- Nobody knows.</p>
+<p begin="13158666666t" end="13187000000t" region="rgn00001" xml:id="subtitle378">I watched every minute of the coverage,<br/>and my brother goes, “I don’t get it.”</p>
+<p begin="13187666666t" end="13212333333t" region="rgn00001" xml:id="subtitle379">I go, “Because it’s the biggest news story<br/>of our lifetime, Patrick.”</p>
+<p begin="13213000000t" end="13223666666t" region="rgn00001" xml:id="subtitle380">I’m sorry.</p>
+<p begin="13224333333t" end="13263333333t" region="rgn00001" xml:id="subtitle381">I’ve assumed my entire life that when we<br/>bought a ticket in an airplane</p>
+<p begin="13264000000t" end="13313333333t" region="rgn00001" xml:id="subtitle382">to go over a large body of water,<br/>I thought the whole time we were up here,</p>
+<p begin="13314000000t" end="13351333333t" region="rgn00001" xml:id="subtitle383">someone smarter than us<br/>on the ground at all times</p>
+<p begin="13352000000t" end="13369000000t" region="rgn00001" xml:id="subtitle384">knew where the fuck we were.</p>
+<p begin="13369666666t" end="13397666666t" region="rgn00001" xml:id="subtitle385">I did. I believed that.</p>
+<p begin="13398333333t" end="13431000000t" region="rgn00001" xml:id="subtitle386">Yeah, well, that’s certainly not the case.<br/>Cat is out of the bag.</p>
+<p begin="13431666666t" end="13445000000t" region="rgn00001" xml:id="subtitle387">They got nothing.</p>
+<p begin="13455000000t" end="13481666666t" region="rgn00001" xml:id="subtitle388">Boston to Dublin, Texas,<br/>when you get there, man.</p>
+<p begin="13482333333t" end="13503000000t" region="rgn00001" xml:id="subtitle389">It gets a little weird after Nova Scotia.</p>
+<p begin="13503666666t" end="13515666666t" region="rgn00001" xml:id="subtitle390">They don’t tell people that.</p>
+<p begin="13516333333t" end="13537000000t" region="rgn00001" xml:id="subtitle391">As soon as you get a Guinness,<br/>give us a holler</p>
+<p begin="13537666666t" end="13554666666t" region="rgn00001" xml:id="subtitle392">and let us know everything’s all right.</p>
+<p begin="13583000000t" end="13611333333t" region="rgn00001" xml:id="subtitle393">They covered it on CNN for 72 days,</p>
+<p begin="13612000000t" end="13633666666t" region="rgn00001" xml:id="subtitle394">and people were complaining<br/>it’s too much coverage.</p>
+<p begin="13634333333t" end="13654333333t" region="rgn00001" xml:id="subtitle395">I’m like,<br/>“No, it’s not. This is wonderful.”</p>
+<p begin="13655000000t" end="13669666666t" region="rgn00001" xml:id="subtitle396">’Cause they have no new information,</p>
+<p begin="13670333333t" end="13691000000t" region="rgn00001" xml:id="subtitle397">so now they just have<br/>to make up conversation.</p>
+<p begin="13691666666t" end="13730666666t" region="rgn00001" xml:id="subtitle398">It got to the point where the experts<br/>were, like, building paper airplanes,</p>
+<p begin="13731333333t" end="13767666666t" region="rgn00001" xml:id="subtitle399">going, “Okay, here’s<br/>what I think happened, all right?</p>
+<p begin="13768333333t" end="13806000000t" region="rgn00001" xml:id="subtitle400">It was windy. Come on. Turn on the fan.<br/>Stay with me, Bob.</p>
+<p begin="13813333333t" end="13853333333t" region="rgn00001" xml:id="subtitle401">Somebody put water in the trash can.<br/>That’s my ocean. Come on.”</p>
+<p begin="13898000000t" end="13932000000t" region="rgn00001" xml:id="subtitle402">But I watched it,<br/>because every day they would go live</p>
+<p begin="13932666666t" end="13975000000t" region="rgn00001" xml:id="subtitle403">to the city of Kuala Lumpur<br/>to a Hilton hotel for a press conference</p>
+<p begin="13975666666t" end="13993333333t" region="rgn00001" xml:id="subtitle404">from the Malaysian Airlines spokesman.</p>
+<p begin="13994000000t" end="14036000000t" region="rgn00001" xml:id="subtitle405">I have never felt so sorry<br/>for any individual in their job.</p>
+<p begin="14036666666t" end="14066000000t" region="rgn00001" xml:id="subtitle406">Because every day<br/>he had no new information.</p>
+<p begin="14066666666t" end="14103000000t" region="rgn00001" xml:id="subtitle407">And he had to face<br/>a ballroom full of Chinese people.</p>
+<p begin="14103666666t" end="14131333333t" region="rgn00001" xml:id="subtitle408">’Cause there were 239 missing people.<br/>Most were Chinese.</p>
+<p begin="14132000000t" end="14165666666t" region="rgn00001" xml:id="subtitle409">Their families have been flown in.<br/>He couldn’t even make eye contact.</p>
+<p begin="14166333333t" end="14210666666t" region="rgn00001" xml:id="subtitle410">He would just come out and go,<br/>“Brrrr. Ah, ha, yeah.</p>
+<p begin="14211333333t" end="14274333333t" region="rgn00001" xml:id="subtitle411">Well, uh, once again,<br/>I have new no information on Flight 370.</p>
+<p begin="14275000000t" end="14295000000t" region="rgn00001" xml:id="subtitle412">It’s a very bad situation.</p>
+<p begin="14295666666t" end="14321333333t" region="rgn00001" xml:id="subtitle413">We cannot find our airplane.</p>
+<p begin="14341666666t" end="14362666666t" region="rgn00001" xml:id="subtitle414">We have called Australia.</p>
+<p begin="14363333333t" end="14389666666t" region="rgn00001" xml:id="subtitle415">They’re gonna help us look<br/>for our airplane.</p>
+<p begin="14390333333t" end="14405333333t" region="rgn00001" xml:id="subtitle416">Sometimes you lose something.</p>
+<p begin="14406000000t" end="14434666666t" region="rgn00001" xml:id="subtitle417">You can’t find it,<br/>and you have to ask for help.</p>
+<p begin="14435333333t" end="14454666666t" region="rgn00001" xml:id="subtitle418">‘Hey, have you seen my keys?’</p>
+<p begin="14455333333t" end="14473333333t" region="rgn00001" xml:id="subtitle419">That’s the kind of situation.</p>
+<p begin="14483000000t" end="14493000000t" region="rgn00001" xml:id="subtitle420">Sorry.”</p>
+<p begin="14493666666t" end="14512333333t" region="rgn00001" xml:id="subtitle421">Then he would leave.</p>
+<p begin="14524333333t" end="14541333333t" region="rgn00001" xml:id="subtitle422">I’m like, “This is a real airline.</p>
+<p begin="14542000000t" end="14558333333t" region="rgn00001" xml:id="subtitle423">They’re open. Today.</p>
+<p begin="14559000000t" end="14588000000t" region="rgn00001" xml:id="subtitle424">I check every day. I google.</p>
+<p begin="14588666666t" end="14615000000t" region="rgn00001" xml:id="subtitle425">This is a real working airline.”</p>
+<p begin="14615666666t" end="14651333333t" region="rgn00001" xml:id="subtitle426">And the Chinese people were so kind,<br/>I thought. Like in patient.</p>
+<p begin="14652000000t" end="14669666666t" region="rgn00001" xml:id="subtitle427">He would come out day after day.</p>
+<p begin="14670333333t" end="14689000000t" region="rgn00001" xml:id="subtitle428">There’s nothing.<br/>There was very little reaction.</p>
+<p begin="14689666666t" end="14712666666t" region="rgn00001" xml:id="subtitle429">Week three he came out.</p>
+<p begin="14713333333t" end="14724333333t" region="rgn00001" xml:id="subtitle430">“Ah, brrrr.</p>
+<p begin="14725000000t" end="14763666666t" region="rgn00001" xml:id="subtitle431">Ah, yeah, once again,</p>
+<p begin="14764333333t" end="14788666666t" region="rgn00001" xml:id="subtitle432">I have no new information on flight.</p>
+<p begin="14789333333t" end="14807333333t" region="rgn00001" xml:id="subtitle433">We still cannot find our airplane.</p>
+<p begin="14808000000t" end="14848000000t" region="rgn00001" xml:id="subtitle434">It’s a really, really,<br/>really bad situation.</p>
+<p begin="14856333333t" end="14877000000t" region="rgn00001" xml:id="subtitle435">We do know this now though.</p>
+<p begin="14877666666t" end="14920666666t" region="rgn00001" xml:id="subtitle436">We have been looking in the wrong ocean.<br/>Ha ha!”</p>
+<p begin="14939000000t" end="14963666666t" region="rgn00001" xml:id="subtitle437">What? What?</p>
+<p begin="14964333333t" end="14986000000t" region="rgn00001" xml:id="subtitle438">What? What?</p>
+<p begin="14986666666t" end="15008333333t" region="rgn00001" xml:id="subtitle439">“Ah, yeah, that ocean wrong.</p>
+<p begin="15009000000t" end="15043000000t" region="rgn00001" xml:id="subtitle440">Maybe now over here.<br/>We’re gonna look over here in this ocean.”</p>
+<p begin="15043666666t" end="15057666666t" region="rgn00001" xml:id="subtitle441">What?</p>
+<p begin="15058333333t" end="15068666666t" region="rgn00001" xml:id="subtitle442">The wrong ocean?</p>
+<p begin="15069333333t" end="15127666666t" region="rgn00001" xml:id="subtitle443">That is an acceptable statement<br/>in the year 1492 regarding a boat.</p>
+<p begin="15133333333t" end="15159666666t" region="rgn00001" xml:id="subtitle444">“I don’t know where it went, man.<br/>I told you the world was flat.</p>
+<p begin="15160333333t" end="15184333333t" region="rgn00001" xml:id="subtitle445">Maybe it just fell off. I don’t know.”</p>
+<p begin="15185000000t" end="15232666666t" region="rgn00001" xml:id="subtitle446">That is not an acceptable statement<br/>in the year 2014. Unbelievable.</p>
+<p begin="15233333333t" end="15267333333t" region="rgn00001" xml:id="subtitle447">And once again, the Chinese people,<br/>they just didn’t really react.</p>
+<p begin="15268000000t" end="15289333333t" region="rgn00001" xml:id="subtitle448">And I thought, “Oh, my God. That’s--</p>
+<p begin="15290000000t" end="15313333333t" region="rgn00001" xml:id="subtitle449">That’s the day where my Irish temper--</p>
+<p begin="15314000000t" end="15335333333t" region="rgn00001" xml:id="subtitle450">Every--<br/>Every single valve would have burst.”</p>
+<p begin="15336000000t" end="15360333333t" region="rgn00001" xml:id="subtitle451">I could’ve had a can of Aqua Net<br/>and a lighter,</p>
+<p begin="15361000000t" end="15393666666t" region="rgn00001" xml:id="subtitle452">and that man would have burst<br/>into a pillar of fire.</p>
+<p begin="15394333333t" end="15423000000t" region="rgn00001" xml:id="subtitle453">A biblical pillar of fire<br/>on CNN International.</p>
+<p begin="15423666666t" end="15435000000t" region="rgn00001" xml:id="subtitle454">And I would’ve done it</p>
+<p begin="15435666666t" end="15460666666t" region="rgn00001" xml:id="subtitle455">knowing full well I’m gonna be arrested<br/>and tried for murder,</p>
+<p begin="15461333333t" end="15472666666t" region="rgn00001" xml:id="subtitle456">which would’ve been fine.</p>
+<p begin="15473333333t" end="15498333333t" region="rgn00001" xml:id="subtitle457">And I would say, “Yes, please let me take<br/>the witness stand.”</p>
+<p begin="15499000000t" end="15529000000t" region="rgn00001" xml:id="subtitle458">’Cause I don’t care what question<br/>I’m asked. I have a two-word answer.</p>
+<p begin="15529666666t" end="15567000000t" region="rgn00001" xml:id="subtitle459">“Miss Madigan, is it true that you took<br/>Aqua Net and a lighter into the ballroom?”</p>
+<p begin="15567666666t" end="15592666666t" region="rgn00001" xml:id="subtitle460">“Huh. Wrong ocean. Ha!”</p>
+<p begin="15638666666t" end="15651666666t" region="rgn00001" xml:id="subtitle461">“Wrong ocean.”</p>
+<p begin="15652333333t" end="15670000000t" region="rgn00001" xml:id="subtitle462">Unbelievable.</p>
+<p begin="15670666666t" end="15696333333t" region="rgn00001" xml:id="subtitle463">The Chinese people, though,<br/>are still pretty kind.</p>
+<p begin="15697000000t" end="15736333333t" region="rgn00001" xml:id="subtitle464">Day 72, for those of you who are<br/>not obsessed with missing airplanes,</p>
+<p begin="15737000000t" end="15762333333t" region="rgn00001" xml:id="subtitle465">um, that’s the last day of hope</p>
+<p begin="15763000000t" end="15798000000t" region="rgn00001" xml:id="subtitle466">because the ping device<br/>can no longer possibly operate.</p>
+<p begin="15798666666t" end="15827333333t" region="rgn00001" xml:id="subtitle467">There’s the black box<br/>and then there’s a ping thing</p>
+<p begin="15828000000t" end="15844000000t" region="rgn00001" xml:id="subtitle468">that emits a sonar sound.</p>
+<p begin="15844666666t" end="15905333333t" region="rgn00001" xml:id="subtitle469">Now, this is assuming one<br/>had put batteries in their ping device.</p>
+<p begin="15906000000t" end="15922000000t" region="rgn00001" xml:id="subtitle470">Yeah. Google this.</p>
+<p begin="15922666666t" end="15952333333t" region="rgn00001" xml:id="subtitle471">About five months ago,<br/>they had a little secret announcement</p>
+<p begin="15953000000t" end="15967000000t" region="rgn00001" xml:id="subtitle472">’cause they thought everybody forgot.</p>
+<p begin="15967666666t" end="15992333333t" region="rgn00001" xml:id="subtitle473">“Ah, yeah, one more thing.</p>
+<p begin="15993000000t" end="16014333333t" region="rgn00001" xml:id="subtitle474">Ha ha. About that airplane.</p>
+<p begin="16015000000t" end="16052000000t" region="rgn00001" xml:id="subtitle475">Um, we never had batteries in that.</p>
+<p begin="16052666666t" end="16067333333t" region="rgn00001" xml:id="subtitle476">Yeah. Sorry.</p>
+<p begin="16068000000t" end="16084666666t" region="rgn00001" xml:id="subtitle477">Well, you know, sometimes at home</p>
+<p begin="16085333333t" end="16105666666t" region="rgn00001" xml:id="subtitle478">your remote control,<br/>your batteries go dead,</p>
+<p begin="16106333333t" end="16132000000t" region="rgn00001" xml:id="subtitle479">and you go to a different remote control,</p>
+<p begin="16132666666t" end="16162666666t" region="rgn00001" xml:id="subtitle480">and you take those batteries<br/>and you put ’em in this remote control.</p>
+<p begin="16163333333t" end="16188333333t" region="rgn00001" xml:id="subtitle481">And then later on,<br/>you go for the other old one.</p>
+<p begin="16189000000t" end="16206000000t" region="rgn00001" xml:id="subtitle482">You go, ‘Uh-oh. I forgot.’</p>
+<p begin="16206666666t" end="16230000000t" region="rgn00001" xml:id="subtitle483">That’s what happened.</p>
+<p begin="16236666666t" end="16247333333t" region="rgn00001" xml:id="subtitle484">Sorry.”</p>
+<p begin="16280333333t" end="16306000000t" region="rgn00001" xml:id="subtitle485">They are open.</p>
+<p begin="16314666666t" end="16337666666t" region="rgn00001" xml:id="subtitle486">So day 72.</p>
+<p begin="16338333333t" end="16358333333t" region="rgn00001" xml:id="subtitle487">At the time the Chinese people<br/>don’t know that there’s--</p>
+<p begin="16359000000t" end="16384666666t" region="rgn00001" xml:id="subtitle488">They don’t know there’s no batteries.<br/>They believe there were batteries in it.</p>
+<p begin="16385333333t" end="16423000000t" region="rgn00001" xml:id="subtitle489">He comes out, and I thought, “Whatever<br/>you do, just don’t say it the same way.</p>
+<p begin="16423666666t" end="16449000000t" region="rgn00001" xml:id="subtitle490">Phrase it differently.” No. No.</p>
+<p begin="16449666666t" end="16468666666t" region="rgn00001" xml:id="subtitle491">He came out, “Brrrr.</p>
+<p begin="16469333333t" end="16499666666t" region="rgn00001" xml:id="subtitle492">Ah, ha, yeah, once again,</p>
+<p begin="16500333333t" end="16536666666t" region="rgn00001" xml:id="subtitle493">I have no new information on Flight 370.”</p>
+<p begin="16537333333t" end="16559666666t" region="rgn00001" xml:id="subtitle494">And finally,<br/>the Chinese people lost their minds.</p>
+<p begin="16560333333t" end="16584333333t" region="rgn00001" xml:id="subtitle495">An old man, like, rolls back,</p>
+<p begin="16585000000t" end="16631000000t" region="rgn00001" xml:id="subtitle496">flicked a lit cigarette<br/>at that man’s head, live on TV.</p>
+<p begin="16631666666t" end="16683333333t" region="rgn00001" xml:id="subtitle497">Sadly, my first thought was,<br/>“Wow. You can still smoke inside...</p>
+<p begin="16693666666t" end="16720000000t" region="rgn00001" xml:id="subtitle498">in a Hilton in Malaysia.”</p>
+<p begin="16720666666t" end="16752666666t" region="rgn00001" xml:id="subtitle499">Note to self: Vacation in Kuala Lumpur.</p>
+<p begin="16753333333t" end="16793333333t" region="rgn00001" xml:id="subtitle500">Take different airline. Check Southwest.<br/>That airline’s ridiculous.</p>
+<p begin="16834000000t" end="16867666666t" region="rgn00001" xml:id="subtitle501">And then the older women<br/>started losing it.</p>
+<p begin="16868333333t" end="16900666666t" region="rgn00001" xml:id="subtitle502">Like, literally, having heart attacks.<br/>911 is being called. It’s bedlam.</p>
+<p begin="16901333333t" end="16929666666t" region="rgn00001" xml:id="subtitle503">They have finally reached<br/>their maximum potential of patience.</p>
+<p begin="16930333333t" end="16940333333t" region="rgn00001" xml:id="subtitle504">They’re out of it.</p>
+<p begin="16941000000t" end="16964333333t" region="rgn00001" xml:id="subtitle505">I happen to be home<br/>watching it with my parents.</p>
+<p begin="16965000000t" end="16992666666t" region="rgn00001" xml:id="subtitle506">My dad, who does not like<br/>public displays of emotion,</p>
+<p begin="16993333333t" end="17026333333t" region="rgn00001" xml:id="subtitle507">was like, “Oh, my God. Jesus Christ.<br/>They got to get it together.</p>
+<p begin="17027000000t" end="17052666666t" region="rgn00001" xml:id="subtitle508">They got to get it together.<br/>Do they know they’re on television?</p>
+<p begin="17053333333t" end="17078666666t" region="rgn00001" xml:id="subtitle509">Are they aware that people can see?”</p>
+<p begin="17079333333t" end="17114000000t" region="rgn00001" xml:id="subtitle510">My mom interrupts with--<br/>And I have six siblings.</p>
+<p begin="17114666666t" end="17155333333t" region="rgn00001" xml:id="subtitle511">“Well, Jack, you have to understand<br/>it’s extra sad for the Chinese people</p>
+<p begin="17156000000t" end="17183333333t" region="rgn00001" xml:id="subtitle512">because they only have one child.”</p>
+<p begin="17233333333t" end="17253666666t" region="rgn00001" xml:id="subtitle513">I go, “Hold on a second.</p>
+<p begin="17273000000t" end="17301333333t" region="rgn00001" xml:id="subtitle514">So are you saying, Mom,</p>
+<p begin="17302000000t" end="17364333333t" region="rgn00001" xml:id="subtitle515">it would only be a seventh as sad<br/>if I went missing forever?”</p>
+<p begin="17372000000t" end="17402666666t" region="rgn00001" xml:id="subtitle516">“Yes, that’s what I’m saying. Yes.</p>
+<p begin="17415666666t" end="17437000000t" region="rgn00001" xml:id="subtitle517">You may not wanna hear that,<br/>but that’s the truth.</p>
+<p begin="17437666666t" end="17469000000t" region="rgn00001" xml:id="subtitle518">I mean, we have six other children.<br/>They have children.</p>
+<p begin="17469666666t" end="17492000000t" region="rgn00001" xml:id="subtitle519">Your father and I have<br/>casino buffet tickets.</p>
+<p begin="17492666666t" end="17520333333t" region="rgn00001" xml:id="subtitle520">We are leading a full life.”</p>
+<p begin="17554333333t" end="17570000000t" region="rgn00001" xml:id="subtitle521">Yes, you are.</p>
+<p begin="17582666666t" end="17605666666t" region="rgn00001" xml:id="subtitle522">Seven kids. It’s too many.</p>
+<p begin="17606333333t" end="17625000000t" region="rgn00001" xml:id="subtitle523">Nobody notices though.<br/>That’s a good thing.</p>
+<p begin="17625666666t" end="17643666666t" region="rgn00001" xml:id="subtitle524">If you’re one of seven,<br/>no one notices anything.</p>
+<p begin="17644333333t" end="17667000000t" region="rgn00001" xml:id="subtitle525">Like, I’m surprised--<br/>I have friends who have one or two kids.</p>
+<p begin="17667666666t" end="17698666666t" region="rgn00001" xml:id="subtitle526">They speak to them<br/>about their feelings and their thoughts,</p>
+<p begin="17699333333t" end="17737000000t" region="rgn00001" xml:id="subtitle527">and they address them individually.</p>
+<p begin="17749000000t" end="17776333333t" region="rgn00001" xml:id="subtitle528">’Cause my friends are like,<br/>“Oh, you guys didn’t?” “No.”</p>
+<p begin="17777000000t" end="17792666666t" region="rgn00001" xml:id="subtitle529">No. Not with seven kids.</p>
+<p begin="17793333333t" end="17825000000t" region="rgn00001" xml:id="subtitle530">There were just announcements made.<br/>That’s all.</p>
+<p begin="17825666666t" end="17874000000t" region="rgn00001" xml:id="subtitle531">“We’re moving.”<br/>“Oh, fuck. What? What? What? When?”</p>
+<p begin="17874666666t" end="17908666666t" region="rgn00001" xml:id="subtitle532">“Your mother’s already in the car. I don’t<br/>know what’s going on with you people.”</p>
+<p begin="17995666666t" end="18012333333t" region="rgn00001" xml:id="subtitle533">Nobody notices when you’re one of seven.</p>
+<p begin="18013000000t" end="18040333333t" region="rgn00001" xml:id="subtitle534">Which was fine with me. I didn’t<br/>mind that. I would still choose that.</p>
+<p begin="18041000000t" end="18064333333t" region="rgn00001" xml:id="subtitle535">But sometimes to the point of,<br/>“Really, guys?”</p>
+<p begin="18065000000t" end="18092333333t" region="rgn00001" xml:id="subtitle536">I do not watch myself on TV.</p>
+<p begin="18093000000t" end="18115666666t" region="rgn00001" xml:id="subtitle537">I was 35 years old,<br/>and I walked into my parents’ house,</p>
+<p begin="18116333333t" end="18138666666t" region="rgn00001" xml:id="subtitle538">and they somehow had me on their TV,</p>
+<p begin="18139333333t" end="18188333333t" region="rgn00001" xml:id="subtitle539">and I looked at it and I go,<br/>“Ah. What is wrong with my eye?”</p>
+<p begin="18197000000t" end="18225666666t" region="rgn00001" xml:id="subtitle540">My dad goes, “You mean your lazy one?”</p>
+<p begin="18226333333t" end="18236333333t" region="rgn00001" xml:id="subtitle541">“What?</p>
+<p begin="18250000000t" end="18274333333t" region="rgn00001" xml:id="subtitle542">What?” “Yeah, your right eye.</p>
+<p begin="18275000000t" end="18315333333t" region="rgn00001" xml:id="subtitle543">When you get tired or nervous,<br/>it twitches and kind of jumps around.</p>
+<p begin="18316000000t" end="18339000000t" region="rgn00001" xml:id="subtitle544">You-- You don’t feel that happening?”</p>
+<p begin="18339666666t" end="18367333333t" region="rgn00001" xml:id="subtitle545">“No. No, I didn’t know.<br/>I didn’t know that was happening.</p>
+<p begin="18382333333t" end="18406666666t" region="rgn00001" xml:id="subtitle546">How long has that been going on?”</p>
+<p begin="18407333333t" end="18437666666t" region="rgn00001" xml:id="subtitle547">“I mean, since you were a baby.<br/>I mean, they, uh...</p>
+<p begin="18447000000t" end="18476666666t" region="rgn00001" xml:id="subtitle548">told us to put a patch on you,<br/>but you can’t have a baby girl pirate.</p>
+<p begin="18477333333t" end="18485666666t" region="rgn00001" xml:id="subtitle549">That’s crazy.</p>
+<p begin="18491333333t" end="18505333333t" region="rgn00001" xml:id="subtitle550">So, uh...</p>
+<p begin="18527333333t" end="18549333333t" region="rgn00001" xml:id="subtitle551">we thought you’d grow out of it,<br/>quite frankly,</p>
+<p begin="18550000000t" end="18570666666t" region="rgn00001" xml:id="subtitle552">and clearly you have not, Kathleen.</p>
+<p begin="18571333333t" end="18593000000t" region="rgn00001" xml:id="subtitle553">So if I were you,<br/>before you go on television,</p>
+<p begin="18593666666t" end="18624000000t" region="rgn00001" xml:id="subtitle554">I would get a nap or calm down,<br/>’cause it’s--”</p>
+<p begin="18702666666t" end="18722000000t" region="rgn00001" xml:id="subtitle555">I didn’t really know<br/>how small families worked</p>
+<p begin="18722666666t" end="18743666666t" region="rgn00001" xml:id="subtitle556">till I got to go over<br/>to other friends’ houses.</p>
+<p begin="18744333333t" end="18784333333t" region="rgn00001" xml:id="subtitle557">When you’re in second grade or whatever,<br/>my friend across the street, Bob,</p>
+<p begin="18785000000t" end="18812000000t" region="rgn00001" xml:id="subtitle558">he would say,<br/>“That’s my mom and that’s my sister.”</p>
+<p begin="18812666666t" end="18853333333t" region="rgn00001" xml:id="subtitle559">And I’m like, “Well, where is everyone?”<br/>Like, I don’t wanna say anything.</p>
+<p begin="18854000000t" end="18881666666t" region="rgn00001" xml:id="subtitle560">Maybe there was a house fire<br/>or, you know, some sort of tragedy.</p>
+<p begin="18882333333t" end="18898333333t" region="rgn00001" xml:id="subtitle561">But this is weird.</p>
+<p begin="18923333333t" end="18949000000t" region="rgn00001" xml:id="subtitle562">I think smaller families are kinder.<br/>They say kinder things.</p>
+<p begin="18949666666t" end="18978666666t" region="rgn00001" xml:id="subtitle563">I don’t know if they mean them,<br/>but I heard “I love you” a lot.</p>
+<p begin="18979333333t" end="19001000000t" region="rgn00001" xml:id="subtitle564">“I love you.” “love you too.”<br/>“Love you more than yesterday.”</p>
+<p begin="19001666666t" end="19039000000t" region="rgn00001" xml:id="subtitle565">“Ha! Love you more than tomorrow.”<br/>And it’s not even today.</p>
+<p begin="19047666666t" end="19084333333t" region="rgn00001" xml:id="subtitle566">I would just stand there paralyzed<br/>and uncomfortable.</p>
+<p begin="19085000000t" end="19116666666t" region="rgn00001" xml:id="subtitle567">“You guys don’t say ‘I love you’?” “No.”</p>
+<p begin="19124333333t" end="19147000000t" region="rgn00001" xml:id="subtitle568">There are nine people in my house.</p>
+<p begin="19147666666t" end="19180333333t" region="rgn00001" xml:id="subtitle569">Saying “I love you”<br/>would be a sign of weakness.</p>
+<p begin="19212000000t" end="19246333333t" region="rgn00001" xml:id="subtitle570">They need to wake up<br/>and wonder how I feel about their ass.</p>
+<p begin="19247000000t" end="19267666666t" region="rgn00001" xml:id="subtitle571">I’m not giving them that.</p>
+<p begin="19284333333t" end="19316000000t" region="rgn00001" xml:id="subtitle572">And at this age if I walked into a room<br/>and all my siblings were sitting there</p>
+<p begin="19316666666t" end="19338000000t" region="rgn00001" xml:id="subtitle573">and they started to say “I love you,”<br/>I’d run out</p>
+<p begin="19338666666t" end="19366000000t" region="rgn00001" xml:id="subtitle574">because I would know<br/>this is some sort of intervention,</p>
+<p begin="19366666666t" end="19386666666t" region="rgn00001" xml:id="subtitle575">and I’m not falling for that.</p>
+<p begin="19387333333t" end="19425333333t" region="rgn00001" xml:id="subtitle576">I’m not listening<br/>to your dumb-ass sad letter.</p>
+<p begin="19441666666t" end="19458666666t" region="rgn00001" xml:id="subtitle577">“Dear Kathleen.”</p>
+<p begin="19504666666t" end="19525000000t" region="rgn00001" xml:id="subtitle578">We went to Catholic schools.</p>
+<p begin="19525666666t" end="19543333333t" region="rgn00001" xml:id="subtitle579">-Uh, yeah, I didn’t mind.<br/>-[man] Whoo!</p>
+<p begin="19544000000t" end="19577000000t" region="rgn00001" xml:id="subtitle580">If I had kids, I would make them go to<br/>a Catholic school, ’cause I’ll tell you,</p>
+<p begin="19577666666t" end="19610666666t" region="rgn00001" xml:id="subtitle581">the one thing I guarantee you, if<br/>you send your kids to a Catholic school,</p>
+<p begin="19611333333t" end="19637000000t" region="rgn00001" xml:id="subtitle582">they will never join ISIS.</p>
+<p begin="19654333333t" end="19695666666t" region="rgn00001" xml:id="subtitle583">Somebody would’ve said to me at age 18<br/>after all that Catholicism,</p>
+<p begin="19696333333t" end="19730000000t" region="rgn00001" xml:id="subtitle584">“Hey, could we talk to you<br/>about our religion for a minute?”</p>
+<p begin="19730666666t" end="19758333333t" region="rgn00001" xml:id="subtitle585">Ha ha ha ha ha ha!</p>
+<p begin="19759000000t" end="19778333333t" region="rgn00001" xml:id="subtitle586">“No, you may not.</p>
+<p begin="19779000000t" end="19817333333t" region="rgn00001" xml:id="subtitle587">You are 18 years late to this party,<br/>Muhammad. You--”</p>
+<p begin="19858333333t" end="19887666666t" region="rgn00001" xml:id="subtitle588">[Kathleen chuckling]</p>
+<p begin="19888333333t" end="19908000000t" region="rgn00001" xml:id="subtitle589">I think being Catholic is Christian,</p>
+<p begin="19908666666t" end="19954333333t" region="rgn00001" xml:id="subtitle590">but it’s been pointed out to me many times<br/>in the South that they’re not the same.</p>
+<p begin="19955000000t" end="19976666666t" region="rgn00001" xml:id="subtitle591">’Cause in the South, they’ll go,<br/>“Oh, are you Christian?”</p>
+<p begin="19977333333t" end="20005333333t" region="rgn00001" xml:id="subtitle592">I’ll go, “Yeah, I’m Catholic.”<br/>“Oh, well, we’re Christian.”</p>
+<p begin="20006000000t" end="20039666666t" region="rgn00001" xml:id="subtitle593">“Oh, okay. I thought we said<br/>the same thing, but I guess not.”</p>
+<p begin="20053333333t" end="20066000000t" region="rgn00001" xml:id="subtitle594">There are differences.</p>
+<p begin="20066666666t" end="20098666666t" region="rgn00001" xml:id="subtitle595">The Christians have a direct relationship<br/>with Jesus. They speak of it like that.</p>
+<p begin="20099333333t" end="20126000000t" region="rgn00001" xml:id="subtitle596">“You know what?<br/>Me and my relationship with Jesus.</p>
+<p begin="20126666666t" end="20142666666t" region="rgn00001" xml:id="subtitle597">I love Jesus. Jesus loves me.”</p>
+<p begin="20143333333t" end="20173666666t" region="rgn00001" xml:id="subtitle598">It’s a direct, very solid relationship<br/>with Jesus.</p>
+<p begin="20174333333t" end="20206333333t" region="rgn00001" xml:id="subtitle599">And I thought, “Wow. Really?<br/>You guys go straight to Jesus.”</p>
+<p begin="20207000000t" end="20257333333t" region="rgn00001" xml:id="subtitle600">In a Catholic school, I was given<br/>a laundry list of people to contact...</p>
+<p begin="20271333333t" end="20318000000t" region="rgn00001" xml:id="subtitle601">before, the nuns said,<br/>because otherwise I’m bothering Jesus.</p>
+<p begin="20318666666t" end="20368000000t" region="rgn00001" xml:id="subtitle602">“You are gonna call these people,<br/>Kathleen, before you bother Jesus.</p>
+<p begin="20368666666t" end="20387666666t" region="rgn00001" xml:id="subtitle603">You could start with your guardian angel.</p>
+<p begin="20388333333t" end="20426000000t" region="rgn00001" xml:id="subtitle604">He’s got nothing to do 24 hours a day<br/>except tend to your needs.</p>
+<p begin="20426666666t" end="20451333333t" region="rgn00001" xml:id="subtitle605">If he’s not available,</p>
+<p begin="20452000000t" end="20487666666t" region="rgn00001" xml:id="subtitle606">you can speak to the saint in charge<br/>of the activity you’re upset about.</p>
+<p begin="20488333333t" end="20524000000t" region="rgn00001" xml:id="subtitle607">Every single saint<br/>has been assigned an assignment.</p>
+<p begin="20524666666t" end="20553000000t" region="rgn00001" xml:id="subtitle608">You can speak to Jesus’ mother<br/>if you’d like to.</p>
+<p begin="20553666666t" end="20573666666t" region="rgn00001" xml:id="subtitle609">You can give Mary a shout.</p>
+<p begin="20574333333t" end="20610333333t" region="rgn00001" xml:id="subtitle610">But you are not to bother Jesus.”</p>
+<p begin="20625333333t" end="20646333333t" region="rgn00001" xml:id="subtitle611">Okeydokey.</p>
+<p begin="20699333333t" end="20725666666t" region="rgn00001" xml:id="subtitle612">Even if I did something bad,<br/>I couldn’t tell Jesus.</p>
+<p begin="20726333333t" end="20743000000t" region="rgn00001" xml:id="subtitle613">I had to go to confession.</p>
+<p begin="20743666666t" end="20772666666t" region="rgn00001" xml:id="subtitle614">I had to get in a creepy closet<br/>with a guy in the dark.</p>
+<p begin="20773333333t" end="20803000000t" region="rgn00001" xml:id="subtitle615">And then I had to tell him,<br/>and he’s gonna tell a guy.</p>
+<p begin="20809000000t" end="20836000000t" region="rgn00001" xml:id="subtitle616">And I wasn’t good at confession<br/>because my dad, for many years,</p>
+<p begin="20836666666t" end="20852666666t" region="rgn00001" xml:id="subtitle617">was a defense attorney.</p>
+<p begin="20853333333t" end="20887666666t" region="rgn00001" xml:id="subtitle618">And starting in second grade,<br/>he would tell us all at the dinner table,</p>
+<p begin="20888333333t" end="20925333333t" region="rgn00001" xml:id="subtitle619">“I want all of you kids to remember<br/>if the police capture you</p>
+<p begin="20926000000t" end="20960333333t" region="rgn00001" xml:id="subtitle620">or anyone in a position of authority<br/>ask you questions,</p>
+<p begin="20961000000t" end="21016000000t" region="rgn00001" xml:id="subtitle621">your response, no matter what, are<br/>‘I do not recall, I need an attorney.</p>
+<p begin="21016666666t" end="21042666666t" region="rgn00001" xml:id="subtitle622">I do not recall, I need an attorney.’</p>
+<p begin="21057333333t" end="21078666666t" region="rgn00001" xml:id="subtitle623">Ninety percent of people are in prison</p>
+<p begin="21079333333t" end="21105666666t" region="rgn00001" xml:id="subtitle624">because they can’t keep<br/>their goddamn mouths shut.</p>
+<p begin="21106333333t" end="21145333333t" region="rgn00001" xml:id="subtitle625">Never, ever snitch on yourself.”</p>
+<p begin="21165333333t" end="21191000000t" region="rgn00001" xml:id="subtitle626">And then I would go to confession<br/>in the closet,</p>
+<p begin="21191666666t" end="21237666666t" region="rgn00001" xml:id="subtitle627">and the priest would go,<br/>“Kathleen, have you done anything bad?</p>
+<p begin="21238333333t" end="21262333333t" region="rgn00001" xml:id="subtitle628">Is there anything<br/>you’d like to tell me about?”</p>
+<p begin="21263000000t" end="21279666666t" region="rgn00001" xml:id="subtitle629">[Kathleen chuckles]</p>
+<p begin="21280333333t" end="21311666666t" region="rgn00001" xml:id="subtitle630">I’m not falling for this.<br/>My dad’s probably planted him here.</p>
+<p begin="21312333333t" end="21335666666t" region="rgn00001" xml:id="subtitle631">I know-- I know what I’m supposed to say.</p>
+<p begin="21352333333t" end="21396333333t" region="rgn00001" xml:id="subtitle632">“I’m sorry, Father, but I do not recall<br/>and I need an attorney.”</p>
+<p begin="21482000000t" end="21496000000t" region="rgn00001" xml:id="subtitle633">“Honey, you’re only in second grade.”</p>
+<p begin="21496666666t" end="21514666666t" region="rgn00001" xml:id="subtitle634">“Well, maybe you don’t know this,<br/>Father Anthony,</p>
+<p begin="21515333333t" end="21550333333t" region="rgn00001" xml:id="subtitle635">but 90% of people are in prison</p>
+<p begin="21551000000t" end="21584333333t" region="rgn00001" xml:id="subtitle636">because they can’t keep<br/>their goddamn mouths shut.</p>
+<p begin="21585000000t" end="21619000000t" region="rgn00001" xml:id="subtitle637">If you’d like<br/>some more information on that--”</p>
+<p begin="21666333333t" end="21693333333t" region="rgn00001" xml:id="subtitle638">If you’re from a big family,<br/>you know you never say anything directly</p>
+<p begin="21694000000t" end="21719666666t" region="rgn00001" xml:id="subtitle639">to the sibling that you intend<br/>on saying something</p>
+<p begin="21720333333t" end="21737333333t" region="rgn00001" xml:id="subtitle640">till you say it to a different sibling.</p>
+<p begin="21738000000t" end="21748000000t" region="rgn00001" xml:id="subtitle641">They’ll say it to another,</p>
+<p begin="21748666666t" end="21778666666t" region="rgn00001" xml:id="subtitle642">and then eventually it’ll get back<br/>to the sibling you intended it to say.</p>
+<p begin="21779333333t" end="21797000000t" region="rgn00001" xml:id="subtitle643">I, uh--</p>
+<p begin="21797666666t" end="21824000000t" region="rgn00001" xml:id="subtitle644">This year at Christmas, my brother said,</p>
+<p begin="21824666666t" end="21857666666t" region="rgn00001" xml:id="subtitle645">“You should be on time<br/>because last year you were late.”</p>
+<p begin="21858333333t" end="21895666666t" region="rgn00001" xml:id="subtitle646">And he said that our other sister<br/>said I ruined Christmas.</p>
+<p begin="21901666666t" end="21945333333t" region="rgn00001" xml:id="subtitle647">I go, “Really? Did she say that?<br/>I ruined it? I’m calling her.”</p>
+<p begin="21946000000t" end="21980666666t" region="rgn00001" xml:id="subtitle648">I go, “Did you say I ruined Christmas?”</p>
+<p begin="21981333333t" end="22000666666t" region="rgn00001" xml:id="subtitle649">[scoffs] “Well, I might’ve.</p>
+<p begin="22001333333t" end="22030333333t" region="rgn00001" xml:id="subtitle650">I mean, you were late.<br/>Everybody knew to get there at 9:30.</p>
+<p begin="22031000000t" end="22054000000t" region="rgn00001" xml:id="subtitle651">You didn’t get there until 10:00.<br/>The kids were all excited.</p>
+<p begin="22054666666t" end="22077333333t" region="rgn00001" xml:id="subtitle652">Everyone was excited.<br/>We had to wait ’cause you had to stop--”</p>
+<p begin="22078000000t" end="22113666666t" region="rgn00001" xml:id="subtitle653">I go, “Okay, I agree. I was late.<br/>I apologize for that.</p>
+<p begin="22114333333t" end="22138333333t" region="rgn00001" xml:id="subtitle654">But I would like<br/>to point out for the future</p>
+<p begin="22139000000t" end="22173000000t" region="rgn00001" xml:id="subtitle655">that I think you and I have<br/>very different definitions</p>
+<p begin="22173666666t" end="22197333333t" region="rgn00001" xml:id="subtitle656">of what ruining Christmas would be.”</p>
+<p begin="22210666666t" end="22233333333t" region="rgn00001" xml:id="subtitle657">To me, ruining Christmas</p>
+<p begin="22234000000t" end="22261666666t" region="rgn00001" xml:id="subtitle658">would be if I would’ve walked<br/>into Mom and Dad’s house</p>
+<p begin="22262333333t" end="22303666666t" region="rgn00001" xml:id="subtitle659">with a 12-gauge shotgun<br/>and shot them in the face.</p>
+<p begin="22304333333t" end="22337333333t" region="rgn00001" xml:id="subtitle660">I think that ruins Christmas.</p>
+<p begin="22338000000t" end="22362000000t" region="rgn00001" xml:id="subtitle661">It ruins the rest of the Christmases<br/>after that,</p>
+<p begin="22362666666t" end="22391333333t" region="rgn00001" xml:id="subtitle662">’cause you can’t ever have<br/>another Christmas without going,</p>
+<p begin="22392000000t" end="22425666666t" region="rgn00001" xml:id="subtitle663">“Oh, my God. Remember that one Christmas<br/>when Kathleen went crazy</p>
+<p begin="22426333333t" end="22455333333t" region="rgn00001" xml:id="subtitle664">and shot Mom and Dad in the face?<br/>It was horrible.”</p>
+<p begin="22518666666t" end="22553000000t" region="rgn00001" xml:id="subtitle665">My siblings have tons of kids.<br/>They’re everywhere.</p>
+<p begin="22553666666t" end="22571333333t" region="rgn00001" xml:id="subtitle666">I don’t have any, and I’m glad I don’t.</p>
+<p begin="22572000000t" end="22600333333t" region="rgn00001" xml:id="subtitle667">I don’t have the pressure<br/>of naming the kids. That’s awful.</p>
+<p begin="22601000000t" end="22627333333t" region="rgn00001" xml:id="subtitle668">My youngest brother,<br/>his name is John Patrick Madigan.</p>
+<p begin="22628000000t" end="22668333333t" region="rgn00001" xml:id="subtitle669">That’s my dad’s name, and that name<br/>has been in our family since 1853,</p>
+<p begin="22669000000t" end="22697000000t" region="rgn00001" xml:id="subtitle670">circa Ireland,<br/>as far as we can count back.</p>
+<p begin="22697666666t" end="22731333333t" region="rgn00001" xml:id="subtitle671">And then my youngest brother<br/>knew that they were having a boy,</p>
+<p begin="22732000000t" end="22760000000t" region="rgn00001" xml:id="subtitle672">and he called and said,<br/>“You know what? I’m not gonna do it.”</p>
+<p begin="22760666666t" end="22794666666t" region="rgn00001" xml:id="subtitle673">I go, “You’re not gonna name him<br/>John Patrick Madigan?”</p>
+<p begin="22795333333t" end="22810666666t" region="rgn00001" xml:id="subtitle674">He goes, “No.”</p>
+<p begin="22811333333t" end="22853000000t" region="rgn00001" xml:id="subtitle675">I go, “Well, I’ve never asked you<br/>for anything, but I would like to know</p>
+<p begin="22853666666t" end="22889000000t" region="rgn00001" xml:id="subtitle676">when and where you’re going<br/>to be telling Dad this information,</p>
+<p begin="22889666666t" end="22916666666t" region="rgn00001" xml:id="subtitle677">because I’m gonna bring a cooler of beer</p>
+<p begin="22917333333t" end="22944000000t" region="rgn00001" xml:id="subtitle678">’cause that’s how long<br/>his answer’s gonna be, Pat,</p>
+<p begin="22944666666t" end="22968000000t" region="rgn00001" xml:id="subtitle679">and it’s gonna involve<br/>the whole history of Ireland</p>
+<p begin="22968666666t" end="22985333333t" region="rgn00001" xml:id="subtitle680">and what’s wrong with English people</p>
+<p begin="22986000000t" end="23024666666t" region="rgn00001" xml:id="subtitle681">and they were actually potatoes,<br/>but they never gave ’em to the people</p>
+<p begin="23025333333t" end="23040666666t" region="rgn00001" xml:id="subtitle682">and Henry VIII.</p>
+<p begin="23041333333t" end="23073666666t" region="rgn00001" xml:id="subtitle683">Wha-- Why-- Why would you pick this fight?</p>
+<p begin="23074333333t" end="23095666666t" region="rgn00001" xml:id="subtitle684">Your name is John Patrick Madigan.<br/>We call you Patrick.</p>
+<p begin="23096333333t" end="23112666666t" region="rgn00001" xml:id="subtitle685">His is John Patrick Madigan.<br/>We call him Jack.</p>
+<p begin="23113333333t" end="23127666666t" region="rgn00001" xml:id="subtitle686">Grandpa was John Patrick Madigan.<br/>We call him--</p>
+<p begin="23128333333t" end="23159333333t" region="rgn00001" xml:id="subtitle687">You can call him Fuck Nut. Just name him.</p>
+<p begin="23165333333t" end="23201666666t" region="rgn00001" xml:id="subtitle688">This is a crazy fight, in my mind.</p>
+<p begin="23202333333t" end="23240000000t" region="rgn00001" xml:id="subtitle689">Don’t-- You’d have a better time<br/>telling Dad you’re gonna become a woman.</p>
+<p begin="23240666666t" end="23283000000t" region="rgn00001" xml:id="subtitle690">Seriously. ’Cause Mom would<br/>smooth it over ’cause you’re the baby.</p>
+<p begin="23283666666t" end="23301666666t" region="rgn00001" xml:id="subtitle691">Everyone in LA’s doing it.</p>
+<p begin="23302333333t" end="23328000000t" region="rgn00001" xml:id="subtitle692">Bruce Jenner. Cher’s son.”</p>
+<p begin="23328666666t" end="23354000000t" region="rgn00001" xml:id="subtitle693">I said, “Why? Why, Patrick? Why?”</p>
+<p begin="23354666666t" end="23388333333t" region="rgn00001" xml:id="subtitle694">He goes, “You don’t know what it’s like<br/>to live with somebody else’s name.</p>
+<p begin="23389000000t" end="23398333333t" region="rgn00001" xml:id="subtitle695">Exact same name.”</p>
+<p begin="23399000000t" end="23450333333t" region="rgn00001" xml:id="subtitle696">He goes, “You know, I cannot get Direct TV<br/>because Dad won’t pay their bill.”</p>
+<p begin="23478000000t" end="23494333333t" region="rgn00001" xml:id="subtitle697">What?</p>
+<p begin="23495000000t" end="23515000000t" region="rgn00001" xml:id="subtitle698">I go, “They don’t even have Direct TV.”</p>
+<p begin="23515666666t" end="23542000000t" region="rgn00001" xml:id="subtitle699">“Oh, no, not anymore.<br/>They did. Four years ago.”</p>
+<p begin="23542666666t" end="23563666666t" region="rgn00001" xml:id="subtitle700">That’s how long<br/>the standoff’s been going on.</p>
+<p begin="23564333333t" end="23600666666t" region="rgn00001" xml:id="subtitle701">It’s over a movie<br/>that Dad claims he didn’t rent.</p>
+<p begin="23608333333t" end="23643666666t" region="rgn00001" xml:id="subtitle702">They’ve paid everything but that charge,<br/>but that charge has penalties.</p>
+<p begin="23644333333t" end="23662666666t" region="rgn00001" xml:id="subtitle703">So it’s now $287.</p>
+<p begin="23663333333t" end="23691666666t" region="rgn00001" xml:id="subtitle704">And I said, “Well, just pay the bill.<br/>I’ll pay it.”</p>
+<p begin="23692333333t" end="23711333333t" region="rgn00001" xml:id="subtitle705">He goes, “No, I could pay it too.</p>
+<p begin="23712000000t" end="23751000000t" region="rgn00001" xml:id="subtitle706">But I can’t pay it ’cause he won’t give me<br/>the account information.</p>
+<p begin="23751666666t" end="23767000000t" region="rgn00001" xml:id="subtitle707">Because he doesn’t wanna pay it.”</p>
+<p begin="23767666666t" end="23791333333t" region="rgn00001" xml:id="subtitle708">I go, “What was the movie,<br/>just out of curiosity?”</p>
+<p begin="23792000000t" end="23819333333t" region="rgn00001" xml:id="subtitle709">He goes, <span style="style_0">“Lincoln</span>,<br/>starring Daniel Day-Lewis.</p>
+<p begin="23820000000t" end="23851333333t" region="rgn00001" xml:id="subtitle710">And if you like to hear that speech,<br/>call him, Kathleen.”</p>
+<p begin="23852000000t" end="23872666666t" region="rgn00001" xml:id="subtitle711">“Why would I rent Abraham Lincoln?</p>
+<p begin="23873333333t" end="23889666666t" region="rgn00001" xml:id="subtitle712">Has something new happened?</p>
+<p begin="23890333333t" end="23906666666t" region="rgn00001" xml:id="subtitle713">Do we have new information?</p>
+<p begin="23907333333t" end="23936000000t" region="rgn00001" xml:id="subtitle714">Did John Wilkes Booth<br/>not shoot Abraham Lincoln?</p>
+<p begin="23936666666t" end="23976666666t" region="rgn00001" xml:id="subtitle715">I never ordered goddamn <span style="style_0">Lincoln</span>.<br/>I know it.”</p>
+<p begin="24031666666t" end="24044000000t" region="rgn00001" xml:id="subtitle716">I said, “All right.</p>
+<p begin="24044666666t" end="24085000000t" region="rgn00001" xml:id="subtitle717">Well, if you’re not gonna do that, what<br/>other names were you guys thinking of?”</p>
+<p begin="24085666666t" end="24116333333t" region="rgn00001" xml:id="subtitle718">He goes, “Well, a lot.<br/>But here’s a little left-field one.</p>
+<p begin="24117000000t" end="24152666666t" region="rgn00001" xml:id="subtitle719">Maybe Seamus.”<br/>And I went, “Seamus Madigan?”</p>
+<p begin="24153333333t" end="24183666666t" region="rgn00001" xml:id="subtitle720">He goes, “Why is that funny to you?”<br/>I go, “I don’t know.</p>
+<p begin="24184333333t" end="24202000000t" region="rgn00001" xml:id="subtitle721">But we should pay attention to that.”</p>
+<p begin="24202666666t" end="24218000000t" region="rgn00001" xml:id="subtitle722">I just laughed for no reason.</p>
+<p begin="24218666666t" end="24243333333t" region="rgn00001" xml:id="subtitle723">I go, “I think names have power.</p>
+<p begin="24244000000t" end="24263333333t" region="rgn00001" xml:id="subtitle724">If you’re gonna name him Seamus Madigan,</p>
+<p begin="24264000000t" end="24288666666t" region="rgn00001" xml:id="subtitle725">I think you should lower<br/>all expectations.”</p>
+<p begin="24297000000t" end="24319000000t" region="rgn00001" xml:id="subtitle726">Seamus Madigan is a bartender.</p>
+<p begin="24319666666t" end="24356000000t" region="rgn00001" xml:id="subtitle727">He always was a bartender.<br/>He will always be a bartender.</p>
+<p begin="24356666666t" end="24378666666t" region="rgn00001" xml:id="subtitle728">I don’t think<br/>he’s gonna be a heart surgeon.</p>
+<p begin="24379333333t" end="24401000000t" region="rgn00001" xml:id="subtitle729">And if he was,<br/>I wouldn’t let him operate on me,</p>
+<p begin="24401666666t" end="24418666666t" region="rgn00001" xml:id="subtitle730">even if he was my nephew.</p>
+<p begin="24419333333t" end="24448333333t" region="rgn00001" xml:id="subtitle731">If I was in some emergency room,<br/>they came out and said,</p>
+<p begin="24449000000t" end="24482666666t" region="rgn00001" xml:id="subtitle732">“Your surgeon, Dr. Seamus Madigan,<br/>will be out in a minute,”</p>
+<p begin="24483333333t" end="24506333333t" region="rgn00001" xml:id="subtitle733">I would be like, “No, he will not.”</p>
+<p begin="24507000000t" end="24532666666t" region="rgn00001" xml:id="subtitle734">And I would wheel my ass<br/>down to the Jewish hospital,</p>
+<p begin="24533333333t" end="24557333333t" region="rgn00001" xml:id="subtitle735">where there was a nice young man named Sam</p>
+<p begin="24558000000t" end="24604333333t" region="rgn00001" xml:id="subtitle736">whose family took education more seriously<br/>than beer pong and football.</p>
+<p begin="24605000000t" end="24623666666t" region="rgn00001" xml:id="subtitle737">That’s what I would do.</p>
+<p begin="24671333333t" end="24697000000t" region="rgn00001" xml:id="subtitle738">I have no kids.<br/>I don’t-- I don’t want them.</p>
+<p begin="24697666666t" end="24719000000t" region="rgn00001" xml:id="subtitle739">I’ve seen what it’s done<br/>to some of my siblings.</p>
+<p begin="24719666666t" end="24744000000t" region="rgn00001" xml:id="subtitle740">Oh, they’re so tired and cranky.</p>
+<p begin="24744666666t" end="24777666666t" region="rgn00001" xml:id="subtitle741">My sister’s normally very happy.<br/>Has twins.</p>
+<p begin="24778333333t" end="24798666666t" region="rgn00001" xml:id="subtitle742">She looks so tired.<br/>I go, “You look really tired.”</p>
+<p begin="24799333333t" end="24846666666t" region="rgn00001" xml:id="subtitle743">“You don’t have to say that.<br/>I know I look tired. I am tired.</p>
+<p begin="24847333333t" end="24862666666t" region="rgn00001" xml:id="subtitle744">I have four-year-olds. Did you know--</p>
+<p begin="24863333333t" end="24881000000t" region="rgn00001" xml:id="subtitle745">I thought it was gonna get easier.<br/>It doesn’t.</p>
+<p begin="24881666666t" end="24914666666t" region="rgn00001" xml:id="subtitle746">The average four-year-old<br/>asks 436 questions in a day.</p>
+<p begin="24915333333t" end="24943000000t" region="rgn00001" xml:id="subtitle747">Did you know that? And I have two of ’em.</p>
+<p begin="24943666666t" end="24979666666t" region="rgn00001" xml:id="subtitle748">And I’m too tired to add 436 plus 436.</p>
+<p begin="24980333333t" end="25006000000t" region="rgn00001" xml:id="subtitle749">It’s a lot of questions, Kathleen.”</p>
+<p begin="25016000000t" end="25046666666t" region="rgn00001" xml:id="subtitle750">I said, “Do you know why they ask 436?</p>
+<p begin="25047333333t" end="25076666666t" region="rgn00001" xml:id="subtitle751">’Cause you were dumb enough<br/>to answer the first question.</p>
+<p begin="25077333333t" end="25110666666t" region="rgn00001" xml:id="subtitle752">That’s what led<br/>to that line of questioning.</p>
+<p begin="25111333333t" end="25130333333t" region="rgn00001" xml:id="subtitle753">You got to shut it down.”</p>
+<p begin="25145333333t" end="25169000000t" region="rgn00001" xml:id="subtitle754">If I have ’em,<br/>I’d throw ’em in the van in the morning.</p>
+<p begin="25169666666t" end="25182333333t" region="rgn00001" xml:id="subtitle755">They’ll ask a random question.</p>
+<p begin="25183000000t" end="25221000000t" region="rgn00001" xml:id="subtitle756">“Hey, Aunt Kat, how come their dog<br/>gets to be out front and ours doesn’t?”</p>
+<p begin="25221666666t" end="25252000000t" region="rgn00001" xml:id="subtitle757">“Fuck if I know.” That’s the answer.</p>
+<p begin="25264666666t" end="25295666666t" region="rgn00001" xml:id="subtitle758">Ask Siri. Siri has answers.</p>
+<p begin="25296333333t" end="25315333333t" region="rgn00001" xml:id="subtitle759">Aunt Kat, no answers.</p>
+<p begin="25356666666t" end="25375000000t" region="rgn00001" xml:id="subtitle760">[Kathleen chuckles]</p>
+<p begin="25409000000t" end="25429333333t" region="rgn00001" xml:id="subtitle761">Here’s the biggest reason<br/>I would never wanna have a kid.</p>
+<p begin="25430000000t" end="25472000000t" region="rgn00001" xml:id="subtitle762">’Cause I will never again on my own<br/>or even assist</p>
+<p begin="25472666666t" end="25487000000t" region="rgn00001" xml:id="subtitle763">on installing a car seat.</p>
+<p begin="25487666666t" end="25513333333t" region="rgn00001" xml:id="subtitle764">I don’t know how many of you<br/>ever had to do this,</p>
+<p begin="25514000000t" end="25539000000t" region="rgn00001" xml:id="subtitle765">but if you’re gonna,<br/>here’s a few helpful hints.</p>
+<p begin="25539666666t" end="25593000000t" region="rgn00001" xml:id="subtitle766">Take the whole day off work, because<br/>that’s how long it’s gonna take you.</p>
+<p begin="25593666666t" end="25630666666t" region="rgn00001" xml:id="subtitle767">Whatever your favorite alcohol is,<br/>have a bucket of it next to that minivan,</p>
+<p begin="25631333333t" end="25669333333t" region="rgn00001" xml:id="subtitle768">’cause you’re gonna stop and have<br/>to take drinks and re-read things.</p>
+<p begin="25670000000t" end="25700333333t" region="rgn00001" xml:id="subtitle769">If you’re over the age of, oh, I’d say 30,</p>
+<p begin="25701000000t" end="25733666666t" region="rgn00001" xml:id="subtitle770">at some point you’re going<br/>to become infuriated with Ralph Nader,</p>
+<p begin="25734333333t" end="25754000000t" region="rgn00001" xml:id="subtitle771">’cause he’s the one who started it all.</p>
+<p begin="25754666666t" end="25785333333t" region="rgn00001" xml:id="subtitle772">I remember being in grade school<br/>and he was on <span style="style_0">60 Minutes</span>.</p>
+<p begin="25786000000t" end="25811000000t" region="rgn00001" xml:id="subtitle773">“Seat belts.<br/>Everybody must have a seat belt.</p>
+<p begin="25811666666t" end="25836666666t" region="rgn00001" xml:id="subtitle774">Car seat, seat belts, safety is for life.</p>
+<p begin="25837333333t" end="25855000000t" region="rgn00001" xml:id="subtitle775">Head injuries are also for life.</p>
+<p begin="25855666666t" end="25879000000t" region="rgn00001" xml:id="subtitle776">I have statistics.”</p>
+<p begin="25879666666t" end="25894666666t" region="rgn00001" xml:id="subtitle777">Well, maybe you do, Ralph.</p>
+<p begin="25895333333t" end="25930333333t" region="rgn00001" xml:id="subtitle778">I’m sure you do. But so do I.<br/>There were seven of us, Ralph.</p>
+<p begin="25931000000t" end="25969000000t" region="rgn00001" xml:id="subtitle779">For 16 years, we rode around<br/>in the back of a station wagon</p>
+<p begin="25969666666t" end="25984333333t" region="rgn00001" xml:id="subtitle780">completely untethered.</p>
+<p begin="25985000000t" end="25999333333t" region="rgn00001" xml:id="subtitle781">Completely.</p>
+<p begin="26042333333t" end="26081666666t" region="rgn00001" xml:id="subtitle782">And we were in accidents. A lot of them.<br/>Especially if my mom was driving.</p>
+<p begin="26082333333t" end="26118333333t" region="rgn00001" xml:id="subtitle783">We-- Sometimes we got hit so hard,</p>
+<p begin="26119000000t" end="26163000000t" region="rgn00001" xml:id="subtitle784">I actually flew to a better seat<br/>than I’d originally secured.</p>
+<p begin="26182333333t" end="26212666666t" region="rgn00001" xml:id="subtitle785">“Who’s got the window now, jackass?”</p>
+<p begin="26220333333t" end="26235666666t" region="rgn00001" xml:id="subtitle786">That’s right.</p>
+<p begin="26251333333t" end="26298666666t" region="rgn00001" xml:id="subtitle787">And that was with my parents<br/>chain-smoking in the car. Both of ’em.</p>
+<p begin="26299333333t" end="26319333333t" region="rgn00001" xml:id="subtitle788">It was so smoky in that car.</p>
+<p begin="26320000000t" end="26351666666t" region="rgn00001" xml:id="subtitle789">You could barely see other passengers.<br/>Seriously.</p>
+<p begin="26352333333t" end="26380333333t" region="rgn00001" xml:id="subtitle790">They way, way back was like Studio 54,</p>
+<p begin="26381000000t" end="26424333333t" region="rgn00001" xml:id="subtitle791">because the sun would hit the smoke<br/>and create patterns,</p>
+<p begin="26425000000t" end="26457666666t" region="rgn00001" xml:id="subtitle792">and then I would draw patterns<br/>within the pattern</p>
+<p begin="26458333333t" end="26481666666t" region="rgn00001" xml:id="subtitle793">because I didn’t have an iPad,</p>
+<p begin="26482333333t" end="26527666666t" region="rgn00001" xml:id="subtitle794">so that’s what I would do<br/>to entertain myself.</p>
+<p begin="26570000000t" end="26593000000t" region="rgn00001" xml:id="subtitle795">If you’re a woman<br/>and you’re gonna install a car seat,</p>
+<p begin="26593666666t" end="26628666666t" region="rgn00001" xml:id="subtitle796">I would highly suggest you put on<br/>a sports bra, ’cause you’re gonna get hot.</p>
+<p begin="26629333333t" end="26643666666t" region="rgn00001" xml:id="subtitle797">You’re gonna be so hot,</p>
+<p begin="26644333333t" end="26674666666t" region="rgn00001" xml:id="subtitle798">you’re gonna start inadvertently<br/>just tearing off pieces of clothing.</p>
+<p begin="26675333333t" end="26700333333t" region="rgn00001" xml:id="subtitle799">And if you’re not careful,<br/>you’ll end up like I did,</p>
+<p begin="26701000000t" end="26734666666t" region="rgn00001" xml:id="subtitle800">in my sister’s driveway in my regular bra</p>
+<p begin="26735333333t" end="26770333333t" region="rgn00001" xml:id="subtitle801">just drinking a beer,<br/>staring off into space.</p>
+<p begin="26776000000t" end="26827333333t" region="rgn00001" xml:id="subtitle802">And the normally, very friendly neighbors<br/>came home. I’m trying to talk to ’em.</p>
+<p begin="26828000000t" end="26846333333t" region="rgn00001" xml:id="subtitle803">I don’t know why they’re being so weird.</p>
+<p begin="26847000000t" end="26873000000t" region="rgn00001" xml:id="subtitle804">And I’m like, “How you guys doing?</p>
+<p begin="26873666666t" end="26894333333t" region="rgn00001" xml:id="subtitle805">Yeah, I know. I just came home.<br/>She had twins.</p>
+<p begin="26895000000t" end="26921666666t" region="rgn00001" xml:id="subtitle806">I need two of these.<br/>I can’t-- can’t figure it out.</p>
+<p begin="26922333333t" end="26953000000t" region="rgn00001" xml:id="subtitle807">I’m so hot. I’m so hot.</p>
+<p begin="26953666666t" end="26985333333t" region="rgn00001" xml:id="subtitle808">I would offer you a beer,<br/>but I only have three left.</p>
+<p begin="26986000000t" end="27011333333t" region="rgn00001" xml:id="subtitle809">And I’ve made no progress.”</p>
+<p begin="27012000000t" end="27025666666t" region="rgn00001" xml:id="subtitle810">So--</p>
+<p begin="27061666666t" end="27078333333t" region="rgn00001" xml:id="subtitle811">I just found notes on the back--</p>
+<p begin="27079000000t" end="27105666666t" region="rgn00001" xml:id="subtitle812">There’s factory notes<br/>that say if you don’t know how to do this,</p>
+<p begin="27106333333t" end="27132666666t" region="rgn00001" xml:id="subtitle813">you can take it to the police<br/>or the fire department</p>
+<p begin="27133333333t" end="27153333333t" region="rgn00001" xml:id="subtitle814">and they’ll install it for you.</p>
+<p begin="27154000000t" end="27172000000t" region="rgn00001" xml:id="subtitle815">But unfortunately,<br/>I didn’t find those notes</p>
+<p begin="27172666666t" end="27201666666t" region="rgn00001" xml:id="subtitle816">till after I already started drinking.</p>
+<p begin="27202333333t" end="27238666666t" region="rgn00001" xml:id="subtitle817">So I don’t think it would be a good idea</p>
+<p begin="27239333333t" end="27273333333t" region="rgn00001" xml:id="subtitle818">to drive to law enforcement, shit-faced,</p>
+<p begin="27274000000t" end="27299333333t" region="rgn00001" xml:id="subtitle819">and two car seats<br/>and I don’t have any babies.</p>
+<p begin="27300000000t" end="27318666666t" region="rgn00001" xml:id="subtitle820">I mean,<br/>It’s just too much to explain, right?</p>
+<p begin="27319333333t" end="27333000000t" region="rgn00001" xml:id="subtitle821">Crazy.</p>
+<p begin="27350666666t" end="27365666666t" region="rgn00001" xml:id="subtitle822">So this was what I was thinking.</p>
+<p begin="27366333333t" end="27397000000t" region="rgn00001" xml:id="subtitle823">I was thinking I might set<br/>her car on fire.</p>
+<p begin="27408000000t" end="27445666666t" region="rgn00001" xml:id="subtitle824">No, call the fire department,<br/>and then after they put the car out,</p>
+<p begin="27446333333t" end="27482000000t" region="rgn00001" xml:id="subtitle825">I go, “Hey, since you’re all here,<br/>do you think you can give me a hook-up?”</p>
+<p begin="27526000000t" end="27537333333t" region="rgn00001" xml:id="subtitle826">[man] Yeah!</p>
+<p begin="27557333333t" end="27575000000t" region="rgn00001" xml:id="subtitle827">[chuckles]</p>
+<p begin="27575666666t" end="27596333333t" region="rgn00001" xml:id="subtitle828">They’re a pain in the ass,<br/>to put kids in them,</p>
+<p begin="27597000000t" end="27637666666t" region="rgn00001" xml:id="subtitle829">especially in winter with the coats<br/>and 70,000 buckles and the whole thing.</p>
+<p begin="27638333333t" end="27671000000t" region="rgn00001" xml:id="subtitle830">And my brother’s kid I thought<br/>was big enough to not go in a car seat,</p>
+<p begin="27671666666t" end="27691666666t" region="rgn00001" xml:id="subtitle831">and I said, “Do I do him too?”</p>
+<p begin="27692333333t" end="27724666666t" region="rgn00001" xml:id="subtitle832">She’s just disgusted with my lack<br/>of any parenting knowledge.</p>
+<p begin="27725333333t" end="27764000000t" region="rgn00001" xml:id="subtitle833">She goes, “Ugh. 4-foot-10, 80 pounds.”</p>
+<p begin="27769666666t" end="27781000000t" region="rgn00001" xml:id="subtitle834">What?</p>
+<p begin="27788000000t" end="27804000000t" region="rgn00001" xml:id="subtitle835">“That’s a Missouri state law, Kathleen.</p>
+<p begin="27804666666t" end="27827333333t" region="rgn00001" xml:id="subtitle836">If you’re 4-foot-10 or shorter,<br/>80 pounds or less,</p>
+<p begin="27828000000t" end="27864666666t" region="rgn00001" xml:id="subtitle837">your ass is in a car seat versus a ticket<br/>from the Missouri State Highway Patrol.”</p>
+<p begin="27865333333t" end="27881000000t" region="rgn00001" xml:id="subtitle838">I go, “Really, 4’10”?</p>
+<p begin="27886000000t" end="27926666666t" region="rgn00001" xml:id="subtitle839">That is excellent news because right now<br/>I’m only 5-foot-1.</p>
+<p begin="27933666666t" end="27966666666t" region="rgn00001" xml:id="subtitle840">The average woman, due to osteoporosis...</p>
+<p begin="27983333333t" end="28020000000t" region="rgn00001" xml:id="subtitle841">in your life, you would have shrunk<br/>anywhere from two to five inches.</p>
+<p begin="28020666666t" end="28054333333t" region="rgn00001" xml:id="subtitle842">I am not certain. I am bad at math.</p>
+<p begin="28055000000t" end="28079333333t" region="rgn00001" xml:id="subtitle843">But I’m pretty sure<br/>that puts me back in a car seat.</p>
+<p begin="28109666666t" end="28141333333t" region="rgn00001" xml:id="subtitle844">I can’t wait to be back in a car seat.</p>
+<p begin="28148333333t" end="28176000000t" region="rgn00001" xml:id="subtitle845">All these nieces and nephews I have<br/>will be old enough to drive.</p>
+<p begin="28176666666t" end="28205666666t" region="rgn00001" xml:id="subtitle846">I’m gonna do exactly what they do.<br/>I’ll call and say I need a ride.</p>
+<p begin="28206333333t" end="28245000000t" region="rgn00001" xml:id="subtitle847">Then I’m gonna pack a big bag<br/>full of unnecessary, unrelated items</p>
+<p begin="28245666666t" end="28290000000t" region="rgn00001" xml:id="subtitle848">that I have to have,<br/>or there is going to be a meltdown.</p>
+<p begin="28318333333t" end="28338666666t" region="rgn00001" xml:id="subtitle849">Then, like the five and six-year-olds,</p>
+<p begin="28339333333t" end="28377000000t" region="rgn00001" xml:id="subtitle850">I’m gonna get in the van and walk,<br/>on my own accord, to the very backseat,</p>
+<p begin="28377666666t" end="28410333333t" region="rgn00001" xml:id="subtitle851">and I’m just gonna hop up in it like<br/>they do and wait for the great buckling.</p>
+<p begin="28411000000t" end="28422333333t" region="rgn00001" xml:id="subtitle852">Just sit there.</p>
+<p begin="28439666666t" end="28452333333t" region="rgn00001" xml:id="subtitle853">[mouthing words]</p>
+<p begin="28483000000t" end="28513000000t" region="rgn00001" xml:id="subtitle854">Then I’m gonna let ’em buckle me in.<br/>Then I’m gonna let them pull away.</p>
+<p begin="28513666666t" end="28549666666t" region="rgn00001" xml:id="subtitle855">And I’m gonna wait till they drive where<br/>it’s somewhere terribly inconvenient</p>
+<p begin="28550333333t" end="28561000000t" region="rgn00001" xml:id="subtitle856">to pull over.</p>
+<p begin="28561666666t" end="28592666666t" region="rgn00001" xml:id="subtitle857">And I’m gonna start screaming<br/>from the back like they do.</p>
+<p begin="28593333333t" end="28618333333t" region="rgn00001" xml:id="subtitle858">“My buckle’s too tight!”</p>
+<p begin="28619000000t" end="28641666666t" region="rgn00001" xml:id="subtitle859">[gasping]</p>
+<p begin="28654333333t" end="28670333333t" region="rgn00001" xml:id="subtitle860">“I’m choking!”</p>
+<p begin="28675333333t" end="28702000000t" region="rgn00001" xml:id="subtitle861">[gasping]</p>
+<p begin="28702666666t" end="28715333333t" region="rgn00001" xml:id="subtitle862">[chuckles]</p>
+<p begin="28716000000t" end="28734333333t" region="rgn00001" xml:id="subtitle863">“I dropped my wine.”</p>
+<p begin="28743000000t" end="28768333333t" region="rgn00001" xml:id="subtitle864">[gasping]</p>
+<p begin="28769000000t" end="28792333333t" region="rgn00001" xml:id="subtitle865">“I can’t reach my wine.”</p>
+<p begin="28809000000t" end="28826000000t" region="rgn00001" xml:id="subtitle866">[chuckling]</p>
+<p begin="28851666666t" end="28870333333t" region="rgn00001" xml:id="subtitle867">That’s what I want to do when I’m retired.</p>
+<p begin="28871000000t" end="28917000000t" region="rgn00001" xml:id="subtitle868">I just want to drink red wine<br/>and watch <span style="style_0">House Hunters</span> over and over.</p>
+<p begin="28917666666t" end="28941000000t" region="rgn00001" xml:id="subtitle869">I love that show. I do.</p>
+<p begin="28941666666t" end="28972333333t" region="rgn00001" xml:id="subtitle870">I don’t know why. I don’t even care<br/>what houses these people are buying.</p>
+<p begin="28973000000t" end="28990333333t" region="rgn00001" xml:id="subtitle871">I’m more interested in their relationships</p>
+<p begin="28991000000t" end="29030333333t" region="rgn00001" xml:id="subtitle872">because at least 50 percent of the people<br/>shouldn’t even be married,</p>
+<p begin="29031000000t" end="29051333333t" region="rgn00001" xml:id="subtitle873">more or less purchasing property together.</p>
+<p begin="29060000000t" end="29078333333t" region="rgn00001" xml:id="subtitle874">I saw one in Atlanta.</p>
+<p begin="29079000000t" end="29105666666t" region="rgn00001" xml:id="subtitle875">It was a man and a woman.<br/>They walked into the house.</p>
+<p begin="29106333333t" end="29133000000t" region="rgn00001" xml:id="subtitle876">And the first thing<br/>out of the man’s mouth, he goes, “Ah!</p>
+<p begin="29133666666t" end="29155000000t" region="rgn00001" xml:id="subtitle877">I can’t live with this backsplash.”</p>
+<p begin="29167333333t" end="29186333333t" region="rgn00001" xml:id="subtitle878">Oh, my God, ma’am.</p>
+<p begin="29187000000t" end="29226000000t" region="rgn00001" xml:id="subtitle879">You have a much bigger problem<br/>than what house you’re gonna buy.</p>
+<p begin="29246333333t" end="29270000000t" region="rgn00001" xml:id="subtitle880">You have accidentally married a gay guy.</p>
+<p begin="29270666666t" end="29319000000t" region="rgn00001" xml:id="subtitle881">And his boyfriend is not gonna approve<br/>of this ugly backsplash</p>
+<p begin="29319666666t" end="29344000000t" region="rgn00001" xml:id="subtitle882">when he comes over here<br/>while you’re at yoga,</p>
+<p begin="29344666666t" end="29377666666t" region="rgn00001" xml:id="subtitle883">aka drinking with your girlfriends<br/>on a Thursday.</p>
+<p begin="29412666666t" end="29428000000t" region="rgn00001" xml:id="subtitle884">I’m just amazed to, like--</p>
+<p begin="29428666666t" end="29459000000t" region="rgn00001" xml:id="subtitle885">In my whole life<br/>I’ve never punched anybody,</p>
+<p begin="29459666666t" end="29479333333t" region="rgn00001" xml:id="subtitle886">but if I was the Realtors on this show,</p>
+<p begin="29480000000t" end="29510000000t" region="rgn00001" xml:id="subtitle887">I would punch at least half of these<br/>people-- my own clients right in the face.</p>
+<p begin="29510666666t" end="29547666666t" region="rgn00001" xml:id="subtitle888">They are so demanding, and they naysay<br/>a house right out of the gate.</p>
+<p begin="29548333333t" end="29580000000t" region="rgn00001" xml:id="subtitle889">They just walk in and go,<br/>“Pah! I can’t live here.</p>
+<p begin="29580666666t" end="29602333333t" region="rgn00001" xml:id="subtitle890">There’s no granite countertops.”</p>
+<p begin="29616000000t" end="29655666666t" region="rgn00001" xml:id="subtitle891">I’m sorry. Maybe you forgot.<br/>You have a budget of $8.00.</p>
+<p begin="29656333333t" end="29668000000t" region="rgn00001" xml:id="subtitle892">Maybe...</p>
+<p begin="29694000000t" end="29734333333t" region="rgn00001" xml:id="subtitle893">you should be grateful that I’m not<br/>showing you a mobile home right now</p>
+<p begin="29735000000t" end="29776000000t" region="rgn00001" xml:id="subtitle894">and bragging about the porch that JoJo<br/>put on before he went back to prison.</p>
+<p begin="29776666666t" end="29805000000t" region="rgn00001" xml:id="subtitle895">What in Christ’s name</p>
+<p begin="29805666666t" end="29836000000t" region="rgn00001" xml:id="subtitle896">would make you think you can have<br/>granite countertops?</p>
+<p begin="29843000000t" end="29870000000t" region="rgn00001" xml:id="subtitle897">And it’s always the meanest lady<br/>of any episode</p>
+<p begin="29870666666t" end="29888333333t" region="rgn00001" xml:id="subtitle898">who at some point would go,</p>
+<p begin="29889000000t" end="29927666666t" region="rgn00001" xml:id="subtitle899">“I don’t know if I want to live here.<br/>I don’t see any room for entertaining.”</p>
+<p begin="29931333333t" end="29975000000t" region="rgn00001" xml:id="subtitle900">Well, don’t worry, ma’am.<br/>No one’s fucking coming over here.</p>
+<p begin="29975666666t" end="30017333333t" region="rgn00001" xml:id="subtitle901">You’re the meanest person I’ve ever<br/>heard speak English on television.</p>
+<p begin="30018000000t" end="30035333333t" region="rgn00001" xml:id="subtitle902">Seriously.</p>
+<p begin="30069666666t" end="30102333333t" region="rgn00001" xml:id="subtitle903">But I think over the age of 40,<br/>if that’s what I wanna do with my time--</p>
+<p begin="30103000000t" end="30123333333t" region="rgn00001" xml:id="subtitle904">Over 40 you can kind of give up.</p>
+<p begin="30124000000t" end="30146666666t" region="rgn00001" xml:id="subtitle905">If I just want to drink wine, why not?</p>
+<p begin="30147333333t" end="30169000000t" region="rgn00001" xml:id="subtitle906">The dream catcher didn’t catch anything.</p>
+<p begin="30211333333t" end="30231000000t" region="rgn00001" xml:id="subtitle907">It’s the third quarter. I’m losing.</p>
+<p begin="30231666666t" end="30241666666t" region="rgn00001" xml:id="subtitle908">Just--</p>
+<p begin="30261333333t" end="30279666666t" region="rgn00001" xml:id="subtitle909">I do understand-- Over 40--</p>
+<p begin="30280333333t" end="30309000000t" region="rgn00001" xml:id="subtitle910">I don’t understand young people<br/>that kind of give up so early</p>
+<p begin="30309666666t" end="30330333333t" region="rgn00001" xml:id="subtitle911">where you can tell they’re just disgusted.</p>
+<p begin="30331000000t" end="30358666666t" region="rgn00001" xml:id="subtitle912">They don’t want any more information.<br/>They have just had it.</p>
+<p begin="30359333333t" end="30376333333t" region="rgn00001" xml:id="subtitle913">Early, like in their 20s.</p>
+<p begin="30377000000t" end="30402000000t" region="rgn00001" xml:id="subtitle914">I flew to Norfolk, Virginia.<br/>I’ve never been there.</p>
+<p begin="30402666666t" end="30436666666t" region="rgn00001" xml:id="subtitle915">I got off the plane.<br/>And their airport was themed.</p>
+<p begin="30437333333t" end="30478333333t" region="rgn00001" xml:id="subtitle916">I’ve never seen that.<br/>And the theme they chose was mermaids.</p>
+<p begin="30490666666t" end="30500666666t" region="rgn00001" xml:id="subtitle917">They were everywhere.</p>
+<p begin="30501333333t" end="30523000000t" region="rgn00001" xml:id="subtitle918">They were, like, in the carpet,<br/>in baggage claim.</p>
+<p begin="30523666666t" end="30537666666t" region="rgn00001" xml:id="subtitle919">They’re handing you the luggage.</p>
+<p begin="30538333333t" end="30550666666t" region="rgn00001" xml:id="subtitle920">They’re just everywhere.</p>
+<p begin="30551333333t" end="30592000000t" region="rgn00001" xml:id="subtitle921">And I went to the gift shop on the way out<br/>because I wanted to get water.</p>
+<p begin="30592666666t" end="30621000000t" region="rgn00001" xml:id="subtitle922">There’s a girl working in the gift shop.<br/>She’s about 25 years old.</p>
+<p begin="30621666666t" end="30667333333t" region="rgn00001" xml:id="subtitle923">I said, “Hey, I’m not from here. What’s<br/>going on with all this mermaid stuff?”</p>
+<p begin="30668000000t" end="30696666666t" region="rgn00001" xml:id="subtitle924">And she said, and I quote,</p>
+<p begin="30697333333t" end="30729333333t" region="rgn00001" xml:id="subtitle925">[raspy voice]<br/>“I don’t know. Somebody saw one once.”</p>
+<p begin="30789666666t" end="30800666666t" region="rgn00001" xml:id="subtitle926">Wow.</p>
+<p begin="30810000000t" end="30839333333t" region="rgn00001" xml:id="subtitle927">Wow. I thought,<br/>she truly doesn’t give a shit.</p>
+<p begin="30840000000t" end="30872333333t" region="rgn00001" xml:id="subtitle928">She-- Bigfoot could’ve been shopping<br/>in that gift shop.</p>
+<p begin="30873000000t" end="30905000000t" region="rgn00001" xml:id="subtitle929">She’d be like, “I don’t know<br/>what your hairy ass is planning on buying,</p>
+<p begin="30905666666t" end="30925000000t" region="rgn00001" xml:id="subtitle930">but I close in five minutes, all right?</p>
+<p begin="30925666666t" end="30957000000t" region="rgn00001" xml:id="subtitle931">I ain’t scared of you, Mr. Monster Man.”</p>
+<p begin="30977333333t" end="31004000000t" region="rgn00001" xml:id="subtitle932">“I don’t know. Somebody saw one once.”</p>
+<p begin="31004666666t" end="31023333333t" region="rgn00001" xml:id="subtitle933">Just so disgusted that I even asked.</p>
+<p begin="31024000000t" end="31047666666t" region="rgn00001" xml:id="subtitle934">But then after meeting the mermaid lady,</p>
+<p begin="31048333333t" end="31079666666t" region="rgn00001" xml:id="subtitle935">for, like, the next three months<br/>no matter what question I was asked,</p>
+<p begin="31080333333t" end="31097000000t" region="rgn00001" xml:id="subtitle936">that’s the only answer I would give.</p>
+<p begin="31097666666t" end="31138666666t" region="rgn00001" xml:id="subtitle937">I’ll just go, “I don’t know.<br/>Somebody saw one once.”</p>
+<p begin="31139333333t" end="31184666666t" region="rgn00001" xml:id="subtitle938">Because it is so confusing<br/>and dismissive to the recipient,</p>
+<p begin="31185333333t" end="31222333333t" region="rgn00001" xml:id="subtitle939">but it’s so fun<br/>if you’re the one saying it.</p>
+<p begin="31239333333t" end="31259333333t" region="rgn00001" xml:id="subtitle940">My-- My youngest brother,</p>
+<p begin="31260000000t" end="31292000000t" region="rgn00001" xml:id="subtitle941">the one who won’t let me speak<br/>about Malaysian Flight 370,</p>
+<p begin="31292666666t" end="31330333333t" region="rgn00001" xml:id="subtitle942">he helps me with my taxes ’cause if I--</p>
+<p begin="31331000000t" end="31351666666t" region="rgn00001" xml:id="subtitle943">Any state you work in<br/>you have to fill out their forms</p>
+<p begin="31352333333t" end="31365666666t" region="rgn00001" xml:id="subtitle944">even if you don’t get money back.</p>
+<p begin="31366333333t" end="31395000000t" region="rgn00001" xml:id="subtitle945">He called about six weeks<br/>after I’ve met the mermaid lady,</p>
+<p begin="31395666666t" end="31424666666t" region="rgn00001" xml:id="subtitle946">and he goes, “Yeah, Kathleen,<br/>I’m trying to do your taxes.</p>
+<p begin="31425333333t" end="31458000000t" region="rgn00001" xml:id="subtitle947">I’m trying to get all these states.<br/>I think you worked in Wisconsin two times.</p>
+<p begin="31458666666t" end="31481333333t" region="rgn00001" xml:id="subtitle948">You should get--<br/>They have a state-withholding tax.</p>
+<p begin="31482000000t" end="31508333333t" region="rgn00001" xml:id="subtitle949">You’ll be able to get a refund.<br/>It’s a 3.8 percent.</p>
+<p begin="31509000000t" end="31544666666t" region="rgn00001" xml:id="subtitle950">Ah, da, da. When you got paid,<br/>you should’ve been given some forms.</p>
+<p begin="31545333333t" end="31565333333t" region="rgn00001" xml:id="subtitle951">Do you know where those forms are?”</p>
+<p begin="31604333333t" end="31644000000t" region="rgn00001" xml:id="subtitle952">“I don’t know. Somebody saw one once.”</p>
+<p begin="31691666666t" end="31713000000t" region="rgn00001" xml:id="subtitle953">And I guarantee you, if you say that,</p>
+<p begin="31713666666t" end="31746000000t" region="rgn00001" xml:id="subtitle954">the only thing a person will ever<br/>say back is, “What?”</p>
+<p begin="31746666666t" end="31772333333t" region="rgn00001" xml:id="subtitle955">And then-- [mouthing words]</p>
+<p begin="31817666666t" end="31850333333t" region="rgn00001" xml:id="subtitle956">That’s what I wanna do. I wanna drink<br/>red wine and watch <span style="style_0">House Hunters</span>.</p>
+<p begin="31851000000t" end="31877333333t" region="rgn00001" xml:id="subtitle957">Uh, I don’t usually think I drink too much</p>
+<p begin="31878000000t" end="31908666666t" region="rgn00001" xml:id="subtitle958">until you go to the doctor and they have<br/>those drinking questions on there.</p>
+<p begin="31909333333t" end="31920000000t" region="rgn00001" xml:id="subtitle959">Yeah.</p>
+<p begin="31927333333t" end="31943666666t" region="rgn00001" xml:id="subtitle960">Mine, it’s seven and eight.</p>
+<p begin="31944333333t" end="31986000000t" region="rgn00001" xml:id="subtitle961">Question 7: Do you drink alcohol?<br/>A little tiny box says, “Yes.”</p>
+<p begin="31990666666t" end="32003333333t" region="rgn00001" xml:id="subtitle962">Question 8:</p>
+<p begin="32004000000t" end="32063333333t" region="rgn00001" xml:id="subtitle963">Do you drink two, four, six<br/>or eight drinks a week?</p>
+<p begin="32064000000t" end="32080666666t" region="rgn00001" xml:id="subtitle964">“No.” [laughs]</p>
+<p begin="32081333333t" end="32091333333t" region="rgn00001" xml:id="subtitle965">No.</p>
+<p begin="32096333333t" end="32125000000t" region="rgn00001" xml:id="subtitle966">You are not even in the right ballpark.<br/>Jesus Christ.</p>
+<p begin="32125666666t" end="32143333333t" region="rgn00001" xml:id="subtitle967">What is this, a Mormon practice?</p>
+<p begin="32144000000t" end="32164666666t" region="rgn00001" xml:id="subtitle968">I thought the name said “Fitzgerald.”</p>
+<p begin="32165333333t" end="32207666666t" region="rgn00001" xml:id="subtitle969">And I would not be judged on my deviant<br/>and abhorring drinking behavior.</p>
+<p begin="32218000000t" end="32239333333t" region="rgn00001" xml:id="subtitle970">See other side, parenthesis, arrow.</p>
+<p begin="32240000000t" end="32250000000t" region="rgn00001" xml:id="subtitle971">No.</p>
+<p begin="32308666666t" end="32340666666t" region="rgn00001" xml:id="subtitle972">If I do feel bad about my drinking,<br/>I would come here.</p>
+<p begin="32351333333t" end="32381000000t" region="rgn00001" xml:id="subtitle973">’Cause you guys set a whole new bar.</p>
+<p begin="32381666666t" end="32397333333t" region="rgn00001" xml:id="subtitle974">[audience cheering]</p>
+<p begin="32418666666t" end="32438333333t" region="rgn00001" xml:id="subtitle975">Uh, or I go to Ireland.</p>
+<p begin="32439000000t" end="32469000000t" region="rgn00001" xml:id="subtitle976">I try to go once a year<br/>to be with my people.</p>
+<p begin="32469666666t" end="32501666666t" region="rgn00001" xml:id="subtitle977">To reset my priorities and my boundaries.</p>
+<p begin="32521000000t" end="32541666666t" region="rgn00001" xml:id="subtitle978">I have friends<br/>that go to Hawaii every year.</p>
+<p begin="32542333333t" end="32572666666t" region="rgn00001" xml:id="subtitle979">They’re like, “We love Hawaii,<br/>but you seem to really love Ireland.</p>
+<p begin="32573333333t" end="32601000000t" region="rgn00001" xml:id="subtitle980">Do you think we would like it?<br/>Do you think they’re similar?”</p>
+<p begin="32601666666t" end="32619000000t" region="rgn00001" xml:id="subtitle981">Oh. [scoffs]</p>
+<p begin="32627666666t" end="32648333333t" region="rgn00001" xml:id="subtitle982">Well, they’re both an island.</p>
+<p begin="32656333333t" end="32701666666t" region="rgn00001" xml:id="subtitle983">Um, Ireland, however,<br/>would have no vegetables or sun.</p>
+<p begin="32702333333t" end="32740333333t" region="rgn00001" xml:id="subtitle984">I don’t know if those two things<br/>interest you,</p>
+<p begin="32741000000t" end="32754000000t" region="rgn00001" xml:id="subtitle985">but they are fresh out.</p>
+<p begin="32754666666t" end="32789333333t" region="rgn00001" xml:id="subtitle986">It is not a healthy place.</p>
+<p begin="32794000000t" end="32826666666t" region="rgn00001" xml:id="subtitle987">That’s why I feel at home there,<br/>and that’s why I like it there.</p>
+<p begin="32836000000t" end="32868666666t" region="rgn00001" xml:id="subtitle988">It’s sort of the gist.<br/>They just don’t really, truly give a shit.</p>
+<p begin="32869333333t" end="32906333333t" region="rgn00001" xml:id="subtitle989">On a good level, in a healthy way,<br/>they’ve decided to not be healthy.</p>
+<p begin="32907000000t" end="32952666666t" region="rgn00001" xml:id="subtitle990">I was in a pub. I ordered roast beef with<br/>mashed potatoes, ’cause I love that,</p>
+<p begin="32953333333t" end="32987333333t" region="rgn00001" xml:id="subtitle991">and I thought, I’m going to ask,<br/>probably the answer is no, but I--</p>
+<p begin="32988000000t" end="33008333333t" region="rgn00001" xml:id="subtitle992">The guy was like 80, the bartender.</p>
+<p begin="33009000000t" end="33050333333t" region="rgn00001" xml:id="subtitle993">And I go, “Hey, do you guys,<br/>by any chance, have any corn?”</p>
+<p begin="33051000000t" end="33086333333t" region="rgn00001" xml:id="subtitle994">You would’ve thought<br/>I asked for an eight-ball of cocaine.</p>
+<p begin="33087000000t" end="33097000000t" region="rgn00001" xml:id="subtitle995">I--</p>
+<p begin="33109666666t" end="33131666666t" region="rgn00001" xml:id="subtitle996">He goes, “Corn?”</p>
+<p begin="33147333333t" end="33182666666t" region="rgn00001" xml:id="subtitle997">[Irish accent] “No, we wouldn’t have<br/>any corn here in the countryside.</p>
+<p begin="33183333333t" end="33216000000t" region="rgn00001" xml:id="subtitle998">We probably don’t have any corn<br/>in the entire country at the moment.”</p>
+<p begin="33241333333t" end="33270666666t" region="rgn00001" xml:id="subtitle999">I said, “Have you ever had corn?”</p>
+<p begin="33271333333t" end="33287333333t" region="rgn00001" xml:id="subtitle1000">“Yes. I’ve had corn.</p>
+<p begin="33288000000t" end="33312333333t" region="rgn00001" xml:id="subtitle1001">When I was nine, we traveled to Germany.</p>
+<p begin="33327000000t" end="33352333333t" region="rgn00001" xml:id="subtitle1002">And I had some corn<br/>and I didn’t care for it.”</p>
+<p begin="33363333333t" end="33398333333t" region="rgn00001" xml:id="subtitle1003">I was like, “Good for you.”<br/>He hasn’t had corn in 71 years.</p>
+<p begin="33399000000t" end="33422666666t" region="rgn00001" xml:id="subtitle1004">And he doesn’t give a shit.</p>
+<p begin="33440000000t" end="33471666666t" region="rgn00001" xml:id="subtitle1005">And he looks fine.<br/>And he’s bartending on a Thursday.</p>
+<p begin="33505000000t" end="33531666666t" region="rgn00001" xml:id="subtitle1006">The whole pace of Ireland is just slower.<br/>But I like it better.</p>
+<p begin="33532333333t" end="33569000000t" region="rgn00001" xml:id="subtitle1007">It just takes you a while in your<br/>American mind to slow down like that.</p>
+<p begin="33569666666t" end="33585666666t" region="rgn00001" xml:id="subtitle1008">I went-- ’Cause they don’t--</p>
+<p begin="33586333333t" end="33625000000t" region="rgn00001" xml:id="subtitle1009">It’s very-- Nobody’s really, you know,<br/>fired up on it.</p>
+<p begin="33625666666t" end="33676666666t" region="rgn00001" xml:id="subtitle1010">I went in a store that said “bagels,”<br/>in a little town in the country.</p>
+<p begin="33677333333t" end="33690000000t" region="rgn00001" xml:id="subtitle1011">I walked in. There’s a lady.</p>
+<p begin="33690666666t" end="33716000000t" region="rgn00001" xml:id="subtitle1012">And there’s a glass case,<br/>and there’s no bagels.</p>
+<p begin="33716666666t" end="33741666666t" region="rgn00001" xml:id="subtitle1013">And I thought, here we go. Right?</p>
+<p begin="33753000000t" end="33768000000t" region="rgn00001" xml:id="subtitle1014">I go, “You don’t have any--”</p>
+<p begin="33768666666t" end="33796333333t" region="rgn00001" xml:id="subtitle1015">I thought maybe they were in the back.<br/>“You don’t have any bagels?”</p>
+<p begin="33797000000t" end="33823000000t" region="rgn00001" xml:id="subtitle1016">“No, I’m afraid we wouldn’t have<br/>any bagels at the moment.”</p>
+<p begin="33837000000t" end="33877666666t" region="rgn00001" xml:id="subtitle1017">“Are you selling<br/>any other food right now?”</p>
+<p begin="33878333333t" end="33890333333t" region="rgn00001" xml:id="subtitle1018">“No.</p>
+<p begin="33901666666t" end="33941333333t" region="rgn00001" xml:id="subtitle1019">I wouldn’t be selling anything but the<br/>bagels, and I don’t have at the moment.”</p>
+<p begin="33948666666t" end="33980666666t" region="rgn00001" xml:id="subtitle1020">It’s at that point<br/>your American brain wants to go,</p>
+<p begin="33981333333t" end="34011666666t" region="rgn00001" xml:id="subtitle1021">“What the fuck is wrong with you people?”</p>
+<p begin="34039333333t" end="34072333333t" region="rgn00001" xml:id="subtitle1022">But I would never do that<br/>’cause I’m Midwest polite.</p>
+<p begin="34073000000t" end="34092000000t" region="rgn00001" xml:id="subtitle1023">I-- I said,</p>
+<p begin="34092666666t" end="34133333333t" region="rgn00001" xml:id="subtitle1024">“Uh, what-- Can I ask you a question?<br/>Why are you still open?</p>
+<p begin="34134000000t" end="34161666666t" region="rgn00001" xml:id="subtitle1025">’Cause you have nothing for sale.”</p>
+<p begin="34162333333t" end="34195333333t" region="rgn00001" xml:id="subtitle1026">She goes, “I left the door open. First<br/>of all, I don’t know where the bagels are.</p>
+<p begin="34196000000t" end="34217000000t" region="rgn00001" xml:id="subtitle1027">They’re supposed to be here<br/>half past 7:00. It’s half past 10:00.</p>
+<p begin="34217666666t" end="34238333333t" region="rgn00001" xml:id="subtitle1028">I don’t know. Perhaps there’s been<br/>an accident on the road.</p>
+<p begin="34239000000t" end="34278333333t" region="rgn00001" xml:id="subtitle1029">You’ll say a rosary or perhaps<br/>a novena tonight for Johnny the bagel man.</p>
+<p begin="34296333333t" end="34340666666t" region="rgn00001" xml:id="subtitle1030">I left the door open in case I had a nice<br/>conversation with someone like yourself.”</p>
+<p begin="34362000000t" end="34402666666t" region="rgn00001" xml:id="subtitle1031">Oh, my God. I have to now go back<br/>to the other bar and order a Guinness</p>
+<p begin="34403333333t" end="34429666666t" region="rgn00001" xml:id="subtitle1032">in order to fix this conversation<br/>in my brain.</p>
+<p begin="34449000000t" end="34476666666t" region="rgn00001" xml:id="subtitle1033">I love Guinness. That is actually<br/>my favorite thing in the whole world.</p>
+<p begin="34477333333t" end="34491333333t" region="rgn00001" xml:id="subtitle1034">It’s the greatest drink.</p>
+<p begin="34492000000t" end="34509333333t" region="rgn00001" xml:id="subtitle1035">It’s like somebody had a beer,</p>
+<p begin="34510000000t" end="34539666666t" region="rgn00001" xml:id="subtitle1036">and then somebody threw a roast beef<br/>in the beer,</p>
+<p begin="34540333333t" end="34573666666t" region="rgn00001" xml:id="subtitle1037">and then somebody<br/>put mashed potatoes on top</p>
+<p begin="34574333333t" end="34591000000t" region="rgn00001" xml:id="subtitle1038">and handed it to you.</p>
+<p begin="34611666666t" end="34621666666t" region="rgn00001" xml:id="subtitle1039">[man] Whoo!</p>
+<p begin="34622333333t" end="34649000000t" region="rgn00001" xml:id="subtitle1040">It’s not healthy. But I really don’t care<br/>about health either.</p>
+<p begin="34649666666t" end="34686333333t" region="rgn00001" xml:id="subtitle1041">There comes a point in your life where<br/>you’re like, “I think it’s too late.”</p>
+<p begin="34687000000t" end="34711333333t" region="rgn00001" xml:id="subtitle1042">That’s why I don’t like to watch CNN</p>
+<p begin="34712000000t" end="34740666666t" region="rgn00001" xml:id="subtitle1043">because Sanjay Gupta,<br/>that doctor, comes on,</p>
+<p begin="34741333333t" end="34760666666t" region="rgn00001" xml:id="subtitle1044">and he is a buzzkill.</p>
+<p begin="34761333333t" end="34814000000t" region="rgn00001" xml:id="subtitle1045">Every single time he’s on, he’s got<br/>bad news about things that can kill us.</p>
+<p begin="34814666666t" end="34832666666t" region="rgn00001" xml:id="subtitle1046">But it’s things we’ve been doing<br/>our whole lives.</p>
+<p begin="34833333333t" end="34882333333t" region="rgn00001" xml:id="subtitle1047">I’m like, “Sanjay, people watching CNN<br/>are most likely over the age of 30.</p>
+<p begin="34883000000t" end="34928000000t" region="rgn00001" xml:id="subtitle1048">It is too late for us. You, sir,<br/>should be on Nickelodeon.</p>
+<p begin="34928666666t" end="34966000000t" region="rgn00001" xml:id="subtitle1049">Tell the children. Save the children.”</p>
+<p begin="34988333333t" end="35002333333t" region="rgn00001" xml:id="subtitle1050">It’s too late.</p>
+<p begin="35023333333t" end="35054666666t" region="rgn00001" xml:id="subtitle1051">I was watching it<br/>about two weeks before Thanksgiving.</p>
+<p begin="35055333333t" end="35086333333t" region="rgn00001" xml:id="subtitle1052">He came on. He’s like, “Uh-oh. Oh, God.</p>
+<p begin="35087000000t" end="35126333333t" region="rgn00001" xml:id="subtitle1053">Horrible news. Uh, World Health<br/>Organization just did a study.</p>
+<p begin="35127000000t" end="35141000000t" region="rgn00001" xml:id="subtitle1054">And as it turns out,</p>
+<p begin="35141666666t" end="35178333333t" region="rgn00001" xml:id="subtitle1055">they have decided that processed meats<br/>are raising the cancer rates</p>
+<p begin="35179000000t" end="35217333333t" region="rgn00001" xml:id="subtitle1056">by a much higher rate,<br/>specifically bacon.”</p>
+<p begin="35225000000t" end="35242000000t" region="rgn00001" xml:id="subtitle1057">-[audience jeering]<br/>-Yeah.</p>
+<p begin="35242666666t" end="35269666666t" region="rgn00001" xml:id="subtitle1058">Yeah, well, that’s right, Wisconsin.</p>
+<p begin="35270333333t" end="35295000000t" region="rgn00001" xml:id="subtitle1059">That’s-- [chuckles] Whoa.</p>
+<p begin="35308333333t" end="35321333333t" region="rgn00001" xml:id="subtitle1060">I’m like, bacon?</p>
+<p begin="35322000000t" end="35345000000t" region="rgn00001" xml:id="subtitle1061">I’m sorry to hear that, Sanjay.</p>
+<p begin="35345666666t" end="35374333333t" region="rgn00001" xml:id="subtitle1062">’Cause I love bacon.<br/>I’ve been eating it my whole life.</p>
+<p begin="35375000000t" end="35407333333t" region="rgn00001" xml:id="subtitle1063">Sometimes I put it in Bloody Marys.<br/>I’ve actually drank bacon.</p>
+<p begin="35408000000t" end="35430666666t" region="rgn00001" xml:id="subtitle1064">That’s how much--</p>
+<p begin="35442333333t" end="35455666666t" region="rgn00001" xml:id="subtitle1065">I added it up.</p>
+<p begin="35456333333t" end="35514666666t" region="rgn00001" xml:id="subtitle1066">In my life, give or take ten,<br/>I have eaten 311 pigs.</p>
+<p begin="35515333333t" end="35525333333t" region="rgn00001" xml:id="subtitle1067">I--</p>
+<p begin="35539666666t" end="35561666666t" region="rgn00001" xml:id="subtitle1068">I’ve eaten a farm, sir.</p>
+<p begin="35562333333t" end="35588000000t" region="rgn00001" xml:id="subtitle1069">You can’t fix that with a yoga class.</p>
+<p begin="35588666666t" end="35624666666t" region="rgn00001" xml:id="subtitle1070">You can’t back that damage up<br/>with a walk around the block.</p>
+<p begin="35673000000t" end="35702333333t" region="rgn00001" xml:id="subtitle1071">And I don’t even go looking<br/>for health stuff.</p>
+<p begin="35703000000t" end="35733333333t" region="rgn00001" xml:id="subtitle1072">I’m not that person where-- No.<br/>Like the front page of Yahoo.</p>
+<p begin="35734000000t" end="35752666666t" region="rgn00001" xml:id="subtitle1073">I don’t know. Six months ago it said,</p>
+<p begin="35753333333t" end="35790333333t" region="rgn00001" xml:id="subtitle1074">“If you’re fair skin with freckles,<br/>uh, click here.”</p>
+<p begin="35797666666t" end="35816666666t" region="rgn00001" xml:id="subtitle1075">Why, I don’t want to click it.</p>
+<p begin="35817333333t" end="35832666666t" region="rgn00001" xml:id="subtitle1076">You know it’s not good news.</p>
+<p begin="35833333333t" end="35856000000t" region="rgn00001" xml:id="subtitle1077">They’re not gonna go,<br/>“Hey, guess what, freckle people.</p>
+<p begin="35856666666t" end="35883000000t" region="rgn00001" xml:id="subtitle1078">Y’all won $50.<br/>Run on down to the post office</p>
+<p begin="35883666666t" end="35901666666t" region="rgn00001" xml:id="subtitle1079">and pick up your government check.”</p>
+<p begin="35902333333t" end="35914666666t" region="rgn00001" xml:id="subtitle1080">No.</p>
+<p begin="35927666666t" end="35962666666t" region="rgn00001" xml:id="subtitle1081">But I feel like I have to click on it,<br/>’cause it’s a meeting of my people.</p>
+<p begin="35963333333t" end="35988666666t" region="rgn00001" xml:id="subtitle1082">What if there’s an announcement<br/>and I don’t hear it,</p>
+<p begin="35989333333t" end="36017666666t" region="rgn00001" xml:id="subtitle1083">and I’m the only lady that didn’t know.</p>
+<p begin="36025000000t" end="36045000000t" region="rgn00001" xml:id="subtitle1084">Look like some sort of jackass.</p>
+<p begin="36045666666t" end="36065666666t" region="rgn00001" xml:id="subtitle1085">So I clicked on it.</p>
+<p begin="36066333333t" end="36081666666t" region="rgn00001" xml:id="subtitle1086">Google this. It’s unbelievable.</p>
+<p begin="36082333333t" end="36115333333t" region="rgn00001" xml:id="subtitle1087">They go,<br/>“Uh-oh. Pah, just found this out.”</p>
+<p begin="36116000000t" end="36135000000t" region="rgn00001" xml:id="subtitle1088">Incoming. Breaking news.</p>
+<p begin="36135666666t" end="36189666666t" region="rgn00001" xml:id="subtitle1089">If you’re white with freckles, fair skin,<br/>and you’ve been drinking orange juice--</p>
+<p begin="36204333333t" end="36223000000t" region="rgn00001" xml:id="subtitle1090">All of us, our whole lives--</p>
+<p begin="36223666666t" end="36237333333t" region="rgn00001" xml:id="subtitle1091">or eating grapefruit,</p>
+<p begin="36238000000t" end="36278666666t" region="rgn00001" xml:id="subtitle1092">they have figured out that<br/>when you go outside in the sun,</p>
+<p begin="36279333333t" end="36290666666t" region="rgn00001" xml:id="subtitle1093">because your skin--</p>
+<p begin="36291333333t" end="36309333333t" region="rgn00001" xml:id="subtitle1094">It’s so easy to penetrate your skin,</p>
+<p begin="36310000000t" end="36367666666t" region="rgn00001" xml:id="subtitle1095">that the sun is activating the acid<br/>from the grapefruits and the oranges,</p>
+<p begin="36368333333t" end="36407000000t" region="rgn00001" xml:id="subtitle1096">raising your chances of melanoma<br/>by, like, 27 percent.</p>
+<p begin="36421000000t" end="36481333333t" region="rgn00001" xml:id="subtitle1097">Yeah. So now, I can’t go outside<br/>to exercise in the sunshine.</p>
+<p begin="36497666666t" end="36517666666t" region="rgn00001" xml:id="subtitle1098">Or I will become activated</p>
+<p begin="36518333333t" end="36566333333t" region="rgn00001" xml:id="subtitle1099">which forces me back into the dark bar...</p>
+<p begin="36576666666t" end="36613333333t" region="rgn00001" xml:id="subtitle1100">where I can have a Bloody Mary<br/>with some bacon in it.</p>
+<p begin="36614000000t" end="36637666666t" region="rgn00001" xml:id="subtitle1101">[applause]</p>
+<p begin="36638333333t" end="36649666666t" region="rgn00001" xml:id="subtitle1102">[man] yeah!</p>
+<p begin="36703333333t" end="36736333333t" region="rgn00001" xml:id="subtitle1103">And I said to my sister,<br/>“I would-- I would exercise more.</p>
+<p begin="36737000000t" end="36758666666t" region="rgn00001" xml:id="subtitle1104">But all I do is fly around.<br/>I’m just sitting in an airport.”</p>
+<p begin="36759333333t" end="36792000000t" region="rgn00001" xml:id="subtitle1105">She goes, “You should get a Fitbit.”<br/>This is what this is on my arm.</p>
+<p begin="36792666666t" end="36820333333t" region="rgn00001" xml:id="subtitle1106">It would work better<br/>if I charged it properly.</p>
+<p begin="36826333333t" end="36857000000t" region="rgn00001" xml:id="subtitle1107">But this counts your steps and your miles.</p>
+<p begin="36857666666t" end="36886666666t" region="rgn00001" xml:id="subtitle1108">And it’ll have your heart rate<br/>if you want to enter your food.</p>
+<p begin="36887333333t" end="36907000000t" region="rgn00001" xml:id="subtitle1109">It’s like this--<br/>I go, “Well, maybe I’ll do that.</p>
+<p begin="36907666666t" end="36933666666t" region="rgn00001" xml:id="subtitle1110">Maybe I’ll get addicted to seeing<br/>how many steps I get in a day.”</p>
+<p begin="36934333333t" end="36964000000t" region="rgn00001" xml:id="subtitle1111">So, from my iPad, on my couch,</p>
+<p begin="36964666666t" end="37002666666t" region="rgn00001" xml:id="subtitle1112">I ordered the Fitbit from Amazon.</p>
+<p begin="37009666666t" end="37036000000t" region="rgn00001" xml:id="subtitle1113">I paid the extra money<br/>to have it overnighted.</p>
+<p begin="37036666666t" end="37071666666t" region="rgn00001" xml:id="subtitle1114">So the following day,<br/>this was on my porch on my front steps,</p>
+<p begin="37072333333t" end="37113666666t" region="rgn00001" xml:id="subtitle1115">which I now know is six and a half steps<br/>away from my couch.</p>
+<p begin="37149000000t" end="37201000000t" region="rgn00001" xml:id="subtitle1116">And then I opened it up, and I googled it,<br/>’cause I wanted to know how it work.</p>
+<p begin="37201666666t" end="37240666666t" region="rgn00001" xml:id="subtitle1117">Really? It can count how far I’ve walked,<br/>steps and speed.</p>
+<p begin="37241333333t" end="37282000000t" region="rgn00001" xml:id="subtitle1118">We can’t find Flight 370,<br/>but I’m not supposed to talk about that.</p>
+<p begin="37282666666t" end="37301666666t" region="rgn00001" xml:id="subtitle1119">Supposed to just let that go.</p>
+<p begin="37325666666t" end="37343000000t" region="rgn00001" xml:id="subtitle1120">But we have this technology.</p>
+<p begin="37343666666t" end="37361333333t" region="rgn00001" xml:id="subtitle1121">So I googled, “How does it work?”</p>
+<p begin="37362000000t" end="37395666666t" region="rgn00001" xml:id="subtitle1122">It works based on this motion<br/>from when you’re walking.</p>
+<p begin="37396333333t" end="37428333333t" region="rgn00001" xml:id="subtitle1123">And then, my Irish jackasses kicked in<br/>and I thought,</p>
+<p begin="37429000000t" end="37461666666t" region="rgn00001" xml:id="subtitle1124">but does it know if my whole body<br/>is moving?</p>
+<p begin="37462333333t" end="37490666666t" region="rgn00001" xml:id="subtitle1125">What if I had a glass of wine<br/>and I was going like that?</p>
+<p begin="37491333333t" end="37506333333t" region="rgn00001" xml:id="subtitle1126">Would it know?</p>
+<p begin="37521333333t" end="37547333333t" region="rgn00001" xml:id="subtitle1127">The answer is no. It does not know.</p>
+<p begin="37548000000t" end="37596000000t" region="rgn00001" xml:id="subtitle1128">I drank two and a half miles<br/>while watching the last--</p>
+<p begin="37596666666t" end="37614666666t" region="rgn00001" xml:id="subtitle1129">-[applause]<br/>-Thank you.</p>
+<p begin="37681666666t" end="37717000000t" region="rgn00001" xml:id="subtitle1130">Two and a half miles<br/>while watching the last Republican debate.</p>
+<p begin="37761666666t" end="37801333333t" region="rgn00001" xml:id="subtitle1131">I know I won’t vote for any politician<br/>who says this, uh, at anytime.</p>
+<p begin="37802000000t" end="37823666666t" region="rgn00001" xml:id="subtitle1132">If they say it.<br/>So far four of them have said it.</p>
+<p begin="37824333333t" end="37853666666t" region="rgn00001" xml:id="subtitle1133">It’s like a hack line they say<br/>on the campaign trail.</p>
+<p begin="37854333333t" end="37869666666t" region="rgn00001" xml:id="subtitle1134">I just find it so cheesy.</p>
+<p begin="37870333333t" end="37916666666t" region="rgn00001" xml:id="subtitle1135">They’ll go, “People, America is a place<br/>where your dreams can come true.</p>
+<p begin="37917333333t" end="37935666666t" region="rgn00001" xml:id="subtitle1136">I’m here to make your dreams come true.</p>
+<p begin="37936333333t" end="37954666666t" region="rgn00001" xml:id="subtitle1137">Wouldn’t you like<br/>your dreams to come true?”</p>
+<p begin="37955333333t" end="37988333333t" region="rgn00001" xml:id="subtitle1138">I’m sitting there thinking,<br/>“No. No, I don’t.”</p>
+<p begin="37989000000t" end="38016333333t" region="rgn00001" xml:id="subtitle1139">And the fact that you said that<br/>makes me certain</p>
+<p begin="38017000000t" end="38050666666t" region="rgn00001" xml:id="subtitle1140">you have never drank a box of wine<br/>and taken an Ambien.</p>
+<p begin="38108333333t" end="38135333333t" region="rgn00001" xml:id="subtitle1141">I do not want my dreams to come true.</p>
+<p begin="38153333333t" end="38193000000t" region="rgn00001" xml:id="subtitle1142">It was horrifying.<br/>I did it like six weeks ago.</p>
+<p begin="38193666666t" end="38214333333t" region="rgn00001" xml:id="subtitle1143">Here was the dream.<br/>This is the whole dream.</p>
+<p begin="38215000000t" end="38250666666t" region="rgn00001" xml:id="subtitle1144">I’m in Alaska, wearing a sombrero.</p>
+<p begin="38256000000t" end="38292000000t" region="rgn00001" xml:id="subtitle1145">It’s raining Cheetos,<br/>but I can’t move my arms.</p>
+<p begin="38321333333t" end="38338000000t" region="rgn00001" xml:id="subtitle1146">[groaning]</p>
+<p begin="38362333333t" end="38392000000t" region="rgn00001" xml:id="subtitle1147">Three and a half hours of that. No thanks.</p>
+<p begin="38422333333t" end="38453000000t" region="rgn00001" xml:id="subtitle1148">And then I turned on late-night TV,<br/>and that’s all the infomercials.</p>
+<p begin="38453666666t" end="38482666666t" region="rgn00001" xml:id="subtitle1149">And there it was, the Sarah McLachlan<br/>sad animal commercial.</p>
+<p begin="38483333333t" end="38501000000t" region="rgn00001" xml:id="subtitle1150">-[audience groans]<br/>-Exactly.</p>
+<p begin="38510666666t" end="38523666666t" region="rgn00001" xml:id="subtitle1151">I feel the same way.</p>
+<p begin="38524333333t" end="38543000000t" region="rgn00001" xml:id="subtitle1152">But I’ve seen it like 200 times.</p>
+<p begin="38543666666t" end="38567333333t" region="rgn00001" xml:id="subtitle1153">And do you know what I’ve done? Honestly?</p>
+<p begin="38568000000t" end="38599333333t" region="rgn00001" xml:id="subtitle1154">Nothing. And that’s not nice.<br/>But that’s the truth.</p>
+<p begin="38600000000t" end="38620666666t" region="rgn00001" xml:id="subtitle1155">I thought, why don’t I react to this?</p>
+<p begin="38621333333t" end="38661000000t" region="rgn00001" xml:id="subtitle1156">I can’t get an animal. I’m gone too much,<br/>but I could send the money.</p>
+<p begin="38661666666t" end="38701666666t" region="rgn00001" xml:id="subtitle1157">I think they say like 62 cents a day<br/>for the dog or the cat, right?</p>
+<p begin="38702333333t" end="38731333333t" region="rgn00001" xml:id="subtitle1158">But then I thought, “Well, I don’t know<br/>what’s going on there, Sarah,</p>
+<p begin="38732000000t" end="38767666666t" region="rgn00001" xml:id="subtitle1159">but that kid on the other channel<br/>is only 55 cents a day.</p>
+<p begin="38768333333t" end="38799666666t" region="rgn00001" xml:id="subtitle1160">So maybe your cat’s living<br/>a little large, Sarah.</p>
+<p begin="38800333333t" end="38820666666t" region="rgn00001" xml:id="subtitle1161">Or maybe the child needs a raise.</p>
+<p begin="38821333333t" end="38841333333t" region="rgn00001" xml:id="subtitle1162">I don’t know,<br/>but someone should check that</p>
+<p begin="38842000000t" end="38870666666t" region="rgn00001" xml:id="subtitle1163">before you start<br/>throwing figures like that out at night,</p>
+<p begin="38871333333t" end="38905000000t" region="rgn00001" xml:id="subtitle1164">late night when all the infomercials<br/>are on in a row.”</p>
+<p begin="38927666666t" end="38958666666t" region="rgn00001" xml:id="subtitle1165">And I thought, this ad doesn’t work on me</p>
+<p begin="38959333333t" end="38985000000t" region="rgn00001" xml:id="subtitle1166">because it’s so sad,<br/>I usually turn it off.</p>
+<p begin="38985666666t" end="39024666666t" region="rgn00001" xml:id="subtitle1167">Like, you can’t motivate people to action<br/>through the emotion of sadness.</p>
+<p begin="39025333333t" end="39053666666t" region="rgn00001" xml:id="subtitle1168">You need to make people angry<br/>or shocked or appalled.</p>
+<p begin="39054333333t" end="39068000000t" region="rgn00001" xml:id="subtitle1169">That’s what gets people of their ass.</p>
+<p begin="39068666666t" end="39103000000t" region="rgn00001" xml:id="subtitle1170">You don’t ever see a protest with a bunch<br/>of people just laying around crying.</p>
+<p begin="39103666666t" end="39125333333t" region="rgn00001" xml:id="subtitle1171">No. That’s not going to happen.</p>
+<p begin="39126000000t" end="39150333333t" region="rgn00001" xml:id="subtitle1172">And I thought,<br/>they need to redo this commercial</p>
+<p begin="39151000000t" end="39168333333t" region="rgn00001" xml:id="subtitle1173">to make a lot more money for the animals.</p>
+<p begin="39169000000t" end="39212000000t" region="rgn00001" xml:id="subtitle1174">I-- This is what I’m doing late night<br/>after my Ambien and boxed wine.</p>
+<p begin="39212666666t" end="39239666666t" region="rgn00001" xml:id="subtitle1175">I’m thinking of how to fix the commercial.</p>
+<p begin="39240333333t" end="39286666666t" region="rgn00001" xml:id="subtitle1176">And I-- I would call Sarah back.<br/>She seems like a lovely lady.</p>
+<p begin="39287333333t" end="39315000000t" region="rgn00001" xml:id="subtitle1177">Call her up in Canada<br/>and go, “We really messed up.</p>
+<p begin="39315666666t" end="39348333333t" region="rgn00001" xml:id="subtitle1178">We need you back down here, and<br/>we’re going to reshoot the commercial.”</p>
+<p begin="39349000000t" end="39375000000t" region="rgn00001" xml:id="subtitle1179">You pay for her to come back to America.</p>
+<p begin="39375666666t" end="39403666666t" region="rgn00001" xml:id="subtitle1180">You go, “Here’s what’s gonna--<br/>Here’s how it’s going to work, Sarah.</p>
+<p begin="39404333333t" end="39438000000t" region="rgn00001" xml:id="subtitle1181">We’re going to send you out<br/>to that song that you wrote,</p>
+<p begin="39438666666t" end="39467000000t" region="rgn00001" xml:id="subtitle1182">the saddest song ever written on earth.”</p>
+<p begin="39467666666t" end="39491666666t" region="rgn00001" xml:id="subtitle1183"><span style="style_0">♪ In the arms ♪</span></p>
+<p begin="39492333333t" end="39525000000t" region="rgn00001" xml:id="subtitle1184">[yowling] I don’t know what the words are.</p>
+<p begin="39525666666t" end="39549000000t" region="rgn00001" xml:id="subtitle1185">I think it’s about that cat<br/>having pink eye, but I can’t--</p>
+<p begin="39549666666t" end="39576333333t" region="rgn00001" xml:id="subtitle1186">I don’t know.<br/>That one definitely has pink eye.</p>
+<p begin="39577000000t" end="39599666666t" region="rgn00001" xml:id="subtitle1187">It’s dangerous ’cause<br/>it’s gonna hop to the other eye</p>
+<p begin="39600333333t" end="39624666666t" region="rgn00001" xml:id="subtitle1188">like Bob Costas at the Olympics.</p>
+<p begin="39625333333t" end="39644333333t" region="rgn00001" xml:id="subtitle1189">It’s-- It’s a mess.</p>
+<p begin="39645000000t" end="39677666666t" region="rgn00001" xml:id="subtitle1190">You got to put hot water on it.<br/>And cats don’t like water.</p>
+<p begin="39678333333t" end="39698333333t" region="rgn00001" xml:id="subtitle1191">I don’t know<br/>how you would begin to fix that.</p>
+<p begin="39712333333t" end="39732666666t" region="rgn00001" xml:id="subtitle1192">But here’s what’s gonna happen, Sarah.</p>
+<p begin="39733333333t" end="39765666666t" region="rgn00001" xml:id="subtitle1193">You’re gonna walk out to that song<br/>that you wrote. Lovely song.</p>
+<p begin="39766333333t" end="39795666666t" region="rgn00001" xml:id="subtitle1194">And in one hand, you’re going<br/>to be holding a beagle puppy.</p>
+<p begin="39805333333t" end="39838000000t" region="rgn00001" xml:id="subtitle1195">And in the other hand,<br/>you’re going to be holding a pistol.</p>
+<p begin="39849333333t" end="39885000000t" region="rgn00001" xml:id="subtitle1196">Remember, this is for the animals.<br/>Stay with me.</p>
+<p begin="39903666666t" end="39925666666t" region="rgn00001" xml:id="subtitle1197">And then I’m going to need you, Sarah,</p>
+<p begin="39926333333t" end="39972666666t" region="rgn00001" xml:id="subtitle1198">to say in your oh-so-angelic voice,<br/>without laughing--</p>
+<p begin="39980333333t" end="39997333333t" region="rgn00001" xml:id="subtitle1199">You have to be serious.</p>
+<p begin="40002333333t" end="40049333333t" region="rgn00001" xml:id="subtitle1200">She’ll go, “Hello. I’m Sarah McLachlan.</p>
+<p begin="40054333333t" end="40076000000t" region="rgn00001" xml:id="subtitle1201">If someone doesn’t come down here...</p>
+<p begin="40089333333t" end="40136000000t" region="rgn00001" xml:id="subtitle1202">in the next 45 minutes,<br/>I’m gonna blow this beagle’s brains out.”</p>
+<p begin="40155333333t" end="40170666666t" region="rgn00001" xml:id="subtitle1203">I would be horrified.</p>
+<p begin="40171333333t" end="40203000000t" region="rgn00001" xml:id="subtitle1204">I’d be like, “Can you Shazam<br/>her location? Where is she?”</p>
+<p begin="40203666666t" end="40221000000t" region="rgn00001" xml:id="subtitle1205">And I would drive down there,</p>
+<p begin="40221666666t" end="40249333333t" region="rgn00001" xml:id="subtitle1206">and I would take the puppy<br/>and kick the gun out of her hand.</p>
+<p begin="40250000000t" end="40272666666t" region="rgn00001" xml:id="subtitle1207">And where did you even get a gun?<br/>You’re Canadian.</p>
+<p begin="40273333333t" end="40299666666t" region="rgn00001" xml:id="subtitle1208">You’re allowed<br/>one bear gun per family, Sarah.</p>
+<p begin="40300333333t" end="40315666666t" region="rgn00001" xml:id="subtitle1209">That is not a bear gun.</p>
+<p begin="40378666666t" end="40412666666t" region="rgn00001" xml:id="subtitle1210">You guys have been a lot of fun.<br/>If you drank and you’re gonna drive,</p>
+<p begin="40413333333t" end="40424666666t" region="rgn00001" xml:id="subtitle1211">focus.</p>
+<p begin="40425333333t" end="40448000000t" region="rgn00001" xml:id="subtitle1212">Don’t be playing with your phone.</p>
+<p begin="40448666666t" end="40483333333t" region="rgn00001" xml:id="subtitle1213">I am not advocating drinking and driving.</p>
+<p begin="40484000000t" end="40496333333t" region="rgn00001" xml:id="subtitle1214">I’m not.</p>
+<p begin="40497000000t" end="40512666666t" region="rgn00001" xml:id="subtitle1215">Drinking and driving is really bad.</p>
+<p begin="40513333333t" end="40536000000t" region="rgn00001" xml:id="subtitle1216">And it’s really bad--<br/>I never thought about this.</p>
+<p begin="40536666666t" end="40580333333t" region="rgn00001" xml:id="subtitle1217">But I have a friend, who told me to say<br/>was a very handsome friend,</p>
+<p begin="40581000000t" end="40608333333t" region="rgn00001" xml:id="subtitle1218">Rick in Denver, he got a DUI.</p>
+<p begin="40609000000t" end="40636333333t" region="rgn00001" xml:id="subtitle1219">I never thought about this<br/>until he told me what happens.</p>
+<p begin="40637000000t" end="40672000000t" region="rgn00001" xml:id="subtitle1220">Now when you get taken to jail,<br/>they take all your stuff.</p>
+<p begin="40672666666t" end="40704666666t" region="rgn00001" xml:id="subtitle1221">That includes your phone.<br/>And they lock it all in a drawer.</p>
+<p begin="40705333333t" end="40721666666t" region="rgn00001" xml:id="subtitle1222">Then they come back to your cell</p>
+<p begin="40722333333t" end="40753333333t" region="rgn00001" xml:id="subtitle1223">and tell you you’re now allowed<br/>to make one phone call.</p>
+<p begin="40759000000t" end="40778333333t" region="rgn00001" xml:id="subtitle1224">[blows air]</p>
+<p begin="40779000000t" end="40801666666t" region="rgn00001" xml:id="subtitle1225">Well, that’s the problem.</p>
+<p begin="40809000000t" end="40846666666t" region="rgn00001" xml:id="subtitle1226">’Cause you just locked<br/>my brain in a drawer.</p>
+<p begin="40871333333t" end="40903000000t" region="rgn00001" xml:id="subtitle1227">I don’t know anybody’s phone numbers<br/>by heart anymore.</p>
+<p begin="40903666666t" end="40915333333t" region="rgn00001" xml:id="subtitle1228">Seriously, I don’t.</p>
+<p begin="40916000000t" end="40939333333t" region="rgn00001" xml:id="subtitle1229">I don’t know what I--<br/>What-- What would you do?</p>
+<p begin="40940000000t" end="40975333333t" region="rgn00001" xml:id="subtitle1230">I know the number of the house<br/>I grew up in.</p>
+<p begin="40982333333t" end="41008000000t" region="rgn00001" xml:id="subtitle1231">I could call that family...</p>
+<p begin="41020000000t" end="41048000000t" region="rgn00001" xml:id="subtitle1232">and hope<br/>that they were really nice people.</p>
+<p begin="41053999999t" end="41077333333t" region="rgn00001" xml:id="subtitle1233">“Don’t hang up. Don’t hang up. Oh, my God.</p>
+<p begin="41078000000t" end="41111666666t" region="rgn00001" xml:id="subtitle1234">Oh, my God. I’m in so much trouble.</p>
+<p begin="41130000000t" end="41163999999t" region="rgn00001" xml:id="subtitle1235">I know you guys are kind of busy<br/>in Ferguson.</p>
+<p begin="41178999999t" end="41201000000t" region="rgn00001" xml:id="subtitle1236">Do you have $2,800?”</p>
+<p begin="41227666666t" end="41259333333t" region="rgn00001" xml:id="subtitle1237">Then I thought, seriously?<br/>They wouldn’t let you look at your phone?</p>
+<p begin="41260000000t" end="41283999999t" region="rgn00001" xml:id="subtitle1238">He goes,<br/>“Kathleen, you don’t get it. No, no.”</p>
+<p begin="41284666666t" end="41302333333t" region="rgn00001" xml:id="subtitle1239">I go, “I think that’s being stringent.</p>
+<p begin="41303000000t" end="41330666666t" region="rgn00001" xml:id="subtitle1240">You’re not a murderer. You’re not<br/>a rapist. You’re Drunky the Clown.</p>
+<p begin="41331333333t" end="41350333333t" region="rgn00001" xml:id="subtitle1241">You’ve been captured.<br/>You can’t hurt anybody.</p>
+<p begin="41351000000t" end="41372000000t" region="rgn00001" xml:id="subtitle1242">They wouldn’t even show you<br/>your contacts?”</p>
+<p begin="41372666666t" end="41384333333t" region="rgn00001" xml:id="subtitle1243">“No.”</p>
+<p begin="41385000000t" end="41409666666t" region="rgn00001" xml:id="subtitle1244">I thought, especially if I had<br/>been drinking,</p>
+<p begin="41411000000t" end="41435666666t" region="rgn00001" xml:id="subtitle1245">that’s when my jackass behavior<br/>would kick in.</p>
+<p begin="41436333333t" end="41466333333t" region="rgn00001" xml:id="subtitle1246">And I would say,<br/>“Okay, I’m ready for my call.”</p>
+<p begin="41467000000t" end="41495000000t" region="rgn00001" xml:id="subtitle1247">I let them bring me the phone,<br/>and my one call,</p>
+<p begin="41495666666t" end="41539333333t" region="rgn00001" xml:id="subtitle1248">I would call 911 from the cell.</p>
+<p begin="41559333333t" end="41571666666t" region="rgn00001" xml:id="subtitle1249">[chuckling]</p>
+<p begin="41572333333t" end="41613999999t" region="rgn00001" xml:id="subtitle1250">“Hello. Oh, yes,<br/>this is absolutely an emergency.”</p>
+<p begin="41614666666t" end="41653999999t" region="rgn00001" xml:id="subtitle1251">[blows air] “Well, I have been kidnapped.</p>
+<p begin="41654666666t" end="41680000000t" region="rgn00001" xml:id="subtitle1252">That’s what’s going on here.</p>
+<p begin="41705333333t" end="41742333333t" region="rgn00001" xml:id="subtitle1253">I was abducted by two men<br/>in matching outfits.</p>
+<p begin="41778666666t" end="41818666666t" region="rgn00001" xml:id="subtitle1254">And I was thrown into what I can<br/>only surmise right now</p>
+<p begin="41819333333t" end="41840333333t" region="rgn00001" xml:id="subtitle1255">is some sort of sex dungeon.”</p>
+<p begin="41859333333t" end="41872666666t" region="rgn00001" xml:id="subtitle1256">[chuckling]</p>
+<p begin="41888333333t" end="41903000000t" region="rgn00001" xml:id="subtitle1257">“No, I’m not laughing.</p>
+<p begin="41903666666t" end="41918666666t" region="rgn00001" xml:id="subtitle1258">No, I’m not laughing.</p>
+<p begin="41933666666t" end="41949333333t" region="rgn00001" xml:id="subtitle1259">My location?</p>
+<p begin="41950000000t" end="41968000000t" region="rgn00001" xml:id="subtitle1260">Well, that actually is kind of funny.</p>
+<p begin="41968666666t" end="41996000000t" region="rgn00001" xml:id="subtitle1261">If-- If you would just<br/>glance down the hall.</p>
+<p begin="41996666666t" end="42008333333t" region="rgn00001" xml:id="subtitle1262">Ha ha!”</p>
+<p begin="42031000000t" end="42053333333t" region="rgn00001" xml:id="subtitle1263">All right, you guys, thank you so much.</p>
+<p begin="42054000000t" end="42072666666t" region="rgn00001" xml:id="subtitle1264">I’ve had a great time.</p>
+<p begin="42073333333t" end="42094000000t" region="rgn00001" xml:id="subtitle1265">Thank you for coming out.<br/>We appreciate it.</p>
+<p begin="42100000000t" end="42126333333t" region="rgn00001" xml:id="subtitle1266">Lew too. Thank you. Good night. Thank you.</p>
+<p begin="42143000000t" end="42177000000t" region="rgn00001" xml:id="subtitle1267">Good night. Thank you, guys. Thank you.</p>
+<p begin="42184000000t" end="42221666666t" region="rgn00001" xml:id="subtitle1268">[Arden] <span style="style_0">♪ Kathleen ♪</span></p>
+<p begin="42222333333t" end="42257000000t" region="rgn00001" xml:id="subtitle1269"><span style="style_0">♪ Madigan ♪</span></p>
+</div>
+</body>
+</tt>

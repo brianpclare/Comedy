@@ -1,0 +1,991 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="style_1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_2"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" tts:textAlign="center" xml:id="region_1"/>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_2"/>
+<region tts:displayAlign="before" tts:extent="80.00% 40.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_3"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_4"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="193109582t" end="227310416t" region="region_1" xml:id="subtitle0"><span style="style_2">[electricity crackling]</span></p>
+<p begin="481314167t" end="500917084t" region="region_1" xml:id="subtitle1"><span style="style_2">[man] The vestibule has been opened,</span></p>
+<p begin="503002499t" end="556389166t" region="region_1" xml:id="subtitle2"><span style="style_2">and all of us continue to exist</span><br/><span style="style_2">as though nothing will occur.</span></p>
+<p begin="568901667t" end="594760834t" region="region_1" xml:id="subtitle3"><span style="style_2">The Intergalactic Council wishes you</span><br/><span style="style_2">to know</span></p>
+<p begin="600600000t" end="643976666t" region="region_1" xml:id="subtitle4"><span style="style_2">that all dangers are being dealt with</span><br/><span style="style_2">in all quadrants.</span></p>
+<p begin="668584582t" end="707790416t" region="region_1" xml:id="subtitle5"><span style="style_2">I know many of you,</span><br/><span style="style_2">and some of you I do not.</span></p>
+<p begin="710292916t" end="726559166t" region="region_1" xml:id="subtitle6"><span style="style_2">[audience laughs]</span></p>
+<p begin="741157082t" end="755337916t" region="region_1" xml:id="subtitle7"><span style="style_2">But at some point,</span></p>
+<p begin="760342916t" end="804970832t" region="region_1" xml:id="subtitle8"><span style="style_2">you will know someone who knows</span><br/><span style="style_2">of someone that I have met...</span></p>
+<p begin="807056250t" end="823739582t" region="region_1" xml:id="subtitle9"><span style="style_2">[audience laughs]</span></p>
+<p begin="840422916t" end="881714166t" region="region_1" xml:id="subtitle10"><span style="style_2">and at that point,</span><br/><span style="style_2">we will be vaguely acquainted.</span></p>
+<p begin="884633749t" end="897980416t" region="region_1" xml:id="subtitle11"><span style="style_2">[audience laughs]</span></p>
+<p begin="916749166t" end="955954999t" region="region_1" xml:id="subtitle12"><span style="style_2">The Telothians would have you believe</span><br/><span style="style_2">that you are weak,</span></p>
+<p begin="964296666t" end="978477499t" region="region_1" xml:id="subtitle13"><span style="style_2">you are made of nothing,</span></p>
+<p begin="987236249t" end="1023522499t" region="region_1" xml:id="subtitle14"><span style="style_2">that there is nothing worth fighting for</span><br/><span style="style_2">because you have already lost.</span></p>
+<p begin="1034366666t" end="1076909166t" region="region_1" xml:id="subtitle15"><span style="style_2">I guarantee you that this</span><br/><span style="style_2">can be no further from the truth,</span></p>
+<p begin="1081914166t" end="1137386250t" region="region_1" xml:id="subtitle16"><span style="style_2">than from the centaurs of Andromeda</span><br/><span style="style_2">to the black hole of the Vega system.</span></p>
+<p begin="1156572082t" end="1187853332t" region="region_1" xml:id="subtitle17"><span style="style_2">These weapon shipments</span><br/><span style="style_2">have to be intercepted.</span></p>
+<p begin="1199114582t" end="1254169582t" region="region_1" xml:id="subtitle18"><span style="style_2">And it is up to you...</span><br/><span style="style_2">to remain vigilant against these...</span></p>
+<p begin="1257923332t" end="1276692082t" region="region_1" xml:id="subtitle19"><span style="style_2">[muttering]</span></p>
+<p begin="1277526250t" end="1289621667t" region="region_1" xml:id="subtitle20"><span style="style_2">[audience laughs]</span></p>
+<p begin="1339671666t" end="1401400000t" region="region_1" xml:id="subtitle21"><span style="style_2">I now defer the remainder of my time</span><br/><span style="style_2">to Senator Ihavylev Jyaha...</span></p>
+<p begin="1468550416t" end="1481897082t" region="region_1" xml:id="subtitle22"><span style="style_2">[audience laughing]</span></p>
+<p begin="1538203334t" end="1573238334t" region="region_1" xml:id="subtitle23"><span style="style_2">[dramatic music playing over speakers]</span></p>
+<p begin="1862694166t" end="1910658749t" region="region_1" xml:id="subtitle24"><span style="style_2">[audience chanting]</span><br/><span style="style_1">Reggie! Reggie! Reggie!</span></p>
+<p begin="1911492917t" end="1942774167t" region="region_1" xml:id="subtitle25"><span style="style_2">[announcer] Ladies and gentlemen,</span><br/><span style="style_2">please welcome to the stage...</span></p>
+<p begin="1943608334t" end="1955286667t" region="region_1" xml:id="subtitle26"><span style="style_2">Reggie Watts.</span></p>
+<p begin="2018266249t" end="2039954582t" region="region_1" xml:id="subtitle27"><span style="style_2">Oh, sorry about-- Hey, how are you?</span></p>
+<p begin="2047462082t" end="2070818749t" region="region_1" xml:id="subtitle28"><span style="style_2">Hi. How are you? Sorry. I'm so sorry.</span></p>
+<p begin="2072487082t" end="2092507082t" region="region_1" xml:id="subtitle29"><span style="style_2">So sorry.</span><br/><span style="style_2">Don't want to crush you here.</span></p>
+<p begin="2093341249t" end="2107104999t" region="region_1" xml:id="subtitle30"><span style="style_2">So sorry. Here we go.</span></p>
+<p begin="2114612499t" end="2133798332t" region="region_1" xml:id="subtitle31"><span style="style_2">Okay, okay, okay.</span></p>
+<p begin="2134632499t" end="2163411250t" region="region_1" xml:id="subtitle32"><span style="style_2">So sorry.</span><br/><span style="style_2">It's so hard to get through here.</span></p>
+<p begin="2164662500t" end="2200531666t" region="region_1" xml:id="subtitle33"><span style="style_2">Oh, God. Okay. All right.</span><br/><span style="style_2">So sorry. I'm so sorry.</span></p>
+<p begin="2209707500t" end="2218883332t" region="region_1" xml:id="subtitle34"><span style="style_2">So sorry.</span></p>
+<p begin="2228893334t" end="2239320417t" region="region_1" xml:id="subtitle35"><span style="style_2">So sorry. Thank you.</span></p>
+<p begin="2244325416t" end="2257672082t" region="region_1" xml:id="subtitle36"><span style="style_2">Thank you. Thank you.</span></p>
+<p begin="2262677082t" end="2279777500t" region="region_1" xml:id="subtitle37"><span style="style_2">Thanks. So sorry.</span></p>
+<p begin="2280611666t" end="2311475832t" region="region_1" xml:id="subtitle38"><span style="style_2">So-- So sorry for your--</span><br/><span style="style_2">So sorry for your loss.</span></p>
+<p begin="2312310000t" end="2324405417t" region="region_1" xml:id="subtitle39"><span style="style_2">Okay. Here we go.</span></p>
+<p begin="2327325000t" end="2337752082t" region="region_1" xml:id="subtitle40"><span style="style_2">All right. Going.</span></p>
+<p begin="2338586250t" end="2360691666t" region="region_1" xml:id="subtitle41"><span style="style_2">Okay. I'm so sorry. I'm so sorry.</span></p>
+<p begin="2366947916t" end="2382380000t" region="region_1" xml:id="subtitle42"><span style="style_2">I'm so sorry. Hi.</span></p>
+<p begin="2394892500t" end="2422420000t" region="region_1" xml:id="subtitle43"><span style="style_2">So sorry. So sorry. So sorry.</span></p>
+<p begin="2426173750t" end="2451615832t" region="region_1" xml:id="subtitle44"><span style="style_2">Okay. All right. Okay. Okay.</span></p>
+<p begin="2464962500t" end="2474138334t" region="region_1" xml:id="subtitle45"><span style="style_2">[Reggie grunts]</span></p>
+<p begin="2480394584t" end="2494575417t" region="region_1" xml:id="subtitle46"><span style="style_2">[audience member whoops]</span></p>
+<p begin="2497495000t" end="2529193332t" region="region_1" xml:id="subtitle47"><span style="style_2">[audience cheering]</span></p>
+<p begin="2555052500t" end="2563394166t" region="region_1" xml:id="subtitle48"><span style="style_2">Thanks.</span></p>
+<p begin="2600097500t" end="2615112500t" region="region_1" xml:id="subtitle49"><span style="style_2">Thanks, guys. Um...</span></p>
+<p begin="2615946666t" end="2625956666t" region="region_1" xml:id="subtitle50"><span style="style_2">[audience laughs]</span></p>
+<p begin="2642640000t" end="2658489166t" region="region_1" xml:id="subtitle51"><span style="style_2">Sorry. I'm sorry.</span></p>
+<p begin="2669333332t" end="2677675000t" region="region_1" xml:id="subtitle52"><span style="style_2">Thanks, guys.</span></p>
+<p begin="2680177500t" end="2703534166t" region="region_1" xml:id="subtitle53"><span style="style_2">Hey, welcome to the-- Here it is.</span></p>
+<p begin="2706870832t" end="2729393332t" region="region_1" xml:id="subtitle54"><span style="style_2">[audience cheering]</span></p>
+<p begin="2781528750t" end="2799880416t" region="region_1" xml:id="subtitle55"><span style="style_2">You know, tonight is really special.</span></p>
+<p begin="2807387916t" end="2843257082t" region="region_1" xml:id="subtitle56"><span style="style_2">We've got a lot of married couples,</span><br/><span style="style_2">we're gonna be celebrating some of that.</span></p>
+<p begin="2844091250t" end="2885799584t" region="region_1" xml:id="subtitle57"><span style="style_2">[laughs] We've got a lot of anniversaries</span><br/><span style="style_2">we're gonna be talking about this evening,</span></p>
+<p begin="2886633750t" end="2904985416t" region="region_1" xml:id="subtitle58"><span style="style_2">get those out of the way a little early</span></p>
+<p begin="2905819584t" end="2934598334t" region="region_1" xml:id="subtitle59"><span style="style_2">so we can get on to some</span><br/><span style="style_2">of the meatier stuff we talk about.</span></p>
+<p begin="2935432500t" end="2947945000t" region="region_1" xml:id="subtitle60"><span style="style_2">I'm huge into astronomy.</span></p>
+<p begin="2951698750t" end="2999663334t" region="region_1" xml:id="subtitle61"><span style="style_2">Um, and some of the-- Some of the things</span><br/><span style="style_2">that I want to talk to you about tonight</span></p>
+<p begin="3000497500t" end="3021351666t" region="region_1" xml:id="subtitle62"><span style="style_2">aside from the anniversary</span><br/><span style="style_2">and wedding stuff</span></p>
+<p begin="3022185834t" end="3057637917t" region="region_1" xml:id="subtitle63"><span style="style_2">that I kind of mentioned</span><br/><span style="style_2">just a couple seconds ago is... Um...</span></p>
+<p begin="3060557500t" end="3097677916t" region="region_1" xml:id="subtitle64"><span style="style_2">You know, there's a huge-- There's</span><br/><span style="style_2">a huge-- A lot of-- There's a lot of it--</span></p>
+<p begin="3098512082t" end="3137717916t" region="region_1" xml:id="subtitle65"><span style="style_2">There... like, over-- Over time,</span><br/><span style="style_2">you know,</span></p>
+<p begin="3138552082t" end="3164411250t" region="region_1" xml:id="subtitle66"><span style="style_2">we're gonna have to make</span><br/><span style="style_2">some decisions, so--</span></p>
+<p begin="3165245416t" end="3201531666t" region="region_1" xml:id="subtitle67"><span style="style_2">So, I hope that that--</span><br/><span style="style_2">I hope that that's-- Hope that happens.</span></p>
+<p begin="3204034166t" end="3218215000t" region="region_1" xml:id="subtitle68"><span style="style_2">[audience laughing]</span></p>
+<p begin="3219049167t" end="3236983750t" region="region_1" xml:id="subtitle69"><span style="style_2">But I want to tell you a quick story.</span></p>
+<p begin="3249079167t" end="3264928334t" region="region_1" xml:id="subtitle70"><span style="style_2">[fast, high-pitched muttering]</span></p>
+<p begin="3458455000t" end="3478057917t" region="region_1" xml:id="subtitle71"><span style="style_2">-[high-pitched laughter]</span><br/><span style="style_2">-[audience laughing]</span></p>
+<p begin="3512675834t" end="3530193334t" region="region_1" xml:id="subtitle72"><span style="style_2">[in a normal voice]</span><br/><span style="style_2">You know what I'm saying?</span></p>
+<p begin="3553132916t" end="3576906666t" region="region_1" xml:id="subtitle73"><span style="style_2">Netflix, you know what I'm saying?</span></p>
+<p begin="3577740832t" end="3600263332t" region="region_1" xml:id="subtitle74"><span style="style_2">[audience cheering]</span></p>
+<p begin="3619032082t" end="3633212916t" region="region_1" xml:id="subtitle75"><span style="style_2">[audience laughs]</span></p>
+<p begin="3666162499t" end="3683262916t" region="region_1" xml:id="subtitle76"><span style="style_2">[audience laughs]</span></p>
+<p begin="3723719999t" end="3769182082t" region="region_1" xml:id="subtitle77"><span style="style_2">[music playing over speaker]</span></p>
+<p begin="3835498332t" end="3866362499t" region="region_1" xml:id="subtitle78"><span style="style_2">I always like to do this song</span><br/><span style="style_2">'cause this one warms up the crowd.</span></p>
+<p begin="3876789582t" end="3942271666t" region="region_1" xml:id="subtitle79"><span style="style_2">And by the way, this show,</span><br/><span style="style_2">I'm touring in three motherfucking cities.</span></p>
+<p begin="3943522917t" end="3972301667t" region="region_1" xml:id="subtitle80"><span style="style_2">It's gonna be</span><br/><span style="style_2">a three motherfucking city tour,</span></p>
+<p begin="3984814167t" end="4046959584t" region="region_1" xml:id="subtitle81"><span style="style_2">and we're gonna be selling out</span><br/><span style="style_2">very small to medium-sized rooms, okay?</span></p>
+<p begin="4052798749t" end="4112858749t" region="region_1" xml:id="subtitle82"><span style="style_2">So, like, you know, Kevin Hart, you know,</span><br/><span style="style_2">"I sold out a stadium."</span></p>
+<p begin="4113692916t" end="4125788332t" region="region_1" xml:id="subtitle83"><span style="style_2">Like, yeah?</span></p>
+<p begin="4132044582t" end="4154567082t" region="region_1" xml:id="subtitle84"><span style="style_2">I sold out a medium-sized room, so...</span></p>
+<p begin="4155401249t" end="4169582082t" region="region_1" xml:id="subtitle85"><span style="style_2">[audience laughs]</span></p>
+<p begin="4170416249t" end="4182094582t" region="region_1" xml:id="subtitle86"><span style="style_2">He can't do that.</span></p>
+<p begin="4197943749t" end="4215461249t" region="region_1" xml:id="subtitle87"><span style="style_2">He cannot do that comfortably.</span></p>
+<p begin="4216295416t" end="4236315416t" region="region_1" xml:id="subtitle88"><span style="style_2">[audience laughs]</span></p>
+<p begin="4276355416t" end="4291370416t" region="region_1" xml:id="subtitle89"><span style="style_2">Now who wants to be Kevin Hart?</span></p>
+<p begin="4292204584t" end="4304717084t" region="region_2" xml:id="subtitle90"><span style="style_2">[audience laughing]</span></p>
+<p begin="4313058750t" end="4346008332t" region="region_1" xml:id="subtitle91"><span style="style_2">'Cause we took a survey. I was like,</span><br/><span style="style_2">"Would you like to be Kevin Hart?"</span></p>
+<p begin="4346842500t" end="4366445416t" region="region_1" xml:id="subtitle92"><span style="style_2">Ninety-two percent of you were like,</span><br/><span style="style_2">"Yes."</span></p>
+<p begin="4367279582t" end="4383962916t" region="region_1" xml:id="subtitle93"><span style="style_2">[audience laughing]</span></p>
+<p begin="4384797082t" end="4397309582t" region="region_1" xml:id="subtitle94"><span style="style_2">I don't think you know why.</span></p>
+<p begin="4398143750t" end="4422334582t" region="region_1" xml:id="subtitle95"><span style="style_2">A couple of you were just like,</span><br/><span style="style_2">"Oh, that'd be fun."</span></p>
+<p begin="4430676250t" end="4469882082t" region="region_1" xml:id="subtitle96"><span style="style_2">But think about it. If you were</span><br/><span style="style_2">Kevin Hart, you could not play in a place,</span></p>
+<p begin="4470716250t" end="4505334166t" region="region_1" xml:id="subtitle97"><span style="style_2">not perform in a place</span><br/><span style="style_2">that was smaller than a football stadium.</span></p>
+<p begin="4521600416t" end="4553298750t" region="region_1" xml:id="subtitle98"><span style="style_2">And that sucks. That's kind of like a guy</span><br/><span style="style_2">that's got a really huge--</span></p>
+<p begin="4554132916t" end="4565811250t" region="region_1" xml:id="subtitle99"><span style="style_2">You know what I'm saying?</span></p>
+<p begin="4574152916t" end="4591253332t" region="region_1" xml:id="subtitle100"><span style="style_2">It's like he-- He only has one size.</span></p>
+<p begin="4592087500t" end="4614192916t" region="region_1" xml:id="subtitle101"><span style="style_2">It's like he can't really get angles</span><br/><span style="style_2">and shit.</span></p>
+<p begin="4615027082t" end="4649645000t" region="region_1" xml:id="subtitle102"><span style="style_2">It's just, like, one thing. You know</span><br/><span style="style_2">what I'm saying? I feel sorry for him.</span></p>
+<p begin="4675921250t" end="4690936250t" region="region_1" xml:id="subtitle103"><span style="style_2">So, be careful what you want.</span></p>
+<p begin="4691770416t" end="4724720000t" region="region_1" xml:id="subtitle104"><span style="style_2">[audience laughing]</span></p>
+<p begin="4738066667t" end="4758086667t" region="region_1" xml:id="subtitle105"><span style="style_2">All right. We've learned a lot.</span><br/><span style="style_2">Here we go.</span></p>
+<p begin="4768096667t" end="4815227084t" region="region_1" xml:id="subtitle106"><span style="style_2">-[beatboxing]</span><br/><span style="style_2">-[music playing over speaker]</span></p>
+<p begin="5005417082t" end="5013758750t" region="region_1" xml:id="subtitle107"><span style="style_1">♪ You and I ♪</span></p>
+<p begin="5059220834t" end="5087582500t" region="region_1" xml:id="subtitle108"><span style="style_1">♪ Swimming and swimming and swimming</span><br/><span style="style_1">And swimming and swimming ♪</span></p>
+<p begin="5088416667t" end="5108436667t" region="region_1" xml:id="subtitle109"><span style="style_1">♪ Swimming and swimming and swimming ♪</span></p>
+<p begin="5118029582t" end="5128039582t" region="region_1" xml:id="subtitle110"><span style="style_1">♪ You and I ♪</span></p>
+<p begin="5178506667t" end="5245240000t" region="region_1" xml:id="subtitle111"><span style="style_2">[singing indistinctly]</span></p>
+<p begin="5265260000t" end="5280692082t" region="region_1" xml:id="subtitle112"><span style="style_1">♪ Fuck you... ♪</span></p>
+<p begin="5281526250t" end="5312807500t" region="region_1" xml:id="subtitle113"><span style="style_2">[singing indistinctly]</span></p>
+<p begin="5313641666t" end="5326154166t" region="region_1" xml:id="subtitle114"><span style="style_2">[audience applauding]</span></p>
+<p begin="5326988332t" end="5345340000t" region="region_1" xml:id="subtitle115"><span style="style_2">[audience cheering]</span></p>
+<p begin="5411656250t" end="5431676250t" region="region_1" xml:id="subtitle116"><span style="style_2">[scatting]</span></p>
+<p begin="5432510416t" end="5453364582t" region="region_1" xml:id="subtitle117"><span style="style_2">[audience laughing]</span></p>
+<p begin="5473384584t" end="5502163334t" region="region_2" xml:id="subtitle118"><span style="style_2">[scatting]</span></p>
+<p begin="5522183334t" end="5543454584t" region="region_2" xml:id="subtitle119"><span style="style_2">[grunts] [continues scatting]</span></p>
+<p begin="5586414166t" end="5615610000t" region="region_1" xml:id="subtitle120"><span style="style_1">♪ But you are gonna settle</span><br/><span style="style_1">Right about now ♪</span></p>
+<p begin="5621449167t" end="5629790834t" region="region_1" xml:id="subtitle121"><span style="style_1">♪ Benadryl ♪</span></p>
+<p begin="5646891250t" end="5678172500t" region="region_1" xml:id="subtitle122"><span style="style_1">♪ Sippin' the Benadryl</span><br/><span style="style_1">Mo'fuckin' Benadryl ♪</span></p>
+<p begin="5679006667t" end="5701112084t" region="region_1" xml:id="subtitle123"><span style="style_1">♪ This is the Benadryl</span><br/><span style="style_1">We got lots of pills ♪</span></p>
+<p begin="5701946250t" end="5711539166t" region="region_1" xml:id="subtitle124"><span style="style_1">♪ We got a Benadryl ♪</span></p>
+<p begin="5712373332t" end="5733227500t" region="region_1" xml:id="subtitle125"><span style="style_1">♪ Yeah, we got a</span><br/><span style="style_1">We got a Benadryl ♪</span></p>
+<p begin="5734061667t" end="5746574167t" region="region_1" xml:id="subtitle126"><span style="style_1">♪ Have you seen a drill? ♪</span></p>
+<p begin="5747408332t" end="5763674582t" region="region_1" xml:id="subtitle127"><span style="style_1">♪ I know, I'm really sleepy ♪</span></p>
+<p begin="5793287500t" end="5801629166t" region="region_1" xml:id="subtitle128"><span style="style_1">♪ Benadryl ♪</span></p>
+<p begin="5816644166t" end="5855432916t" region="region_1" xml:id="subtitle129"><span style="style_1">♪ I got a drippy, the drippy, the drippy</span><br/><span style="style_1">The dr-dr-dr-drippy, the drippy ♪</span></p>
+<p begin="5856267082t" end="5878372500t" region="region_1" xml:id="subtitle130"><span style="style_1">♪ The scratchy, the scratchy</span><br/><span style="style_1">The itchy, itchy ♪</span></p>
+<p begin="5879206666t" end="5906734166t" region="region_1" xml:id="subtitle131"><span style="style_1">♪ The drippy, the drippy, the drippy</span><br/><span style="style_1">Dr-dr-drippy, drippy ♪</span></p>
+<p begin="5907568332t" end="5941352082t" region="region_1" xml:id="subtitle132"><span style="style_1">♪ The scratchy, the itchy, the itchy</span><br/><span style="style_1">Itchy, itchy, Benadryl ♪</span></p>
+<p begin="5963457500t" end="5983477500t" region="region_1" xml:id="subtitle133"><span style="style_2">[all laughing]</span></p>
+<p begin="5998909582t" end="6045622916t" region="region_1" xml:id="subtitle134"><span style="style_2">[scatting]</span></p>
+<p begin="6054798750t" end="6063140416t" region="region_1" xml:id="subtitle135"><span style="style_1">♪ What? ♪</span></p>
+<p begin="6063974584t" end="6083994584t" region="region_2" xml:id="subtitle136"><span style="style_2">[continues scatting]</span></p>
+<p begin="6163240416t" end="6171582082t" region="region_1" xml:id="subtitle137"><span style="style_1">♪ I don't know ♪</span></p>
+<p begin="6207034167t" end="6244571667t" region="region_2" xml:id="subtitle138"><span style="style_2">-[music stops]</span><br/><span style="style_2">-[scatting slowly]</span></p>
+<p begin="6329239584t" end="6367194167t" region="region_2" xml:id="subtitle139"><span style="style_2">-[music playing over speaker]</span><br/><span style="style_2">-[continues scatting]</span></p>
+<p begin="6378455417t" end="6394721667t" region="region_1" xml:id="subtitle140"><span style="style_1">♪ Mo'fuckin', fuckin' Benadryl ♪</span></p>
+<p begin="6395555832t" end="6413907500t" region="region_1" xml:id="subtitle141"><span style="style_2">[audience laughs]</span></p>
+<p begin="6432259166t" end="6445188750t" region="region_1" xml:id="subtitle142"><span style="style_1">♪ Yo, yo ♪</span></p>
+<p begin="6446022917t" end="6466042917t" region="region_2" xml:id="subtitle143"><span style="style_2">[scatting]</span></p>
+<p begin="6477721250t" end="6504831667t" region="region_1" xml:id="subtitle144"><span style="style_1">♪ Went to California</span><br/><span style="style_1">Avocado ♪</span></p>
+<p begin="6505665832t" end="6569062500t" region="region_1" xml:id="subtitle145"><span style="style_2">[scatting]</span></p>
+<p begin="6615358750t" end="6625368750t" region="region_2" xml:id="subtitle146"><span style="style_1">♪ Go what ♪</span></p>
+<p begin="6642469166t" end="6666242916t" region="region_1" xml:id="subtitle147"><span style="style_1">♪ Bena-Benadryl</span><br/><span style="style_1">How long ♪</span></p>
+<p begin="6668328332t" end="6676670000t" region="region_1" xml:id="subtitle148"><span style="style_2">[chuckles]</span></p>
+<p begin="6677504166t" end="6710453750t" region="region_1" xml:id="subtitle149"><span style="style_1">♪ Yo, I got somebody</span><br/><span style="style_1">You got somebody, too ♪</span></p>
+<p begin="6711287916t" end="6736312916t" region="region_1" xml:id="subtitle150"><span style="style_1">♪ You got somebody</span><br/><span style="style_1">I got a body ♪</span></p>
+<p begin="6741317916t" end="6750910832t" region="region_1" xml:id="subtitle151"><span style="style_1">♪ You got a body ♪</span></p>
+<p begin="6755081667t" end="6778021250t" region="region_1" xml:id="subtitle152"><span style="style_1">♪ You use that body any time you want</span><br/><span style="style_1">It's ♪</span></p>
+<p begin="6778855416t" end="6794704582t" region="region_1" xml:id="subtitle153"><span style="style_2">Well, it's really not your choice.</span></p>
+<p begin="6820146666t" end="6828905416t" region="region_1" xml:id="subtitle154"><span style="style_1">♪ Benadryl! ♪</span></p>
+<p begin="6829739584t" end="6841000834t" region="region_2" xml:id="subtitle155"><span style="style_2">[music stops]</span></p>
+<p begin="6841834999t" end="6850176666t" region="region_1" xml:id="subtitle156"><span style="style_2">[cheering]</span></p>
+<p begin="6851010832t" end="6859352499t" region="region_1" xml:id="subtitle157"><span style="style_2">Thank you.</span></p>
+<p begin="6866859999t" end="6882292082t" region="region_1" xml:id="subtitle158"><span style="style_2">Thank you so much. Thank you.</span></p>
+<p begin="6892302082t" end="6900643749t" region="region_1" xml:id="subtitle159"><span style="style_2">Um...</span></p>
+<p begin="6919412499t" end="6939432499t" region="region_1" xml:id="subtitle160"><span style="style_2">How many of you guys live in L.A.?</span></p>
+<p begin="6945271667t" end="6960286667t" region="region_1" xml:id="subtitle161"><span style="style_2">[audience cheering]</span></p>
+<p begin="6961120832t" end="6975301666t" region="region_1" xml:id="subtitle162"><span style="style_2">Okay, that's crazy.</span></p>
+<p begin="6976135832t" end="6998241249t" region="region_1" xml:id="subtitle163"><span style="style_2">Yeah, filming here in Boston</span><br/><span style="style_2">was a cool choice.</span></p>
+<p begin="6999075416t" end="7037447082t" region="region_1" xml:id="subtitle164"><span style="style_2">I-- I just, like, you know--</span><br/><span style="style_2">And specifically, we were like:</span></p>
+<p begin="7038281249t" end="7062054999t" region="region_1" xml:id="subtitle165"><span style="style_2">"People from L.A. should come,</span><br/><span style="style_2">you know, to Boston."</span></p>
+<p begin="7062889166t" end="7095004582t" region="region_1" xml:id="subtitle166"><span style="style_2">And a lot of you guys were willing to pay</span><br/><span style="style_2">for the-- The air tickets.</span></p>
+<p begin="7095838750t" end="7117944167t" region="region_1" xml:id="subtitle167"><span style="style_2">So... um, yeah.</span></p>
+<p begin="7120029584t" end="7142969167t" region="region_1" xml:id="subtitle168"><span style="style_2">How many people enjoyed your air flight?</span></p>
+<p begin="7145888749t" end="7166742916t" region="region_1" xml:id="subtitle169"><span style="style_2">[audience cheering]</span></p>
+<p begin="7176335834t" end="7196772917t" region="region_1" xml:id="subtitle170"><span style="style_2">I love air flights. They're... Um...</span></p>
+<p begin="7198858332t" end="7216375832t" region="region_1" xml:id="subtitle171"><span style="style_2">Of the different flights...</span></p>
+<p begin="7226385832t" end="7235978749t" region="region_1" xml:id="subtitle172"><span style="style_2">I love air flights.</span></p>
+<p begin="7236812917t" end="7275601667t" region="region_1" xml:id="subtitle173"><span style="style_2">They're just-- There's something</span><br/><span style="style_2">about being in the air when you're flying,</span></p>
+<p begin="7276435834t" end="7330239584t" region="region_1" xml:id="subtitle174"><span style="style_2">uh, that's so much different than,</span><br/><span style="style_2">you know, all the other forms of flight.</span></p>
+<p begin="7331073749t" end="7356098749t" region="region_1" xml:id="subtitle175"><span style="style_2">And some people talk, you know,</span><br/><span style="style_2">anthropologists,</span></p>
+<p begin="7356932916t" end="7399058332t" region="region_1" xml:id="subtitle176"><span style="style_2">and... pneumatic specialists,</span><br/><span style="style_2">and-- And humanists,</span></p>
+<p begin="7401560832t" end="7429088332t" region="region_1" xml:id="subtitle177"><span style="style_2">often argue</span><br/><span style="style_2">about, like, where are our origins.</span></p>
+<p begin="7429922499t" end="7452027916t" region="region_1" xml:id="subtitle178"><span style="style_2">You know, like,</span><br/><span style="style_2">maybe we came from the clouds.</span></p>
+<p begin="7452862082t" end="7494153332t" region="region_1" xml:id="subtitle179"><span style="style_2">You know, like, maybe we came from the</span><br/><span style="style_2">Earth or the Erf, or whatever you call it.</span></p>
+<p begin="7494987500t" end="7508751250t" region="region_1" xml:id="subtitle180"><span style="style_2">-[audience laughs]</span><br/><span style="style_2">-Um...</span></p>
+<p begin="7509585417t" end="7538781250t" region="region_1" xml:id="subtitle181"><span style="style_2">You know, maybe you came from--</span><br/><span style="style_2">Maybe we came from someplace else.</span></p>
+<p begin="7544620417t" end="7597590000t" region="region_1" xml:id="subtitle182"><span style="style_2">But the thing is, we understand that we</span><br/><span style="style_2">had to come from someplace, you know.</span></p>
+<p begin="7600509584t" end="7634293334t" region="region_1" xml:id="subtitle183"><span style="style_2">You know, and no matter where were are</span><br/><span style="style_2">on this planet, I mean,</span></p>
+<p begin="7635127499t" end="7672664999t" region="region_1" xml:id="subtitle184"><span style="style_2">you know, we gotta be somewhere, and--</span><br/><span style="style_2">And if you're gonna be somewhere,</span></p>
+<p begin="7677252916t" end="7728137082t" region="region_1" xml:id="subtitle185"><span style="style_2">be a point of consciousness that really</span><br/><span style="style_2">is understanding where it is located,</span></p>
+<p begin="7730639582t" end="7769011249t" region="region_1" xml:id="subtitle186"><span style="style_2">even though you have access</span><br/><span style="style_2">to a cybernetic portal</span></p>
+<p begin="7771930832t" end="7800292499t" region="region_1" xml:id="subtitle187"><span style="style_2">that gets you involved</span><br/><span style="style_2">into various experiences</span></p>
+<p begin="7801126666t" end="7829488332t" region="region_1" xml:id="subtitle188"><span style="style_2">which are happening simultaneous</span><br/><span style="style_2">all over the planet.</span></p>
+<p begin="7835327500t" end="7866608750t" region="region_1" xml:id="subtitle189"><span style="style_2">Now, whether you believe</span><br/><span style="style_2">in parallel dimensions,</span></p>
+<p begin="7867442916t" end="7899558332t" region="region_1" xml:id="subtitle190"><span style="style_2">alternate realities, or "spirit gods,"</span></p>
+<p begin="7900392499t" end="7956281666t" region="region_1" xml:id="subtitle191"><span style="style_2">like, it's... all the same shit, you know,</span><br/><span style="style_2">and people are like, "I saw a ghost."</span></p>
+<p begin="7967125832t" end="7980889582t" region="region_1" xml:id="subtitle192"><span style="style_2">And you're like, "Okay."</span></p>
+<p begin="7996738749t" end="8025934582t" region="region_1" xml:id="subtitle193"><span style="style_2">You know, to me, ghosts</span><br/><span style="style_2">are just temporal anomalies, you know?</span></p>
+<p begin="8026768749t" end="8055547499t" region="region_1" xml:id="subtitle194"><span style="style_2">They're just residue of past occurrences</span><br/><span style="style_2">or future occurrences</span></p>
+<p begin="8056381666t" end="8069728332t" region="region_1" xml:id="subtitle195"><span style="style_2">happening simultaneously,</span></p>
+<p begin="8073064999t" end="8113104999t" region="region_1" xml:id="subtitle196"><span style="style_2">that bleed through and kind of bend</span><br/><span style="style_2">into the membrane of our current reality.</span></p>
+<p begin="8113939166t" end="8142717916t" region="region_1" xml:id="subtitle197"><span style="style_2">So we do get a ghosted image</span><br/><span style="style_2">of an occurrence that has happened</span></p>
+<p begin="8143552082t" end="8167742916t" region="region_1" xml:id="subtitle198"><span style="style_2">in a different time period</span><br/><span style="style_2">for just a moment.</span></p>
+<p begin="8168577082t" end="8196938749t" region="region_1" xml:id="subtitle199"><span style="style_2">There's always a scientific explanation</span><br/><span style="style_2">for all that bullshit.</span></p>
+<p begin="8197772916t" end="8222797916t" region="region_1" xml:id="subtitle200"><span style="style_2">[audience laughing]</span></p>
+<p begin="8234059166t" end="8272013749t" region="region_1" xml:id="subtitle201"><span style="style_2">There are--</span><br/><span style="style_2">There are literally... billions of people.</span></p>
+<p begin="8284109166t" end="8316641666t" region="region_1" xml:id="subtitle202"><span style="style_2">Billions of people... that have died.</span></p>
+<p begin="8343334999t" end="8386294582t" region="region_1" xml:id="subtitle203"><span style="style_2">Billions of people have died,</span><br/><span style="style_2">and it's-- It's crazy.</span></p>
+<p begin="8387128749t" end="8412153749t" region="region_1" xml:id="subtitle204"><span style="style_2">I mean since we started</span><br/><span style="style_2">calling ourselves people,</span></p>
+<p begin="8422163749t" end="8440515416t" region="region_1" xml:id="subtitle205"><span style="style_2">which was after we were people...</span></p>
+<p begin="8443434999t" end="8457615832t" region="region_1" xml:id="subtitle206"><span style="style_2">[audience laughs]</span></p>
+<p begin="8501826666t" end="8526851666t" region="region_1" xml:id="subtitle207"><span style="style_2">you know, them ho-- Them homonyms...</span></p>
+<p begin="8552293749t" end="8609017082t" region="region_1" xml:id="subtitle208"><span style="style_2">procreated, you know, with some--</span><br/><span style="style_2">The Neanderthals,</span></p>
+<p begin="8618610000t" end="8663655000t" region="region_1" xml:id="subtitle209"><span style="style_2">and, you know, did some</span><br/><span style="style_2">cave culturing stuff, drawings, bones,</span></p>
+<p begin="8677835832t" end="8708700000t" region="region_1" xml:id="subtitle210"><span style="style_2">bear clan rituals, discovery of fire,</span></p>
+<p begin="8716624582t" end="8735393332t" region="region_1" xml:id="subtitle211"><span style="style_2">warring tribal cultures,</span></p>
+<p begin="8746654582t" end="8793367916t" region="region_1" xml:id="subtitle212"><span style="style_2">these are all the things that are part</span><br/><span style="style_2">of our ancestry.com, and we are...</span></p>
+<p begin="8794202082t" end="8814222082t" region="region_1" xml:id="subtitle213"><span style="style_2">[audience laughing]</span></p>
+<p begin="8825483332t" end="8850925416t" region="region_1" xml:id="subtitle214"><span style="style_2">We're always growing.</span><br/><span style="style_2">You know, that's the thing.</span></p>
+<p begin="8851759584t" end="8890548334t" region="region_1" xml:id="subtitle215"><span style="style_2">It's like, right now, there's, like,</span><br/><span style="style_2">cells dividing like a motherfucker</span></p>
+<p begin="8896387500t" end="8907648750t" region="region_1" xml:id="subtitle216"><span style="style_2">up inside you.</span></p>
+<p begin="8912653750t" end="8957698750t" region="region_1" xml:id="subtitle217"><span style="style_2">You know, there's like, billions</span><br/><span style="style_2">of critters crawling all over your skin.</span></p>
+<p begin="8970211250t" end="9006914584t" region="region_1" xml:id="subtitle218"><span style="style_2">They're just like, [muttering]</span></p>
+<p begin="9007748750t" end="9038195832t" region="region_1" xml:id="subtitle219"><span style="style_2">And we're just like, "I got an itch."</span><br/><span style="style_2">"Oh, no!" You know.</span></p>
+<p begin="9039030000t" end="9064889166t" region="region_1" xml:id="subtitle220"><span style="style_2">[laughing]</span></p>
+<p begin="9065723334t" end="9084075000t" region="region_1" xml:id="subtitle221"><span style="style_2">The thing is,</span><br/><span style="style_2">and I'm saying all this stuff,</span></p>
+<p begin="9084909167t" end="9104929167t" region="region_1" xml:id="subtitle222"><span style="style_2">I know a lot of you guys are like,</span></p>
+<p begin="9105763332t" end="9148305832t" region="region_1" xml:id="subtitle223"><span style="style_2">"We don't need to be talking about this",</span><br/><span style="style_2">but... I have to bring this up,</span></p>
+<p begin="9152059584t" end="9177501667t" region="region_1" xml:id="subtitle224"><span style="style_2">'cause I got a platform, um...</span></p>
+<p begin="9182923750t" end="9217958750t" region="region_1" xml:id="subtitle225"><span style="style_2">you know, we're gonna be on Canadian TV,</span><br/><span style="style_2">this is for Canadian TV,</span></p>
+<p begin="9228385834t" end="9263420834t" region="region_1" xml:id="subtitle226"><span style="style_2">and this is only gonna be aired in Canada,</span><br/><span style="style_2">and the thing is, like...</span></p>
+<p begin="9270928332t" end="9335159166t" region="region_1" xml:id="subtitle227"><span style="style_2">to the Canadian audience,</span><br/><span style="style_2">yes, you have a handsome president.</span></p>
+<p begin="9341415416t" end="9356430416t" region="region_3" xml:id="subtitle228"><span style="style_2">[audience laughs]</span></p>
+<p begin="9380621250t" end="9411902500t" region="region_1" xml:id="subtitle229"><span style="style_2">And you're going into your Obama phase.</span><br/><span style="style_2">I get it. </span></p>
+<p begin="9418992916t" end="9448188750t" region="region_1" xml:id="subtitle230"><span style="style_2">He's a cool cat.</span><br/><span style="style_2">Wants to legalize marijuana.</span></p>
+<p begin="9454027916t" end="9464872082t" region="region_1" xml:id="subtitle231"><span style="style_2">That's a good idea.</span></p>
+<p begin="9477801666t" end="9519927082t" region="region_1" xml:id="subtitle232"><span style="style_2">Ask Colorado why they have too much money</span><br/><span style="style_2">for their schools and roads.</span></p>
+<p begin="9522846666t" end="9539112916t" region="region_1" xml:id="subtitle233"><span style="style_2">[audience laughing]</span></p>
+<p begin="9539947082t" end="9559132916t" region="region_1" xml:id="subtitle234"><span style="style_2">[muttering]</span></p>
+<p begin="9568308750t" end="9578318750t" region="region_1" xml:id="subtitle235"><span style="style_2">[chuckles]</span></p>
+<p begin="9589580000t" end="9605429166t" region="region_1" xml:id="subtitle236"><span style="style_2">Soon as California legalizes it--</span></p>
+<p begin="9606263332t" end="9620444166t" region="region_1" xml:id="subtitle237"><span style="style_2">Legalize it!</span></p>
+<p begin="9623780832t" end="9648805832t" region="region_1" xml:id="subtitle238"><span style="style_2">[audience laughing]</span></p>
+<p begin="9653393750t" end="9670911250t" region="region_1" xml:id="subtitle239"><span style="style_2">As soon as California legalizes it,</span></p>
+<p begin="9671745416t" end="9696770416t" region="region_1" xml:id="subtitle240"><span style="style_2">they're just gonna be like,</span><br/><span style="style_2">"We've got too much money.</span></p>
+<p begin="9697604582t" end="9721378332t" region="region_1" xml:id="subtitle241"><span style="style_2">What-- What do we do now?" I don't know.</span></p>
+<p begin="9742232500t" end="9761835416t" region="region_1" xml:id="subtitle242"><span style="style_2">"Should we fix something?" No.</span></p>
+<p begin="9775599167t" end="9801041250t" region="region_1" xml:id="subtitle243"><span style="style_2">-That's too easy. [chuckles]</span><br/><span style="style_2">-[audience laughs]</span></p>
+<p begin="9801875416t" end="9816056250t" region="region_1" xml:id="subtitle244"><span style="style_2">Gotta make it hard. [chuckles]</span></p>
+<p begin="9816890416t" end="9829820000t" region="region_1" xml:id="subtitle245"><span style="style_2">[laughing]</span></p>
+<p begin="9830654167t" end="9866106250t" region="region_1" xml:id="subtitle246"><span style="style_2">I just want to talk to you a little bit</span><br/><span style="style_2">about a TV show that... Um...</span></p>
+<p begin="9871945416t" end="9906563332t" region="region_1" xml:id="subtitle247"><span style="style_2">That I've just-- That I've been working on</span><br/><span style="style_2">for quite some time.</span></p>
+<p begin="9909482916t" end="9940764166t" region="region_1" xml:id="subtitle248"><span style="style_2">It's a classic show</span><br/><span style="style_2">that a lot of you guys have probably seen,</span></p>
+<p begin="9941598334t" end="9979135834t" region="region_1" xml:id="subtitle249"><span style="style_2">didn't know I was involved in,</span><br/><span style="style_2">probably heard about, just never watched,</span></p>
+<p begin="9989145832t" end="10018758750t" region="region_1" xml:id="subtitle250"><span style="style_2">called the </span><span style="style_1">Crowe's Nest</span><span style="style_2">.</span><br/><span style="style_2">You can hold your applause.</span></p>
+<p begin="10027100416t" end="10037527500t" region="region_1" xml:id="subtitle251"><span style="style_2">[audience laughs]</span></p>
+<p begin="10045869166t" end="10066723332t" region="region_1" xml:id="subtitle252"><span style="style_2">The </span><span style="style_1">Crowe's Nest </span><span style="style_2">is a-- Is a show</span></p>
+<p begin="10070060000t" end="10112602500t" region="region_1" xml:id="subtitle253"><span style="style_2">that really kind of outlines modern</span><br/><span style="style_2">problems of cohabitation between adults,</span></p>
+<p begin="10128868750t" end="10154310834t" region="region_1" xml:id="subtitle254"><span style="style_2">the issues that we deal with</span><br/><span style="style_2">with the Internet,</span></p>
+<p begin="10159732916t" end="10207697500t" region="region_1" xml:id="subtitle255"><span style="style_2">how it depersonalizes, and yet,</span><br/><span style="style_2">makes us vulnerable and super personalized</span></p>
+<p begin="10208531666t" end="10233139582t" region="region_1" xml:id="subtitle256"><span style="style_2">towards our lives, towards others,</span></p>
+<p begin="10235642082t" end="10273596666t" region="region_1" xml:id="subtitle257"><span style="style_2">and towards the construct</span><br/><span style="style_2">of how we relate to geometric reality.</span></p>
+<p begin="10292365417t" end="10321978334t" region="region_1" xml:id="subtitle258"><span style="style_2">The </span><span style="style_1">Crowe's Nest </span><span style="style_2">is not a show</span><br/><span style="style_2">for the faint of heart.</span></p>
+<p begin="10328651667t" end="10358681667t" region="region_1" xml:id="subtitle259"><span style="style_2">It's not even a show</span><br/><span style="style_2">for people that don't have hearts.</span></p>
+<p begin="10366189167t" end="10386626250t" region="region_1" xml:id="subtitle260"><span style="style_2">It's not a show</span><br/><span style="style_2">for people that don't have hearts</span></p>
+<p begin="10387460417t" end="10413736667t" region="region_1" xml:id="subtitle261"><span style="style_2">because they are not conscious</span><br/><span style="style_2">to witness the show.</span></p>
+<p begin="10417490416t" end="10429168750t" region="region_1" xml:id="subtitle262"><span style="style_2">They are not alive...</span></p>
+<p begin="10452108332t" end="10470460000t" region="region_1" xml:id="subtitle263"><span style="style_2">and therefore, they cannot see the show.</span></p>
+<p begin="10471294166t" end="10483806666t" region="region_1" xml:id="subtitle264"><span style="style_2">[audience laughs]</span></p>
+<p begin="10494233750t" end="10528851667t" region="region_1" xml:id="subtitle265"><span style="style_2">The </span><span style="style_1">Crowe's Nest </span><span style="style_2">is a-- Is a place</span><br/><span style="style_2">where you feel comfortable.</span></p>
+<p begin="10531354166t" end="10541781250t" region="region_1" xml:id="subtitle266"><span style="style_2">It is a nest.</span></p>
+<p begin="10549705832t" end="10569725832t" region="region_1" xml:id="subtitle267"><span style="style_2">But remember what kind of nest it is.</span></p>
+<p begin="10577233332t" end="10610182916t" region="region_1" xml:id="subtitle268"><span style="style_2">It's a nest belonging to crows.</span></p>
+<p begin="10624363750t" end="10673996667t" region="region_1" xml:id="subtitle269"><span style="style_2">And as everybody knows,</span><br/><span style="style_2">crows... ain't so nice.</span></p>
+<p begin="10676916250t" end="10694016666t" region="region_1" xml:id="subtitle270"><span style="style_2">[audience laughing]</span></p>
+<p begin="10694850832t" end="10729885832t" region="region_1" xml:id="subtitle271"><span style="style_2">[theme music playing]</span></p>
+<p begin="10796202084t" end="10858347500t" region="region_4" xml:id="subtitle272"><span style="style_1">♪ Life is wonderful in the </span><span style="style_2">Crowe's Nest</span><span style="style_1"> ♪</span></p>
+<p begin="10863352500t" end="10926332084t" region="region_4" xml:id="subtitle273"><span style="style_1">♪ It's your time to grow now</span><br/><span style="style_1">In the </span><span style="style_2">Crowe's Nest</span><span style="style_1"> ♪</span></p>
+<p begin="10932171250t" end="10996819167t" region="region_4" xml:id="subtitle274"><span style="style_1">♪ Where everyone gets fed beak to beak</span><br/><span style="style_1">And eventually leaves again ♪</span></p>
+<p begin="10997653334t" end="11026432084t" region="region_2" xml:id="subtitle275"><span style="style_1">♪ </span><span style="style_2">Crowe's Nest</span><span style="style_1"> ♪</span></p>
+<p begin="11039778750t" end="11076482082t" region="region_1" xml:id="subtitle276"><span style="style_2">[cawing]</span></p>
+<p begin="11093165417t" end="11129868750t" region="region_3" xml:id="subtitle277"><span style="style_2">[announcer] Crowe's Nest </span><span style="style_1">was improvised</span><br/><span style="style_1">in front of a live studio audience.</span></p>
+<p begin="11135290832t" end="11161567082t" region="region_3" xml:id="subtitle278"><span style="style_2">I told you,</span><br/><span style="style_2">Fred's not even around anymore.</span></p>
+<p begin="11162401250t" end="11170742916t" region="region_1" xml:id="subtitle279"><span style="style_2">What?</span></p>
+<p begin="11171994166t" end="11195350832t" region="region_1" xml:id="subtitle280"><span style="style_2">Didn't you hear? The quarry shut down.</span></p>
+<p begin="11197436250t" end="11226632082t" region="region_1" xml:id="subtitle281"><span style="style_2">Why? Why would they shut down the quarry?</span></p>
+<p begin="11227466250t" end="11243315416t" region="region_1" xml:id="subtitle282"><span style="style_2">-That was the best place</span><br/><span style="style_2">-Tell him.</span></p>
+<p begin="11244149582t" end="11263752500t" region="region_1" xml:id="subtitle283"><span style="style_2">-to go every summer. We would...</span><br/><span style="style_2">-Tell him.</span></p>
+<p begin="11264586666t" end="11282521250t" region="region_1" xml:id="subtitle284"><span style="style_2">play hide-and-go-seek, and we'd...</span></p>
+<p begin="11289194582t" end="11313802500t" region="region_1" xml:id="subtitle285"><span style="style_2">It's confusing and it's complicated.</span></p>
+<p begin="11314636666t" end="11334239582t" region="region_1" xml:id="subtitle286"><span style="style_2">Something about irrigation and water.</span></p>
+<p begin="11335073750t" end="11368857500t" region="region_1" xml:id="subtitle287"><span style="style_2">It's boring. And honestly,</span><br/><span style="style_2">it sounds like it's not up to code.</span></p>
+<p begin="11380535834t" end="11412651250t" region="region_1" xml:id="subtitle288"><span style="style_2">[Chuck] I've been going to the quarry</span><br/><span style="style_2">since I was 12 years old.</span></p>
+<p begin="11413485416t" end="11438093332t" region="region_1" xml:id="subtitle289"><span style="style_2">My dad took me to the quarry</span><br/><span style="style_2">the first time.</span></p>
+<p begin="11438927500t" end="11476465000t" region="region_1" xml:id="subtitle290"><span style="style_2">Well, he didn't know that I was with him.</span><br/><span style="style_2">I followed him down there.</span></p>
+<p begin="11498570416t" end="11530268750t" region="region_1" xml:id="subtitle291"><span style="style_2">That's when I realized,</span><br/><span style="style_2">"Dad's cheating on Mom."</span></p>
+<p begin="11531102916t" end="11545700832t" region="region_1" xml:id="subtitle292"><span style="style_2">[laughing]</span></p>
+<p begin="11546535000t" end="11562384167t" region="region_1" xml:id="subtitle293"><span style="style_2">[audience laughing]</span></p>
+<p begin="11572394166t" end="11586575000t" region="region_1" xml:id="subtitle294"><span style="style_2">You have to laugh.</span></p>
+<p begin="11587409166t" end="11595750832t" region="region_1" xml:id="subtitle295"><span style="style_2">[laughing]</span></p>
+<p begin="11596585000t" end="11624529582t" region="region_1" xml:id="subtitle296"><span style="style_2">You have--</span><br/><span style="style_2">Life throws a lot of stuff at you.</span></p>
+<p begin="11625363750t" end="11645383750t" region="region_1" xml:id="subtitle297"><span style="style_2">You have to laugh at those things</span></p>
+<p begin="11651222917t" end="11661232917t" region="region_1" xml:id="subtitle298"><span style="style_2">[audience laughs]</span></p>
+<p begin="11662067082t" end="11692514166t" region="region_1" xml:id="subtitle299"><span style="style_2">You know what, guys?</span><br/><span style="style_2">Let's make this day a special day.</span></p>
+<p begin="11693348332t" end="11720458750t" region="region_1" xml:id="subtitle300"><span style="style_2">[chuckles]</span><br/><span style="style_2">How's that possible? The quarry's closed.</span></p>
+<p begin="11721292917t" end="11750905834t" region="region_1" xml:id="subtitle301"><span style="style_2">-[audience laughing]</span><br/><span style="style_2">-[Reggie chuckles]</span></p>
+<p begin="11751740000t" end="11774262500t" region="region_1" xml:id="subtitle302"><span style="style_2">-Hey, that's new.</span><br/><span style="style_2">-Hey. [laughing]</span></p>
+<p begin="11784272500t" end="11795950834t" region="region_1" xml:id="subtitle303"><span style="style_2">[audience laughs]</span></p>
+<p begin="11802207082t" end="11814302500t" region="region_1" xml:id="subtitle304"><span style="style_2">You know what? Screw it.</span></p>
+<p begin="11815136666t" end="11853925416t" region="region_1" xml:id="subtitle305"><span style="style_2">Just because the quarry's all closed now</span><br/><span style="style_2">don't mean we don't have to have no fun.</span></p>
+<p begin="11854759584t" end="11879367500t" region="region_1" xml:id="subtitle306"><span style="style_2">[chuckles] Wait, what do you mean "fun"?</span></p>
+<p begin="11880201667t" end="11911900000t" region="region_1" xml:id="subtitle307"><span style="style_2">Yeah. Like when you say "fun,"</span><br/><span style="style_2">what do you mean?</span></p>
+<p begin="11918156250t" end="11926497916t" region="region_1" xml:id="subtitle308"><span style="style_2">Right.</span></p>
+<p begin="11948186250t" end="11961950000t" region="region_1" xml:id="subtitle309"><span style="style_2">I mean, I was thinking,</span></p>
+<p begin="11963618332t" end="11996150832t" region="region_1" xml:id="subtitle310"><span style="style_2">if we're gonna have a good time,</span><br/><span style="style_2">we might as well have some fun.</span></p>
+<p begin="11996985000t" end="12028683334t" region="region_1" xml:id="subtitle311"><span style="style_2">-[audience laughs]</span><br/><span style="style_2">-No, I-- No, that's what I'm asking.</span></p>
+<p begin="12033688332t" end="12046200832t" region="region_1" xml:id="subtitle312"><span style="style_2">What does that even mean?</span></p>
+<p begin="12059964582t" end="12073728332t" region="region_1" xml:id="subtitle313"><span style="style_2">If you could elaborate on fun</span></p>
+<p begin="12074562500t" end="12102090000t" region="region_1" xml:id="subtitle314"><span style="style_2">'cause it's a huge term</span><br/><span style="style_2">that people have different defini--</span></p>
+<p begin="12107095000t" end="12115436666t" region="region_1" xml:id="subtitle315"><span style="style_2">What?</span></p>
+<p begin="12122944166t" end="12139627500t" region="region_1" xml:id="subtitle316"><span style="style_2">Sorry, I have a speech impediment.</span></p>
+<p begin="12140461666t" end="12160481666t" region="region_1" xml:id="subtitle317"><span style="style_2">Let's take that again.</span><br/><span style="style_2">Let's take that again</span></p>
+<p begin="12161315832t" end="12169657500t" region="region_1" xml:id="subtitle318"><span style="style_2">Reset.</span></p>
+<p begin="12178833334t" end="12200521667t" region="region_1" xml:id="subtitle319"><span style="style_2">[sighs] Could you elaborate on what...</span></p>
+<p begin="12207612082t" end="12226380832t" region="region_1" xml:id="subtitle320"><span style="style_2">-Do you want to--</span><br/><span style="style_2">-I just need one more.</span></p>
+<p begin="12227215000t" end="12241395834t" region="region_1" xml:id="subtitle321"><span style="style_2">-Okay.</span><br/><span style="style_2">-[audience laughs]</span></p>
+<p begin="12242230000t" end="12252240000t" region="region_1" xml:id="subtitle322"><span style="style_2">I get three.</span></p>
+<p begin="12257245000t" end="12271008750t" region="region_1" xml:id="subtitle323"><span style="style_2">[inhales sharply] Reset!</span></p>
+<p begin="12281852916t" end="12308129166t" region="region_1" xml:id="subtitle324"><span style="style_2">We can have fun,</span><br/><span style="style_2">but just what kind of fun?</span></p>
+<p begin="12308963332t" end="12329400416t" region="region_1" xml:id="subtitle325"><span style="style_2">There are different kinds of fun,</span><br/><span style="style_2">remember?</span></p>
+<p begin="12330234582t" end="12349420416t" region="region_1" xml:id="subtitle326"><span style="style_2">Well, wait. What do you mean by "fun"?</span></p>
+<p begin="12350254584t" end="12376113750t" region="region_1" xml:id="subtitle327"><span style="style_2">-What do you m--</span><br/><span style="style_2">-Everyone has a different definition.</span></p>
+<p begin="12376947916t" end="12404892500t" region="region_1" xml:id="subtitle328"><span style="style_2">-That's what I'm saying.</span><br/><span style="style_2">-Yeah, that's what I'm saying.</span></p>
+<p begin="12405726666t" end="12414068332t" region="region_1" xml:id="subtitle329"><span style="style_2">[audience laughs]</span></p>
+<p begin="12419907500t" end="12458696250t" region="region_1" xml:id="subtitle330"><span style="style_2">I think fun should be...</span><br/><span style="style_2">exploring the universe.</span></p>
+<p begin="12459530417t" end="12486223750t" region="region_1" xml:id="subtitle331"><span style="style_2">Remember when you and Patty</span><br/><span style="style_2">and I went out to that place,</span></p>
+<p begin="12487057917t" end="12497902084t" region="region_1" xml:id="subtitle332"><span style="style_2">that yogurt farm?</span></p>
+<p begin="12498736250t" end="12524178334t" region="region_1" xml:id="subtitle333"><span style="style_2">[Reggie and woman laughing]</span></p>
+<p begin="12555042500t" end="12582570000t" region="region_1" xml:id="subtitle334"><span style="style_2">When did you guys go to the yogurt farm?!</span></p>
+<p begin="12583404166t" end="12597585000t" region="region_1" xml:id="subtitle335"><span style="style_2">You went with Patty?!</span></p>
+<p begin="12605092500t" end="12644298332t" region="region_1" xml:id="subtitle336"><span style="style_2">Why would you go to the yogurt farm</span><br/><span style="style_2">with P-- I love the yogurt farm.</span></p>
+<p begin="12645132500t" end="12673077082t" region="region_1" xml:id="subtitle337"><span style="style_2">I've been going there</span><br/><span style="style_2">ever since I was 13 years old.</span></p>
+<p begin="12681001666t" end="12696016666t" region="region_1" xml:id="subtitle338"><span style="style_2">I'm sorry. It's...</span></p>
+<p begin="12712700000t" end="12721041666t" region="region_1" xml:id="subtitle339"><span style="style_2">Tell him.</span></p>
+<p begin="12746066666t" end="12759413332t" region="region_1" xml:id="subtitle340"><span style="style_2">The yogurt... [sighs]</span></p>
+<p begin="12764418332t" end="12774428332t" region="region_1" xml:id="subtitle341"><span style="style_2">I can't.</span></p>
+<p begin="12775262500t" end="12802790000t" region="region_1" xml:id="subtitle342"><span style="style_2">Okay, let me give it a shot. [sighs]</span><br/><span style="style_2">[claps hands]</span></p>
+<p begin="12814885416t" end="12823227082t" region="region_1" xml:id="subtitle343"><span style="style_2">[sighs]</span></p>
+<p begin="12831151666t" end="12847835000t" region="region_1" xml:id="subtitle344"><span style="style_2">We know you love yogurt.</span></p>
+<p begin="12853674166t" end="12867855000t" region="region_1" xml:id="subtitle345"><span style="style_2">[audience laughs]</span></p>
+<p begin="12868689166t" end="12902055832t" region="region_1" xml:id="subtitle346"><span style="style_2">But we also know how worked up you get</span></p>
+<p begin="12902890000t" end="12927497916t" region="region_1" xml:id="subtitle347"><span style="style_2">-when it comes to yogurt. [chuckles]</span><br/><span style="style_2">-To yogurt. [chuckles]</span></p>
+<p begin="12933337084t" end="12944181250t" region="region_1" xml:id="subtitle348"><span style="style_2">Yeah. It's great.</span></p>
+<p begin="12952522916t" end="12968789166t" region="region_1" xml:id="subtitle349"><span style="style_2">-Right. </span><br/><span style="style_2">-I love it.</span></p>
+<p begin="12969623332t" end="12998819166t" region="region_1" xml:id="subtitle350"><span style="style_2">-We know.</span><br/><span style="style_2">-I love it. I love yogurt!</span></p>
+<p begin="12999653332t" end="13020090416t" region="region_1" xml:id="subtitle351"><span style="style_2">At what point does loving it</span><br/><span style="style_2">become hating it?!</span></p>
+<p begin="13020924582t" end="13037607916t" region="region_1" xml:id="subtitle352"><span style="style_2">I don't know anymore!</span></p>
+<p begin="13038442082t" end="13077230832t" region="region_1" xml:id="subtitle353"><span style="style_2">[theme music plays]</span></p>
+<p begin="13091411666t" end="13118939166t" region="region_1" xml:id="subtitle354"><span style="style_2">You know,</span><br/><span style="style_2">we here at Netflix believe that...</span></p>
+<p begin="13119773332t" end="13136456666t" region="region_1" xml:id="subtitle355"><span style="style_2">[audience laughs]</span></p>
+<p begin="13145632500t" end="13160647500t" region="region_1" xml:id="subtitle356"><span style="style_2">you know, basically, the motto is--</span></p>
+<p begin="13161481667t" end="13186089584t" region="region_1" xml:id="subtitle357"><span style="style_2">And this is unofficial,</span><br/><span style="style_2">this is just my motto.</span></p>
+<p begin="13186923750t" end="13215285417t" region="region_1" xml:id="subtitle358"><span style="style_2">Um, but it's like-- Like, fuck TV.</span></p>
+<p begin="13216119582t" end="13261998750t" region="region_1" xml:id="subtitle359"><span style="style_2">Like, that's kind of-- That's kind of--</span><br/><span style="style_2">[chuckles] Kind of the motto a little bit.</span></p>
+<p begin="13262832916t" end="13271174582t" region="region_1" xml:id="subtitle360"><span style="style_2">[laughing]</span></p>
+<p begin="13272008750t" end="13292862916t" region="region_1" xml:id="subtitle361"><span style="style_2">But the point is,</span><br/><span style="style_2">we're moving into the future</span></p>
+<p begin="13293697082t" end="13310380416t" region="region_1" xml:id="subtitle362"><span style="style_2">and so this is an experimental show.</span></p>
+<p begin="13311214584t" end="13334571250t" region="region_1" xml:id="subtitle363"><span style="style_2">Uh, you might not even see this</span><br/><span style="style_2">on Netflix.</span></p>
+<p begin="13338742082t" end="13351671666t" region="region_1" xml:id="subtitle364"><span style="style_2">But...</span></p>
+<p begin="13361681666t" end="13402555832t" region="region_1" xml:id="subtitle365"><span style="style_2">this is an incubator R&amp;D program</span><br/><span style="style_2">designed to push the limits</span></p>
+<p begin="13403390000t" end="13434671250t" region="region_1" xml:id="subtitle366"><span style="style_2">of what's possible</span><br/><span style="style_2">for a viewer to withstand.</span></p>
+<p begin="13440093332t" end="13461364582t" region="region_1" xml:id="subtitle367"><span style="style_2">[audience laughing]</span></p>
+<p begin="13468872082t" end="13482635832t" region="region_1" xml:id="subtitle368"><span style="style_2">Okay? Now...</span></p>
+<p begin="13504324166t" end="13543529999t" region="region_1" xml:id="subtitle369"><span style="style_2">I get it. And we're not gonna ago there,</span><br/><span style="style_2">so, don't worry about it.</span></p>
+<p begin="13544364166t" end="13571474582t" region="region_1" xml:id="subtitle370"><span style="style_2">[laughing]</span></p>
+<p begin="13599419167t" end="13634037084t" region="region_1" xml:id="subtitle371"><span style="style_2">This is one of my favorites. This is a bit</span><br/><span style="style_2">I used to do when I was 7 years old.</span></p>
+<p begin="13634871249t" end="13655308332t" region="region_1" xml:id="subtitle372"><span style="style_2">My mom hated it,</span><br/><span style="style_2">but I used to do it anyways,</span></p>
+<p begin="13656142499t" end="13687006666t" region="region_1" xml:id="subtitle373"><span style="style_2">'cause, you know, when you're 7 years old,</span><br/><span style="style_2">you're just like, "Fuck you."</span></p>
+<p begin="13687840832t" end="13699102082t" region="region_1" xml:id="subtitle374"><span style="style_2">[audience laughs]</span></p>
+<p begin="13699936250t" end="13738307917t" region="region_1" xml:id="subtitle375"><span style="style_2">It's like, "You made me. Deal with it."</span><br/><span style="style_2">You know, that kind of attitude.</span></p>
+<p begin="13745398334t" end="13776262500t" region="region_1" xml:id="subtitle376"><span style="style_2">Uh, so, anyway, so this is a little bit.</span><br/><span style="style_2">I hope you guys enjoy it.</span></p>
+<p begin="13777096666t" end="13785438332t" region="region_1" xml:id="subtitle377"><span style="style_2">Here we go.</span></p>
+<p begin="13911397499t" end="13948100832t" region="region_1" xml:id="subtitle378"><span style="style_2">[scatting]</span></p>
+<p begin="13948934999t" end="13986055416t" region="region_1" xml:id="subtitle379"><span style="style_2">[audience laughing]</span></p>
+<p begin="14215034167t" end="14259245000t" region="region_1" xml:id="subtitle380"><span style="style_2">[scatting]</span></p>
+<p begin="14261747500t" end="14313465834t" region="region_2" xml:id="subtitle381"><span style="style_2">[beatboxing]</span></p>
+<p begin="14314300000t" end="14344330000t" region="region_2" xml:id="subtitle382"><span style="style_2">-[beatboxing continues]</span><br/><span style="style_2">-[music playing over speaker]</span></p>
+<p begin="14464867084t" end="14476545417t" region="region_1" xml:id="subtitle383"><span style="style_2">[audience laughs]</span></p>
+<p begin="14640876250t" end="14659645000t" region="region_1" xml:id="subtitle384"><span style="style_2">[audience whistling and cheering]</span></p>
+<p begin="14719704999t" end="14782267499t" region="region_1" xml:id="subtitle385"><span style="style_2">[scatting]</span></p>
+<p begin="14815634166t" end="14826895416t" region="region_1" xml:id="subtitle386"><span style="style_2">[audience laughs]</span></p>
+<p begin="14876945416t" end="14891126249t" region="region_1" xml:id="subtitle387"><span style="style_2">[laughing]</span></p>
+<p begin="15192677500t" end="15207692500t" region="region_1" xml:id="subtitle388"><span style="style_2">[audience cheering]</span></p>
+<p begin="15359927916t" end="15393711666t" region="region_1" xml:id="subtitle389"><span style="style_2">[cheering]</span></p>
+<p begin="15413314582t" end="15421656249t" region="region_1" xml:id="subtitle390"><span style="style_2">Thank you.</span></p>
+<p begin="15483384582t" end="15500067916t" region="region_1" xml:id="subtitle391"><span style="style_2">[audience cheering]</span></p>
+<p begin="15531766249t" end="15546781249t" region="region_1" xml:id="subtitle392"><span style="style_2">[audience laughs]</span></p>
+<p begin="15587238332t" end="15611012082t" region="region_1" xml:id="subtitle393"><span style="style_2">[audience laughing]</span></p>
+<p begin="15641876249t" end="15650217916t" region="region_1" xml:id="subtitle394"><span style="style_2">Um...</span></p>
+<p begin="15663564582t" end="15680664999t" region="region_1" xml:id="subtitle395"><span style="style_2">How many of y'all like grits?</span></p>
+<p begin="15685252917t" end="15705690000t" region="region_1" xml:id="subtitle396"><span style="style_2">-[audience cheering]</span><br/><span style="style_2">-Mm-hm. Mm-hm.</span></p>
+<p begin="15706524166t" end="15715699999t" region="region_1" xml:id="subtitle397"><span style="style_2">Yeah. Mm-hm.</span></p>
+<p begin="15734468749t" end="15761996249t" region="region_1" xml:id="subtitle398"><span style="style_2">You like your grits thick,</span><br/><span style="style_2">you like your grits thin?</span></p>
+<p begin="15765332916t" end="15773674582t" region="region_1" xml:id="subtitle399"><span style="style_2">Thin or thick?</span></p>
+<p begin="15774925834t" end="15797448334t" region="region_1" xml:id="subtitle400"><span style="style_2">-[woman 1] Thick.</span><br/><span style="style_2">-You like it thick. All right.</span></p>
+<p begin="15798282499t" end="15818302499t" region="region_1" xml:id="subtitle401"><span style="style_2">[audience laughing]</span></p>
+<p begin="15822473332t" end="15840407916t" region="region_1" xml:id="subtitle402"><span style="style_2">You like your grits savory?</span></p>
+<p begin="15851669167t" end="15875025834t" region="region_1" xml:id="subtitle403"><span style="style_2">-Yeah. Yeah, I get it.</span><br/><span style="style_2">-[woman 2] Not so sweet.</span></p>
+<p begin="15875859999t" end="15884201666t" region="region_1" xml:id="subtitle404"><span style="style_2">I...</span></p>
+<p begin="15897548334t" end="15910895000t" region="region_1" xml:id="subtitle405"><span style="style_2">Oh, that makes me so mad.</span></p>
+<p begin="15911729166t" end="15925492916t" region="region_1" xml:id="subtitle406"><span style="style_2">[audience laughing]</span></p>
+<p begin="15926327082t" end="15962196249t" region="region_1" xml:id="subtitle407"><span style="style_2">"Hey, y'all want some maple syrup</span><br/><span style="style_2">on your grits?" Fuck y'all!</span></p>
+<p begin="15963030416t" end="15988889582t" region="region_1" xml:id="subtitle408"><span style="style_2">[audience laughing]</span></p>
+<p begin="16008492500t" end="16065632917t" region="region_1" xml:id="subtitle409"><span style="style_2">It's like-- It's like someone going, like,</span><br/><span style="style_2">[chuckles] "Hey, you want some sugar--</span></p>
+<p begin="16066467084t" end="16103587500t" region="region_1" xml:id="subtitle410"><span style="style_2">Uh, you want some sugar on that--</span><br/><span style="style_2">On that thing that doesn't go with sugar?"</span></p>
+<p begin="16104421666t" end="16144461666t" region="region_1" xml:id="subtitle411"><span style="style_2">[all laughing]</span></p>
+<p begin="16145295834t" end="16154888750t" region="region_2" xml:id="subtitle412"><span style="style_2">Oh...</span></p>
+<p begin="16192009166t" end="16211194999t" region="region_1" xml:id="subtitle413"><span style="style_2">Yeah, the South are crazy, though, man.</span></p>
+<p begin="16212029166t" end="16228295416t" region="region_1" xml:id="subtitle414"><span style="style_2">I was down in the South.</span></p>
+<p begin="16250400834t" end="16265832917t" region="region_1" xml:id="subtitle415"><span style="style_2">I was down there, and I was like--</span></p>
+<p begin="16266667084t" end="16296697084t" region="region_1" xml:id="subtitle416"><span style="style_2">Man, people, like,</span><br/><span style="style_2">there's a lot of history.</span></p>
+<p begin="16303787499t" end="16331732082t" region="region_1" xml:id="subtitle417"><span style="style_2">A lot of history down there.</span></p>
+<p begin="16340907916t" end="16351752082t" region="region_1" xml:id="subtitle418"><span style="style_2">Lots.</span></p>
+<p begin="16358842499t" end="16371772082t" region="region_1" xml:id="subtitle419"><span style="style_2">Lot of crops.</span></p>
+<p begin="16375525832t" end="16388872499t" region="region_1" xml:id="subtitle420"><span style="style_2">[audience laughs]</span></p>
+<p begin="16396379999t" end="16422239166t" region="region_1" xml:id="subtitle421"><span style="style_2">Lot of crops, lot of industry.</span></p>
+<p begin="16434751667t" end="16462279167t" region="region_1" xml:id="subtitle422"><span style="style_2">So much shit going down in the South.</span></p>
+<p begin="16489806666t" end="16505655832t" region="region_1" xml:id="subtitle423"><span style="style_2">It's crazy. It's like--</span></p>
+<p begin="16507324166t" end="16533183332t" region="region_1" xml:id="subtitle424"><span style="style_2">Sometimes there be people,</span><br/><span style="style_2">they'll be like:</span></p>
+<p begin="16549032499t" end="16560293749t" region="region_1" xml:id="subtitle425"><span style="style_2">"What's wrong with you?"</span></p>
+<p begin="16561127917t" end="16582399167t" region="region_1" xml:id="subtitle426"><span style="style_2">[audience laughing]</span></p>
+<p begin="16604504582t" end="16617434166t" region="region_1" xml:id="subtitle427"><span style="style_2">I'm like, "I don't know.</span></p>
+<p begin="16630363749t" end="16643293332t" region="region_1" xml:id="subtitle428"><span style="style_2">What's wrong with you?"</span></p>
+<p begin="16644127499t" end="16658308332t" region="region_1" xml:id="subtitle429"><span style="style_2">[audience laughs]</span></p>
+<p begin="16664564584t" end="16680413750t" region="region_1" xml:id="subtitle430"><span style="style_2">And they be like, "All right.</span></p>
+<p begin="16687921249t" end="16707941249t" region="region_1" xml:id="subtitle431"><span style="style_2">Hey, you want to come over for dinner</span><br/><span style="style_2">and shit?"</span></p>
+<p begin="16708775416t" end="16720036666t" region="region_1" xml:id="subtitle432"><span style="style_2">[audience laughs]</span></p>
+<p begin="16720870832t" end="16734217499t" region="region_1" xml:id="subtitle433"><span style="style_2">I'm like, "Hell, yeah.</span></p>
+<p begin="16747147082t" end="16764247499t" region="region_1" xml:id="subtitle434"><span style="style_2">What else you got?"</span></p>
+<p begin="16765081666t" end="16785935832t" region="region_1" xml:id="subtitle435"><span style="style_2">[laughing]</span></p>
+<p begin="16791774999t" end="16813046249t" region="region_1" xml:id="subtitle436"><span style="style_2">You remember that time, what was it?</span></p>
+<p begin="16814297499t" end="16842659166t" region="region_1" xml:id="subtitle437"><span style="style_2">Last year or whatever,</span><br/><span style="style_2">we was working at Columbia University?</span></p>
+<p begin="16843493334t" end="16873523334t" region="region_1" xml:id="subtitle438"><span style="style_2">We was working on cancer research.</span><br/><span style="style_2">We talked about cell division, mitosis.</span></p>
+<p begin="16874357499t" end="16908975416t" region="region_1" xml:id="subtitle439"><span style="style_2">And you were just like,</span><br/><span style="style_2">"How can we get these microtubules</span></p>
+<p begin="16909809582t" end="16939839582t" region="region_1" xml:id="subtitle440"><span style="style_2">to grow in the middle of a cell</span><br/><span style="style_2">and suddenly make it divide?</span></p>
+<p begin="16940673749t" end="16959442499t" region="region_1" xml:id="subtitle441"><span style="style_2">You know what I'm saying?" And your--</span></p>
+<p begin="16960276667t" end="16989889584t" region="region_1" xml:id="subtitle442"><span style="style_2">And your mom came in, she's like,</span><br/><span style="style_2">"What are you guys talking about?"</span></p>
+<p begin="16990723750t" end="17010743750t" region="region_1" xml:id="subtitle443"><span style="style_2">[all laughing]</span></p>
+<p begin="17011577916t" end="17028678332t" region="region_1" xml:id="subtitle444"><span style="style_2">We were like, "She don't understand."</span></p>
+<p begin="17029512499t" end="17064547499t" region="region_1" xml:id="subtitle445"><span style="style_2">[audience laughing]</span></p>
+<p begin="17065381666t" end="17088321249t" region="region_1" xml:id="subtitle446"><span style="style_2">She crazy. She crazy.</span></p>
+<p begin="17121687917t" end="17136702917t" region="region_1" xml:id="subtitle447"><span style="style_2">How many of y'all own a gun?</span></p>
+<p begin="17151717916t" end="17187170000t" region="region_1" xml:id="subtitle448"><span style="style_2">Oh, I saw that. You see that?</span><br/><span style="style_2">You see that motherfucker?</span></p>
+<p begin="17198848334t" end="17243059167t" region="region_1" xml:id="subtitle449"><span style="style_2">He was so quick, too. It was so quick.</span><br/><span style="style_2">Realized, like, he was like, "Ah..."</span></p>
+<p begin="17243893334t" end="17307290000t" region="region_1" xml:id="subtitle450"><span style="style_2">[audience laughing]</span></p>
+<p begin="17334817500t" end="17343576250t" region="region_1" xml:id="subtitle451"><span style="style_2">You're on camera.</span></p>
+<p begin="17349415417t" end="17374440417t" region="region_1" xml:id="subtitle452"><span style="style_2">[audience laughing]</span></p>
+<p begin="17384033334t" end="17422822084t" region="region_1" xml:id="subtitle453"><span style="style_2">Guns are like-- It's crazy, you know what</span><br/><span style="style_2">I'm saying, 'cause guns are like guns.</span></p>
+<p begin="17423656250t" end="17462862082t" region="region_1" xml:id="subtitle454"><span style="style_2">Like-- Like the more you use them,</span><br/><span style="style_2">the more they get used.</span></p>
+<p begin="17464530417t" end="17491640834t" region="region_1" xml:id="subtitle455"><span style="style_2">You know what I'm saying?</span><br/><span style="style_2">Like, that's how guns is.</span></p>
+<p begin="17493726250t" end="17527510000t" region="region_1" xml:id="subtitle456"><span style="style_2">Like, the more that you look at a gun</span><br/><span style="style_2">and you see a gun where a gun is,</span></p>
+<p begin="17528344166t" end="17560459582t" region="region_1" xml:id="subtitle457"><span style="style_2">most likely that is the gun</span><br/><span style="style_2">that you're looking at.</span></p>
+<p begin="17574223332t" end="17595911666t" region="region_1" xml:id="subtitle458"><span style="style_2">And that's the most dangerous thing</span><br/><span style="style_2">about a gun.</span></p>
+<p begin="17596745832t" end="17612177916t" region="region_1" xml:id="subtitle459"><span style="style_2">[audience laughs]</span></p>
+<p begin="17624273332t" end="17658057082t" region="region_1" xml:id="subtitle460"><span style="style_2">So, when you think about owning a gun,</span><br/><span style="style_2">realize this:</span></p>
+<p begin="17663896250t" end="17689338334t" region="region_1" xml:id="subtitle461"><span style="style_2">when you buy it and you put it somewhere,</span></p>
+<p begin="17703936250t" end="17726041667t" region="region_1" xml:id="subtitle462"><span style="style_2">it's probably gonna be there</span><br/><span style="style_2">when you look at it again.</span></p>
+<p begin="17726875834t" end="17749815417t" region="region_1" xml:id="subtitle463"><span style="style_2">[audience laughing]</span></p>
+<p begin="17750649582t" end="17789438332t" region="region_1" xml:id="subtitle464"><span style="style_2">So, really fucking think about that shit.</span><br/><span style="style_2">'Cause not a lot of things are like that.</span></p>
+<p begin="17790272500t" end="17829895416t" region="region_1" xml:id="subtitle465"><span style="style_2">You could by a pencil,</span><br/><span style="style_2">and you could put it on a desk,</span></p>
+<p begin="17838237082t" end="17860759582t" region="region_1" xml:id="subtitle466"><span style="style_2">and you could look away,</span><br/><span style="style_2">and it's gone when you look back.</span></p>
+<p begin="17861593750t" end="17880362500t" region="region_1" xml:id="subtitle467"><span style="style_2">[audience laughing]</span></p>
+<p begin="17894960416t" end="17904553332t" region="region_1" xml:id="subtitle468"><span style="style_2">But a gun?</span></p>
+<p begin="17917900000t" end="17926241666t" region="region_1" xml:id="subtitle469"><span style="style_2">Always there.</span></p>
+<p begin="17927075832t" end="17938337082t" region="region_1" xml:id="subtitle470"><span style="style_2">[audience laughs]</span></p>
+<p begin="17975874584t" end="18000482500t" region="region_3" xml:id="subtitle471"><span style="style_2">[announcer]</span><br/><span style="style_1">And now back to the </span><span style="style_2">Crowe's Nest</span><span style="style_1">.</span></p>
+<p begin="18054703332t" end="18070135416t" region="region_1" xml:id="subtitle472"><span style="style_2">Well, I can't have kids.</span></p>
+<p begin="18073472082t" end="18129778332t" region="region_1" xml:id="subtitle473"><span style="style_2">[audience laughing]</span></p>
+<p begin="18230712500t" end="18247395834t" region="region_1" xml:id="subtitle474"><span style="style_2">[sighs] When did you find out?</span></p>
+<p begin="18253652082t" end="18265330416t" region="region_1" xml:id="subtitle475"><span style="style_2">Today. [chuckles]</span></p>
+<p begin="18277842917t" end="18297028750t" region="region_1" xml:id="subtitle476"><span style="style_2">-Today.</span><br/><span style="style_2">-I'm infertile. [chuckles]</span></p>
+<p begin="18302450834t" end="18316214584t" region="region_2" xml:id="subtitle477"><span style="style_2">What?</span></p>
+<p begin="18317048750t" end="18330395416t" region="region_1" xml:id="subtitle478"><span style="style_2">[audience laughs]</span></p>
+<p begin="18331229582t" end="18350415416t" region="region_1" xml:id="subtitle479"><span style="style_2">Yeah. Yeah.</span></p>
+<p begin="18377942916t" end="18408807082t" region="region_1" xml:id="subtitle480"><span style="style_2">Anyway, back to dusting. [chuckles]</span><br/><span style="style_2">There's always so much to do around here.</span></p>
+<p begin="18409641250t" end="18418817082t" region="region_1" xml:id="subtitle481"><span style="style_2">You know what?</span></p>
+<p begin="18430078332t" end="18440922500t" region="region_1" xml:id="subtitle482"><span style="style_2">Let me dust!</span></p>
+<p begin="18441756667t" end="18455520417t" region="region_1" xml:id="subtitle483"><span style="style_2">[audience laughs]</span></p>
+<p begin="18460108332t" end="18470952500t" region="region_1" xml:id="subtitle484"><span style="style_2">Okay. Sure.</span></p>
+<p begin="18481379584t" end="18523922084t" region="region_1" xml:id="subtitle485"><span style="style_2">[sighs] You know... having fertility is--</span></p>
+<p begin="18526007500t" end="18543942084t" region="region_1" xml:id="subtitle486"><span style="style_2">I mean, it's not-- I mean...</span></p>
+<p begin="18544776250t" end="18566047500t" region="region_1" xml:id="subtitle487"><span style="style_2">-It's not for everyone.</span><br/><span style="style_2">-Yeah. Right. Exactly.</span></p>
+<p begin="18574806250t" end="18593157916t" region="region_1" xml:id="subtitle488"><span style="style_2">I mean, it's cliché, but it's true.</span></p>
+<p begin="18602750832t" end="18618182916t" region="region_1" xml:id="subtitle489"><span style="style_2">Clichés are true.</span></p>
+<p begin="18638202916t" end="18674072082t" region="region_1" xml:id="subtitle490"><span style="style_2">[audience laughing]</span></p>
+<p begin="18685750416t" end="18694092082t" region="region_1" xml:id="subtitle491"><span style="style_2">Huh.</span></p>
+<p begin="18707438750t" end="18748312916t" region="region_1" xml:id="subtitle492"><span style="style_2">Well, anyways, we have more free time.</span><br/><span style="style_2">You'll be able to get the-- The car.</span></p>
+<p begin="18749147084t" end="18785433334t" region="region_1" xml:id="subtitle493"><span style="style_2">Yeah, look. I mean, you guys can try</span><br/><span style="style_2">to cheer me up all you want, but...</span></p>
+<p begin="18786267500t" end="18794609167t" region="region_1" xml:id="subtitle494"><span style="style_2">[sighs]</span></p>
+<p begin="18795860416t" end="18827558750t" region="region_1" xml:id="subtitle495"><span style="style_2">it's not going to distract me</span><br/><span style="style_2">from the fact that I still have cancer.</span></p>
+<p begin="18828392916t" end="18838402916t" region="region_1" xml:id="subtitle496"><span style="style_2">[audience laughing]</span></p>
+<p begin="18858005832t" end="18878442916t" region="region_1" xml:id="subtitle497"><span style="style_2">[inaudible]</span></p>
+<p begin="18892206666t" end="18900548332t" region="region_1" xml:id="subtitle498"><span style="style_2">Chuck.</span></p>
+<p begin="18935166250t" end="18952266666t" region="region_1" xml:id="subtitle499"><span style="style_2">-Mind if I sit here?</span><br/><span style="style_2">-Not at all.</span></p>
+<p begin="18983965000t" end="19018165832t" region="region_1" xml:id="subtitle500"><span style="style_2">Remember that lake that we used</span><br/><span style="style_2">to go down to by Cribson's farm?</span></p>
+<p begin="19027341666t" end="19042773750t" region="region_1" xml:id="subtitle501"><span style="style_2">-Where Dad drowned?</span><br/><span style="style_2">-Yeah.</span></p>
+<p begin="19043607916t" end="19052783750t" region="region_1" xml:id="subtitle502"><span style="style_2">[audience laughs]</span></p>
+<p begin="19101999584t" end="19131612500t" region="region_1" xml:id="subtitle503"><span style="style_2">-Yeah, not that part, but before. Uh...</span><br/><span style="style_2">-[audience laughs]</span></p>
+<p begin="19139954166t" end="19164979166t" region="region_1" xml:id="subtitle504"><span style="style_2">It was fun, right?</span><br/><span style="style_2">I mean, we had the canoe, the dock.</span></p>
+<p begin="19165813332t" end="19174155000t" region="region_1" xml:id="subtitle505"><span style="style_2">-Yeah.</span><br/><span style="style_2">-Remember?</span></p>
+<p begin="19174989166t" end="19197928750t" region="region_1" xml:id="subtitle506"><span style="style_2">-And you had your favorite skipping rock.</span><br/><span style="style_2">-Yeah.</span></p>
+<p begin="19198762917t" end="19223370834t" region="region_1" xml:id="subtitle507"><span style="style_2">[chuckles] And we'd take hours</span><br/><span style="style_2">trying to find it again.</span></p>
+<p begin="19225456250t" end="19253817916t" region="region_1" xml:id="subtitle508"><span style="style_2">[audience laughing]</span></p>
+<p begin="19280094166t" end="19293023750t" region="region_1" xml:id="subtitle509"><span style="style_2">That's where I got that guy.</span></p>
+<p begin="19293857916t" end="19323887916t" region="region_1" xml:id="subtitle510"><span style="style_2">[all laughing]</span></p>
+<p begin="19328892916t" end="19355169166t" region="region_1" xml:id="subtitle511"><span style="style_2">I guess, at that age, I didn't know</span><br/><span style="style_2">I could throw a rock that hard.</span></p>
+<p begin="19356003332t" end="19377274582t" region="region_1" xml:id="subtitle512"><span style="style_2">[audience laughing]</span></p>
+<p begin="19385616250t" end="19409390000t" region="region_1" xml:id="subtitle513"><span style="style_2">-Yeah, well--</span><br/><span style="style_2">-I remember I cried for like a week,</span></p>
+<p begin="19410224167t" end="19433580834t" region="region_1" xml:id="subtitle514"><span style="style_2">and... then you showed up and you're like,</span></p>
+<p begin="19434415000t" end="19486967500t" region="region_1" xml:id="subtitle515"><span style="style_2">"Hey, look who's... still dead,</span><br/><span style="style_2">but kind of alive."</span></p>
+<p begin="19487801666t" end="19496143332t" region="region_1" xml:id="subtitle516"><span style="style_2">Kind of alive.</span></p>
+<p begin="19512826666t" end="19556620416t" region="region_1" xml:id="subtitle517"><span style="style_2">Well, the point is,</span><br/><span style="style_2">if you think about time, like--</span></p>
+<p begin="19558705834t" end="19577891667t" region="region_1" xml:id="subtitle518"><span style="style_2">Like as though it's happened already,</span></p>
+<p begin="19578725832t" end="19587067500t" region="region_1" xml:id="subtitle519"><span style="style_2">-like...</span><br/><span style="style_2">-Yeah.</span></p>
+<p begin="19605002082t" end="19645042082t" region="region_1" xml:id="subtitle520"><span style="style_2">Like, does it make you feel</span><br/><span style="style_2">like... anything's possible?</span></p>
+<p begin="19659222916t" end="19667564582t" region="region_1" xml:id="subtitle521"><span style="style_2">I mean...</span></p>
+<p begin="19678825832t" end="19702599582t" region="region_1" xml:id="subtitle522"><span style="style_2">before I was told I had cancer,</span><br/><span style="style_2">yeah.</span></p>
+<p begin="19704267916t" end="19717197500t" region="region_1" xml:id="subtitle523"><span style="style_2">[audience laughs]</span></p>
+<p begin="19718031666t" end="19771001250t" region="region_1" xml:id="subtitle524"><span style="style_2">But then they said it's gotten so bad</span><br/><span style="style_2">there's just... no chance of survival,</span></p>
+<p begin="19775172084t" end="19791855417t" region="region_1" xml:id="subtitle525"><span style="style_2">-there is no cure,</span><br/><span style="style_2">-Hmm.</span></p>
+<p begin="19797277500t" end="19811875416t" region="region_1" xml:id="subtitle526"><span style="style_2">you're going to die.</span></p>
+<p begin="19812709582t" end="19860674166t" region="region_1" xml:id="subtitle527"><span style="style_2">And it took me... a month or two</span><br/><span style="style_2">to even build up the courage</span></p>
+<p begin="19864010832t" end="19892789582t" region="region_1" xml:id="subtitle528"><span style="style_2">to go get</span><br/><span style="style_2">what I thought was a second opinion.</span></p>
+<p begin="19893623750t" end="19924487916t" region="region_1" xml:id="subtitle529"><span style="style_2">Turns out</span><br/><span style="style_2">that first person was not a doctor.</span></p>
+<p begin="19930327084t" end="19940337084t" region="region_1" xml:id="subtitle530"><span style="style_2">[audience laughs]</span></p>
+<p begin="19941171250t" end="19976623332t" region="region_1" xml:id="subtitle531"><span style="style_2">But the second opinion,</span><br/><span style="style_2">which ultimately was the first opinion,</span></p>
+<p begin="19985799166t" end="20003733750t" region="region_1" xml:id="subtitle532"><span style="style_2">he said the exact same thing.</span></p>
+<p begin="20004567916t" end="20017914582t" region="region_1" xml:id="subtitle533"><span style="style_2">[audience laughs]</span></p>
+<p begin="20027507500t" end="20046693332t" region="region_1" xml:id="subtitle534"><span style="style_2">Well, now's your chance.</span></p>
+<p begin="20055869166t" end="20075055000t" region="region_1" xml:id="subtitle535"><span style="style_2">-Just forget about it.</span><br/><span style="style_2">-Yeah?</span></p>
+<p begin="20076306250t" end="20101748334t" region="region_1" xml:id="subtitle536"><span style="style_2">Yeah. I mean, like,</span><br/><span style="style_2">who cares if you've got cancer?</span></p>
+<p begin="20111758332t" end="20140537082t" region="region_1" xml:id="subtitle537"><span style="style_2">It's good that you can't have kids</span><br/><span style="style_2">when you think about it.</span></p>
+<p begin="20146376250t" end="20155135000t" region="region_1" xml:id="subtitle538"><span style="style_2">[audience laughs]</span></p>
+<p begin="20160140000t" end="20179742916t" region="region_1" xml:id="subtitle539"><span style="style_2">Sorry. I overhead. I was reading my book.</span></p>
+<p begin="20181828332t" end="20197677500t" region="region_1" xml:id="subtitle540"><span style="style_2">Sorry. It came out last week. [chuckles]</span></p>
+<p begin="20198511666t" end="20218531666t" region="region_1" xml:id="subtitle541"><span style="style_2">Oh. This is your book?</span></p>
+<p begin="20219365834t" end="20244807917t" region="region_1" xml:id="subtitle542"><span style="style_2">Yeah, I didn't want to bother you.</span><br/><span style="style_2">There was dusting to be done.</span></p>
+<p begin="20245642082t" end="20266913332t" region="region_1" xml:id="subtitle543"><span style="style_2">I figured</span><br/><span style="style_2">I should just keep it to myself.</span></p>
+<p begin="20267747500t" end="20305702082t" region="region_1" xml:id="subtitle544"><span style="style_2">-I don't want to brag. Sorry. I hate it.</span><br/><span style="style_2">-That's nonsense. I need these kind of...</span></p>
+<p begin="20307370416t" end="20318214582t" region="region_1" xml:id="subtitle545"><span style="style_2">pick-me-ups.</span></p>
+<p begin="20332812500t" end="20374520834t" region="region_1" xml:id="subtitle546"><span style="style_2">Actually, there's a dedication</span><br/><span style="style_2">and I wanted to read it to you.</span></p>
+<p begin="20379942916t" end="20389952916t" region="region_1" xml:id="subtitle547"><span style="style_2">Really?</span></p>
+<p begin="20394957916t" end="20403299582t" region="region_1" xml:id="subtitle548"><span style="style_2">Yeah.</span></p>
+<p begin="20419565832t" end="20478791666t" region="region_1" xml:id="subtitle549"><span style="style_2">I said, "Dedicated to my friend... first,</span><br/><span style="style_2">brother second,</span></p>
+<p begin="20493389582t" end="20502982500t" region="region_1" xml:id="subtitle550"><span style="style_2">partner third...</span></p>
+<p begin="20520082916t" end="20531761250t" region="region_1" xml:id="subtitle551"><span style="style_2">lawyer fourth..."</span></p>
+<p begin="20537600416t" end="20575972082t" region="region_1" xml:id="subtitle552"><span style="style_2">-[laughs] That was a long time ago.</span><br/><span style="style_2">-That was crazy, but yeah.</span></p>
+<p begin="20596409166t" end="20633529582t" region="region_1" xml:id="subtitle553"><span style="style_2">"Cancer or no cancer... hey."</span></p>
+<p begin="20653966666t" end="20705267916t" region="region_1" xml:id="subtitle554"><span style="style_2">[audience laughing]</span></p>
+<p begin="20727790416t" end="20736132082t" region="region_1" xml:id="subtitle555"><span style="style_2">You put the...</span></p>
+<p begin="20763659582t" end="20782428332t" region="region_1" xml:id="subtitle556"><span style="style_2">Yep, there it is, the cancer part.</span></p>
+<p begin="20795357916t" end="20828307500t" region="region_1" xml:id="subtitle557"><span style="style_2">Let's just say I talked to a doctor</span><br/><span style="style_2">before you did. [chuckles]</span></p>
+<p begin="20829141666t" end="20839151666t" region="region_1" xml:id="subtitle558"><span style="style_2">[audience laughs]</span></p>
+<p begin="20839985832t" end="20858337500t" region="region_1" xml:id="subtitle559"><span style="style_2">You knew I had cancer before I did?</span></p>
+<p begin="20869598750t" end="20880442916t" region="region_1" xml:id="subtitle560"><span style="style_2">Everybody knew.</span></p>
+<p begin="20893372500t" end="20913392500t" region="region_1" xml:id="subtitle561"><span style="style_2">Why was I the last to know</span><br/><span style="style_2">that I had cancer?</span></p>
+<p begin="20914226667t" end="20945925000t" region="region_1" xml:id="subtitle562"><span style="style_2">Wait, wait, wait. Wait, wait a minute.</span><br/><span style="style_2">Wait. Wait a minute, guys.</span></p>
+<p begin="20946759166t" end="20970532916t" region="region_1" xml:id="subtitle563"><span style="style_2">[woman and Reggie laughing]</span></p>
+<p begin="20987633332t" end="21001814166t" region="region_1" xml:id="subtitle564"><span style="style_2">-Explain. Explain.</span><br/><span style="style_2">-Okay.</span></p>
+<p begin="21008070417t" end="21023085417t" region="region_1" xml:id="subtitle565"><span style="style_2">-We--</span><br/><span style="style_2">-[Chuck] You're the one</span></p>
+<p begin="21023919584t" end="21045190834t" region="region_1" xml:id="subtitle566"><span style="style_2">who made me that appointment</span><br/><span style="style_2">with that first guy</span></p>
+<p begin="21046025000t" end="21078140417t" region="region_1" xml:id="subtitle567"><span style="style_2">who turned out not to even be a doctor.</span></p>
+<p begin="21088150417t" end="21123185417t" region="region_1" xml:id="subtitle568"><span style="style_2">-How do I even know I have cancer at all?</span><br/><span style="style_2">-Just trust us. You do.</span></p>
+<p begin="21124019582t" end="21145707916t" region="region_1" xml:id="subtitle569"><span style="style_2">-Yeah. Like a hundred percent.</span><br/><span style="style_2">-Yeah.</span></p>
+<p begin="21146542082t" end="21156135000t" region="region_1" xml:id="subtitle570"><span style="style_2">[audience laughs]</span></p>
+<p begin="21161557082t" end="21176572082t" region="region_1" xml:id="subtitle571"><span style="style_2">Blood can't test itself.</span></p>
+<p begin="21177406250t" end="21185747916t" region="region_1" xml:id="subtitle572"><span style="style_2">[both chuckling]</span></p>
+<p begin="21186582082t" end="21204933750t" region="region_1" xml:id="subtitle573"><span style="style_2">-That-- That's what I mean.</span><br/><span style="style_2">-Yes.</span></p>
+<p begin="21206185000t" end="21215360834t" region="region_1" xml:id="subtitle574"><span style="style_2">Yeah, right. Yeah.</span></p>
+<p begin="21216195000t" end="21248727500t" region="region_1" xml:id="subtitle575"><span style="style_2">It's just now coming to me.</span><br/><span style="style_2">I've never had my blood even tested.</span></p>
+<p begin="21249561666t" end="21293355416t" region="region_1" xml:id="subtitle576"><span style="style_2">I just went to a person who said,</span><br/><span style="style_2">"You undeniably have cancer."</span></p>
+<p begin="21299194584t" end="21325470834t" region="region_1" xml:id="subtitle577"><span style="style_2">I don't even know</span><br/><span style="style_2">if I actually have cancer!</span></p>
+<p begin="21326305000t" end="21353832500t" region="region_1" xml:id="subtitle578"><span style="style_2">-You do. Look at the book.</span><br/><span style="style_2">-Because it's in a book?!</span></p>
+<p begin="21371767082t" end="21397209166t" region="region_1" xml:id="subtitle579"><span style="style_2">Don't. I wrote that.</span></p>
+<p begin="21400545834t" end="21418897500t" region="region_1" xml:id="subtitle580"><span style="style_2">[audience laughing]</span></p>
+<p begin="21427239166t" end="21473118332t" region="region_1" xml:id="subtitle581"><span style="style_2">[grunts] What does it even matter,</span><br/><span style="style_2">I still have AIDS.</span></p>
+<p begin="21473952500t" end="21486047916t" region="region_1" xml:id="subtitle582"><span style="style_2">Wow.</span></p>
+<p begin="21486882082t" end="21495640832t" region="region_1" xml:id="subtitle583"><span style="style_2">[audience laughs]</span></p>
+<p begin="21496475000t" end="21505650832t" region="region_1" xml:id="subtitle584"><span style="style_2">[sighs]</span></p>
+<p begin="21512324167t" end="21546942084t" region="region_2" xml:id="subtitle585"><span style="style_2">[theme music plays]</span></p>
+<p begin="21547776250t" end="21564459582t" region="region_1" xml:id="subtitle586"><span style="style_2">Yo, you check out </span><span style="style_1">Crowe's Nest?</span></p>
+<p begin="21571132916t" end="21598660416t" region="region_1" xml:id="subtitle587"><span style="style_2">Like, "Yeah, I checked it out."</span><br/><span style="style_2">"What did you think?"</span></p>
+<p begin="21600745834t" end="21648710417t" region="region_1" xml:id="subtitle588"><span style="style_2">"Ah, man, man,</span><br/><span style="style_2">the way she use that feather duster,</span></p>
+<p begin="21655800832t" end="21670398750t" region="region_1" xml:id="subtitle589"><span style="style_2">and she arrange them books,</span></p>
+<p begin="21677489166t" end="21711690000t" region="region_1" xml:id="subtitle590"><span style="style_2">man... I feel better about my life."</span></p>
+<p begin="21714192500t" end="21724619584t" region="region_1" xml:id="subtitle591"><span style="style_2">[audience laughs]</span></p>
+<p begin="21737132082t" end="21758820416t" region="region_1" xml:id="subtitle592"><span style="style_2">Okay, so that's enough</span><br/><span style="style_2">about the</span><span style="style_1"> Crowe's Nest</span><span style="style_2">.</span></p>
+<p begin="21764242500t" end="21772584166t" region="region_1" xml:id="subtitle593"><span style="style_2">I grew up...</span></p>
+<p begin="21789267500t" end="21838483332t" region="region_1" xml:id="subtitle594"><span style="style_2">got to a certain age, and... decided,</span><br/><span style="style_2">"I've got to move on with my life."</span></p>
+<p begin="21846825000t" end="21868930417t" region="region_1" xml:id="subtitle595"><span style="style_2">What am I going to do when I reach 18?</span></p>
+<p begin="21869764582t" end="21894789582t" region="region_1" xml:id="subtitle596"><span style="style_2">And I thought,</span><br/><span style="style_2">I can only move two places.</span></p>
+<p begin="21902297082t" end="21913975416t" region="region_1" xml:id="subtitle597"><span style="style_2">I can move to New York.</span></p>
+<p begin="21922734167t" end="21936915000t" region="region_1" xml:id="subtitle598"><span style="style_2">Everybody thinks about it.</span></p>
+<p begin="21944422500t" end="21955683750t" region="region_1" xml:id="subtitle599"><span style="style_2">Hardly anybody does.</span></p>
+<p begin="21964442500t" end="21991970000t" region="region_1" xml:id="subtitle600"><span style="style_2">When they do, they're like,</span><br/><span style="style_2">"Why the fuck did I move here?"</span></p>
+<p begin="21998226250t" end="22035763750t" region="region_1" xml:id="subtitle601"><span style="style_2">And then after a year, they're like, "I</span><br/><span style="style_2">think I can do this." And then they stay.</span></p>
+<p begin="22050361667t" end="22084562500t" region="region_1" xml:id="subtitle602"><span style="style_2">But I didn't have the money to move</span><br/><span style="style_2">to New York. I had to move somewhere else.</span></p>
+<p begin="22085396667t" end="22101245834t" region="region_1" xml:id="subtitle603"><span style="style_2">I had to move to Seattle.</span></p>
+<p begin="22104165416t" end="22112507082t" region="region_1" xml:id="subtitle604"><span style="style_2">[audience cheers]</span></p>
+<p begin="22113341250t" end="22154215416t" region="region_1" xml:id="subtitle605"><span style="style_2">It was 1989,</span><br/><span style="style_2">and I was super stoked about Seattle.</span></p>
+<p begin="22155049584t" end="22174235417t" region="region_2" xml:id="subtitle606"><span style="style_2">[rock music playing]</span></p>
+<p begin="22191752917t" end="22218446250t" region="region_1" xml:id="subtitle607"><span style="style_2">[Reggie singing indistinctly]</span></p>
+<p begin="22371515832t" end="22395706666t" region="region_1" xml:id="subtitle608"><span style="style_1">♪ Shit I say ♪</span></p>
+<p begin="22414475416t" end="22439917500t" region="region_1" xml:id="subtitle609"><span style="style_1">♪ Shaking the facade ♪</span></p>
+<p begin="22452012917t" end="22460354584t" region="region_1" xml:id="subtitle610"><span style="style_1">♪</span><span style="style_2"> </span><span style="style_1">Oh</span><span style="style_2"> </span><span style="style_1">♪</span></p>
+<p begin="22465359584t" end="22481208750t" region="region_2" xml:id="subtitle611"><span style="style_1">♪ Save your facade ♪</span><span style="style_2"> </span></p>
+<p begin="22491218750t" end="22512907084t" region="region_1" xml:id="subtitle612"><span style="style_1">♪ She'll make you say what's up? ♪</span></p>
+<p begin="22585062500t" end="22597992082t" region="region_1" xml:id="subtitle613"><span style="style_2">[scatting]</span></p>
+<p begin="22610087500t" end="22633444167t" region="region_2" xml:id="subtitle614"><span style="style_2">[yells]</span></p>
+<p begin="22682242916t" end="22731041666t" region="region_1" xml:id="subtitle615"><span style="style_2">[audience cheering and whistling]</span></p>
+<p begin="22755649582t" end="22779840416t" region="region_1" xml:id="subtitle616"><span style="style_2">Times are hard, computers are everywhere.</span></p>
+<p begin="22782760000t" end="22822800000t" region="region_1" xml:id="subtitle617"><span style="style_2">[audience laughing]</span></p>
+<p begin="22831141666t" end="22841985832t" region="region_1" xml:id="subtitle618"><span style="style_2">Got Wi-Fi,</span></p>
+<p begin="22855749584t" end="22868262084t" region="region_1" xml:id="subtitle619"><span style="style_2">everybody's making apps.</span></p>
+<p begin="22881191666t" end="22908302082t" region="region_1" xml:id="subtitle620"><span style="style_2">Don't know if they're useful.</span><br/><span style="style_2">Do you think apps are useful?</span></p>
+<p begin="22914141250t" end="22926653750t" region="region_2" xml:id="subtitle621"><span style="style_2">[audience laughs]</span></p>
+<p begin="22927487916t" end="22937080832t" region="region_1" xml:id="subtitle622"><span style="style_2">Some, yeah.</span></p>
+<p begin="22941251666t" end="22950427500t" region="region_1" xml:id="subtitle623"><span style="style_2">[audience laughs]</span></p>
+<p begin="22956266666t" end="22969613332t" region="region_1" xml:id="subtitle624"><span style="style_2">Yeah, that's an honest answer</span></p>
+<p begin="22970447500t" end="23006733750t" region="region_1" xml:id="subtitle625"><span style="style_2">'cause a lot of times you buy an app,</span><br/><span style="style_2">you're like, "This is gonna be useful."</span></p>
+<p begin="23007567916t" end="23030090416t" region="region_1" xml:id="subtitle626"><span style="style_2">[audience laughing]</span></p>
+<p begin="23030924582t" end="23060537500t" region="region_1" xml:id="subtitle627"><span style="style_2">I put it four menus deep. [chuckles]</span></p>
+<p begin="23061371666t" end="23076803750t" region="region_1" xml:id="subtitle628"><span style="style_2">[audience laughs]</span></p>
+<p begin="23081391666t" end="23116843750t" region="region_1" xml:id="subtitle629"><span style="style_2">I got categories,</span><br/><span style="style_2">just put them inside of folders.</span></p>
+<p begin="23142285832t" end="23170230416t" region="region_1" xml:id="subtitle630"><span style="style_2">But, like, seriously though,</span><br/><span style="style_2">and I know a lot of you guys,</span></p>
+<p begin="23171064582t" end="23215692500t" region="region_1" xml:id="subtitle631"><span style="style_2">you know, it's getting serious,</span><br/><span style="style_2">but, like... don't fall for it.</span></p>
+<p begin="23229039166t" end="23244471250t" region="region_1" xml:id="subtitle632"><span style="style_2">An in-app purchase?</span></p>
+<p begin="23256983750t" end="23271581666t" region="region_1" xml:id="subtitle633"><span style="style_2">The fuck is that shit?</span></p>
+<p begin="23272415832t" end="23284928332t" region="region_1" xml:id="subtitle634"><span style="style_2">[audience laughs]</span></p>
+<p begin="23285762500t" end="23312038750t" region="region_1" xml:id="subtitle635"><span style="style_2">"You in the house,</span><br/><span style="style_2">do you want to pay for the spoon?"</span></p>
+<p begin="23312872917t" end="23346656667t" region="region_1" xml:id="subtitle636"><span style="style_2">-You know what I'm saying? Like...</span><br/><span style="style_2">-[audience laughing]</span></p>
+<p begin="23347490832t" end="23372098750t" region="region_1" xml:id="subtitle637"><span style="style_2">Like, can I use my own bathroom?</span></p>
+<p begin="23372932916t" end="23396289582t" region="region_1" xml:id="subtitle638"><span style="style_2">[laughing]</span></p>
+<p begin="23397123750t" end="23413390000t" region="region_1" xml:id="subtitle639"><span style="style_2">Anyways, I come from Montana.</span></p>
+<p begin="23420063334t" end="23443420000t" region="region_1" xml:id="subtitle640"><span style="style_2">A lot of people don't know</span><br/><span style="style_2">what Montana's like.</span></p>
+<p begin="23450927500t" end="23491384582t" region="region_1" xml:id="subtitle641"><span style="style_2">I'll tell you</span><br/><span style="style_2">what motherfucking Montana's like.</span></p>
+<p begin="23492218750t" end="23507233750t" region="region_1" xml:id="subtitle642"><span style="style_2">[laughing]</span></p>
+<p begin="23508067916t" end="23533092916t" region="region_1" xml:id="subtitle643"><span style="style_2">Montana's filled with motherfuckers...</span></p>
+<p begin="23556866666t" end="23588982082t" region="region_1" xml:id="subtitle644"><span style="style_2">that just wanna have a good time.</span></p>
+<p begin="23591484582t" end="23607750832t" region="region_1" xml:id="subtitle645"><span style="style_2">[audience laughing]</span></p>
+<p begin="23618177917t" end="23636112500t" region="region_1" xml:id="subtitle646"><span style="style_2">Population under a million.</span></p>
+<p begin="23655715416t" end="23671147500t" region="region_1" xml:id="subtitle647"><span style="style_2">Land mass the size of Germany.</span></p>
+<p begin="23682825832t" end="23692001666t" region="region_1" xml:id="subtitle648"><span style="style_2">Fresh water.</span></p>
+<p begin="23704514166t" end="23716609582t" region="region_1" xml:id="subtitle649"><span style="style_2">"Liz-nakes."</span></p>
+<p begin="23741634582t" end="23753730000t" region="region_1" xml:id="subtitle650"><span style="style_2">Mountains.</span></p>
+<p begin="23754564166t" end="23776669582t" region="region_1" xml:id="subtitle651"><span style="style_2">[laughing]</span></p>
+<p begin="23782508750t" end="23796272500t" region="region_1" xml:id="subtitle652"><span style="style_2">Good times.</span></p>
+<p begin="23819629167t" end="23839649167t" region="region_1" xml:id="subtitle653"><span style="style_2">This is a song</span><br/><span style="style_2">to change the mood a little bit.</span></p>
+<p begin="23840483332t" end="23878855000t" region="region_1" xml:id="subtitle654"><span style="style_2">I know some of you are big, big pop fans,</span><br/><span style="style_2">and some of you are big underground fans.</span></p>
+<p begin="23879689166t" end="23904714166t" region="region_1" xml:id="subtitle655"><span style="style_2">So, I'm gonna try to make</span><br/><span style="style_2">an underground pop sandwich.</span></p>
+<p begin="23905548332t" end="23941834582t" region="region_1" xml:id="subtitle656"><span style="style_2">It's going to be, like, maximum pop,</span><br/><span style="style_2">maximum underground.</span></p>
+<p begin="23943920000t" end="23960603334t" region="region_1" xml:id="subtitle657"><span style="style_2">Um, then we'll see what happens.</span></p>
+<p begin="24002728750t" end="24011070416t" region="region_1" xml:id="subtitle658"><span style="style_2">Okay.</span></p>
+<p begin="24019412082t" end="24037763750t" region="region_1" xml:id="subtitle659"><span style="style_2">We're gonna-- Okay. Oh, here.</span></p>
+<p begin="24044854166t" end="24057783750t" region="region_1" xml:id="subtitle660"><span style="style_2">No. Okay. Here.</span></p>
+<p begin="24059452084t" end="24073632917t" region="region_1" xml:id="subtitle661"><span style="style_2">-[drum tapping]</span><br/><span style="style_2">-No. That's not it.</span></p>
+<p begin="24074467084t" end="24100326250t" region="region_1" xml:id="subtitle662"><span style="style_2">-[drums tapping over speaker]</span><br/><span style="style_2">-No, that's not it. No.</span></p>
+<p begin="24101160417t" end="24118260834t" region="region_1" xml:id="subtitle663"><span style="style_2">-[soft tapping]</span><br/><span style="style_2">-Oh, yeah, there we go.</span></p>
+<p begin="24123682916t" end="24157049582t" region="region_1" xml:id="subtitle664"><span style="style_2">This is, like, the most padded kick drum</span><br/><span style="style_2">I've ever heard.</span></p>
+<p begin="24160803332t" end="24169145000t" region="region_1" xml:id="subtitle665"><span style="style_2">Like, listen.</span></p>
+<p begin="24169979167t" end="24193335834t" region="region_1" xml:id="subtitle666"><span style="style_2">-[soft tapping over speaker]</span><br/><span style="style_2">-It's-- It's, like, so soft.</span></p>
+<p begin="24194170000t" end="24226702500t" region="region_1" xml:id="subtitle667"><span style="style_2">It, like, just punches you,</span><br/><span style="style_2">but it's like-- It's a soft punch.</span></p>
+<p begin="24227536666t" end="24241300416t" region="region_1" xml:id="subtitle668"><span style="style_2">[audience laughs]</span></p>
+<p begin="24242134584t" end="24256315417t" region="region_1" xml:id="subtitle669"><span style="style_2">-It's, like, take this.</span><br/><span style="style_2">-[tapping]</span></p>
+<p begin="24257149584t" end="24280506250t" region="region_2" xml:id="subtitle670"><span style="style_2">-[grunts]</span><br/><span style="style_2">-[audience laughing]</span></p>
+<p begin="24281340416t" end="24303445832t" region="region_1" xml:id="subtitle671"><span style="style_2">I felt it, but it was soft.</span></p>
+<p begin="24304280000t" end="24344320000t" region="region_1" xml:id="subtitle672"><span style="style_2">[audience laughing]</span></p>
+<p begin="24353495834t" end="24362671667t" region="region_2" xml:id="subtitle673"><span style="style_2">[Reggie sighs]</span></p>
+<p begin="24365174167t" end="24376435417t" region="region_2" xml:id="subtitle674"><span style="style_2">[tapping over speaker]</span></p>
+<p begin="24393535834t" end="24407716667t" region="region_1" xml:id="subtitle675"><span style="style_2">-[tapping continues]</span><br/><span style="style_2">-Okay.</span></p>
+<p begin="24408550832t" end="24421480416t" region="region_1" xml:id="subtitle676"><span style="style_2">[audience laughs]</span></p>
+<p begin="24422314584t" end="24446505417t" region="region_1" xml:id="subtitle677"><span style="style_2">-[music playing over speakers]</span><br/><span style="style_2">-Okay, here we go.</span></p>
+<p begin="24472364582t" end="24492384582t" region="region_1" xml:id="subtitle678"><span style="style_2">[audience laughing]</span></p>
+<p begin="24512821667t" end="24525751250t" region="region_1" xml:id="subtitle679"><span style="style_2">[tapping over speakers]</span></p>
+<p begin="24537429582t" end="24564122916t" region="region_1" xml:id="subtitle680"><span style="style_2">[music playing over speakers]</span></p>
+<p begin="24812704582t" end="24827719582t" region="region_1" xml:id="subtitle681"><span style="style_1">♪ Yo, you amaze me sometimes ♪</span></p>
+<p begin="24828553750t" end="24872764584t" region="region_1" xml:id="subtitle682"><span style="style_2">[singing indistinctly]</span></p>
+<p begin="25047939582t" end="25061286250t" region="region_1" xml:id="subtitle683"><span style="style_2">[audience laughs]</span></p>
+<p begin="25113004584t" end="25133441667t" region="region_1" xml:id="subtitle684"><span style="style_2">-[music stops]</span><br/><span style="style_2">-Hey, who here knows how to tap dance?</span></p>
+<p begin="25134275834t" end="25146371250t" region="region_1" xml:id="subtitle685"><span style="style_2">[audience laughs]</span></p>
+<p begin="25167642500t" end="25177235416t" region="region_1" xml:id="subtitle686"><span style="style_2">Thanks.</span></p>
+<p begin="25178069582t" end="25195587082t" region="region_1" xml:id="subtitle687"><span style="style_2">[cheering and whistling]</span></p>
+<p begin="25201009167t" end="25213104584t" region="region_1" xml:id="subtitle688"><span style="style_2">I have a quick question.</span></p>
+<p begin="25219360832t" end="25234375832t" region="region_1" xml:id="subtitle689"><span style="style_2">Who here knows how to tap dance?</span></p>
+<p begin="25235210000t" end="25249390834t" region="region_1" xml:id="subtitle690"><span style="style_2">-[woman] I do.</span><br/><span style="style_2">-Right.</span></p>
+<p begin="25258149582t" end="25280255000t" region="region_1" xml:id="subtitle691"><span style="style_2">You do. Okay. All right.</span></p>
+<p begin="25281506250t" end="25325300000t" region="region_1" xml:id="subtitle692"><span style="style_2">Um, yeah, I guess that was really quick.</span><br/><span style="style_2">I wasn't expecting that.</span></p>
+<p begin="25326134167t" end="25356581250t" region="region_1" xml:id="subtitle693"><span style="style_2">Um, sure. Yeah, well, I guess, come--</span><br/><span style="style_2">Come on, come on up.</span></p>
+<p begin="25357415416t" end="25408299582t" region="region_1" xml:id="subtitle694"><span style="style_2">[cheering and whistling]</span></p>
+<p begin="25425400000t" end="25462937500t" region="region_1" xml:id="subtitle695"><span style="style_2">What I hate is people who are like, "I can</span><br/><span style="style_2">tap dance", and they just can't. So...</span></p>
+<p begin="25463771666t" end="25472113332t" region="region_1" xml:id="subtitle696"><span style="style_2">[muttering]</span></p>
+<p begin="25481706250t" end="25497972500t" region="region_1" xml:id="subtitle697"><span style="style_2">-Those are interesting shoes.</span><br/><span style="style_2">-Thanks.</span></p>
+<p begin="25498806666t" end="25507565416t" region="region_1" xml:id="subtitle698"><span style="style_2">[audience laughing]</span></p>
+<p begin="25561786250t" end="25581806250t" region="region_1" xml:id="subtitle699"><span style="style_2">-What-- What's your name?</span><br/><span style="style_2">-Chloe.</span></p>
+<p begin="25582640417t" end="25602243334t" region="region_1" xml:id="subtitle700"><span style="style_2">Oh. Okay. Cool. All right. Um...</span></p>
+<p begin="25603077500t" end="25643951666t" region="region_1" xml:id="subtitle701"><span style="style_2">Well, I'm a pretty good tap dancer,</span><br/><span style="style_2">so do you mind if I-- You want to trade?</span></p>
+<p begin="25644785832t" end="25674815832t" region="region_1" xml:id="subtitle702"><span style="style_2">-Yeah, I think you should start it off.</span><br/><span style="style_2">-Okay. I'll set it off.</span></p>
+<p begin="25675650000t" end="25683991666t" region="region_1" xml:id="subtitle703"><span style="style_2">Here we go.</span></p>
+<p begin="25693167500t" end="25717775417t" region="region_1" xml:id="subtitle704"><span style="style_2">Don't get, like--</span><br/><span style="style_2">Don't get freaked out, okay?</span></p>
+<p begin="25777001250t" end="25792850416t" region="region_1" xml:id="subtitle705"><span style="style_2">[mimicking tapping]</span></p>
+<p begin="25793684582t" end="25812453332t" region="region_1" xml:id="subtitle706"><span style="style_2">[audience laughing]</span></p>
+<p begin="25845402917t" end="25894201667t" region="region_2" xml:id="subtitle707"><span style="style_2">[tapping]</span></p>
+<p begin="25895035832t" end="25916724166t" region="region_1" xml:id="subtitle708"><span style="style_2">[audience cheering and whistling]</span></p>
+<p begin="25955095832t" end="25967608332t" region="region_1" xml:id="subtitle709"><span style="style_2">[audience cheering]</span></p>
+<p begin="25968442500t" end="25979286667t" region="region_1" xml:id="subtitle710"><span style="style_2">Okay.</span></p>
+<p begin="25999306666t" end="26009316666t" region="region_1" xml:id="subtitle711"><span style="style_2">Okay.</span></p>
+<p begin="26024748750t" end="26046854166t" region="region_1" xml:id="subtitle712"><span style="style_2">All right. Well, how about--</span><br/><span style="style_2">How about this?</span></p>
+<p begin="26051442082t" end="26059783750t" region="region_1" xml:id="subtitle713"><span style="style_2">[sniffs]</span></p>
+<p begin="26080220832t" end="26106914166t" region="region_1" xml:id="subtitle714"><span style="style_2">This one's a really hard one, so--</span><br/><span style="style_2">Okay. Okay. Here we go.</span></p>
+<p begin="26107748332t" end="26119843750t" region="region_1" xml:id="subtitle715"><span style="style_2">It's gonna start on one.</span></p>
+<p begin="26120677916t" end="26129019582t" region="region_1" xml:id="subtitle716"><span style="style_2">-Okay.</span><br/><span style="style_2">-Okay.</span></p>
+<p begin="26129853750t" end="26154878750t" region="region_1" xml:id="subtitle717"><span style="style_2">[audience laughing]</span></p>
+<p begin="26183240416t" end="26235375832t" region="region_1" xml:id="subtitle718"><span style="style_2">[mimicking tapping]</span></p>
+<p begin="26243717500t" end="26280420834t" region="region_2" xml:id="subtitle719"><span style="style_2">[tapping]</span></p>
+<p begin="26320460832t" end="26351742082t" region="region_1" xml:id="subtitle720"><span style="style_2">[audience cheering and whistling]</span></p>
+<p begin="26366757082t" end="26389279582t" region="region_1" xml:id="subtitle721"><span style="style_2">Okay. Okay. All right.</span></p>
+<p begin="26393867500t" end="26424314582t" region="region_1" xml:id="subtitle722"><span style="style_2">I'm gonna try and experiment.</span><br/><span style="style_2">I'm gonna experiment right now.</span></p>
+<p begin="26434324584t" end="26456012917t" region="region_1" xml:id="subtitle723"><span style="style_2">Okay. Okay.</span></p>
+<p begin="26459349582t" end="26472279166t" region="region_1" xml:id="subtitle724"><span style="style_2">Let's see if this works.</span></p>
+<p begin="26490213750t" end="26498555416t" region="region_1" xml:id="subtitle725"><span style="style_2">Okay.</span></p>
+<p begin="26506480000t" end="26521495000t" region="region_1" xml:id="subtitle726"><span style="style_2">[audience laughs]</span></p>
+<p begin="26528168332t" end="26551107916t" region="region_1" xml:id="subtitle727"><span style="style_2">Okay, we're gonna try to--</span><br/><span style="style_2">Let's try to duet here.</span></p>
+<p begin="26551942082t" end="26579886666t" region="region_1" xml:id="subtitle728"><span style="style_2">[audience laughing]</span></p>
+<p begin="26596987084t" end="26619509584t" region="region_1" xml:id="subtitle729"><span style="style_2">-I'll start. You can join in, okay?</span><br/><span style="style_2">-Okay.</span></p>
+<p begin="26620343750t" end="26630770834t" region="region_1" xml:id="subtitle730"><span style="style_2">Okay, here we go.</span></p>
+<p begin="26646202917t" end="26669559584t" region="region_1" xml:id="subtitle731"><span style="style_2">[mimicking tapping] </span></p>
+<p begin="26670393750t" end="26690413750t" region="region_2" xml:id="subtitle732"><span style="style_2">[tapping]</span></p>
+<p begin="26737961250t" end="26749639584t" region="region_1" xml:id="subtitle733"><span style="style_2">[audience cheering]</span></p>
+<p begin="26870593750t" end="26911885000t" region="region_2" xml:id="subtitle734"><span style="style_2">[scatting]</span></p>
+<p begin="26937744166t" end="26961517916t" region="region_1" xml:id="subtitle735"><span style="style_2">[audience cheering]</span></p>
+<p begin="27056612917t" end="27076215834t" region="region_1" xml:id="subtitle736"><span style="style_2">-[scatting stops]</span><br/><span style="style_2">-[audience cheering]</span></p>
+<p begin="27137527082t" end="27149205416t" region="region_1" xml:id="subtitle737"><span style="style_2">[audience laughs]</span></p>
+<p begin="27162552082t" end="27171310832t" region="region_1" xml:id="subtitle738"><span style="style_2">[audience cheering]</span></p>
+<p begin="27172144999t" end="27187994166t" region="region_1" xml:id="subtitle739"><span style="style_2">Give it up for Chloe Arnold.</span></p>
+<p begin="27283506250t" end="27303109167t" region="region_1" xml:id="subtitle740"><span style="style_2">[announcer]</span><br/><span style="style_1">Previously on </span><span style="style_2">Crowe's Nest:</span></p>
+<p begin="27332722082t" end="27347319999t" region="region_1" xml:id="subtitle741"><span style="style_2">[audience laughs]</span></p>
+<p begin="27511233749t" end="27530002499t" region="region_1" xml:id="subtitle742"><span style="style_2">[audience laughing]</span></p>
+<p begin="27662217917t" end="27672645000t" region="region_1" xml:id="subtitle743"><span style="style_2">[audience laughs]</span></p>
+<p begin="27749805417t" end="27759815417t" region="region_1" xml:id="subtitle744"><span style="style_2">[audience laughs]</span></p>
+<p begin="27883272082t" end="27921226666t" region="region_1" xml:id="subtitle745"><span style="style_2">[audience laughing]</span></p>
+<p begin="27993799167t" end="28028000000t" region="region_2" xml:id="subtitle746"><span style="style_2">[theme music plays]</span></p>
+<p begin="28028834167t" end="28037175834t" region="region_2" xml:id="subtitle747"><span style="style_2">[crow cawing]</span></p>
+<p begin="28038009999t" end="28071793749t" region="region_1" xml:id="subtitle748"><span style="style_2">No, but I'm stoked about weed.</span><br/><span style="style_2">I think that it's making a comeback.</span></p>
+<p begin="28073879166t" end="28090979582t" region="region_1" xml:id="subtitle749"><span style="style_2">[audience laughing]</span></p>
+<p begin="28100572499t" end="28147285832t" region="region_1" xml:id="subtitle750"><span style="style_2">Obama, you know, he smoked it, </span><br/><span style="style_2">and that's cool.</span></p>
+<p begin="28154793332t" end="28175230416t" region="region_1" xml:id="subtitle751"><span style="style_2">And George Washington smoked it.</span></p>
+<p begin="28176064584t" end="28206094584t" region="region_1" xml:id="subtitle752"><span style="style_2">And any other person</span><br/><span style="style_2">you think smoked it, smoked it.</span></p>
+<p begin="28216938749t" end="28237792916t" region="region_1" xml:id="subtitle753"><span style="style_2">'Cause you got to. I mean, come on, man.</span></p>
+<p begin="28238627082t" end="28277832916t" region="region_1" xml:id="subtitle754"><span style="style_2">We've got these cannabinoid receptors,</span><br/><span style="style_2">you know, in our nervous system,</span></p>
+<p begin="28278667082t" end="28299521249t" region="region_1" xml:id="subtitle755"><span style="style_2">it's like a perfect,</span><br/><span style="style_2">like, little train hook.</span></p>
+<p begin="28300355416t" end="28326214582t" region="region_1" xml:id="subtitle756"><span style="style_2">It's like, where is the thing</span><br/><span style="style_2">I'm supposed to attach to?</span></p>
+<p begin="28327048749t" end="28346234582t" region="region_1" xml:id="subtitle757"><span style="style_2">Is it supposed to hang out here forever?</span></p>
+<p begin="28347068749t" end="28374596249t" region="region_1" xml:id="subtitle758"><span style="style_2">It's like, no, it's supposed to attach</span><br/><span style="style_2">to this THC molecule.</span></p>
+<p begin="28375430416t" end="28392113749t" region="region_1" xml:id="subtitle759"><span style="style_2">Oh, it's a perfect fit. Why is that?</span></p>
+<p begin="28392947916t" end="28432153749t" region="region_1" xml:id="subtitle760"><span style="style_2">I don't know. It creates a weird sense</span><br/><span style="style_2">of higher consciousness. Anyways, go on.</span></p>
+<p begin="28432987916t" end="28448837082t" region="region_1" xml:id="subtitle761"><span style="style_2">[laughing]</span></p>
+<p begin="28449671250t" end="28483037917t" region="region_1" xml:id="subtitle762"><span style="style_2">Have you ever gone to dispensaries?</span><br/><span style="style_2">Probably no one here has. But...</span></p>
+<p begin="28483872082t" end="28500972499t" region="region_1" xml:id="subtitle763"><span style="style_2">Um... [chuckles]</span></p>
+<p begin="28518072916t" end="28563952082t" region="region_1" xml:id="subtitle764"><span style="style_2">You go to a dispensary,</span><br/><span style="style_2">and every product, especially edibles,</span></p>
+<p begin="28568957082t" end="28590228332t" region="region_1" xml:id="subtitle765"><span style="style_2">is always--</span><br/><span style="style_2">It's, like, designed by the people</span></p>
+<p begin="28591062499t" end="28623594999t" region="region_1" xml:id="subtitle766"><span style="style_2">who designed the Monster drink logo.</span><br/><span style="style_2">[chuckles]</span></p>
+<p begin="28624429166t" end="28636107499t" region="region_1" xml:id="subtitle767"><span style="style_2">[audience laughs]</span></p>
+<p begin="28640695416t" end="28676564582t" region="region_1" xml:id="subtitle768"><span style="style_2">"Get fucked up. Never recover.</span></p>
+<p begin="28689494166t" end="28709931249t" region="region_1" xml:id="subtitle769"><span style="style_2">You can't handle this.</span></p>
+<p begin="28715770417t" end="28756644584t" region="region_1" xml:id="subtitle770"><span style="style_2">It's 16,000 times more</span><br/><span style="style_2">than what you ever want.</span></p>
+<p begin="28766654584t" end="28817955834t" region="region_1" xml:id="subtitle771"><span style="style_2">This cookie is the size of a cookie,</span><br/><span style="style_2">but it's meant to be shared by 22 people."</span></p>
+<p begin="28818789999t" end="28845900416t" region="region_1" xml:id="subtitle772"><span style="style_2">[audience laughing]</span></p>
+<p begin="28855076250t" end="28871759584t" region="region_1" xml:id="subtitle773"><span style="style_2">What the fuck is that? [chuckles]</span></p>
+<p begin="28879267082t" end="28912216666t" region="region_1" xml:id="subtitle774"><span style="style_2">It's, like, all dispensaries shall be run</span><br/><span style="style_2">from the perspective</span></p>
+<p begin="28920558334t" end="28943080834t" region="region_1" xml:id="subtitle775"><span style="style_2">of a strange 12-year-old boy. [chuckles]</span></p>
+<p begin="28973110834t" end="28995216250t" region="region_1" xml:id="subtitle776"><span style="style_2">I want to go into a dispensary</span><br/><span style="style_2">and just be like,</span></p>
+<p begin="28996050416t" end="29030668332t" region="region_1" xml:id="subtitle777"><span style="style_2">"Hey, what's up? Hey, what's up?</span><br/><span style="style_2">What do you have today?"</span></p>
+<p begin="29031502499t" end="29077798749t" region="region_1" xml:id="subtitle778"><span style="style_2">"Well, we have a 2.5-milligram elixir</span><br/><span style="style_2">that is mixed in with Saint-John's-wort,</span></p>
+<p begin="29078632916t" end="29091979582t" region="region_1" xml:id="subtitle779"><span style="style_2">so it lifts your mood a bit."</span></p>
+<p begin="29092813749t" end="29117838749t" region="region_1" xml:id="subtitle780"><span style="style_2">"I think I'll take that. That's nice.</span><br/><span style="style_2">That's one shot?"</span></p>
+<p begin="29118672916t" end="29148702916t" region="region_1" xml:id="subtitle781"><span style="style_2">"Yeah, one shot, one serving.</span><br/><span style="style_2">Very small, not a lot of calories."</span></p>
+<p begin="29149537082t" end="29175813332t" region="region_1" xml:id="subtitle782"><span style="style_2">"So cool. So civilized."</span><br/><span style="style_2">"Yeah, I know. It's so great."</span></p>
+<p begin="29176647500t" end="29201255417t" region="region_1" xml:id="subtitle783"><span style="style_2">"What else do you have?"</span><br/><span style="style_2">"We have some old-school weed.</span></p>
+<p begin="29202089584t" end="29215019167t" region="region_1" xml:id="subtitle784"><span style="style_2">We're going old school.</span></p>
+<p begin="29215853332t" end="29255476249t" region="region_1" xml:id="subtitle785"><span style="style_2">Heirloom weed. Very low THC. It's what</span><br/><span style="style_2">the hippies used to smoke in the '60s.</span></p>
+<p begin="29256310417t" end="29290511250t" region="region_1" xml:id="subtitle786"><span style="style_2">You know how hippies now smoke and go,</span><br/><span style="style_2">'What the fuck is this shit?'</span></p>
+<p begin="29291345416t" end="29311365416t" region="region_1" xml:id="subtitle787"><span style="style_2">Yeah, well, it's not that anymore."</span><br/><span style="style_2">[chuckles]</span></p>
+<p begin="29312199582t" end="29326380416t" region="region_1" xml:id="subtitle788"><span style="style_2">[audience laughs]</span></p>
+<p begin="29327214582t" end="29348902916t" region="region_1" xml:id="subtitle789"><span style="style_2">I just want to go</span><br/><span style="style_2">into a nice tea shop setting.</span></p>
+<p begin="29349737082t" end="29371425416t" region="region_1" xml:id="subtitle790"><span style="style_2">Be like,</span><br/><span style="style_2">"I'd like to get a little bit stoned."</span></p>
+<p begin="29372259582t" end="29403123749t" region="region_1" xml:id="subtitle791"><span style="style_2">They're like, "Of course. We understand.</span><br/><span style="style_2">You're a sensible person."</span></p>
+<p begin="29403957916t" end="29428565832t" region="region_1" xml:id="subtitle792"><span style="style_2">[audience laughing]</span></p>
+<p begin="29438992916t" end="29454007916t" region="region_1" xml:id="subtitle793"><span style="style_2">"Fuck! [chuckles]</span></p>
+<p begin="29465269166t" end="29489459999t" region="region_1" xml:id="subtitle794"><span style="style_2">Can I get some of your Fuck Storm weed?</span></p>
+<p begin="29490294166t" end="29508228749t" region="region_1" xml:id="subtitle795"><span style="style_2">[audience laughing]</span></p>
+<p begin="29509062916t" end="29534087916t" region="region_1" xml:id="subtitle796"><span style="style_2">Enter the Fuck Storm.</span></p>
+<p begin="29540344166t" end="29573710832t" region="region_1" xml:id="subtitle797"><span style="style_2">One hit</span><br/><span style="style_2">and you can't understand anything."</span></p>
+<p begin="29574544999t" end="29587474582t" region="region_1" xml:id="subtitle798"><span style="style_2">[audience laughs]</span></p>
+<p begin="29648785834t" end="29668805834t" region="region_1" xml:id="subtitle799"><span style="style_2">"Anyways..." Um...</span></p>
+<p begin="29672976666t" end="29695082082t" region="region_1" xml:id="subtitle800"><span style="style_2">So, with that, keep that in mind</span></p>
+<p begin="29695916249t" end="29716353332t" region="region_1" xml:id="subtitle801"><span style="style_2">'cause I'm gonna be doing something</span><br/><span style="style_2">right now</span></p>
+<p begin="29717187499t" end="29735539166t" region="region_1" xml:id="subtitle802"><span style="style_2">that has never been tried before.</span></p>
+<p begin="29740961249t" end="29785172082t" region="region_1" xml:id="subtitle803"><span style="style_2">I know at least two of you over there</span><br/><span style="style_2">are wondering, like, why?</span></p>
+<p begin="29786006249t" end="29798518749t" region="region_1" xml:id="subtitle804"><span style="style_2">Why would we even do this?</span></p>
+<p begin="29811448334t" end="29844397917t" region="region_1" xml:id="subtitle805"><span style="style_2">And it's because of that very question</span><br/><span style="style_2">that we are going to do this.</span></p>
+<p begin="29845232082t" end="29868588749t" region="region_1" xml:id="subtitle806"><span style="style_2">So, without further ado,</span><br/><span style="style_2">I'd like to try this.</span></p>
+<p begin="29869422916t" end="29891111249t" region="region_1" xml:id="subtitle807"><span style="style_2">A small song.</span><br/><span style="style_2">I've got a special treat for you.</span></p>
+<p begin="29891945416t" end="29915302082t" region="region_1" xml:id="subtitle808"><span style="style_2">I'm gonna do this small song.</span><br/><span style="style_2">It's very, very tiny.</span></p>
+<p begin="29916136250t" end="29949085834t" region="region_1" xml:id="subtitle809"><span style="style_2">You're not even gonna notice it at all,</span><br/><span style="style_2">so don't worry about it. Um...</span></p>
+<p begin="29949919999t" end="29976613332t" region="region_1" xml:id="subtitle810"><span style="style_2">Sit back, relax. If you've got anybody</span><br/><span style="style_2">that you care about</span></p>
+<p begin="29977447499t" end="30005809166t" region="region_1" xml:id="subtitle811"><span style="style_2">you know, get closer to them,</span><br/><span style="style_2">snuggle up, do a little snuggle.</span></p>
+<p begin="30006643334t" end="30028748750t" region="region_1" xml:id="subtitle812"><span style="style_2">Um... Pretend that you're spooning</span><br/><span style="style_2">in the morning</span></p>
+<p begin="30029582916t" end="30054607916t" region="region_1" xml:id="subtitle813"><span style="style_2">and that you're okay,</span><br/><span style="style_2">and that you're not concerned</span></p>
+<p begin="30055442082t" end="30079215832t" region="region_1" xml:id="subtitle814"><span style="style_2">with the way that they're breathing</span><br/><span style="style_2">and freaking out</span></p>
+<p begin="30080049999t" end="30115502082t" region="region_1" xml:id="subtitle815"><span style="style_2">that you're next to another organism</span><br/><span style="style_2">for some reason and you're really close,</span></p>
+<p begin="30116336250t" end="30133436667t" region="region_1" xml:id="subtitle816"><span style="style_2">and that's normal. Um...</span></p>
+<p begin="30136356249t" end="30176813332t" region="region_1" xml:id="subtitle817"><span style="style_2">So, just do that, and, you know, don't</span><br/><span style="style_2">listen to your partner breathing at night.</span></p>
+<p begin="30177647500t" end="30200587084t" region="region_1" xml:id="subtitle818"><span style="style_2">That'll creep you out. Um...</span><br/><span style="style_2">[clicks tongue]</span></p>
+<p begin="30201421249t" end="30241878332t" region="region_1" xml:id="subtitle819"><span style="style_2">And, yeah, so just sit back, relax,</span><br/><span style="style_2">and enjoy the song.</span></p>
+<p begin="30242712500t" end="30258561667t" region="region_1" xml:id="subtitle820"><span style="style_2">This is a song about apples.</span></p>
+<p begin="30263149582t" end="30272325416t" region="region_1" xml:id="subtitle821"><span style="style_2">[audience laughs]</span></p>
+<p begin="30340727084t" end="30352405417t" region="region_1" xml:id="subtitle822"><span style="style_2">[tapping over speakers]</span></p>
+<p begin="30361164166t" end="30369505832t" region="region_1" xml:id="subtitle823"><span style="style_2">Okay.</span></p>
+<p begin="30372842500t" end="30409962917t" region="region_1" xml:id="subtitle824"><span style="style_2">-[beatboxing]</span><br/><span style="style_2">-[music playing over speakers]</span></p>
+<p begin="30583469582t" end="30600569999t" region="region_1" xml:id="subtitle825"><span style="style_1">♪ I don't even need you ♪</span></p>
+<p begin="30608494582t" end="30623092499t" region="region_1" xml:id="subtitle826"><span style="style_1">♪ I never tried to cry ♪</span></p>
+<p begin="30633519582t" end="30674393749t" region="region_1" xml:id="subtitle827"><span style="style_1">♪ I used to ask so many questions</span><br/><span style="style_1">Like that famous one, 'Why?' ♪</span></p>
+<p begin="30683152499t" end="30721524166t" region="region_1" xml:id="subtitle828"><span style="style_1">♪ Do you know him?</span><br/><span style="style_1">Does he know you? ♪</span></p>
+<p begin="30733202499t" end="30774910832t" region="region_1" xml:id="subtitle829"><span style="style_1">♪ Did you do a little hanky-panky</span><br/><span style="style_1">Off at the San Diego zoo? ♪</span></p>
+<p begin="30780332916t" end="30804523749t" region="region_1" xml:id="subtitle830"><span style="style_1">♪ Did you see the koalas? ♪</span></p>
+<p begin="30805357917t" end="30840810000t" region="region_1" xml:id="subtitle831"><span style="style_1">♪ Did you see the tigers and the bears</span><br/><span style="style_1">The wolves, the ♪</span></p>
+<p begin="30844980832t" end="30862498332t" region="region_1" xml:id="subtitle832"><span style="style_1">♪ The things you shouldn't see ♪</span></p>
+<p begin="30863332499t" end="30895864999t" region="region_1" xml:id="subtitle833"><span style="style_1">♪ Did you hold his hand in a park? ♪</span></p>
+<p begin="30904623749t" end="30924643749t" region="region_1" xml:id="subtitle834"><span style="style_1">♪ Did you go to a movie? ♪</span></p>
+<p begin="30927980416t" end="30973025416t" region="region_1" xml:id="subtitle835"><span style="style_1">♪ How dare you have someone</span><br/><span style="style_1">You cared about before me ♪</span></p>
+<p begin="30977196249t" end="31024326666t" region="region_1" xml:id="subtitle836"><span style="style_1">♪ It's so right for me to get jealous ♪</span></p>
+<p begin="31026412082t" end="31064783749t" region="region_1" xml:id="subtitle837"><span style="style_1">♪ 'Cause I gotta think of you</span><br/><span style="style_1">As a piece of property ♪</span></p>
+<p begin="31065617916t" end="31073959582t" region="region_1" xml:id="subtitle838"><span style="style_2">[chuckles]</span></p>
+<p begin="31074793749t" end="31118587499t" region="region_1" xml:id="subtitle839"><span style="style_1">♪ I've gotta hold on to you</span><br/><span style="style_1">When I say you're my girl ♪</span></p>
+<p begin="31119421666t" end="31163215416t" region="region_1" xml:id="subtitle840"><span style="style_1">♪ It really means that I own you</span><br/><span style="style_1">Inside of my mind ♪</span></p>
+<p begin="31164049582t" end="31174059582t" region="region_1" xml:id="subtitle841"><span style="style_2">[audience laughs]</span></p>
+<p begin="31174893749t" end="31212848332t" region="region_1" xml:id="subtitle842"><span style="style_1">♪ She thinks that's sexy</span><br/><span style="style_1">'Cause she thinks that's cool ♪</span></p>
+<p begin="31224109584t" end="31262898334t" region="region_1" xml:id="subtitle843"><span style="style_1">♪ 'Cause love should be based on</span><br/><span style="style_1">Insecurity, my fools ♪</span></p>
+<p begin="31263732500t" end="31273742500t" region="region_1" xml:id="subtitle844"><span style="style_2">[chuckles]</span></p>
+<p begin="31274576667t" end="31310028750t" region="region_1" xml:id="subtitle845"><span style="style_1">♪ I know it's true</span><br/><span style="style_1">And it feels so good to be ♪</span></p>
+<p begin="31310862916t" end="31363832499t" region="region_1" xml:id="subtitle846"><span style="style_1">♪ Slightly addicted to someone</span><br/><span style="style_1">That you feel you can't learn about ♪</span></p>
+<p begin="31370088749t" end="31404289582t" region="region_1" xml:id="subtitle847"><span style="style_1">♪ But don't worry now</span><br/><span style="style_1">'Cause there's more ♪</span></p>
+<p begin="31405123749t" end="31428480416t" region="region_1" xml:id="subtitle848"><span style="style_1">♪ Kissing and a-smooching</span><br/><span style="style_1">And a-smooching and a-kissing ♪</span></p>
+<p begin="31429314582t" end="31453088332t" region="region_1" xml:id="subtitle849"><span style="style_1">♪ And a-smooching</span><br/><span style="style_1">And maybe just a little bit of fucking ♪</span></p>
+<p begin="31453922499t" end="31471439999t" region="region_1" xml:id="subtitle850"><span style="style_1">♪ And you got to do it right ♪</span></p>
+<p begin="31474359582t" end="31499384582t" region="region_1" xml:id="subtitle851"><span style="style_1">♪ Listen to what they are saying ♪</span></p>
+<p begin="31500218749t" end="31559027499t" region="region_1" xml:id="subtitle852"><span style="style_1">♪ Their body will respond in time, in kind</span><br/><span style="style_1">And you will understand or glean ♪</span></p>
+<p begin="31566952082t" end="31591559999t" region="region_1" xml:id="subtitle853"><span style="style_1">♪ Oh, yes, you'll glean ♪</span></p>
+<p begin="31598233332t" end="31664549582t" region="region_1" xml:id="subtitle854"><span style="style_1">♪ 'Cause gleaning is a thing we can do</span><br/><span style="style_1">If we really open up our listening ♪</span></p>
+<p begin="31665383750t" end="31717936250t" region="region_1" xml:id="subtitle855"><span style="style_1">♪ Oh, yes, I feel how lovers like</span><br/><span style="style_1">To entwine in the moment ♪</span></p>
+<p begin="31719604582t" end="31754639582t" region="region_1" xml:id="subtitle856"><span style="style_1">♪ 'Cause there's always a discrepancy</span><br/><span style="style_1">Between the biological lead ♪</span></p>
+<p begin="31759644582t" end="31779664582t" region="region_1" xml:id="subtitle857"><span style="style_1">♪ To procreate, oh ♪</span></p>
+<p begin="31785086667t" end="31818453334t" region="region_1" xml:id="subtitle858"><span style="style_1">♪ But sometimes it gets confused</span><br/><span style="style_1">With the idea, the construct ♪</span></p>
+<p begin="31819287500t" end="31853905417t" region="region_1" xml:id="subtitle859"><span style="style_1">♪ That society lays</span><br/><span style="style_1">Upon this world, yeah ♪</span></p>
+<p begin="31856407916t" end="31879347499t" region="region_1" xml:id="subtitle860"><span style="style_1">♪ You watch a movie</span><br/><span style="style_1">You think it's like that, yeah ♪</span></p>
+<p begin="31880181666t" end="31904372499t" region="region_1" xml:id="subtitle861"><span style="style_1">♪ You watch a TV show</span><br/><span style="style_1">You think it's like that, yeah ♪</span></p>
+<p begin="31905206666t" end="31925226666t" region="region_1" xml:id="subtitle862"><span style="style_1">♪ You read a book</span><br/><span style="style_1">And you think it's like that ♪</span></p>
+<p begin="31926060832t" end="31950668749t" region="region_1" xml:id="subtitle863"><span style="style_1">♪ But it hasn't been like that</span><br/><span style="style_1">For very long ♪</span></p>
+<p begin="31954839582t" end="31976527916t" region="region_1" xml:id="subtitle864"><span style="style_1">♪ Because society hasn't developed ♪</span></p>
+<p begin="31981532916t" end="32013231249t" region="region_1" xml:id="subtitle865"><span style="style_1">♪ The technology</span><br/><span style="style_1">To place their stories in constructs ♪</span></p>
+<p begin="32014065416t" end="32058276249t" region="region_1" xml:id="subtitle866"><span style="style_1">♪ In the philosophical medium</span><br/><span style="style_1">That's entertaining for us to understand ♪</span></p>
+<p begin="32059110416t" end="32091642916t" region="region_1" xml:id="subtitle867"><span style="style_1">♪ And plus there's so many of us here</span><br/><span style="style_1">On this planet ♪</span></p>
+<p begin="32092477082t" end="32116667916t" region="region_1" xml:id="subtitle868"><span style="style_1">♪ We need a system to organize ourselves ♪</span></p>
+<p begin="32117502084t" end="32153371250t" region="region_1" xml:id="subtitle869"><span style="style_1">♪ In a way that makes us feel</span><br/><span style="style_1">Like we come from a traditional culture ♪</span></p>
+<p begin="32154205416t" end="32196330832t" region="region_1" xml:id="subtitle870"><span style="style_1">♪ It's so cool, but it's scarier</span><br/><span style="style_1">To get your things in order ♪</span></p>
+<p begin="32197164999t" end="32227194999t" region="region_1" xml:id="subtitle871"><span style="style_1">♪ And understand there's no order</span><br/><span style="style_1">We're all improvising ♪</span></p>
+<p begin="32228029167t" end="32246380834t" region="region_1" xml:id="subtitle872"><span style="style_1">♪ And anyway, it makes you happy ♪</span></p>
+<p begin="32247215000t" end="32272240000t" region="region_1" xml:id="subtitle873"><span style="style_1">♪</span><span style="style_2"> </span><span style="style_1">It's truly the way</span><br/><span style="style_1">That you should survive ♪</span></p>
+<p begin="32274742499t" end="32300601666t" region="region_1" xml:id="subtitle874"><span style="style_1">♪ Because otherwise you're living</span><br/><span style="style_1">Under systems ♪</span></p>
+<p begin="32301435832t" end="32318953332t" region="region_1" xml:id="subtitle875"><span style="style_1">♪ That don't match who you are ♪</span></p>
+<p begin="32319787500t" end="32352737084t" region="region_1" xml:id="subtitle876"><span style="style_2">And you'll be fighting that all</span><br/><span style="style_2">of the rest of your life. Anyways...</span></p>
+<p begin="32357742082t" end="32371505832t" region="region_1" xml:id="subtitle877"><span style="style_1">♪ Just be happy ♪</span></p>
+<p begin="32380264582t" end="32405289582t" region="region_1" xml:id="subtitle878"><span style="style_1">♪ Just do everything with love ♪</span></p>
+<p begin="32406123749t" end="32443661249t" region="region_1" xml:id="subtitle879"><span style="style_1">♪ And you'll see everything</span><br/><span style="style_1">Will be-ee a-okay ♪</span></p>
+<p begin="32453671249t" end="32471605832t" region="region_1" xml:id="subtitle880"><span style="style_1">♪ Just do what you need ♪</span></p>
+<p begin="32473691249t" end="32511228749t" region="region_1" xml:id="subtitle881"><span style="style_1">♪ Take that time to do the in between ♪</span></p>
+<p begin="32512062916t" end="32537087916t" region="region_1" xml:id="subtitle882"><span style="style_1">♪ The in, the in, in, in between ♪</span></p>
+<p begin="32537922082t" end="32586720832t" region="region_1" xml:id="subtitle883"><span style="style_2">[scatting]</span></p>
+<p begin="32747297917t" end="32788172084t" region="region_1" xml:id="subtitle884"><span style="style_1">♪ Don't use those things</span><br/><span style="style_1">Against another person ♪</span></p>
+<p begin="32793177082t" end="32836970832t" region="region_1" xml:id="subtitle885"><span style="style_1">♪ Remember every person</span><br/><span style="style_1">Is an opportunity ♪</span></p>
+<p begin="32842392916t" end="32860327499t" region="region_1" xml:id="subtitle886"><span style="style_1">♪ To learn more about yourself ♪</span></p>
+<p begin="32865749584t" end="32905372500t" region="region_1" xml:id="subtitle887"><span style="style_1">♪ 'Cause you are listening</span><br/><span style="style_1">To where they're coming from ♪</span></p>
+<p begin="32906206666t" end="32933317082t" region="region_1" xml:id="subtitle888"><span style="style_1">♪ And they represent</span><br/><span style="style_1">A reflection of yourself ♪</span></p>
+<p begin="32939156250t" end="32982532917t" region="region_1" xml:id="subtitle889"><span style="style_1">♪ As long as you understand</span><br/><span style="style_1">That there's more to this life ♪</span></p>
+<p begin="32984201249t" end="33019236249t" region="region_1" xml:id="subtitle890"><span style="style_1">♪ There's always so much more</span><br/><span style="style_1">To this life ♪</span></p>
+<p begin="33025909584t" end="33069286250t" region="region_1" xml:id="subtitle891"><span style="style_2">[scatting]</span></p>
+<p begin="33070120417t" end="33085135417t" region="region_2" xml:id="subtitle892"><span style="style_1">♪ Uh-huh, yeah ♪</span></p>
+<p begin="33085969584t" end="33105989584t" region="region_2" xml:id="subtitle893"><span style="style_2">[continues scatting]</span></p>
+<p begin="33306606667t" end="33331631667t" region="region_1" xml:id="subtitle894"><span style="style_1">♪ Hey, hey, oh, baby ♪</span></p>
+<p begin="33334968332t" end="33386269582t" region="region_1" xml:id="subtitle895"><span style="style_1">♪ I like the way you smile at me</span><br/><span style="style_1">It makes me feel so good ♪</span></p>
+<p begin="33390857499t" end="33424641249t" region="region_1" xml:id="subtitle896"><span style="style_1">♪ It makes me feel</span><br/><span style="style_1">Like anything's possible, yes ♪</span></p>
+<p begin="33429646249t" end="33465098332t" region="region_1" xml:id="subtitle897"><span style="style_1">♪ As long as I don't lie no more</span><br/><span style="style_1">To myself or to others ♪</span></p>
+<p begin="33465932500t" end="33495545417t" region="region_1" xml:id="subtitle898"><span style="style_1">♪ It feels so much better</span><br/><span style="style_1">'Cause when I was younger, I could lie ♪</span></p>
+<p begin="33496379582t" end="33522238749t" region="region_1" xml:id="subtitle899"><span style="style_1">♪ Let me tell you</span><br/><span style="style_1">I could lie like a motherfucker ♪</span></p>
+<p begin="33528494999t" end="33536836666t" region="region_1" xml:id="subtitle900"><span style="style_1">♪ And that is good ♪</span></p>
+<p begin="33537670832t" end="33558107916t" region="region_1" xml:id="subtitle901"><span style="style_1">♪ Because you gotta experience</span><br/><span style="style_1">The darknesses ♪</span></p>
+<p begin="33558942082t" end="33592725832t" region="region_1" xml:id="subtitle902"><span style="style_1">♪ The darkness is important to understand</span><br/><span style="style_1">Inside yourself ♪</span></p>
+<p begin="33593559999t" end="33611494582t" region="region_1" xml:id="subtitle903"><span style="style_1">♪ It's not always about being good ♪</span></p>
+<p begin="33612328749t" end="33651117499t" region="region_1" xml:id="subtitle904"><span style="style_1">♪ It's understanding why you're being good</span><br/><span style="style_1">In the first place ♪</span></p>
+<p begin="33656956666t" end="33675308332t" region="region_1" xml:id="subtitle905"><span style="style_1">♪ Oh, empathy's a bitch ♪</span></p>
+<p begin="33676142500t" end="33710760417t" region="region_1" xml:id="subtitle906"><span style="style_1">♪ Once you feel it</span><br/><span style="style_1">You can't get rid of that itch ♪</span></p>
+<p begin="33711594584t" end="33725358334t" region="region_1" xml:id="subtitle907"><span style="style_1">♪ It's true ♪</span></p>
+<p begin="33730363332t" end="33770403332t" region="region_1" xml:id="subtitle908"><span style="style_2">[scatting]</span></p>
+<p begin="33773739999t" end="33817116666t" region="region_1" xml:id="subtitle909"><span style="style_1">♪ Just remember to</span><br/><span style="style_1">All, all, all, all, always love yourself ♪</span></p>
+<p begin="33829212082t" end="33871754582t" region="region_1" xml:id="subtitle910"><span style="style_2">Thank you. Thank you so much.</span><br/><span style="style_2">Thank you. Greatly appreciated.</span></p>
+<p begin="33872588749t" end="33889272082t" region="region_1" xml:id="subtitle911"><span style="style_2">[cheering]</span></p>
+<p begin="33912628749t" end="33950583332t" region="region_1" xml:id="subtitle912"><span style="style_2">Okay, so without further ado,</span><br/><span style="style_2">I'd like to just do this, I'd like...</span></p>
+<p begin="33969352082t" end="33988954999t" region="region_1" xml:id="subtitle913"><span style="style_2">[audience laughing]</span></p>
+<p begin="33994377082t" end="34029829166t" region="region_1" xml:id="subtitle914"><span style="style_2">[audience cheering]</span></p>
+<p begin="34062361666t" end="34095728332t" region="region_1" xml:id="subtitle915"><span style="style_2">Okay. So, I'm just gonna make</span><br/><span style="style_2">a costume change here.</span></p>
+<p begin="34096562499t" end="34106155416t" region="region_1" xml:id="subtitle916"><span style="style_2">[audience laughs]</span></p>
+<p begin="34114080000t" end="34132431667t" region="region_1" xml:id="subtitle917"><span style="style_2">And then I'm gonna just take off...</span></p>
+<p begin="34140356249t" end="34172888749t" region="region_1" xml:id="subtitle918"><span style="style_2">[audience cheering and whistling]</span></p>
+<p begin="34178310832t" end="34193742916t" region="region_1" xml:id="subtitle919"><span style="style_2">I'm just gonna take this off.</span></p>
+<p begin="34201250416t" end="34215431249t" region="region_1" xml:id="subtitle920"><span style="style_2">'Cause it's so tight.</span></p>
+<p begin="34220436249t" end="34245461249t" region="region_1" xml:id="subtitle921"><span style="style_2">[laughing]</span></p>
+<p begin="34250883332t" end="34288837916t" region="region_1" xml:id="subtitle922"><span style="style_2">See this right here swinging down?</span><br/><span style="style_2">That's my dick.</span></p>
+<p begin="34289672082t" end="34313028749t" region="region_1" xml:id="subtitle923"><span style="style_2">[audience laughing]</span></p>
+<p begin="34323038749t" end="34343058749t" region="region_1" xml:id="subtitle924"><span style="style_2">It's just swinging around.</span></p>
+<p begin="34358907916t" end="34377259582t" region="region_1" xml:id="subtitle925"><span style="style_2">[audience laughs]</span></p>
+<p begin="34381013332t" end="34406038332t" region="region_1" xml:id="subtitle926"><span style="style_2">I got a real thin dick.</span></p>
+<p begin="34406872500t" end="34430229166t" region="region_1" xml:id="subtitle927"><span style="style_2">[laughing]</span></p>
+<p begin="34446495416t" end="34477359582t" region="region_1" xml:id="subtitle928"><span style="style_2">Let me take these off</span><br/><span style="style_2">'cause they're just a little too tight.</span></p>
+<p begin="34510726250t" end="34526992500t" region="region_1" xml:id="subtitle929"><span style="style_2">[audience laughing]</span></p>
+<p begin="34527826667t" end="34554937084t" region="region_1" xml:id="subtitle930"><span style="style_2">I'm just gonna slide these off</span><br/><span style="style_2">'cause they're just--</span></p>
+<p begin="34558273750t" end="34574957082t" region="region_1" xml:id="subtitle931"><span style="style_2">Just a little bit too tight.</span></p>
+<p begin="34603735832t" end="34625841250t" region="region_1" xml:id="subtitle932"><span style="style_2">Okay. Then I'm gonna take this off.</span></p>
+<p begin="34630846250t" end="34663795832t" region="region_1" xml:id="subtitle933"><span style="style_2">And I'm gonna take it off</span><br/><span style="style_2">like a teenager from the '70s.</span></p>
+<p begin="34664630000t" end="34677559582t" region="region_1" xml:id="subtitle934"><span style="style_2">[audience laughs]</span></p>
+<p begin="34685484166t" end="34701750416t" region="region_1" xml:id="subtitle935"><span style="style_2">[audience laughing and cheering]</span></p>
+<p begin="34728026666t" end="34745961250t" region="region_1" xml:id="subtitle936"><span style="style_2">[audience cheering and laughing]</span></p>
+<p begin="34783081666t" end="34808940832t" region="region_1" xml:id="subtitle937"><span style="style_2">[cheering and whistling]</span></p>
+<p begin="34877342500t" end="34889020832t" region="region_1" xml:id="subtitle938"><span style="style_2">I'll be out shortly.</span></p>
+<p begin="34896111250t" end="34914462916t" region="region_1" xml:id="subtitle939"><span style="style_2">[whistling and cheering]</span></p>
+<p begin="34935317084t" end="34968683750t" region="region_1" xml:id="subtitle940"><span style="style_2">[audience cheering]</span></p>
+<p begin="35015814166t" end="35025407082t" region="region_1" xml:id="subtitle941"><span style="style_2">[whistling]</span></p>
+<p begin="35077125416t" end="35102984582t" region="region_1" xml:id="subtitle942"><span style="style_2">Thank you so much.</span><br/><span style="style_2">It's been an absolute wonderful show.</span></p>
+<p begin="35103818750t" end="35124255832t" region="region_1" xml:id="subtitle943"><span style="style_2">I hope you guys have enjoyed the show</span><br/><span style="style_2">so far.</span></p>
+<p begin="35125090000t" end="35154702916t" region="region_1" xml:id="subtitle944"><span style="style_2">[cheering and whistling]</span></p>
+<p begin="35155537082t" end="35180562082t" region="region_1" xml:id="subtitle945"><span style="style_2">But, of course, a funky, groovy night</span><br/><span style="style_2">like tonight,</span></p>
+<p begin="35181396250t" end="35213928750t" region="region_1" xml:id="subtitle946"><span style="style_2">a spatial kind of a night,</span><br/><span style="style_2">would not be possible</span></p>
+<p begin="35215597082t" end="35240622082t" region="region_1" xml:id="subtitle947"><span style="style_2">without the help</span><br/><span style="style_2">of some grooves and rhythms</span></p>
+<p begin="35241456250t" end="35263978750t" region="region_1" xml:id="subtitle948"><span style="style_2">from some really funky,</span><br/><span style="style_2">soulful individuals.</span></p>
+<p begin="35264812916t" end="35291506250t" region="region_1" xml:id="subtitle949"><span style="style_2">In fact, one individual</span><br/><span style="style_2">that's here tonight</span></p>
+<p begin="35292340416t" end="35335300000t" region="region_1" xml:id="subtitle950"><span style="style_2">climbing up the charts with their new hit,</span><br/><span style="style_2">at number nine currently.</span></p>
+<p begin="35337385416t" end="35348646666t" region="region_1" xml:id="subtitle951"><span style="style_2">[audience laughs]</span></p>
+<p begin="35349480832t" end="35394108750t" region="region_1" xml:id="subtitle952"><span style="style_2">Ladies and gentleman,</span><br/><span style="style_2">won't you please welcome my friend,</span></p>
+<p begin="35399113750t" end="35421636250t" region="region_1" xml:id="subtitle953"><span style="style_2">DJ Empress.</span></p>
+<p begin="35429977916t" end="35453751666t" region="region_1" xml:id="subtitle954"><span style="style_2">[music playing over speaker]</span></p>
+<p begin="35587635416t" end="35619750832t" region="region_1" xml:id="subtitle955"><span style="style_2">-Everybody say, "Hell, yeah!"</span><br/><span style="style_2">-[audience] Hell, yeah!</span></p>
+<p begin="35620585000t" end="35651449167t" region="region_1" xml:id="subtitle956"><span style="style_2">-Say, "Hell, yeah!"</span><br/><span style="style_2">-Hell, yeah!</span></p>
+<p begin="35652283332t" end="35665212916t" region="region_1" xml:id="subtitle957"><span style="style_2">Say, "Hold the fucking jam!"</span></p>
+<p begin="35666047084t" end="35682313334t" region="region_1" xml:id="subtitle958"><span style="style_2">-Hold the fucking jam!</span><br/><span style="style_2">-What?</span></p>
+<p begin="35683147500t" end="35697328332t" region="region_1" xml:id="subtitle959"><span style="style_2">Ha! Ha! Ha!</span></p>
+<p begin="35739870832t" end="35772403332t" region="region_1" xml:id="subtitle960"><span style="style_2">[scatting]</span></p>
+<p begin="35951749167t" end="35963427500t" region="region_1" xml:id="subtitle961"><span style="style_2">Come on.</span></p>
+<p begin="35991789167t" end="36020985000t" region="region_1" xml:id="subtitle962"><span style="style_2">[Reggie] There's only gonna be</span><br/><span style="style_2">three more hours. Three more hours.</span></p>
+<p begin="36021819167t" end="36041839167t" region="region_2" xml:id="subtitle963"><span style="style_2">[audience cheering and laughing]</span></p>
+<p begin="36051015000t" end="36072286250t" region="region_1" xml:id="subtitle964"><span style="style_2">Let's get those calories burned.</span></p>
+<p begin="36200747917t" end="36209089584t" region="region_1" xml:id="subtitle965"><span style="style_2">[Reggie shouts]</span></p>
+<p begin="36217014167t" end="36249546667t" region="region_1" xml:id="subtitle966"><span style="style_2">Yo, thanks a lot</span><br/><span style="style_2">for coming out to </span><span style="style_1">Spatial</span><span style="style_2">, motherfuckers!</span></p>
+<p begin="36250380834t" end="36268315417t" region="region_1" xml:id="subtitle967"><span style="style_2">[audience cheering]</span></p>
+<p begin="36281245000t" end="36292923332t" region="region_1" xml:id="subtitle968"><span style="style_2">[Reggie yells]</span></p>
+<p begin="36322536250t" end="36343390417t" region="region_1" xml:id="subtitle969"><span style="style_2">[indistinct yelling]</span></p>
+<p begin="36444324584t" end="36502716250t" region="region_1" xml:id="subtitle970"><span style="style_2">[indistinct yelling]</span></p>
+</div>
+</body>
+</tt>

@@ -1,4 +1,4 @@
-#Run this script first
+#Run this script after the netflix fixes
 
 library(tidyverse)
 library(readr)
@@ -11,7 +11,9 @@ read_transcript <- function(file, comedian, title){
   
   df <- df %>% unnest_tokens(word, X1) %>% filter(word != 'laughter')%>% filter(word != "audience") %>% 
     filter(word != 'applause') %>% filter(word != 'music') %>% filter(word != "ll") %>% 
-    filter(word != "nt") %>% filter(word != "ve") %>% filter(word != "laughs") %>%  anti_join(stop_words) %>% 
+    filter(word != "nt") %>% filter(word != "ve") %>% filter(word != "laughs") %>% 
+    filter(word != "tor") %>% 
+    anti_join(stop_words) %>% 
     count(word, sort = TRUE) %>% mutate(comedian = comedian, title = title) %>%
     mutate(RF = n / sum(n))
   
@@ -41,7 +43,8 @@ AA_Buried <- read_transcript("youtube//aziz ansari buried alive.txt",
                         "Aziz Ansari", "Buried Alive")
 AA_Intimate <- read_transcript("scraps//aziz ansari intimate moments.txt",
                                "Aziz Ansari", "Intimate Moments for a Sensual Evening")
-Aziz_Ansari <- rbind(AA_Buried, AA_Delicious, AA_Intimate) %>% group_by(word) %>%
+AA_MSG <- read_transcript("netflix//aziz msg fixed.txt", "Aziz Ansari", "Live at MSG")
+Aziz_Ansari <- rbind(AA_Buried, AA_Delicious, AA_Intimate, AA_MSG) %>% group_by(word) %>%
   summarize(n = sum(n), name = max(comedian)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Bill Burr
@@ -51,7 +54,9 @@ Burr_Why <- read_transcript("youtube//bill burr why do i do this.txt",
                        "Bill Burr", "Why Do I Do This")
 Burr_Let <- read_transcript("scraps//bill burr let it go.txt", "Bill Burr", "Let It Go")
 Burr_Walk <- read_transcript("scraps//bill burr walk.txt", "Bill Burr", "Walk Your Way Out")
-Bill_Burr <- rbind(Burr_Why, Burr_You, Burr_Let, Burr_Walk) %>% group_by(word) %>%
+Burr_Sorry <- read_transcript("netflix//burr sorry fixed.txt", "Bill Burr", 
+                              "I'm Sorry You Feel That Way")
+Bill_Burr <- rbind(Burr_Why, Burr_You, Burr_Let, Burr_Walk, Burr_Sorry) %>% group_by(word) %>%
   summarize(n = sum(n), name = max(comedian)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Bill Engvall
@@ -63,7 +68,8 @@ Bill_Engvall <- rbind(BE_Sign)%>% group_by(word) %>%
 #Bill Hicks
 BH_Rev <- read_transcript("scraps//bill hicks revelations.txt", "Bill Hicks", "Revelations")
 BH_Relentless <- read_transcript("scraps//bill hicks relentless.txt", "Bill Hicks", "Relentless")
-Bill_Hicks <- rbind(BH_Relentless, BH_Rev) %>% group_by(word) %>%
+BH_Sane <- read_transcript("netflix//bh sane fixed.txt", "Bill Hicks", "Sane Man")
+Bill_Hicks <- rbind(BH_Relentless, BH_Rev, BH_Sane) %>% group_by(word) %>%
   summarize(n = sum(n), name = max(comedian)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Bo Burnham
@@ -77,7 +83,8 @@ BP_Crim <- read_transcript("youtube//brian posehn criminally posehn.txt",
                            "Brian Posehn", "Criminally Posehn")
 BP_JFL <- read_transcript("youtube//brian posehn just for laughs.txt", 
                           "Brian Posehn", "Just for Laughs")
-Brian_Posehn <- rbind(BP_JFL, BP_Crim) %>% group_by(word) %>%
+BP_Fart <- read_transcript("netflix//posehn fartist fixed.txt", "Brian Posehn", "Fartist")
+Brian_Posehn <- rbind(BP_JFL, BP_Crim, BP_Fart) %>% group_by(word) %>%
   summarize(n = sum(n), name = max(comedian)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Chris Rock
@@ -159,9 +166,10 @@ George_Carlin <- rbind(GC_Again, GC_Life, GC_USC, GC_Bad, GC_Diseased, GC_Back, 
 #Hannibal Burress
 HB_Animal <- read_transcript("youtube//hannibal burress animal furnace.txt", 
                             "Hannibal Burress", "Animal Furnace")
-# HB_Comedy <- read_transcript("scraps//hannibal burress cc.txt",
-#                              "Hannibal Burress, Comedy Camisado")
-Hannibal_Burress <- rbind(HB_Animal) %>% group_by(word) %>% 
+HB_Comedy <- read_transcript("netflix//hb cc.txt", "Hannibal Burress", "Comedy Camisado")
+HB_Chi <- read_transcript("netflix//hb chicago.txt", "Hannibal Burress", "Live in Chicago")
+HB_Edin <- read_transcript("netflix//hb edinburgh.txt", "Hannibal Burress", "Hannibal takes Edinburgh")
+Hannibal_Burress <- rbind(HB_Animal, HB_Comedy, HB_Chi, HB_Edin) %>% group_by(word) %>% 
   summarize(n = sum(n), name = max(comedian)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Iliza Schlesinger
@@ -169,7 +177,8 @@ IS_Hot <- read_transcript("youtube//iliza schlesinger freezing hot.txt",
                           "Iliza Shlesinger", "Freezing Hot")
 IS_Kills <- read_transcript("youtube//iliza schlesinger confirmed kills.txt",
                        "Iliza Shlesinger", "Confirmed Kills")
-Iliza_Sch <- rbind(IS_Hot, IS_Kills) %>% group_by(word) %>%
+IS_WP <- read_transcript("netflix//iliza war paint fixed.txt", "Iliza Shlesinger", "War Paint")
+Iliza_Sch <- rbind(IS_Hot, IS_Kills, IS_WP) %>% group_by(word) %>%
   summarize(n = sum(n), name = max(comedian)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Jeff Foxworthy
@@ -185,14 +194,17 @@ Jeff_Foxworthy <- rbind(JF_Georgia, JF_Totally, JF_Thinking) %>% group_by(word) 
 #Jerry Seinfeld
 JS_Telling <- read_transcript("youtube//jerry seinfeld telling you.txt", 
                          "Jerry Seinfeld", "I'm Telling You For The Last Time")
-JS_Gotham <- read_transcript("youtube//seinfeld gotham.txt", "Jerry Seinfeld", "Gotham Comedy Club")
-Jerry_Seinfeld <- rbind(JS_Telling, JS_Gotham)%>% group_by(word) %>%
+JS_Before <- read_transcript("netflix//jerry fixed.txt", "Jerry Seinfeld", "Jerry Before Seinfeld")
+Jerry_Seinfeld <- rbind(JS_Telling, JS_Before)%>% group_by(word) %>%
   summarize(n = sum(n), name = max(comedian)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Jim Gaffigan
-JG_Universe <- read_transcript("youtube//jim gaffigan mr universe.txt", "Jim Gaffigan", "Mr Universe")
-JG_Cinco <- read_transcript("scraps//jim gaffigan cinco.txt", "Jim Gaffigan", "Cinco")
-Jim_Gaffigan <- rbind(JG_Cinco, JG_Universe)%>% group_by(word) %>%
+JG_Universe <- read_transcript("netflix//gaffigan universe fixed.txt", "Jim Gaffigan", "Mr Universe")
+JG_Cinco <- read_transcript("netflix//cinco fixed.txt", "Jim Gaffigan", "Cinco")
+JG_Pale <- read_transcript("netflix//gaffigan beyond the pale.txt", "Jim Gaffigan", "Beyond the Pale")
+JG_Baby <- read_transcript("netflix//gaffigan king baby fixed.txt", "Jim Gaffigan", "King Baby")
+JG_Obs <- read_transcript("netflix//gaffigan obsessed fixed.txt", "Jim Gaffigan", "Obsessed")
+Jim_Gaffigan <- rbind(JG_Cinco, JG_Universe, JG_Pale, JG_Baby, JG_Obs)%>% group_by(word) %>%
   summarize(n = sum(n), name = max(comedian)) %>% arrange(desc(n)) %>% mutate(rf = n / sum(n))
 
 #Jim Jefferies

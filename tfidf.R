@@ -12,7 +12,7 @@ distinctiveness <- idf %>% group_by(name) %>% summarize(mean = mean(tf_idf),
 
 individuality <- idf %>% group_by(name) %>% filter(word != "heh" & word != "ha" & 
                   word != "don" & word != "ve" & word != "ain" & word != "merrily" &
-                    word != "hannibal" & word != "chappelle" & word != "ll" & word != "tm" &
+                    word != "ll" & word != "tm" &
                   word != "masseuse" & word != "chuckles") %>%
   filter(tf_idf == max(tf_idf)) %>% select(name, word, n, tf_idf)
 # 

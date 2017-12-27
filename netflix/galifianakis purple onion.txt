@@ -1,0 +1,1183 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/2006/10/ttaf1" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" xmlns:tts="http://www.w3.org/2006/10/ttaf1#styling" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="en" xmlns="http://www.w3.org/2006/10/ttaf1">
+<head use="dfxp-ls-sdh">
+<ttp:profile xmlns:ttp="http://www.w3.org/2006/10/ttaf1"/>
+<styling>
+<style tts:fontStyle="italic" xml:id="style1"/>
+</styling>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="170003000t" end="190003000t" xml:id="subtitle0">(playing gentle tune)</p>
+<p begin="220006000t" end="260004660t" xml:id="subtitle1">My name is, uh,<br/>Zach Galifianakis, and, um...</p>
+<p begin="260005330t" end="280008330t" xml:id="subtitle2">I hope I'm<br/>pronouncing that right.</p>
+<p begin="280009000t" end="310004000t" xml:id="subtitle3">(laughter)</p>
+<p begin="310004660t" end="330007000t" xml:id="subtitle4">I'm named after my granddad--<br/>my middle name.</p>
+<p begin="330007660t" end="370002660t" xml:id="subtitle5">My name... name<br/>is Zach Granddad Galifianakis.</p>
+<p begin="370003330t" end="390003330t" xml:id="subtitle6">(laughter)</p>
+<p begin="440003330t" end="450005659t" xml:id="subtitle7">Growing up, my dad was like,</p>
+<p begin="450006330t" end="470000330t" xml:id="subtitle8">"Zach, you have<br/>a great last name.</p>
+<p begin="470001000t" end="490005000t" xml:id="subtitle9">"Galifianakis, Galifianakis...</p>
+<p begin="490005659t" end="510009000t" xml:id="subtitle10">"Begins with a gal...</p>
+<p begin="510009660t" end="540006000t" xml:id="subtitle11">and ends with a kiss."</p>
+<p begin="550007660t" end="570000330t" xml:id="subtitle12">I'm like, "That's great, Dad.</p>
+<p begin="570001000t" end="600003000t" xml:id="subtitle13">Can we get it changed<br/>to Galifianafuck, please?"</p>
+<p begin="610006000t" end="630006000t" xml:id="subtitle14">♪ ♪</p>
+<p begin="640009660t" end="660005659t" xml:id="subtitle15">ZACH:<br/>I think of the... I thought of</p>
+<p begin="660006330t" end="680006330t" xml:id="subtitle16">the worst character yesterday,<br/>and I'm going to try it,</p>
+<p begin="680007000t" end="700002660t" xml:id="subtitle17">but I don't know if it'll work.</p>
+<p begin="700003330t" end="740004000t" xml:id="subtitle18">It's the guy that moves<br/>to America from India,</p>
+<p begin="740004660t" end="780001000t" xml:id="subtitle19">and he gets his nines<br/>and his sevens</p>
+<p begin="780001660t" end="790009000t" xml:id="subtitle20">mix up... mixed up.</p>
+<p begin="790009660t" end="830003330t" xml:id="subtitle21">"I want to open up<br/>my own 9-Eleven."</p>
+<p begin="830004000t" end="850004000t" xml:id="subtitle22">(both laughing)</p>
+<p begin="870009000t" end="890004330t" xml:id="subtitle23">It's 7-Eleven!</p>
+<p begin="890005000t" end="920000000t" xml:id="subtitle24">Oh, God.</p>
+<p begin="1070008330t" end="1090008330t" xml:id="subtitle25">♪ ♪</p>
+<p begin="1340008000t" end="1360008330t" xml:id="subtitle26">Hey, uh, Zach?</p>
+<p begin="1360009000t" end="1380003660t" xml:id="subtitle27">(laughter)</p>
+<p begin="1380004330t" end="1400001660t" xml:id="subtitle28">Apparently,<br/>they just intro'ed you.</p>
+<p begin="1400002330t" end="1420003000t" xml:id="subtitle29">Oh, shit!</p>
+<p begin="1480008330t" end="1510001330t" xml:id="subtitle30">EMCEE:<span style="style1"> All right, let's hear</span><br/><span style="style1">a little noise right now.</span></p>
+<p begin="1510002000t" end="1530000660t" xml:id="subtitle31"><span style="style1">Going to bring up</span><br/><span style="style1">your headliner.</span></p>
+<p begin="1530001330t" end="1550001330t" xml:id="subtitle32">(applause)</p>
+<p begin="1590000660t" end="1610006660t" xml:id="subtitle33">Ladies and gentlemen...</p>
+<p begin="1610007330t" end="1640004660t" xml:id="subtitle34">Zach Galifianakis.</p>
+<p begin="1640005330t" end="1660005330t" xml:id="subtitle35">(cheering and applause)</p>
+<p begin="1710005659t" end="1730003330t" xml:id="subtitle36">Thank you.</p>
+<p begin="1750002000t" end="1780002660t" xml:id="subtitle37">Wow. This is a...<br/>this is a dream for you.</p>
+<p begin="1780003330t" end="1800004000t" xml:id="subtitle38">(laughter)</p>
+<p begin="1860006000t" end="1900006660t" xml:id="subtitle39">It's nice to be on the outskirts<br/>of Chinese Town, and, uh...</p>
+<p begin="1900007330t" end="1930006330t" xml:id="subtitle40">Yeah, they changed it<br/>to Chinese Town.</p>
+<p begin="1930007000t" end="1950008660t" xml:id="subtitle41">(laughter)</p>
+<p begin="1950009330t" end="1970007330t" xml:id="subtitle42">I'm going to start<br/>a little slow tonight.</p>
+<p begin="1970008000t" end="2000007330t" xml:id="subtitle43">I drank so fucking much<br/>last night.</p>
+<p begin="2000008000t" end="2030002330t" xml:id="subtitle44">Oh, God, I-I just got<br/>to calm...</p>
+<p begin="2030003000t" end="2060009000t" xml:id="subtitle45">My... my liver wrote<br/>his congressman</p>
+<p begin="2060009660t" end="2090007000t" xml:id="subtitle46">and complained.</p>
+<p begin="2090007660t" end="2120005330t" xml:id="subtitle47">And it's... (sighs)</p>
+<p begin="2120006000t" end="2140009000t" xml:id="subtitle48">It's going to be all right,<br/>though.</p>
+<p begin="2140009660t" end="2170003330t" xml:id="subtitle49">It's going to be really nice.</p>
+<p begin="2220007330t" end="2240003000t" xml:id="subtitle50">When you look like I do,</p>
+<p begin="2240003660t" end="2270007000t" xml:id="subtitle51">it's hard to get a table for one<br/>at Chuck E. Cheese.</p>
+<p begin="2380002660t" end="2400003000t" xml:id="subtitle52">(laughter)</p>
+<p begin="2450004000t" end="2470008660t" xml:id="subtitle53">I went to my stylist, uh,<br/>tonight before the show,</p>
+<p begin="2470009330t" end="2500000000t" xml:id="subtitle54">and she was, uh, like, uh,</p>
+<p begin="2500000660t" end="2510009000t" xml:id="subtitle55">"Zach, what kind of look<br/>are you going for?"</p>
+<p begin="2510009660t" end="2540006330t" xml:id="subtitle56">I said, "Just give me<br/>the AMBER Alert."</p>
+<p begin="2540007000t" end="2560000660t" xml:id="subtitle57">(laughter)</p>
+<p begin="2600002660t" end="2640006330t" xml:id="subtitle58">"Something along those lines,"<br/>I think is what she said.</p>
+<p begin="2670001660t" end="2690006660t" xml:id="subtitle59">I was at the, uh,<br/>Natalie Merchant laser show</p>
+<p begin="2690007330t" end="2720005330t" xml:id="subtitle60">the other day, and, um...</p>
+<p begin="2720006000t" end="2770000660t" xml:id="subtitle61">when I wrote this next<br/>piece of business.</p>
+<p begin="2780003000t" end="2790005000t" xml:id="subtitle62">Oh, God.</p>
+<p begin="2790005659t" end="2810003660t" xml:id="subtitle63">Last night, I...<br/>all right, I'm going to get...</p>
+<p begin="2810004330t" end="2830001660t" xml:id="subtitle64">I... I got so dr...</p>
+<p begin="2830002330t" end="2850007000t" xml:id="subtitle65">I... I African-Americaned out.</p>
+<p begin="2850007660t" end="2880002330t" xml:id="subtitle66">And, um...</p>
+<p begin="2880003000t" end="2910007000t" xml:id="subtitle67">(laughter)</p>
+<p begin="2910007660t" end="2930007660t" xml:id="subtitle68">♪ ♪</p>
+<p begin="2980008660t" end="3010009330t" xml:id="subtitle69">♪ ♪</p>
+<p begin="3080001330t" end="3100004000t" xml:id="subtitle70">BRIAN UNGER:<br/><span style="style1">Perhaps to really get to know</span></p>
+<p begin="3100004660t" end="3120001000t" xml:id="subtitle71">actor and comedian<br/>Zach Galifianakis</p>
+<p begin="3120001660t" end="3140004000t" xml:id="subtitle72">you have to go<br/>where it all started,</p>
+<p begin="3140004660t" end="3160006330t" xml:id="subtitle73">his birthplace,<br/>the place he grew up,</p>
+<p begin="3160007000t" end="3190005330t" xml:id="subtitle74">and talk to the person<br/>who knows him best, perhaps,</p>
+<p begin="3190006000t" end="3200008660t" xml:id="subtitle75">his twin brother--</p>
+<p begin="3200009330t" end="3230007660t" xml:id="subtitle76">identical twin brother--<br/>Seth Galifianakis.</p>
+<p begin="3230008330t" end="3260009000t" xml:id="subtitle77">This is where it all began<br/>for you and your brother.</p>
+<p begin="3260009660t" end="3280005659t" xml:id="subtitle78">-That's right.<br/>-On this street.</p>
+<p begin="3280006330t" end="3300008000t" xml:id="subtitle79">-Everfair?<br/>-Everfair Terrace.</p>
+<p begin="3300008660t" end="3330000330t" xml:id="subtitle80">-1621 Everfair Serrace...<br/>-Uh-huh.</p>
+<p begin="3330001000t" end="3350007000t" xml:id="subtitle81">(clearing throat)<br/>Terrace. Nervous.</p>
+<p begin="3350007660t" end="3380003660t" xml:id="subtitle82">But, uh, yeah, this is,<br/>uh, this is it.</p>
+<p begin="3380004330t" end="3400004000t" xml:id="subtitle83">-This is where it<br/>started, and... -Mm-hmm.</p>
+<p begin="3400004660t" end="3420004000t" xml:id="subtitle84">this is probably<br/>where it'll end...</p>
+<p begin="3420004660t" end="3440007000t" xml:id="subtitle85">for me.</p>
+<p begin="3440007660t" end="3460008000t" xml:id="subtitle86">My grandma treats me<br/>like a rock star.</p>
+<p begin="3460008660t" end="3500005000t" xml:id="subtitle87">I guess that's why she<br/>lets me sign her tits.</p>
+<p begin="3500005659t" end="3530006000t" xml:id="subtitle88">-♪ ♪<br/>-(laughter)</p>
+<p begin="3530006660t" end="3550006330t" xml:id="subtitle89">It takes forever.</p>
+<p begin="3550007000t" end="3570007000t" xml:id="subtitle90">(laughter)</p>
+<p begin="3590003330t" end="3610004000t" xml:id="subtitle91">(chuckles)</p>
+<p begin="3650001660t" end="3670002330t" xml:id="subtitle92">Because I use a pencil.</p>
+<p begin="3670003000t" end="3690003000t" xml:id="subtitle93">(laughter)</p>
+<p begin="3730009330t" end="3760003660t" xml:id="subtitle94">♪ ♪</p>
+<p begin="3760004330t" end="3780008330t" xml:id="subtitle95">Never meet anyone in public<br/>and then, uh...</p>
+<p begin="3780009000t" end="3810004000t" xml:id="subtitle96">Never meet anyone on the<br/>Internet, I should say, and...</p>
+<p begin="3810004660t" end="3820007000t" xml:id="subtitle97">Let me take that again.</p>
+<p begin="3820007660t" end="3850008000t" xml:id="subtitle98">(laughter)</p>
+<p begin="3850008660t" end="3870001330t" xml:id="subtitle99">Five, four...</p>
+<p begin="3870002000t" end="3880005330t" xml:id="subtitle100">(laughter)</p>
+<p begin="3880006000t" end="3900002000t" xml:id="subtitle101">...three...</p>
+<p begin="3900002660t" end="3910009330t" xml:id="subtitle102">two...</p>
+<p begin="3930000660t" end="3940007000t" xml:id="subtitle103">Action.</p>
+<p begin="3940007660t" end="3980002330t" xml:id="subtitle104">Tell me a little bit<br/>about yourself, Seth.</p>
+<p begin="3980003000t" end="4000004330t" xml:id="subtitle105">Tell me about<br/>the town you live in,</p>
+<p begin="4000005000t" end="4030003000t" xml:id="subtitle106">your family here, what<br/>you do for a living. What...</p>
+<p begin="4050007330t" end="4070001000t" xml:id="subtitle107">Are you rolling?</p>
+<p begin="4070001660t" end="4080005659t" xml:id="subtitle108">Is that how you s... "action"?</p>
+<p begin="4080006330t" end="4100000660t" xml:id="subtitle109">-You don't...<br/>-Do you say "action"?</p>
+<p begin="4100001330t" end="4120004660t" xml:id="subtitle110">You know what,<br/>we're having a conversation,</p>
+<p begin="4120005330t" end="4140005330t" xml:id="subtitle111">and ignore the cameras.</p>
+<p begin="4140006000t" end="4150008000t" xml:id="subtitle112">I know it's hard to,</p>
+<p begin="4150008660t" end="4170005659t" xml:id="subtitle113">because there's one<br/>right over my shoulder,</p>
+<p begin="4170006330t" end="4180006000t" xml:id="subtitle114">and I'm looking at one...</p>
+<p begin="4180006660t" end="4200001330t" xml:id="subtitle115">here...</p>
+<p begin="4200002000t" end="4230002000t" xml:id="subtitle116">and then the lights<br/>seem very unnatural,</p>
+<p begin="4230002660t" end="4240008000t" xml:id="subtitle117">and they get a little warm.</p>
+<p begin="4240008660t" end="4270001330t" xml:id="subtitle118">But just try to shut<br/>all of that out,</p>
+<p begin="4270002000t" end="4280007330t" xml:id="subtitle119">and it's just us<br/>having a conversation</p>
+<p begin="4280008000t" end="4300005659t" xml:id="subtitle120">like we did a half an hour ago</p>
+<p begin="4300006330t" end="4320003660t" xml:id="subtitle121">-when we met.<br/>-Can you just...</p>
+<p begin="4320004330t" end="4340000330t" xml:id="subtitle122">well, do you mind<br/>saying "action"</p>
+<p begin="4340001000t" end="4360004000t" xml:id="subtitle123">just before you start,<br/>just to...</p>
+<p begin="4360004660t" end="4400003330t" xml:id="subtitle124">'Cause I've always<br/>wanted to be, uh...</p>
+<p begin="4400004000t" end="4440001660t" xml:id="subtitle125">Like, on the George Lopez show,<br/>I saw the behind-the-scenes</p>
+<p begin="4440002330t" end="4480000660t" xml:id="subtitle126">of George Lopez, and it was<br/>on<span style="style1"> Entertainment Tonight,</span></p>
+<p begin="4480001330t" end="4500009000t" xml:id="subtitle127">and... before<br/>he started talking,</p>
+<p begin="4500009660t" end="4520003330t" xml:id="subtitle128">somebody was, like...</p>
+<p begin="4520004000t" end="4530008000t" xml:id="subtitle129">(exhales):<br/>"Action."</p>
+<p begin="4530008660t" end="4560003330t" xml:id="subtitle130">So if you'd... I mean,<br/>I'm not... I'm not...</p>
+<p begin="4560004000t" end="4580004330t" xml:id="subtitle131">I'm no George... Lopez<br/>or anything like that,</p>
+<p begin="4580005000t" end="4610000000t" xml:id="subtitle132">-but I-I... If you'd just do it,<br/>-Right. You're right.</p>
+<p begin="4610000660t" end="4630009000t" xml:id="subtitle133">-I think it might kick it in<br/>a little bit better. -Okay.</p>
+<p begin="4630009660t" end="4660002000t" xml:id="subtitle134">Action's usually reserved<br/>for film shoots,</p>
+<p begin="4660002660t" end="4690004330t" xml:id="subtitle135">when they do film, because it<br/>actually syncs up the sound</p>
+<p begin="4690005000t" end="4710009660t" xml:id="subtitle136">and the film, and we're<br/>shooting video today,</p>
+<p begin="4720000330t" end="4730006330t" xml:id="subtitle137">so we don't really<br/>need to do that.</p>
+<p begin="4730007000t" end="4750003000t" xml:id="subtitle138">But if you insist,<br/>we could do that.</p>
+<p begin="4750003660t" end="4770003330t" xml:id="subtitle139">Yeah, it's just one word,<br/>if you don't mind.</p>
+<p begin="4770004000t" end="4790004000t" xml:id="subtitle140">-(chuckles) Okay.<br/>-Are you still on the NRA?</p>
+<p begin="4790004660t" end="4810009330t" xml:id="subtitle141">NPR... Was it NRA?</p>
+<p begin="4820000000t" end="4830005330t" xml:id="subtitle142">It's National Public Radio.</p>
+<p begin="4830006000t" end="4860004000t" xml:id="subtitle143">Are you familiar...<br/>Do you get it down...</p>
+<p begin="4860004660t" end="4880009000t" xml:id="subtitle144">They-they play it out<br/>in the, like, college towns</p>
+<p begin="4880009660t" end="4910008000t" xml:id="subtitle145">in North Carolina,<br/>NPR and stuff, and I...</p>
+<p begin="4910008660t" end="4930009660t" xml:id="subtitle146">I mean, it's...</p>
+<p begin="4940000330t" end="4970001660t" xml:id="subtitle147">to me it's a bunch of junk.</p>
+<p begin="4980009660t" end="5010006000t" xml:id="subtitle148">♪ ♪</p>
+<p begin="5010006660t" end="5030004330t" xml:id="subtitle149">Never meet anyone online</p>
+<p begin="5030005000t" end="5050008000t" xml:id="subtitle150">and then agree<br/>to meet them out in public.</p>
+<p begin="5050008660t" end="5070001660t" xml:id="subtitle151">I did that.</p>
+<p begin="5080009000t" end="5110002660t" xml:id="subtitle152">And the first thing<br/>the woman says to me is,</p>
+<p begin="5110003330t" end="5130000330t" xml:id="subtitle153">"You don't look<br/>like Matt Damon."</p>
+<p begin="5130001000t" end="5150009000t" xml:id="subtitle154">And I said, uh, "You don't<br/>look like Penny Marshall."</p>
+<p begin="5150009660t" end="5170009660t" xml:id="subtitle155">(laughter)</p>
+<p begin="5200003000t" end="5220007330t" xml:id="subtitle156">Your political belief system,<br/>what is it?</p>
+<p begin="5220008000t" end="5240005000t" xml:id="subtitle157">Is it important to you?</p>
+<p begin="5240005659t" end="5290000660t" xml:id="subtitle158">And is faith also an aspect<br/>of Seth Galifianakis?</p>
+<p begin="5300009000t" end="5330005000t" xml:id="subtitle159">Uh, yes, um, faith is, um...</p>
+<p begin="5330005659t" end="5350001330t" xml:id="subtitle160">I'm a youth minister...</p>
+<p begin="5350002000t" end="5380005000t" xml:id="subtitle161">and, um, in charge<br/>of youth chili cook-offs.</p>
+<p begin="5380005659t" end="5410000330t" xml:id="subtitle162">(laughing)<br/>I'm sorry...</p>
+<p begin="5410001000t" end="5430001000t" xml:id="subtitle163">I'm very sorry.</p>
+<p begin="5440007660t" end="5460001000t" xml:id="subtitle164">(quiet laughing)</p>
+<p begin="5480007660t" end="5500003660t" xml:id="subtitle165">♪ ♪</p>
+<p begin="5500004330t" end="5530004330t" xml:id="subtitle166">If you read my blog,<br/>you know I'm a Pilates freak,</p>
+<p begin="5530005000t" end="5550008330t" xml:id="subtitle167">-and, uh...<br/>-(laughter)</p>
+<p begin="5630002330t" end="5650002330t" xml:id="subtitle168">♪ ♪</p>
+<p begin="5720007000t" end="5740006660t" xml:id="subtitle169">I like to read<br/>the Pubble... the Buh...</p>
+<p begin="5740007330t" end="5760006330t" xml:id="subtitle170">Fuck, I goddamn suck!</p>
+<p begin="5760007000t" end="5790007000t" xml:id="subtitle171">-(stops playing piano)<br/>-(laughter)</p>
+<p begin="5850002330t" end="5880009660t" xml:id="subtitle172">-(resumes playing piano)<br/>-(laughter)</p>
+<p begin="5890000330t" end="5910000330t" xml:id="subtitle173">I don't know...</p>
+<p begin="5920001330t" end="5940001330t" xml:id="subtitle174">I... Sometimes I have<br/>a speech impediment,</p>
+<p begin="5940002000t" end="5960001330t" xml:id="subtitle175">which is...</p>
+<p begin="5960002000t" end="5980007000t" xml:id="subtitle176">it's a hard word to say<br/>if you have one.</p>
+<p begin="5980007660t" end="6000003000t" xml:id="subtitle177">(laughter)</p>
+<p begin="6000003660t" end="6020006330t" xml:id="subtitle178">I guess.</p>
+<p begin="6040006660t" end="6070003330t" xml:id="subtitle179">I like to read the Bible<br/>in public places</p>
+<p begin="6070004000t" end="6090003330t" xml:id="subtitle180">so people are<br/>watching me read it.</p>
+<p begin="6090004000t" end="6110006330t" xml:id="subtitle181">And I like just<br/>to murmur out to myself,</p>
+<p begin="6110007000t" end="6130007660t" xml:id="subtitle182">"Oh, bullshit!"</p>
+<p begin="6130008330t" end="6150008330t" xml:id="subtitle183">(laughter)</p>
+<p begin="6170006660t" end="6190000660t" xml:id="subtitle184">My agent called me<br/>the other day,</p>
+<p begin="6190001330t" end="6200009330t" xml:id="subtitle185">and she was, like,<br/>"Zach, you have an audition</p>
+<p begin="6210000000t" end="6240000000t" xml:id="subtitle186">for a Triscuits commercial."</p>
+<p begin="6240000660t" end="6260007000t" xml:id="subtitle187">And I said, uh,<br/>"Is there any nudity?"</p>
+<p begin="6260007660t" end="6280006330t" xml:id="subtitle188">(laughter)</p>
+<p begin="6280007000t" end="6300008660t" xml:id="subtitle189">And she said, "Yes."</p>
+<p begin="6300009330t" end="6340004330t" xml:id="subtitle190">And I said, uh, "I don't have<br/>to fuck a cracker, do I?"</p>
+<p begin="6340005000t" end="6370004660t" xml:id="subtitle191">(laughter)</p>
+<p begin="6370005330t" end="6410000000t" xml:id="subtitle192">Hey, that's not true-- I just<br/>wanted to write a joke where</p>
+<p begin="6410000660t" end="6440008000t" xml:id="subtitle193">the punch line was "I don't<br/>have to fuck a cracker, do I?"</p>
+<p begin="6440008660t" end="6470007330t" xml:id="subtitle194">Which would be different<br/>if I were a black comedian.</p>
+<p begin="6470008000t" end="6500002660t" xml:id="subtitle195">(laughter)</p>
+<p begin="6500003330t" end="6520003330t" xml:id="subtitle196">♪ ♪</p>
+<p begin="6640005659t" end="6670003660t" xml:id="subtitle197">(hitting low note insistently)</p>
+<p begin="6720006660t" end="6740005000t" xml:id="subtitle198">(hitting low note rapidly)</p>
+<p begin="6780007000t" end="6810009660t" xml:id="subtitle199">Have you seen this show on<br/>Lifetime about that woman...?</p>
+<p begin="6820000330t" end="6850000330t" xml:id="subtitle200">(laughter)</p>
+<p begin="6910002000t" end="6920005659t" xml:id="subtitle201">These are all old jokes.</p>
+<p begin="6920006330t" end="6950008330t" xml:id="subtitle202">I'm gonna do nothing<br/>but new material. Here we go.</p>
+<p begin="6950009000t" end="6970005330t" xml:id="subtitle203">Brand-new material.</p>
+<p begin="6990001330t" end="7020002000t" xml:id="subtitle204">Have you guys been keeping up<br/>with this Lorena Bobbitt thing?</p>
+<p begin="7020002660t" end="7040006000t" xml:id="subtitle205">(laughter)</p>
+<p begin="7110009660t" end="7160008000t" xml:id="subtitle206">I want to open a maternity shop<br/>and call it "We're Fucked."</p>
+<p begin="7160008660t" end="7180008660t" xml:id="subtitle207">(laughter)</p>
+<p begin="7260006000t" end="7280005659t" xml:id="subtitle208">I'm really tired.<br/>I just got back from St. Louis,</p>
+<p begin="7280006330t" end="7320001330t" xml:id="subtitle209">and I'm so bus-lagged and, um...</p>
+<p begin="7320002000t" end="7340002660t" xml:id="subtitle210">when you have sex<br/>on a Greyhound bus,</p>
+<p begin="7340003330t" end="7360009000t" xml:id="subtitle211">it's called the,<br/>uh, 36-inch-high club.</p>
+<p begin="7360009660t" end="7390006000t" xml:id="subtitle212">(laughter)</p>
+<p begin="7580000000t" end="7590006660t" xml:id="subtitle213">(belches)</p>
+<p begin="7590007330t" end="7630006000t" xml:id="subtitle214">(laughter, cheering)</p>
+<p begin="7630006660t" end="7640008660t" xml:id="subtitle215">That's my new character--</p>
+<p begin="7640009330t" end="7660009660t" xml:id="subtitle216">the serious guy</p>
+<p begin="7670000330t" end="7700007330t" xml:id="subtitle217">who surprises you with a belch.</p>
+<p begin="7700008000t" end="7720003660t" xml:id="subtitle218">(chuckles)</p>
+<p begin="7720004330t" end="7740005000t" xml:id="subtitle219">It's my new character<br/>I'm working on. </p>
+<p begin="7760004660t" end="7790003330t" xml:id="subtitle220">For five years now, I've been<br/>addicted to cold turkey.</p>
+<p begin="7810005330t" end="7840005659t" xml:id="subtitle221">And I would tell people<br/>I'm quitting cold turkey.</p>
+<p begin="7840006330t" end="7860003330t" xml:id="subtitle222">They're like<br/>"What are you quitting?"</p>
+<p begin="7860004000t" end="7880005000t" xml:id="subtitle223">I'm like, "I'm quitting<br/>fucking cold turkey."</p>
+<p begin="7970002660t" end="8000000000t" xml:id="subtitle224">I was at Arby's the other day,<br/>and uh...</p>
+<p begin="8000000660t" end="8020003330t" xml:id="subtitle225">I was thinking to myself,</p>
+<p begin="8020004000t" end="8040004330t" xml:id="subtitle226">"Oh, shit.<br/>I should take someone's order."</p>
+<p begin="8100009000t" end="8130000000t" xml:id="subtitle227">Then I thought, I should<br/>open up my own restaurant</p>
+<p begin="8130000660t" end="8150001000t" xml:id="subtitle228">in the same vein as IHOP.</p>
+<p begin="8150001660t" end="8180005330t" xml:id="subtitle229">But I'd like to call it IHOCOC.</p>
+<p begin="8180006000t" end="8220002000t" xml:id="subtitle230">Which stands for "International<br/>House of Corn on the Cob."</p>
+<p begin="8230005000t" end="8260003330t" xml:id="subtitle231">And we sell corn...<br/>on the cob.</p>
+<p begin="8260004000t" end="8300001000t" xml:id="subtitle232">And our slogan is, "Come on<br/>down; don't be such a faggot."</p>
+<p begin="8300001660t" end="8310004000t" xml:id="subtitle233">(laughter)</p>
+<p begin="8410002660t" end="8430002330t" xml:id="subtitle234">I can't decide<br/>on the character for the DVD,</p>
+<p begin="8430003000t" end="8450000330t" xml:id="subtitle235">so I'm doing<br/>a lot of different looks.</p>
+<p begin="8450001000t" end="8470008660t" xml:id="subtitle236">Okay, guys...</p>
+<p begin="8470009330t" end="8500000660t" xml:id="subtitle237">(laughter)</p>
+<p begin="8530001330t" end="8550001330t" xml:id="subtitle238">(whispers):<br/>This is fucked up, man.</p>
+<p begin="8630000330t" end="8640003000t" xml:id="subtitle239">(hits dissonant notes)</p>
+<p begin="8640003660t" end="8660007330t" xml:id="subtitle240">Fucking Bukowski was right.</p>
+<p begin="8660008000t" end="8680008000t" xml:id="subtitle241">(laughter)</p>
+<p begin="8750007660t" end="8790000660t" xml:id="subtitle242">I'll tell you what was wrong<br/>with the Ford administration.</p>
+<p begin="8790001330t" end="8810007660t" xml:id="subtitle243">(plays note)</p>
+<p begin="8810008330t" end="8830008330t" xml:id="subtitle244">Nobody complains<br/>about the Ford administration.</p>
+<p begin="8900002330t" end="8930002330t" xml:id="subtitle245">I rented<span style="style1"> The Importance of Being</span><br/><span style="style1">Earnest </span>the other night,</p>
+<p begin="8930003000t" end="8940008660t" xml:id="subtitle246">and, um...</p>
+<p begin="8940009330t" end="8980000660t" xml:id="subtitle247">First of all, I can't believe<br/>they made another Ernest movie.</p>
+<p begin="8980001330t" end="9000002000t" xml:id="subtitle248">(laughter)</p>
+<p begin="9020004330t" end="9040008000t" xml:id="subtitle249">And it's such a cocky title. </p>
+<p begin="9110002660t" end="9130002660t" xml:id="subtitle250">♪ ♪</p>
+<p begin="9170002000t" end="9190004000t" xml:id="subtitle251"><span style="style1">I bought a, uh, used car</span></p>
+<p begin="9190004660t" end="9220008330t" xml:id="subtitle252"><span style="style1">that had a vanity plate</span><br/><span style="style1">on it already.</span></p>
+<p begin="9220009000t" end="9270004330t" xml:id="subtitle253"><span style="style1">The vanity plate reads:</span><br/><span style="style1">"I S-U-X D-I-X."</span></p>
+<p begin="9270005000t" end="9290008330t" xml:id="subtitle254"><span style="style1">I sux dix.</span></p>
+<p begin="9290009000t" end="9320008000t" xml:id="subtitle255"><span style="style1">And I just tell people</span><br/><span style="style1">that it stands for,</span></p>
+<p begin="9320008660t" end="9350007000t" xml:id="subtitle256"><span style="style1">"I sure xylophone.</span><br/><span style="style1">Do I xylophone!"</span></p>
+<p begin="9390001000t" end="9420009330t" xml:id="subtitle257"><span style="style1">Or "I sell used Xerox,</span><br/><span style="style1">digital interface Xerox."</span></p>
+<p begin="9500002000t" end="9510008660t" xml:id="subtitle258">You like this one?</p>
+<p begin="9510009330t" end="9540000660t" xml:id="subtitle259">I do like that.</p>
+<p begin="9540001330t" end="9550006660t" xml:id="subtitle260">You need to try it on?<br/>Is this...?</p>
+<p begin="9550007330t" end="9560007660t" xml:id="subtitle261">Yeah.</p>
+<p begin="9560008330t" end="9580000330t" xml:id="subtitle262">You do?<br/>These'll fit.</p>
+<p begin="9580001000t" end="9590002660t" xml:id="subtitle263">These'll fit.</p>
+<p begin="9590003330t" end="9600003660t" xml:id="subtitle264">But why don't<br/>you try this...?</p>
+<p begin="9600004330t" end="9610005000t" xml:id="subtitle265">-Wow.<br/>-You like that?</p>
+<p begin="9610005659t" end="9620006000t" xml:id="subtitle266">Yeah.</p>
+<p begin="9670006660t" end="9690007000t" xml:id="subtitle267">What do you think?</p>
+<p begin="9690007660t" end="9710002660t" xml:id="subtitle268">It's nice.</p>
+<p begin="9710003330t" end="9730002660t" xml:id="subtitle269">Is it comfortable?</p>
+<p begin="9730003330t" end="9760003000t" xml:id="subtitle270">It's comfortable, and I think<br/>it's gonna breathe nice.</p>
+<p begin="9760003660t" end="9780003660t" xml:id="subtitle271">(woman laughing)</p>
+<p begin="9810004000t" end="9830000330t" xml:id="subtitle272">Candles!</p>
+<p begin="9830001000t" end="9850009000t" xml:id="subtitle273">Leave it on.<br/>(chuckles)</p>
+<p begin="9870002000t" end="9900003000t" xml:id="subtitle274">The old<br/>dressing-Joe-up-as-a-lady trick.</p>
+<p begin="9910008330t" end="9950002000t" xml:id="subtitle275">I do like being<br/>sketched, though.</p>
+<p begin="9970009000t" end="9990001000t" xml:id="subtitle276">You know what I mean?</p>
+<p begin="9990001660t" end="10010002000t" xml:id="subtitle277">Being in a sketch or being<br/>just, like, sketched?</p>
+<p begin="10010002660t" end="10020008660t" xml:id="subtitle278">No, just being sketched.</p>
+<p begin="10020009330t" end="10050001000t" xml:id="subtitle279">Specifically caricature.</p>
+<p begin="10050001660t" end="10070006330t" xml:id="subtitle280">When that happens<br/>and I'm not...</p>
+<p begin="10070007000t" end="10080009660t" xml:id="subtitle281">'Cause then I always...</p>
+<p begin="10090000330t" end="10110009330t" xml:id="subtitle282">I always feel...<br/>I always feel thinner.</p>
+<p begin="10120000000t" end="10140009000t" xml:id="subtitle283">I was getting ready to say, "Do<br/>they ever run out of pencil?"</p>
+<p begin="10180006660t" end="10200007330t" xml:id="subtitle284">(laughter)</p>
+<p begin="10240004660t" end="10270001000t" xml:id="subtitle285">Airline food's weird.</p>
+<p begin="10310000330t" end="10330008660t" xml:id="subtitle286">Is it cool<br/>if I turn this around?</p>
+<p begin="10330009330t" end="10360006330t" xml:id="subtitle287">That's my other character<br/>that I'm doing--</p>
+<p begin="10360007000t" end="10380007330t" xml:id="subtitle288">the guy that's confused<br/>about the microphone.</p>
+<p begin="10380008000t" end="10410000660t" xml:id="subtitle289">That's another guy<br/>that I'm working on.</p>
+<p begin="10410001330t" end="10430006330t" xml:id="subtitle290">I have a lot of "chairacters"<br/>that I do.</p>
+<p begin="10470005000t" end="10490006000t" xml:id="subtitle291">(stammers)</p>
+<p begin="10520005000t" end="10560000330t" xml:id="subtitle292">There's no way that this table<br/>came to see me specifically.</p>
+<p begin="10560001000t" end="10580007330t" xml:id="subtitle293">(laughter)</p>
+<p begin="10600006660t" end="10630002660t" xml:id="subtitle294">I know that you were a little<br/>picked on earlier, but...</p>
+<p begin="10650000660t" end="10670005000t" xml:id="subtitle295">Honest to God, did an old...<br/>I mean...</p>
+<p begin="10670005659t" end="10690002000t" xml:id="subtitle296">(sighs)</p>
+<p begin="10690002660t" end="10710003000t" xml:id="subtitle297">We may have to move you<br/>in the back.</p>
+<p begin="10730003000t" end="10750005000t" xml:id="subtitle298">It's not good for the DVD.</p>
+<p begin="10750005659t" end="10770003000t" xml:id="subtitle299">(laughter)</p>
+<p begin="10770003660t" end="10800004660t" xml:id="subtitle300">And we're also looking<br/>for a more ethnic crowd.</p>
+<p begin="10800005330t" end="10830000000t" xml:id="subtitle301">We... I see now.<br/>That's what...</p>
+<p begin="10830000660t" end="10840001330t" xml:id="subtitle302">(laughing)</p>
+<p begin="10840002000t" end="10880004660t" xml:id="subtitle303">Uh... We, uh, we<br/>focus-grouped, and, uh...</p>
+<p begin="10880005330t" end="10920007000t" xml:id="subtitle304">Shit, this is...<br/>this is hard right here.</p>
+<p begin="10920007660t" end="10960006660t" xml:id="subtitle305">Are there any Asians<br/>or blacks in the back?</p>
+<p begin="10990001330t" end="11000008330t" xml:id="subtitle306">That's gonna<br/>be the name of the DVD.</p>
+<p begin="11000009000t" end="11040004660t" xml:id="subtitle307">That's it, that's the name.</p>
+<p begin="11040005330t" end="11070006000t" xml:id="subtitle308"><span style="style1">Are There Any Asians or Blacks</span><br/><span style="style1">in the Back?</span></p>
+<p begin="11070006660t" end="11100009000t" xml:id="subtitle309">Somebody write that down.<br/>I'll never...</p>
+<p begin="11100009660t" end="11130006660t" xml:id="subtitle310">I'll never remember it.</p>
+<p begin="11130007330t" end="11160001330t" xml:id="subtitle311">No, if you don't mind me,<br/>uh, a'ksing,</p>
+<p begin="11160002000t" end="11180002000t" xml:id="subtitle312">wh-what, uh...</p>
+<p begin="11220000000t" end="11240000000t" xml:id="subtitle313">(sighs)</p>
+<p begin="11270001660t" end="11300008000t" xml:id="subtitle314">You have the worst body language<br/>I've ever seen.</p>
+<p begin="11300008660t" end="11320004000t" xml:id="subtitle315">No, no, no, no, no.</p>
+<p begin="11320004660t" end="11340004660t" xml:id="subtitle316">I mean, you know, that's okay.<br/>I mean, you're being honest.</p>
+<p begin="11340005330t" end="11350009660t" xml:id="subtitle317">At least, you know, you're be...</p>
+<p begin="11360000330t" end="11390004330t" xml:id="subtitle318">you're being honest, and that's<br/>the way you have to be.</p>
+<p begin="11390005000t" end="11410006000t" xml:id="subtitle319">And, uh...</p>
+<p begin="11410006660t" end="11450008000t" xml:id="subtitle320">but why sit up front<br/>and ruin my career?</p>
+<p begin="11450008660t" end="11470008660t" xml:id="subtitle321">(laughter)</p>
+<p begin="11520004660t" end="11560003330t" xml:id="subtitle322">This was supposed to propel me,<br/>this DVD shit.</p>
+<p begin="11560004000t" end="11590009660t" xml:id="subtitle323">Goddamn it,<br/>I've got an eye doctor...</p>
+<p begin="11600000330t" end="11620003330t" xml:id="subtitle324">whose squint...</p>
+<p begin="11620004000t" end="11650006330t" xml:id="subtitle325">he's got a look on his face like<br/>he's trying to crack a safe.</p>
+<p begin="11650007000t" end="11670007000t" xml:id="subtitle326">During my jokes.</p>
+<p begin="11800003000t" end="11810006330t" xml:id="subtitle327">Uh...</p>
+<p begin="11810007000t" end="11830009660t" xml:id="subtitle328">can I get you some absinthe<br/>or something?</p>
+<p begin="11840000330t" end="11850003330t" xml:id="subtitle329">Is there any...?</p>
+<p begin="11850004000t" end="11880000330t" xml:id="subtitle330">Is there some kind of drink<br/>to get this, uh...</p>
+<p begin="11880001000t" end="11910004660t" xml:id="subtitle331">this fuckin' motherfuckin'<br/>party, whoo!</p>
+<p begin="11910005330t" end="11940003000t" xml:id="subtitle332">(chuckling)</p>
+<p begin="11940003660t" end="11970000660t" xml:id="subtitle333">I love guys like,<br/>"Let's fucking party!</p>
+<p begin="11970001330t" end="11970009330t" xml:id="subtitle334">Whoo!"</p>
+<p begin="11980000000t" end="11990007000t" xml:id="subtitle335">(audience member cheers)</p>
+<p begin="11990007660t" end="12010007660t" xml:id="subtitle336">"Yeah, fuck it up!"</p>
+<p begin="12030005000t" end="12050000330t" xml:id="subtitle337">I grew up with guys like that.</p>
+<p begin="12050001000t" end="12070001000t" xml:id="subtitle338">I hated them so much.</p>
+<p begin="12140001330t" end="12160001330t" xml:id="subtitle339">Uh...</p>
+<p begin="12190005000t" end="12210005000t" xml:id="subtitle340">But seriously, Dr. Eye...</p>
+<p begin="12250009330t" end="12270001000t" xml:id="subtitle341">(sighs)</p>
+<p begin="12270001660t" end="12280008000t" xml:id="subtitle342">Do you have stock in Netflix?</p>
+<p begin="12280008660t" end="12300009660t" xml:id="subtitle343">What the fuck is, uh...</p>
+<p begin="12310000330t" end="12320005330t" xml:id="subtitle344">why up front?</p>
+<p begin="12320006000t" end="12340001330t" xml:id="subtitle345">You don't... You haven't...<br/>you just came...</p>
+<p begin="12340002000t" end="12370004000t" xml:id="subtitle346">You stumbled on to a<br/>comedy show, right?</p>
+<p begin="12370004660t" end="12390000330t" xml:id="subtitle347">No, we came to see you.</p>
+<p begin="12390001000t" end="12400008660t" xml:id="subtitle348">-Really?<br/>-Yeah.</p>
+<p begin="12400009330t" end="12420009000t" xml:id="subtitle349">We're from Walnut Creek.</p>
+<p begin="12420009660t" end="12450002660t" xml:id="subtitle350">From... All the way<br/>from Walnut Creek?</p>
+<p begin="12450003330t" end="12470006000t" xml:id="subtitle351">Guys!</p>
+<p begin="12470006660t" end="12500003000t" xml:id="subtitle352">Wait a minute, wait.</p>
+<p begin="12500003660t" end="12520004330t" xml:id="subtitle353">So, you didn't come to see me. </p>
+<p begin="12520005000t" end="12530004330t" xml:id="subtitle354">You did...<br/>That's a... that's a...</p>
+<p begin="12530005000t" end="12560003330t" xml:id="subtitle355">Oh, did you see<span style="style1"> Out Cold?</span></p>
+<p begin="12560004000t" end="12590004330t" xml:id="subtitle356">-(laughter and applause)<br/>-WOMAN: Yeah!</p>
+<p begin="12590005000t" end="12620005000t" xml:id="subtitle357">It was a snowboarding movie<br/>I did with Lee Majors.</p>
+<p begin="12620005659t" end="12640000660t" xml:id="subtitle358">(laughter)</p>
+<p begin="12640001330t" end="12660002000t" xml:id="subtitle359">-Um, you look like...<br/>-MAN: Everybody Wang Chung!</p>
+<p begin="12660002660t" end="12680005659t" xml:id="subtitle360">Yeah, you look like,<br/>uh, my fan base. Uh...</p>
+<p begin="12680006330t" end="12710001660t" xml:id="subtitle361">(laughter)</p>
+<p begin="12710002330t" end="12730006660t" xml:id="subtitle362">No, honestly,<br/>in-in all seriousness,</p>
+<p begin="12730007330t" end="12740008330t" xml:id="subtitle363">uh...</p>
+<p begin="12740009000t" end="12760006660t" xml:id="subtitle364">wh-why are you here?</p>
+<p begin="12760007330t" end="12780006660t" xml:id="subtitle365">-(laughter)<br/>-MAN: Came to see you.</p>
+<p begin="12780007330t" end="12810002330t" xml:id="subtitle366">-How do you know about me?<br/>-From over here.</p>
+<p begin="12810003000t" end="12820003000t" xml:id="subtitle367">From over where?</p>
+<p begin="12820003660t" end="12830005330t" xml:id="subtitle368">This guy over here.</p>
+<p begin="12830006000t" end="12850005330t" xml:id="subtitle369">-Somebody told you<br/>to come see me? -Yeah. Yeah.</p>
+<p begin="12850006000t" end="12880002000t" xml:id="subtitle370">-Well, who do we blame?<br/>Who is the guy? -There he is.</p>
+<p begin="12880002660t" end="12890003330t" xml:id="subtitle371">-Where?<br/>-Right there.</p>
+<p begin="12890004000t" end="12900008000t" xml:id="subtitle372">-MAN 2: He's here.<br/>-Oh...</p>
+<p begin="12900008660t" end="12920003000t" xml:id="subtitle373">ZACH:<br/>Oh, this guy.</p>
+<p begin="12920003660t" end="12950003330t" xml:id="subtitle374">Is that somebody's, uh,<br/>is that your grandson?</p>
+<p begin="12950004000t" end="12980000330t" xml:id="subtitle375">(laughter)</p>
+<p begin="12980001000t" end="12990007330t" xml:id="subtitle376">Oh, God,</p>
+<p begin="12990008000t" end="13010002000t" xml:id="subtitle377">I'm fucking great.</p>
+<p begin="13010002660t" end="13020004330t" xml:id="subtitle378">I don't know how...</p>
+<p begin="13020005000t" end="13040009660t" xml:id="subtitle379">Wait, is... all right,<br/>so this is somebody's...</p>
+<p begin="13050000330t" end="13070001330t" xml:id="subtitle380">neighbor... like, is he, like...</p>
+<p begin="13070002000t" end="13080003660t" xml:id="subtitle381">slightly...</p>
+<p begin="13080004330t" end="13090007330t" xml:id="subtitle382">Explain that; I'd like to know.</p>
+<p begin="13090008000t" end="13110004000t" xml:id="subtitle383">MAN 3: Uh,<br/>we were here last week</p>
+<p begin="13110004660t" end="13120008660t" xml:id="subtitle384">watching Mort Sahl<br/>with this gentleman, and</p>
+<p begin="13120009330t" end="13150006660t" xml:id="subtitle385">I told him he should come back<br/>so he could bring his friends.</p>
+<p begin="13150007330t" end="13170002330t" xml:id="subtitle386">-Oh, really?<br/>-Yeah, 'cause you were great.</p>
+<p begin="13170003000t" end="13190000660t" xml:id="subtitle387">Uh, that's very nice. Uh...</p>
+<p begin="13190001330t" end="13210001000t" xml:id="subtitle388">How was Mort...<br/>how was Mort Sahl?</p>
+<p begin="13210001660t" end="13220003330t" xml:id="subtitle389">Fantastic.</p>
+<p begin="13220004000t" end="13240003330t" xml:id="subtitle390">Fuckin' timing was...</p>
+<p begin="13240004000t" end="13270004330t" xml:id="subtitle391">(laughter)</p>
+<p begin="13280004660t" end="13300009000t" xml:id="subtitle392">He does too many pussy jokes.</p>
+<p begin="13300009660t" end="13320009330t" xml:id="subtitle393">(laughter)</p>
+<p begin="13330000000t" end="13350000330t" xml:id="subtitle394">That whole bit he does where...</p>
+<p begin="13350001000t" end="13390000330t" xml:id="subtitle395">What was it that Noam Chomsky<br/>said about eating pussy?</p>
+<p begin="13390001000t" end="13410001000t" xml:id="subtitle396">(laughter)</p>
+<p begin="13460009660t" end="13480005659t" xml:id="subtitle397">Just to prove</p>
+<p begin="13480006330t" end="13500002000t" xml:id="subtitle398">that I can be a dirty comedian</p>
+<p begin="13500002660t" end="13510008330t" xml:id="subtitle399">but also appeal<br/>to the art crowd,</p>
+<p begin="13510009000t" end="13530002660t" xml:id="subtitle400">this next joke is...</p>
+<p begin="13530003330t" end="13560000660t" xml:id="subtitle401">so... to prove that I<br/>can appeal to the art crowd</p>
+<p begin="13560001330t" end="13580000660t" xml:id="subtitle402">but also be dirty.</p>
+<p begin="13580001330t" end="13610001330t" xml:id="subtitle403">So, I call my balls<br/>Belle and Sebastian.</p>
+<p begin="13610002000t" end="13630001660t" xml:id="subtitle404">(laughter)</p>
+<p begin="13630002330t" end="13640006330t" xml:id="subtitle405">Something...</p>
+<p begin="13640007000t" end="13670002000t" xml:id="subtitle406">along those lines.</p>
+<p begin="13670002660t" end="13690006330t" xml:id="subtitle407">I'm-I'm sorry that, uh...</p>
+<p begin="13690007000t" end="13710007000t" xml:id="subtitle408">When I see, uh...</p>
+<p begin="13730004660t" end="13740005000t" xml:id="subtitle409">(exhales)</p>
+<p begin="13740005659t" end="13760006660t" xml:id="subtitle410">You look like--<br/>and this is a compliment.</p>
+<p begin="13760007330t" end="13790003660t" xml:id="subtitle411">I mean this as a compliment.<br/>And I-I really do.</p>
+<p begin="13790004330t" end="13820006330t" xml:id="subtitle412">You look like you've never said<br/>the word "dude" in your life.</p>
+<p begin="13820007000t" end="13840006330t" xml:id="subtitle413">-(laughter)<br/>-And I love that.</p>
+<p begin="13840007000t" end="13860005000t" xml:id="subtitle414">I... that's what's wrong<br/>with this generation.</p>
+<p begin="13860005659t" end="13890005000t" xml:id="subtitle415">They say "dude" too much.</p>
+<p begin="13890005659t" end="13920002660t" xml:id="subtitle416">My name is fucking Zach.</p>
+<p begin="13920003330t" end="13950002330t" xml:id="subtitle417">(laughter)</p>
+<p begin="13950003000t" end="13980007330t" xml:id="subtitle418">Yeah, Zach was pretty good, and<br/>then he went off on a tangent</p>
+<p begin="13980008000t" end="14010004000t" xml:id="subtitle419">about "dude" that<span style="style1"> sucked!</span></p>
+<p begin="14010004660t" end="14030004000t" xml:id="subtitle420">Uh, well, I apologize, sir.</p>
+<p begin="14030004660t" end="14040009000t" xml:id="subtitle421">What is your name?</p>
+<p begin="14040009660t" end="14070000000t" xml:id="subtitle422">-Carl.<br/>-Carl. Uh...</p>
+<p begin="14070000660t" end="14100003330t" xml:id="subtitle423">I'm sorry that, uh,<br/>it's probably not the...</p>
+<p begin="14100004000t" end="14120000660t" xml:id="subtitle424">the... the...</p>
+<p begin="14120001330t" end="14140000660t" xml:id="subtitle425">what you expected, it's, uh...</p>
+<p begin="14140001330t" end="14160004330t" xml:id="subtitle426">You know, you got this<br/>fuckin' skateboarder back here</p>
+<p begin="14160005000t" end="14180001000t" xml:id="subtitle427">running his mouth.</p>
+<p begin="14180001660t" end="14200000000t" xml:id="subtitle428">(laughter)</p>
+<p begin="14200000660t" end="14220003000t" xml:id="subtitle429">Take advice from a 14-year-old.</p>
+<p begin="14220003660t" end="14240001330t" xml:id="subtitle430">(laughter)</p>
+<p begin="14240002000t" end="14260006000t" xml:id="subtitle431">Yeah, you should<br/>come see this next guy</p>
+<p begin="14260006660t" end="14280006000t" xml:id="subtitle432">after seeing Mort Sahl.</p>
+<p begin="14280006660t" end="14300002660t" xml:id="subtitle433">(laughter)</p>
+<p begin="14300003330t" end="14320003330t" xml:id="subtitle434">Jesus Christ.</p>
+<p begin="14340000660t" end="14370006000t" xml:id="subtitle435">If you love Mort Sahl<br/>and his political humor,</p>
+<p begin="14370006660t" end="14410009330t" xml:id="subtitle436">you're gonna love the<br/>"who ate all the pussy?" jokes</p>
+<p begin="14420000000t" end="14440008000t" xml:id="subtitle437">coming from Zatch Gaspifianaski.</p>
+<p begin="14440008660t" end="14460004660t" xml:id="subtitle438">(laughter and applause)</p>
+<p begin="14460005330t" end="14470007330t" xml:id="subtitle439">(whooping)</p>
+<p begin="14480007660t" end="14510005000t" xml:id="subtitle440">That linkage is the worst.</p>
+<p begin="14540003000t" end="14570000000t" xml:id="subtitle441">If you love Barry Manilow,<br/>you're gonna love</p>
+<p begin="14570000660t" end="14590001660t" xml:id="subtitle442">the Insane Clown Posse.</p>
+<p begin="14590002330t" end="14600008660t" xml:id="subtitle443">(laughter)</p>
+<p begin="14600009330t" end="14630006000t" xml:id="subtitle444">Love them!</p>
+<p begin="14630006660t" end="14650001660t" xml:id="subtitle445">They're exactly...</p>
+<p begin="14650002330t" end="14700001660t" xml:id="subtitle446">Well, they're not exactly alike,<br/>but they're a little bit alike.</p>
+<p begin="14730000330t" end="14760000330t" xml:id="subtitle447">(scattered laughter continues)</p>
+<p begin="14770009330t" end="14800005000t" xml:id="subtitle448">But I want everything to be<br/>entertaining for everybody.</p>
+<p begin="14800005659t" end="14810009000t" xml:id="subtitle449">I don't like to...</p>
+<p begin="14810009660t" end="14840004660t" xml:id="subtitle450">you know, I'm not one<br/>of these, like...</p>
+<p begin="14840005330t" end="14860004660t" xml:id="subtitle451">"Fuck you, old man."</p>
+<p begin="14860005330t" end="14870009330t" xml:id="subtitle452">(laughter)</p>
+<p begin="14880000000t" end="14910005330t" xml:id="subtitle453">It was such an insult,<br/>and it was not supposed to be.</p>
+<p begin="14910006000t" end="14940002660t" xml:id="subtitle454">(laughter)</p>
+<p begin="14950004660t" end="14970008000t" xml:id="subtitle455">I'm getting older, goddamn it.</p>
+<p begin="14990000000t" end="15010000000t" xml:id="subtitle456">I'm getting fatter, too.</p>
+<p begin="15010000660t" end="15020003330t" xml:id="subtitle457">You know you're getting fatter</p>
+<p begin="15020004000t" end="15040005000t" xml:id="subtitle458">when your socks<br/>don't fit anymore.</p>
+<p begin="15040005659t" end="15060005000t" xml:id="subtitle459">(laughter)</p>
+<p begin="15060005659t" end="15080005000t" xml:id="subtitle460">Getting fatter really sucks,</p>
+<p begin="15080005659t" end="15100008330t" xml:id="subtitle461">'cause I'm extremely<br/>claustrophobic.</p>
+<p begin="15100009000t" end="15120007330t" xml:id="subtitle462">(scattered laughter)</p>
+<p begin="15140001330t" end="15160003330t" xml:id="subtitle463">I hate elevators.</p>
+<p begin="15160004000t" end="15170007000t" xml:id="subtitle464">Oh.</p>
+<p begin="15170007660t" end="15200001000t" xml:id="subtitle465">-WOMAN: Oh, sorry.<br/>-Oh, it's okay.</p>
+<p begin="15200001660t" end="15220001000t" xml:id="subtitle466">You know, you're really scared.</p>
+<p begin="15220001660t" end="15240000330t" xml:id="subtitle467">-What floor?<br/>-Basement. Basement.</p>
+<p begin="15240001000t" end="15260009660t" xml:id="subtitle468">-Basement? Okay.<br/>-You're sweating. -Thank you.</p>
+<p begin="15270000330t" end="15290000330t" xml:id="subtitle469">(Zach exhales)</p>
+<p begin="15330004660t" end="15350000660t" xml:id="subtitle470">I got to get out.</p>
+<p begin="15350001330t" end="15370006330t" xml:id="subtitle471">I'm getting claustrophobic.</p>
+<p begin="15370007000t" end="15390007330t" xml:id="subtitle472">-I'll meet you down there.<br/>-Oh...</p>
+<p begin="15390008000t" end="15430003330t" xml:id="subtitle473">-I'll meet you guys down.<br/>-Okay.</p>
+<p begin="15430004000t" end="15450004000t" xml:id="subtitle474">(exhaling)</p>
+<p begin="15480000000t" end="15480009330t" xml:id="subtitle475">What happened?</p>
+<p begin="15490000000t" end="15520005330t" xml:id="subtitle476">The woman thinks it's her,<br/>that I got out because of her.</p>
+<p begin="15520006000t" end="15540007330t" xml:id="subtitle477">-What happens?<br/>-I just, uh,</p>
+<p begin="15540008000t" end="15560008660t" xml:id="subtitle478">get this rush over me,</p>
+<p begin="15560009330t" end="15600002000t" xml:id="subtitle479">and, uh, I can't deal with it.</p>
+<p begin="15600002660t" end="15630000330t" xml:id="subtitle480">Plus, it doesn't help<br/>having Joe in the elevator.</p>
+<p begin="15630001000t" end="15640003660t" xml:id="subtitle481">(quiet laugh)</p>
+<p begin="15640004330t" end="15660005659t" xml:id="subtitle482">What is... what is the rush?<br/>Explain it.</p>
+<p begin="15660006330t" end="15680008330t" xml:id="subtitle483">It's this: You're never<br/>gonna get out of this.</p>
+<p begin="15680009000t" end="15710001660t" xml:id="subtitle484">You're never gonna get out<br/>of this small box</p>
+<p begin="15710002330t" end="15720007330t" xml:id="subtitle485">for the rest of your life.</p>
+<p begin="15720008000t" end="15750003000t" xml:id="subtitle486">And you're gonna whittle away.</p>
+<p begin="15750003660t" end="15770002660t" xml:id="subtitle487">And...</p>
+<p begin="15770003330t" end="15810001660t" xml:id="subtitle488">let's face it,<br/>Joe's gonna get hungry.</p>
+<p begin="15810002330t" end="15830009330t" xml:id="subtitle489">♪ ♪</p>
+<p begin="15840000000t" end="15850005330t" xml:id="subtitle490">-(stops playing piano)<br/>-(laughter)</p>
+<p begin="15850006000t" end="15880004330t" xml:id="subtitle491">(applause)</p>
+<p begin="15880005000t" end="15900005000t" xml:id="subtitle492">(plays one note)</p>
+<p begin="15970006330t" end="15990000330t" xml:id="subtitle493">(laughter)</p>
+<p begin="15990001000t" end="16000002330t" xml:id="subtitle494">♪ ♪</p>
+<p begin="16000003000t" end="16030003660t" xml:id="subtitle495">I wish I had the balls<br/>to do that for an hour.</p>
+<p begin="16030004330t" end="16050005000t" xml:id="subtitle496">(laughter)</p>
+<p begin="16050005659t" end="16070005659t" xml:id="subtitle497">(high-pitched):<br/>Yeah, we went and saw Zach.</p>
+<p begin="16070006330t" end="16110004330t" xml:id="subtitle498">It was... it was good at first,<br/>and then, uh...</p>
+<p begin="16110005000t" end="16140002000t" xml:id="subtitle499">I don't know, he's<br/>fuckin' losing his mind.</p>
+<p begin="16140002660t" end="16150009660t" xml:id="subtitle500">♪ ♪</p>
+<p begin="16160000330t" end="16170008330t" xml:id="subtitle501">You know what I found<br/>watching footage of you?</p>
+<p begin="16170009000t" end="16190008660t" xml:id="subtitle502">That mental illness<br/>is a theme with you.</p>
+<p begin="16190009330t" end="16210005330t" xml:id="subtitle503">-Yeah, it is.<br/>-Are you...</p>
+<p begin="16210006000t" end="16230003660t" xml:id="subtitle504">(laughs)<br/>Am I going crazy?</p>
+<p begin="16230004330t" end="16250005000t" xml:id="subtitle505">Are you... do you think...</p>
+<p begin="16250005659t" end="16270002000t" xml:id="subtitle506">does that come from a thing</p>
+<p begin="16270002660t" end="16290003330t" xml:id="subtitle507">that's actually<br/>happening with you?</p>
+<p begin="16290004000t" end="16310006660t" xml:id="subtitle508">No. My brother<br/>just always has said</p>
+<p begin="16310007330t" end="16340000000t" xml:id="subtitle509">that I was gonna be<br/>in a mental institution</p>
+<p begin="16340000660t" end="16360000000t" xml:id="subtitle510">by the time I was...</p>
+<p begin="16360000660t" end="16390005330t" xml:id="subtitle511">And he, like, jokes<br/>about it, like...</p>
+<p begin="16390006000t" end="16410007330t" xml:id="subtitle512">And it's funny... it's funny.</p>
+<p begin="16410008000t" end="16450002000t" xml:id="subtitle513">But you know, I think<br/>the human psyche's so fragile</p>
+<p begin="16450002660t" end="16460006660t" xml:id="subtitle514">a lot of times.</p>
+<p begin="16490004660t" end="16510005000t" xml:id="subtitle515">Can you really trust your mind?</p>
+<p begin="16510005659t" end="16530004660t" xml:id="subtitle516">Can you really<br/>trust your mind?</p>
+<p begin="16530005330t" end="16550008660t" xml:id="subtitle517">Let's talk about Zach's...<br/>(clears throat)</p>
+<p begin="16550009330t" end="16570002000t" xml:id="subtitle518">um, technique</p>
+<p begin="16570002660t" end="16590003000t" xml:id="subtitle519">-on stage.<br/>-Is that what you call it?</p>
+<p begin="16590003660t" end="16600003000t" xml:id="subtitle520">(Brian laughs)</p>
+<p begin="16600003660t" end="16620005330t" xml:id="subtitle521">You call it something else?</p>
+<p begin="16620006000t" end="16660002000t" xml:id="subtitle522">I don't have... I don't have...<br/>necessarily have a word for it.</p>
+<p begin="16660002660t" end="16680006000t" xml:id="subtitle523">It's a bit of<br/>a roller coaster, isn't it?</p>
+<p begin="16680006660t" end="16700009000t" xml:id="subtitle524">Because there are moments<br/>where Zach will stop,</p>
+<p begin="16700009660t" end="16750001000t" xml:id="subtitle525">and we're wondering if he is...<br/>gonna just walk away from it,</p>
+<p begin="16750001660t" end="16770007330t" xml:id="subtitle526">as if the whole show's stopping.</p>
+<p begin="16770008000t" end="16800002330t" xml:id="subtitle527">But he doesn't disappoint us,<br/>because he picks us</p>
+<p begin="16800003000t" end="16810007000t" xml:id="subtitle528">right back up and carries on.</p>
+<p begin="16810007660t" end="16830004000t" xml:id="subtitle529">What do you think of the style?</p>
+<p begin="16830004660t" end="16860000330t" xml:id="subtitle530">What do you think<br/>of the technique?</p>
+<p begin="16860001000t" end="16880000330t" xml:id="subtitle531">Well, first of all...</p>
+<p begin="16880001000t" end="16900005330t" xml:id="subtitle532">I-I see it, and I've<br/>seen it a few times,</p>
+<p begin="16900006000t" end="16910009660t" xml:id="subtitle533">and I'm thinking...</p>
+<p begin="16920000330t" end="16930009000t" xml:id="subtitle534">does he every get embarrassed?</p>
+<p begin="16930009660t" end="16950008660t" xml:id="subtitle535">Does he have any shame at all?</p>
+<p begin="16950009330t" end="16980000000t" xml:id="subtitle536">Does he not know...</p>
+<p begin="16980000660t" end="17000005659t" xml:id="subtitle537">that maybe people<br/>don't want to sit through this?</p>
+<p begin="17020000660t" end="17030009330t" xml:id="subtitle538">Is that an old joke?</p>
+<p begin="17040000000t" end="17050005659t" xml:id="subtitle539">Where did the camera go? Oh.</p>
+<p begin="17050006330t" end="17070004330t" xml:id="subtitle540">Um...</p>
+<p begin="17100000660t" end="17110001660t" xml:id="subtitle541">(scattered laughing)</p>
+<p begin="17110002330t" end="17130007000t" xml:id="subtitle542">Can I get a sausage<br/>smoothie, please?</p>
+<p begin="17130007660t" end="17150007000t" xml:id="subtitle543">(laughter)</p>
+<p begin="17150007660t" end="17180006660t" xml:id="subtitle544">Can I get a gin and Capri Sun?</p>
+<p begin="17180007330t" end="17210001330t" xml:id="subtitle545">(laughter)</p>
+<p begin="17210002000t" end="17240001000t" xml:id="subtitle546">Uh, two diet Tequizas?</p>
+<p begin="17240001660t" end="17250003660t" xml:id="subtitle547">(laughter)</p>
+<p begin="17250004330t" end="17270007660t" xml:id="subtitle548">That's my, uh,<br/>that's my new character,</p>
+<p begin="17270008330t" end="17290006000t" xml:id="subtitle549">the guy that orders<br/>stupid things.</p>
+<p begin="17290006660t" end="17320002330t" xml:id="subtitle550">This is me at a restaurant</p>
+<p begin="17320003000t" end="17360008660t" xml:id="subtitle551">ordering, uh, wine, and we'll<br/>pretend this is the menu.</p>
+<p begin="17360009330t" end="17380003330t" xml:id="subtitle552">Uh, wha...</p>
+<p begin="17380004000t" end="17420001000t" xml:id="subtitle553">You know, you always have<br/>a microphone at a restaurant.</p>
+<p begin="17420001660t" end="17430008000t" xml:id="subtitle554">Um...</p>
+<p begin="17430008660t" end="17450008000t" xml:id="subtitle555">Sir, would you like<br/>something to drink?</p>
+<p begin="17450008660t" end="17480004000t" xml:id="subtitle556">Uh, yeah, what were<br/>they drinking in<span style="style1"> Sideways?</span></p>
+<p begin="17480004660t" end="17500005000t" xml:id="subtitle557">(laughter)</p>
+<p begin="17500005659t" end="17520005659t" xml:id="subtitle558">(applause)</p>
+<p begin="17540003330t" end="17570001330t" xml:id="subtitle559">Let me update that,<br/>in case that's not topical.</p>
+<p begin="17570002000t" end="17580004660t" xml:id="subtitle560">Uh, yeah,</p>
+<p begin="17580005330t" end="17610005330t" xml:id="subtitle561">what were they drinking<br/>in<span style="style1"> Sideways 2?</span></p>
+<p begin="17610006000t" end="17630003000t" xml:id="subtitle562">(laughter)</p>
+<p begin="17670009000t" end="17690009000t" xml:id="subtitle563"><span style="style1">Can </span>he be serious?</p>
+<p begin="17710006000t" end="17740003330t" xml:id="subtitle564">The only time<br/>I saw him be serious</p>
+<p begin="17740004000t" end="17770003330t" xml:id="subtitle565">-(tool whirring in distance)<br/>-was when...</p>
+<p begin="17770004000t" end="17780009330t" xml:id="subtitle566">That's a buzz kill.</p>
+<p begin="17790000000t" end="17810003000t" xml:id="subtitle567">See, I can, like...<br/>like, that was a joke.</p>
+<p begin="17810003660t" end="17830009000t" xml:id="subtitle568">See, you get it? 'Cause<br/>it's a buzz saw, probably.</p>
+<p begin="17830009660t" end="17860005000t" xml:id="subtitle569">-Mm-hmm. -And I was, like,<br/>"That's... that's a buzz kill."</p>
+<p begin="17860005659t" end="17870009330t" xml:id="subtitle570">-Mm-hmm.<br/>-That's what my students say.</p>
+<p begin="17880000000t" end="17900001000t" xml:id="subtitle571">The guys that-that do football<br/>a lot, they're, like,</p>
+<p begin="17900001660t" end="17910002660t" xml:id="subtitle572">"That's a buzz kill,"</p>
+<p begin="17910003330t" end="17920007000t" xml:id="subtitle573">and I'm, like,<br/>"What's that mean?"</p>
+<p begin="17920007660t" end="17950003000t" xml:id="subtitle574">And they're, like, "Oh,<br/>it just means it's not good."</p>
+<p begin="17950003660t" end="17970005659t" xml:id="subtitle575">So that was a buzz kill.</p>
+<p begin="17970006330t" end="18000004000t" xml:id="subtitle576"> I saw that movie, uh,<br/><span style="style1">Miss Congeniality 2.</span></p>
+<p begin="18000004660t" end="18030008660t" xml:id="subtitle577">It wasn't as good as<br/>I thought it was gonna be.</p>
+<p begin="18030009330t" end="18050006000t" xml:id="subtitle578">(laughter, applause)</p>
+<p begin="18080008660t" end="18120002330t" xml:id="subtitle579">If you love<span style="style1"> Miss Congeniality 2,</span></p>
+<p begin="18120003000t" end="18150007660t" xml:id="subtitle580">you are gonna love<br/><span style="style1">The Corporation.</span></p>
+<p begin="18150008330t" end="18170000660t" xml:id="subtitle581">(laughter)</p>
+<p begin="18170001330t" end="18180003330t" xml:id="subtitle582">Are you guys getting this?</p>
+<p begin="18180004000t" end="18190008660t" xml:id="subtitle583">I'm fucking killing.</p>
+<p begin="18190009330t" end="18210001660t" xml:id="subtitle584">(laughter)</p>
+<p begin="18210002330t" end="18230001330t" xml:id="subtitle585">Are these cameras even on?</p>
+<p begin="18230002000t" end="18250002000t" xml:id="subtitle586">(laughter)</p>
+<p begin="18280002000t" end="18310000000t" xml:id="subtitle587">Now this is where<br/>my brother and I, um,</p>
+<p begin="18310000660t" end="18330005659t" xml:id="subtitle588">really... we really differ.</p>
+<p begin="18330006330t" end="18340008000t" xml:id="subtitle589">BRIAN:<br/>Mm-hmm.</p>
+<p begin="18340008660t" end="18360007660t" xml:id="subtitle590">He's more into...<br/>other people.</p>
+<p begin="18360008330t" end="18380001330t" xml:id="subtitle591">And I'm into these people.</p>
+<p begin="18380002000t" end="18400001330t" xml:id="subtitle592">Well, you're different<br/>in a lot of ways.</p>
+<p begin="18400002000t" end="18410003330t" xml:id="subtitle593">Different in a lot ways?</p>
+<p begin="18410004000t" end="18430001660t" xml:id="subtitle594">You and Zach<br/>are very different...</p>
+<p begin="18430002330t" end="18440008330t" xml:id="subtitle595">Yeah, we're... The only thing<br/>we have in common is</p>
+<p begin="18440009000t" end="18460008330t" xml:id="subtitle596">that we both like the Fugees.</p>
+<p begin="18460009000t" end="18480003000t" xml:id="subtitle597">The Fugees?</p>
+<p begin="18480003660t" end="18500006660t" xml:id="subtitle598">I mean, do you have a-a memory</p>
+<p begin="18500007330t" end="18530003660t" xml:id="subtitle599">of-of actually sharing anything<br/>with the Fugees,</p>
+<p begin="18530004330t" end="18540008660t" xml:id="subtitle600">or was that just...?</p>
+<p begin="18540009330t" end="18570004000t" xml:id="subtitle601">We don't have to talk about it,<br/>if you don't want to.</p>
+<p begin="18570004660t" end="18590004660t" xml:id="subtitle602">Let's-Let's move on.</p>
+<p begin="18590005330t" end="18610006330t" xml:id="subtitle603">I... I'm sorry. What...?</p>
+<p begin="18610007000t" end="18640000000t" xml:id="subtitle604">I bought the Fugees CD.</p>
+<p begin="18640000660t" end="18660008000t" xml:id="subtitle605">Whenever that...<br/>whenever it...</p>
+<p begin="18710001000t" end="18730001330t" xml:id="subtitle606">Whenever it came out,<br/>I was... I was...</p>
+<p begin="18730002000t" end="18740007000t" xml:id="subtitle607">I had to pick Zach up...</p>
+<p begin="18740007660t" end="18750009330t" xml:id="subtitle608">(sighs)</p>
+<p begin="18760000000t" end="18780002660t" xml:id="subtitle609">...from the airport once,<br/>and I was, like,</p>
+<p begin="18780003330t" end="18810008000t" xml:id="subtitle610">"Zach, do you want to listen...</p>
+<p begin="18810008660t" end="18840004000t" xml:id="subtitle611">listen to this new rap group,<br/>the Fugees?"</p>
+<p begin="18840004660t" end="18850006330t" xml:id="subtitle612">(stifled chuckling)</p>
+<p begin="18850007000t" end="18880000000t" xml:id="subtitle613">He's, like, "Yeah, I..."</p>
+<p begin="18880000660t" end="18890005000t" xml:id="subtitle614">I didn't think he'd like it,</p>
+<p begin="18890005659t" end="18910001000t" xml:id="subtitle615">'cause he doesn't like anything.</p>
+<p begin="18910001660t" end="18920007000t" xml:id="subtitle616">What did he say to you?</p>
+<p begin="18920007660t" end="18930009660t" xml:id="subtitle617">What did Zach say to you?</p>
+<p begin="18940000330t" end="18960003000t" xml:id="subtitle618">He-He loved it.</p>
+<p begin="18960003660t" end="18980000660t" xml:id="subtitle619">BRIAN:<br/>He liked it?</p>
+<p begin="18980001330t" end="18990004330t" xml:id="subtitle620">He loved it.</p>
+<p begin="18990005000t" end="19020000000t" xml:id="subtitle621">BRIAN: Would you say<br/>that was one of the few things</p>
+<p begin="19020000660t" end="19030006330t" xml:id="subtitle622">that you ever shared<br/>in common then?</p>
+<p begin="19030007000t" end="19060004000t" xml:id="subtitle623">At that moment<br/>you knew that, that...?</p>
+<p begin="19060004660t" end="19070009660t" xml:id="subtitle624">It was the first thing<br/>in a long time</p>
+<p begin="19080000330t" end="19090005000t" xml:id="subtitle625">that he and I have ever, like,<br/>agreed on.</p>
+<p begin="19090005659t" end="19110007660t" xml:id="subtitle626">It was a moment that I wish<br/>had lasted forever,</p>
+<p begin="19110008330t" end="19140000330t" xml:id="subtitle627">but it only lasted<br/>to the end of the song.</p>
+<p begin="19140001000t" end="19150005000t" xml:id="subtitle628">He didn't like the other ones.</p>
+<p begin="19150005659t" end="19160006660t" xml:id="subtitle629">(sighs)</p>
+<p begin="19160007330t" end="19180002330t" xml:id="subtitle630">So we only really...</p>
+<p begin="19180003000t" end="19200009660t" xml:id="subtitle631">The only thing that we've really<br/>bonded on so far...</p>
+<p begin="19210000330t" end="19220003000t" xml:id="subtitle632">(muffled cry)</p>
+<p begin="19220003660t" end="19250000660t" xml:id="subtitle633">...the last few years<br/>is that one Fugees song.</p>
+<p begin="19250001330t" end="19270006000t" xml:id="subtitle634">I don't even know the name<br/>of it.</p>
+<p begin="19270006660t" end="19290006000t" xml:id="subtitle635">I like all their songs.</p>
+<p begin="19320006660t" end="19340006660t" xml:id="subtitle636">Is there something funny?</p>
+<p begin="19370009330t" end="19390001000t" xml:id="subtitle637">(chuckles)<br/>I'm sorry.</p>
+<p begin="19390001660t" end="19400009660t" xml:id="subtitle638">I'm sorry. I'm so sorry.</p>
+<p begin="19410000330t" end="19430000330t" xml:id="subtitle639">Uh, William, was it?</p>
+<p begin="19430001000t" end="19440005000t" xml:id="subtitle640">WILLIAM:<br/>Yeah.</p>
+<p begin="19440005659t" end="19470002660t" xml:id="subtitle641">ZACH: What-What is it<br/>that you do for a living?</p>
+<p begin="19470003330t" end="19490002660t" xml:id="subtitle642">Um, I work on the<span style="style1"> Sims II.</span></p>
+<p begin="19490003330t" end="19510009660t" xml:id="subtitle643">It's a video game.</p>
+<p begin="19520000330t" end="19530001330t" xml:id="subtitle644">What?</p>
+<p begin="19530002000t" end="19560003000t" xml:id="subtitle645">(laughter)</p>
+<p begin="19560003660t" end="19580007330t" xml:id="subtitle646">I got bored when you went, "Uh."</p>
+<p begin="19580008000t" end="19600009660t" xml:id="subtitle647">(laughter)</p>
+<p begin="19610000330t" end="19630007660t" xml:id="subtitle648">So fucking boring, this guy.</p>
+<p begin="19630008330t" end="19640009660t" xml:id="subtitle649">(Zach chuckles)</p>
+<p begin="19650000330t" end="19660002330t" xml:id="subtitle650">(laughter)</p>
+<p begin="19660003000t" end="19670004000t" xml:id="subtitle651">That's my new character.</p>
+<p begin="19670004660t" end="19700002000t" xml:id="subtitle652">The guy that gets bored<br/>automatically.</p>
+<p begin="19700002660t" end="19710008000t" xml:id="subtitle653">"What do you do for...?"</p>
+<p begin="19710008660t" end="19720009660t" xml:id="subtitle654">"Oh, I, well..."</p>
+<p begin="19730000330t" end="19750002000t" xml:id="subtitle655">"Oh, bull! Who gives a shit?!"</p>
+<p begin="19750002660t" end="19780002000t" xml:id="subtitle656">No one fucking cares,<br/>William. Billy.</p>
+<p begin="19780002660t" end="19800003330t" xml:id="subtitle657">(laughter)</p>
+<p begin="19810005659t" end="19840000330t" xml:id="subtitle658">No one likes you.</p>
+<p begin="19840001000t" end="19860005000t" xml:id="subtitle659">No one!</p>
+<p begin="19860005659t" end="19890006660t" xml:id="subtitle660">Uh,<span style="style1"> Sims-- </span>oh, that's<br/>the-the video game, right?</p>
+<p begin="19890007330t" end="19910008000t" xml:id="subtitle661">(laughter)</p>
+<p begin="19920008000t" end="19950000000t" xml:id="subtitle662">(snoring)</p>
+<p begin="19950000660t" end="19970000660t" xml:id="subtitle663">(laughter)</p>
+<p begin="19980006330t" end="20000006660t" xml:id="subtitle664">Always to emphasize my boredom,</p>
+<p begin="20000007330t" end="20030000330t" xml:id="subtitle665">I always put a microphone<br/>next to my mouth.</p>
+<p begin="20030001000t" end="20050009000t" xml:id="subtitle666">(snoring)</p>
+<p begin="20050009660t" end="20070000660t" xml:id="subtitle667">What the blind...?</p>
+<p begin="20070001330t" end="20080004660t" xml:id="subtitle668">What the fuck are you doing?</p>
+<p begin="20080005330t" end="20090006330t" xml:id="subtitle669">(laughter)</p>
+<p begin="20090007000t" end="20110008000t" xml:id="subtitle670">This is personal,<br/>between William and I.</p>
+<p begin="20110008660t" end="20130008000t" xml:id="subtitle671">(laughter)</p>
+<p begin="20130008660t" end="20150000000t" xml:id="subtitle672">How's my gut look?</p>
+<p begin="20150000660t" end="20180000000t" xml:id="subtitle673">I'm serious.<br/>This is a very bad position.</p>
+<p begin="20180000660t" end="20190008000t" xml:id="subtitle674">(laughter)</p>
+<p begin="20190008660t" end="20210004330t" xml:id="subtitle675">Oh, God, I've gotten fat.</p>
+<p begin="20210005000t" end="20230005000t" xml:id="subtitle676">(laughter)</p>
+<p begin="20230005659t" end="20260005000t" xml:id="subtitle677">And I don't mean P-H-A-T phat.</p>
+<p begin="20260005659t" end="20320003660t" xml:id="subtitle678">I mean, F-F-F-A-T-T-T fat.</p>
+<p begin="20320004330t" end="20340008000t" xml:id="subtitle679">Car horn fat.</p>
+<p begin="20340008660t" end="20360008660t" xml:id="subtitle680">(laughter)</p>
+<p begin="20390006330t" end="20400009000t" xml:id="subtitle681">William?</p>
+<p begin="20400009660t" end="20420002660t" xml:id="subtitle682">WILLIAM:<br/>Yes, Zach?</p>
+<p begin="20420003330t" end="20440008330t" xml:id="subtitle683">Uh, so, you're a...<br/>you're an operator</p>
+<p begin="20440009000t" end="20460008000t" xml:id="subtitle684">for that<span style="style1"> Sims </span>game?</p>
+<p begin="20460008660t" end="20490006000t" xml:id="subtitle685">No. I do, uh,<br/>3-D models for the game.</p>
+<p begin="20490006660t" end="20520008330t" xml:id="subtitle686">Uh, what does that... what does<br/>that mean in... really?</p>
+<p begin="20520009000t" end="20540001660t" xml:id="subtitle687">I mean...</p>
+<p begin="20540002330t" end="20560000660t" xml:id="subtitle688">Uh, well...</p>
+<p begin="20560001330t" end="20580000330t" xml:id="subtitle689">Fucking boring!</p>
+<p begin="20580001000t" end="20590003000t" xml:id="subtitle690">Seriously.</p>
+<p begin="20590003660t" end="20610004660t" xml:id="subtitle691">Goddamn it!</p>
+<p begin="20610005330t" end="20620008000t" xml:id="subtitle692">This is a DVD.</p>
+<p begin="20620008660t" end="20640003330t" xml:id="subtitle693">I need dinosaurs,</p>
+<p begin="20640004000t" end="20650006330t" xml:id="subtitle694">thunder.</p>
+<p begin="20650007000t" end="20670006330t" xml:id="subtitle695">(laughter)</p>
+<p begin="20670007000t" end="20700005330t" xml:id="subtitle696">Race wars, something.</p>
+<p begin="20700006000t" end="20720002000t" xml:id="subtitle697">Damn it!</p>
+<p begin="20720002660t" end="20740002330t" xml:id="subtitle698">I got to sell<br/>this motherfucker.</p>
+<p begin="20740003000t" end="20760008000t" xml:id="subtitle699">(laughter)</p>
+<p begin="20850001330t" end="20870007660t" xml:id="subtitle700">Is there anyone more exciting<br/>than William?</p>
+<p begin="20930005000t" end="20950003660t" xml:id="subtitle701">(laughter)</p>
+<p begin="20950004330t" end="20970006660t" xml:id="subtitle702">What's up with stuff?</p>
+<p begin="20970007330t" end="20990005330t" xml:id="subtitle703">(laughter)</p>
+<p begin="20990006000t" end="21010006660t" xml:id="subtitle704">BRIAN:<br/>I spoke to Zach,</p>
+<p begin="21010007330t" end="21050005659t" xml:id="subtitle705">and he told me<br/>he was here this summer.</p>
+<p begin="21050006330t" end="21070004330t" xml:id="subtitle706">It was the last visit he had.</p>
+<p begin="21070005000t" end="21110002660t" xml:id="subtitle707">And he told me about something<br/>that occurred up to a point.</p>
+<p begin="21110003330t" end="21140002660t" xml:id="subtitle708">He said there was a dispute<br/>in the family.</p>
+<p begin="21140003330t" end="21170000000t" xml:id="subtitle709">What happened<br/>when he was here?</p>
+<p begin="21170000660t" end="21180004000t" xml:id="subtitle710">You know what? I-I...</p>
+<p begin="21180004660t" end="21200005000t" xml:id="subtitle711">What I'm getting ready<br/>to say, I'd rather not.</p>
+<p begin="21200005659t" end="21230000000t" xml:id="subtitle712">It seemed...<br/>I'd rather not do it.</p>
+<p begin="21230000660t" end="21250003660t" xml:id="subtitle713">BRIAN: Well, Zach<br/>and I talked about this.</p>
+<p begin="21250004330t" end="21270001000t" xml:id="subtitle714">And it seemed to me<br/>like he want...</p>
+<p begin="21270001660t" end="21280007000t" xml:id="subtitle715">he wanted me to ask-ask Seth.</p>
+<p begin="21280007660t" end="21310001330t" xml:id="subtitle716">Just ask Seth.</p>
+<p begin="21310002000t" end="21320003660t" xml:id="subtitle717">-Well, I...<br/>-Why won't you talk about it?</p>
+<p begin="21320004330t" end="21330007000t" xml:id="subtitle718">Because I do...<br/>I don't... I don't...</p>
+<p begin="21330007660t" end="21350003330t" xml:id="subtitle719">-What happened that day?<br/>-I don't want to be accusatory.</p>
+<p begin="21350004000t" end="21360008000t" xml:id="subtitle720">Do you do that thing...?</p>
+<p begin="21360008660t" end="21380007330t" xml:id="subtitle721">Do you ever do that thing<br/>where's there's like a...</p>
+<p begin="21380008000t" end="21410003660t" xml:id="subtitle722">a silhouette of the person,<br/>and then you make their voice</p>
+<p begin="21410004330t" end="21450004660t" xml:id="subtitle723">like a monster voice<br/>to disguise what... who they is?</p>
+<p begin="21450005330t" end="21470008000t" xml:id="subtitle724">(Seth sighs)</p>
+<p begin="21470008660t" end="21490000330t" xml:id="subtitle725">BRIAN:<br/>Let's go back.</p>
+<p begin="21490001000t" end="21510003660t" xml:id="subtitle726">Are you comfortable?<br/>Are you comfortable now?</p>
+<p begin="21510004330t" end="21530001000t" xml:id="subtitle727">It isn't much...<br/>Do you want to put that...?</p>
+<p begin="21530001660t" end="21550004330t" xml:id="subtitle728">Are you gonna put that...<br/>uh, that monster voice...?</p>
+<p begin="21550005000t" end="21570004000t" xml:id="subtitle729">It's either a robot<br/>or a monster.</p>
+<p begin="21570004660t" end="21580009330t" xml:id="subtitle730">We can adjust...</p>
+<p begin="21590000000t" end="21600006330t" xml:id="subtitle731">I suppose<br/>we can adjust your voice,</p>
+<p begin="21600007000t" end="21620001330t" xml:id="subtitle732">or equalize it<br/>so that it doesn't sound...</p>
+<p begin="21620002000t" end="21630007330t" xml:id="subtitle733">Okay, let's...<br/>Then I'm ready to talk about it.</p>
+<p begin="21630008000t" end="21650007330t" xml:id="subtitle734">Okay. Um, I want...</p>
+<p begin="21650008000t" end="21670009000t" xml:id="subtitle735">Take me back to the night.</p>
+<p begin="21670009660t" end="21690000660t" xml:id="subtitle736">("Marcus" sighs)</p>
+<p begin="21690001330t" end="21700006330t" xml:id="subtitle737">You're playing Pictionary,<br/>was it?</p>
+<p begin="21720007330t" end="21740001000t" xml:id="subtitle738">Um, where is Zach<br/>in all of this?</p>
+<p begin="22100009660t" end="22120003330t" xml:id="subtitle739">BRIAN: Mm-hmm.</p>
+<p begin="22200005659t" end="22220007000t" xml:id="subtitle740">Zach broke the law that day.</p>
+<p begin="22350006000t" end="22380009660t" xml:id="subtitle741">It's great to be on<span style="style1"> stage, </span>guys,<br/>it really is. Um...</p>
+<p begin="22390000330t" end="22400005659t" xml:id="subtitle742">(laughter)</p>
+<p begin="22400006330t" end="22410008660t" xml:id="subtitle743">I'm, uh...</p>
+<p begin="22410009330t" end="22430001660t" xml:id="subtitle744">It's hot in here.</p>
+<p begin="22430002330t" end="22440007000t" xml:id="subtitle745">(glass clinking)</p>
+<p begin="22440007660t" end="22460008000t" xml:id="subtitle746">Again,</p>
+<p begin="22460008660t" end="22500002330t" xml:id="subtitle747">great shirt selection<br/>for the DVD.</p>
+<p begin="22500003000t" end="22520003000t" xml:id="subtitle748">(laughter)</p>
+<p begin="22540000000t" end="22550004660t" xml:id="subtitle749">(laughter)</p>
+<p begin="22550005330t" end="22570004000t" xml:id="subtitle750">I went... I went<br/>to the shirt place.</p>
+<p begin="22570004660t" end="22590003000t" xml:id="subtitle751">I was, like,<br/>"Do you have anything</p>
+<p begin="22590003660t" end="22610009330t" xml:id="subtitle752">to highlight my alcoholism?"</p>
+<p begin="22620000000t" end="22630006330t" xml:id="subtitle753">(laughter)</p>
+<p begin="22630007000t" end="22660004660t" xml:id="subtitle754">I look like a third-grader<br/>who swallowed a penguin.</p>
+<p begin="22660005330t" end="22670007000t" xml:id="subtitle755">(laughter)</p>
+<p begin="22670007660t" end="22690009660t" xml:id="subtitle756">That's the name of the DVD,<br/>by the way.</p>
+<p begin="22700000330t" end="22710002000t" xml:id="subtitle757">(laughter)</p>
+<p begin="22710002660t" end="22740000660t" xml:id="subtitle758">Actually, I was telling a guy.<br/>I would think it would be great</p>
+<p begin="22740001330t" end="22750003660t" xml:id="subtitle759">just to name the DVD<br/>after the...</p>
+<p begin="22750004330t" end="22780001000t" xml:id="subtitle760">Just call it whatever<br/>the new Coldplay album is.</p>
+<p begin="22780001660t" end="22800009000t" xml:id="subtitle761">(laughter)</p>
+<p begin="22800009660t" end="22820003660t" xml:id="subtitle762">"What's the name of it?"</p>
+<p begin="22820004330t" end="22830009000t" xml:id="subtitle763">"Oh, okay, that's what<br/>we'll name it."</p>
+<p begin="22830009660t" end="22870001000t" xml:id="subtitle764">But it's actually called<br/><span style="style1">The New Coldplay Album.</span></p>
+<p begin="22870001660t" end="22880005330t" xml:id="subtitle765">(laughter, whistling)</p>
+<p begin="22920003330t" end="22940005330t" xml:id="subtitle766">Can you guys kill the audience?</p>
+<p begin="22940006000t" end="22960006000t" xml:id="subtitle767">(laughter)</p>
+<p begin="22980009000t" end="23000001000t" xml:id="subtitle768">Just get rid of them.</p>
+<p begin="23000001660t" end="23020000330t" xml:id="subtitle769">I think it's better<br/>if I'm just alone.</p>
+<p begin="23020001000t" end="23030004660t" xml:id="subtitle770">I-I don't need a fucking...</p>
+<p begin="23030005330t" end="23050007000t" xml:id="subtitle771">I can... I'll just...</p>
+<p begin="23050007660t" end="23070001330t" xml:id="subtitle772">I'll... I will, uh...</p>
+<p begin="23070002000t" end="23100000330t" xml:id="subtitle773">We'll do my laughter<br/>at my own jokes.</p>
+<p begin="23100001000t" end="23110009660t" xml:id="subtitle774">(laughter)</p>
+<p begin="23130008330t" end="23150000330t" xml:id="subtitle775">Noam Chomksy.</p>
+<p begin="23150001000t" end="23160007660t" xml:id="subtitle776">(Zach and audience laughing)</p>
+<p begin="23160008330t" end="23180004660t" xml:id="subtitle777">Get a load of this guy.</p>
+<p begin="23180005330t" end="23190008330t" xml:id="subtitle778">(laughter)</p>
+<p begin="23190009000t" end="23210006330t" xml:id="subtitle779">Is what would be on the DVD.</p>
+<p begin="23210007000t" end="23230007000t" xml:id="subtitle780">(laughter)</p>
+<p begin="23250009660t" end="23280005000t" xml:id="subtitle781">That would be really cool,<br/>wouldn't it?</p>
+<p begin="23280005659t" end="23290007660t" xml:id="subtitle782">(laughter)</p>
+<p begin="23290008330t" end="23310000660t" xml:id="subtitle783">(mumbles)</p>
+<p begin="23310001330t" end="23320008000t" xml:id="subtitle784">I'd like to do a few characters</p>
+<p begin="23320008660t" end="23350001000t" xml:id="subtitle785">that I've been working on<br/>for a long time.</p>
+<p begin="23350001660t" end="23360006330t" xml:id="subtitle786">Uh, this first character...</p>
+<p begin="23360007000t" end="23370008000t" xml:id="subtitle787">Sir, do you...?</p>
+<p begin="23370008660t" end="23390008660t" xml:id="subtitle788">Do you mind if I...?</p>
+<p begin="23420006660t" end="23440006660t" xml:id="subtitle789">This, uh, first character<br/>I've been working on...</p>
+<p begin="23440007330t" end="23460004660t" xml:id="subtitle790">(laughter)</p>
+<p begin="23460005330t" end="23480004330t" xml:id="subtitle791">(mumbles)</p>
+<p begin="23480005000t" end="23500005000t" xml:id="subtitle792">(laughter)</p>
+<p begin="23520009660t" end="23540000000t" xml:id="subtitle793">I bought...</p>
+<p begin="23540000660t" end="23550009000t" xml:id="subtitle794">I-I stabbed myself<br/>in the eye with it.</p>
+<p begin="23550009660t" end="23570004660t" xml:id="subtitle795">(laughter)</p>
+<p begin="23570005330t" end="23590008660t" xml:id="subtitle796">Is anyone taking fucking notes?</p>
+<p begin="23590009330t" end="23610000000t" xml:id="subtitle797">(laughter)</p>
+<p begin="23610000660t" end="23630008000t" xml:id="subtitle798">The names of the DVDs,<br/>the editing thing.</p>
+<p begin="23650009660t" end="23670004660t" xml:id="subtitle799">(laughter)</p>
+<p begin="23670005330t" end="23690006660t" xml:id="subtitle800">The...</p>
+<p begin="23690007330t" end="23700009330t" xml:id="subtitle801">You know you suck</p>
+<p begin="23710000000t" end="23720008330t" xml:id="subtitle802">when the camera guys<br/>don't laugh at all.</p>
+<p begin="23720009000t" end="23750006330t" xml:id="subtitle803">(laughter)</p>
+<p begin="23750007000t" end="23770004330t" xml:id="subtitle804">There's got to be something</p>
+<p begin="23770005000t" end="23790004660t" xml:id="subtitle805">you may...<br/>you may laugh at, right?</p>
+<p begin="23790005330t" end="23810005000t" xml:id="subtitle806">Do you like racial humor?</p>
+<p begin="23810005659t" end="23830001330t" xml:id="subtitle807">Is there any...?</p>
+<p begin="23830002000t" end="23840005330t" xml:id="subtitle808">There's got to be something.</p>
+<p begin="23840006000t" end="23880006660t" xml:id="subtitle809">Um... I want to combine</p>
+<p begin="23880007330t" end="23910002660t" xml:id="subtitle810">the NAACP</p>
+<p begin="23910003330t" end="23940001330t" xml:id="subtitle811">with Mother's Against<br/>Drunk Driving.</p>
+<p begin="23940002000t" end="23960002660t" xml:id="subtitle812">It's called...</p>
+<p begin="23980004660t" end="24010001330t" xml:id="subtitle813">...Mother's Against the<br/>Advancement of Colored People.</p>
+<p begin="24010002000t" end="24020001330t" xml:id="subtitle814">(laughter)</p>
+<p begin="24020002000t" end="24050000330t" xml:id="subtitle815">Fucking nothing!</p>
+<p begin="24050001000t" end="24070005659t" xml:id="subtitle816">ZACH: Oh, fine. Uh, is there<br/>camping on the beach?</p>
+<p begin="24070006330t" end="24090000000t" xml:id="subtitle817">-MAN: Yeah.<br/>-ZACH: Is that okay...?</p>
+<p begin="24090000660t" end="24110006660t" xml:id="subtitle818">ZACH: I can drive my van and<br/>stay in the van type of thing?</p>
+<p begin="24110007330t" end="24130006660t" xml:id="subtitle819">MAN: Yeah, if you don't<br/>get stuck in the sand.</p>
+<p begin="24130007330t" end="24150003330t" xml:id="subtitle820">ZACH: Yeah, that's-that's what<br/>we were just discussing.</p>
+<p begin="24150004000t" end="24170003330t" xml:id="subtitle821">You get in soft sand, yes, sir,<br/>you could get stuck.</p>
+<p begin="24170004000t" end="24180007660t" xml:id="subtitle822">ZACH:<br/>Gotcha.</p>
+<p begin="24180008330t" end="24200008330t" xml:id="subtitle823">JOE:<br/>Oh, not too bad.</p>
+<p begin="24230004660t" end="24250006660t" xml:id="subtitle824">Oh, shit. Here we go.</p>
+<p begin="24250007330t" end="24270001000t" xml:id="subtitle825">ZACH:<br/>Oh, I better coast through here.</p>
+<p begin="24270001660t" end="24280003330t" xml:id="subtitle826">JOE:<br/>Whoo!</p>
+<p begin="24280004000t" end="24310002000t" xml:id="subtitle827">Whoo!</p>
+<p begin="24360000660t" end="24370009660t" xml:id="subtitle828">-Hello.<br/>-Hi, sir.</p>
+<p begin="24380000330t" end="24390009330t" xml:id="subtitle829">Uh, Ranger Kanin,<br/>California State Parks.</p>
+<p begin="24400000000t" end="24410008330t" xml:id="subtitle830">Reason why<br/>I pulled you over is,</p>
+<p begin="24410009000t" end="24440000330t" xml:id="subtitle831">uh, it's 15 miles per hour<br/>on the beach.</p>
+<p begin="24440001000t" end="24450005659t" xml:id="subtitle832">ZACH: Oh, I'm sorry.<br/>I thought it was 35.</p>
+<p begin="24450006330t" end="24470002330t" xml:id="subtitle833">RANGER: Yeah, no,<br/>it's 15 miles per hour...</p>
+<p begin="24470003000t" end="24490000330t" xml:id="subtitle834">ZACH:<br/>Okay. Should I go down here?</p>
+<p begin="24490001000t" end="24510001000t" xml:id="subtitle835">What was that?</p>
+<p begin="24570002000t" end="24580008330t" xml:id="subtitle836">(Joe shouts)</p>
+<p begin="24610002000t" end="24630001330t" xml:id="subtitle837">My friend Johnny<br/>and I were coming</p>
+<p begin="24630002000t" end="24640008000t" xml:id="subtitle838">out of the convenience store,</p>
+<p begin="24640008660t" end="24670002660t" xml:id="subtitle839">and there was a guy in his truck<br/>there by himself.</p>
+<p begin="24670003330t" end="24690007660t" xml:id="subtitle840">He was in his truck by himself,</p>
+<p begin="24690008330t" end="24710006330t" xml:id="subtitle841">and John and I were walking</p>
+<p begin="24710007000t" end="24730006660t" xml:id="subtitle842">out of this convenience store.</p>
+<p begin="24730007330t" end="24770004660t" xml:id="subtitle843">And, uh, the guy rolls his<br/>window down, by himself,</p>
+<p begin="24770005330t" end="24790009330t" xml:id="subtitle844">and he leans out and he goes,</p>
+<p begin="24800000000t" end="24820004330t" xml:id="subtitle845">(with Southern accent):<br/>"Two pussies."</p>
+<p begin="24820005000t" end="24840001000t" xml:id="subtitle846">(both laughing)</p>
+<p begin="24840001660t" end="24860009330t" xml:id="subtitle847">He's like, by himself, and<br/>we started laughing so hard,</p>
+<p begin="24870000000t" end="24890006000t" xml:id="subtitle848">and he got so pissed<br/>that we were laughing.</p>
+<p begin="24890006660t" end="24910001330t" xml:id="subtitle849">JOE:<br/>Two pussies.</p>
+<p begin="24910002000t" end="24950003660t" xml:id="subtitle850">So fucking... How-How brave<br/>of that young man to...</p>
+<p begin="24970003660t" end="25000003660t" xml:id="subtitle851">"Two pussies."</p>
+<p begin="25000004330t" end="25020001330t" xml:id="subtitle852">I wonder if there was, like,</p>
+<p begin="25020002000t" end="25050000660t" xml:id="subtitle853">a lot more of us coming out,<br/>like...</p>
+<p begin="25050001330t" end="25070008330t" xml:id="subtitle854">"18 pussies."</p>
+<p begin="25070009000t" end="25090002330t" xml:id="subtitle855">(both laughing)</p>
+<p begin="25090003000t" end="25110004330t" xml:id="subtitle856">Like, I wonder what his high is.</p>
+<p begin="25110005000t" end="25130007000t" xml:id="subtitle857">Like, what his...<br/>The biggest he's gone.</p>
+<p begin="25130007660t" end="25160005659t" xml:id="subtitle858">All right, um, now I'd like<br/>to do a few characters</p>
+<p begin="25160006330t" end="25180009660t" xml:id="subtitle859">uh, um... that I have actually<br/>been working on,</p>
+<p begin="25190000330t" end="25210001000t" xml:id="subtitle860">not the stuff<br/>that you heard earlier.</p>
+<p begin="25210001660t" end="25220007330t" xml:id="subtitle861">That was terrible, but, um...</p>
+<p begin="25220008000t" end="25250005330t" xml:id="subtitle862">This first character that I've<br/>been working on for a while,</p>
+<p begin="25250006000t" end="25280009330t" xml:id="subtitle863">is called, uh...<br/>Carl, can I borrow your glasses?</p>
+<p begin="25290000000t" end="25310008000t" xml:id="subtitle864">CARL: I thought you'd ask me<br/>for the beer at first.</p>
+<p begin="25310008660t" end="25330001660t" xml:id="subtitle865">Thank you very much.</p>
+<p begin="25330002330t" end="25350002000t" xml:id="subtitle866">Carl, shut the fuck up.</p>
+<p begin="25350002660t" end="25360009660t" xml:id="subtitle867">(laughter)</p>
+<p begin="25380007000t" end="25400005659t" xml:id="subtitle868">I've-I've moved on.</p>
+<p begin="25430004000t" end="25460002330t" xml:id="subtitle869">I'm just...</p>
+<p begin="25460003000t" end="25480004660t" xml:id="subtitle870">completely joking.<br/>Jesus. Okay.</p>
+<p begin="25480005330t" end="25510003330t" xml:id="subtitle871">This first character is called<br/>"the pretentious illiterate."</p>
+<p begin="25510004000t" end="25530006000t" xml:id="subtitle872">Here we go.<br/>Pretentious illiterate.</p>
+<p begin="25530006660t" end="25580002330t" xml:id="subtitle873">Uh, I told you,<br/>I don't know how to read.</p>
+<p begin="25580003000t" end="25600003000t" xml:id="subtitle874">(laughter)</p>
+<p begin="25660006660t" end="25690007000t" xml:id="subtitle875">This next character is called<br/>"the forgetful vegan."</p>
+<p begin="25690007660t" end="25710000660t" xml:id="subtitle876">Here we go. Forgetful vegan.</p>
+<p begin="25710001330t" end="25730009330t" xml:id="subtitle877">Man, that sure was good<br/>pepperoni pi--</p>
+<p begin="25740000000t" end="25750009660t" xml:id="subtitle878">Oh, fuck!</p>
+<p begin="25760000330t" end="25780000330t" xml:id="subtitle879">(laughter)</p>
+<p begin="25800008000t" end="25830001000t" xml:id="subtitle880">This next character is called<br/>"the timid pimp,"</p>
+<p begin="25830001660t" end="25860000000t" xml:id="subtitle881">and he's on the phone<br/>with one of his hookers.</p>
+<p begin="25860000660t" end="25880000660t" xml:id="subtitle882">The timid pimp.</p>
+<p begin="25900004000t" end="25920008330t" xml:id="subtitle883">(quietly):<br/>Hi, Amber?</p>
+<p begin="25940002660t" end="25950009660t" xml:id="subtitle884">H-Hi. It's Mark.</p>
+<p begin="25960000330t" end="25980009000t" xml:id="subtitle885">Yeah, I can hold.</p>
+<p begin="25980009660t" end="26030001330t" xml:id="subtitle886">This next character is called</p>
+<p begin="26030002000t" end="26060004660t" xml:id="subtitle887">"the five-year-old who complains<br/>about having a beard."</p>
+<p begin="26070009660t" end="26100000660t" xml:id="subtitle888">"The five-year-old who<br/>complains about having a beard."</p>
+<p begin="26110009660t" end="26140008000t" xml:id="subtitle889">I don't like having a beawd.<br/>It huwts!</p>
+<p begin="26140008660t" end="26170001660t" xml:id="subtitle890">My beawd huwts!</p>
+<p begin="26170002330t" end="26200000000t" xml:id="subtitle891">(laughter)</p>
+<p begin="26200000660t" end="26220006660t" xml:id="subtitle892">(audience cheering)</p>
+<p begin="26290001330t" end="26320004000t" xml:id="subtitle893">This next character is called<br/>"the effeminate gay-basher."</p>
+<p begin="26320004660t" end="26340007330t" xml:id="subtitle894">(laughter)</p>
+<p begin="26340008000t" end="26360008000t" xml:id="subtitle895">Ah, that's good enough.</p>
+<p begin="26390009000t" end="26420005000t" xml:id="subtitle896">BRIAN:<br/>I want to go back.</p>
+<p begin="26420005659t" end="26450008000t" xml:id="subtitle897">Take me back<br/>to the moment where you and Zach</p>
+<p begin="26450008660t" end="26470009660t" xml:id="subtitle898">hear the Fugees song.</p>
+<p begin="26480000330t" end="26490009660t" xml:id="subtitle899">ZACH:<br/>Yeah?</p>
+<p begin="26500000330t" end="26520004330t" xml:id="subtitle900">Tell me more.<br/>Tell me what--</p>
+<p begin="26520005000t" end="26540008330t" xml:id="subtitle901">You know how they say,<br/>uh, you know, uh,</p>
+<p begin="26540009000t" end="26570003330t" xml:id="subtitle902">smell is your number one<br/>sensory memory?</p>
+<p begin="26570004000t" end="26600007000t" xml:id="subtitle903">Well, it wasn't<br/>just the Fugees song that...</p>
+<p begin="26600007660t" end="26640001660t" xml:id="subtitle904">sets me off.<br/>He's like...</p>
+<p begin="26640002330t" end="26660004330t" xml:id="subtitle905">"Your car-- your car<br/>smells like Funyuns."</p>
+<p begin="26660005000t" end="26680002660t" xml:id="subtitle906">And I'm like, "What? My dog?"</p>
+<p begin="26680003330t" end="26700001660t" xml:id="subtitle907">'Cause I named my dog Funyuns</p>
+<p begin="26700002330t" end="26710007660t" xml:id="subtitle908">'cause he likes to eat Funyuns<br/>all the time.</p>
+<p begin="26710008330t" end="26730005330t" xml:id="subtitle909">His name...</p>
+<p begin="26730006000t" end="26750003330t" xml:id="subtitle910">He's like, "I didn't know<br/>your dog's name was Funyuns."</p>
+<p begin="26750004000t" end="26760007660t" xml:id="subtitle911">-Uh-huh.<br/>-And I said,</p>
+<p begin="26760008330t" end="26780004330t" xml:id="subtitle912">"Yeah, I named my dog Funyuns<br/>'cause he eats Funyuns</p>
+<p begin="26780005000t" end="26790005000t" xml:id="subtitle913">-all the time."<br/>-Mm-hmm?</p>
+<p begin="26790005659t" end="26820001660t" xml:id="subtitle914">He goes, "No, I was just<br/>talking about Funyuns."</p>
+<p begin="26820002330t" end="26840000660t" xml:id="subtitle915">So every time I feed my dog,<br/>I think of Zach.</p>
+<p begin="26840001330t" end="26860005000t" xml:id="subtitle916">That draws me in<br/>more than any Fugees song.</p>
+<p begin="26860005659t" end="26880002660t" xml:id="subtitle917">It's always Fugees and Funyuns.</p>
+<p begin="26880003330t" end="26910003660t" xml:id="subtitle918">(laughing)</p>
+<p begin="26910004330t" end="26930002000t" xml:id="subtitle919">I'm part of this great<br/>organization, um,</p>
+<p begin="26930002660t" end="26950002660t" xml:id="subtitle920">that I just want<br/>to talk about for a second,</p>
+<p begin="26950003330t" end="26970001660t" xml:id="subtitle921">and then I'll get back<br/>to the jokes.</p>
+<p begin="26970002330t" end="26990005659t" xml:id="subtitle922">What we do is we<br/>train homeless people</p>
+<p begin="26990006330t" end="27020001000t" xml:id="subtitle923">to become assistant managers<br/>at Banana Republic.</p>
+<p begin="27020001660t" end="27040008330t" xml:id="subtitle924">(laughter)</p>
+<p begin="27040009000t" end="27070007330t" xml:id="subtitle925">It's a great organization,<br/>except the name sucks.</p>
+<p begin="27070008000t" end="27090007660t" xml:id="subtitle926">It's called "Homeless Bananas."</p>
+<p begin="27090008330t" end="27110008330t" xml:id="subtitle927">(laughter)</p>
+<p begin="27160009330t" end="27190002330t" xml:id="subtitle928">Carl, give me a subject<br/>to riff on,</p>
+<p begin="27190003000t" end="27210004000t" xml:id="subtitle929">and let me see if I can do it.</p>
+<p begin="27210004660t" end="27230003660t" xml:id="subtitle930">Just, uh,<br/>something that's bugging you</p>
+<p begin="27230004330t" end="27240008330t" xml:id="subtitle931">or something<br/>you don't like, or...</p>
+<p begin="27240009000t" end="27270009000t" xml:id="subtitle932">Besides me. Um...</p>
+<p begin="27270009660t" end="27300007330t" xml:id="subtitle933">Something-- something<br/>along those lines</p>
+<p begin="27300008000t" end="27340003000t" xml:id="subtitle934">that gets on your nerves or you<br/>think is fodder for comedy.</p>
+<p begin="27340003660t" end="27380000660t" xml:id="subtitle935">CARL:<br/>Um, how about President Bush?</p>
+<p begin="27380001330t" end="27390009000t" xml:id="subtitle936">President Bush. Let's do that.</p>
+<p begin="27390009660t" end="27410009660t" xml:id="subtitle937">Here we go.</p>
+<p begin="27440001330t" end="27470008660t" xml:id="subtitle938">We have a president who said...</p>
+<p begin="27500002660t" end="27530005000t" xml:id="subtitle939">"The French don't have<br/>a word for entrepreneur."</p>
+<p begin="27530005659t" end="27560005659t" xml:id="subtitle940">(laughter)</p>
+<p begin="27590000330t" end="27620009330t" xml:id="subtitle941">President Bush.<br/>I hate him so ma... badly.</p>
+<p begin="27630000000t" end="27650006330t" xml:id="subtitle942">Let me take it again.</p>
+<p begin="27650007000t" end="27670003330t" xml:id="subtitle943">Pres...<br/>(laughing)</p>
+<p begin="27670004000t" end="27680007000t" xml:id="subtitle944">President Bush.</p>
+<p begin="27680007660t" end="27700007000t" xml:id="subtitle945">I hate him so much</p>
+<p begin="27700007660t" end="27730008660t" xml:id="subtitle946">that I was shopping<br/>for bumper stickers,</p>
+<p begin="27730009330t" end="27760009000t" xml:id="subtitle947">and I found one--</p>
+<p begin="27760009660t" end="27790001000t" xml:id="subtitle948">an anti-Bush thing--<br/>and I had to put it over</p>
+<p begin="27790001660t" end="27820001330t" xml:id="subtitle949">my "Single and lovin' it"<br/>bumper sticker.</p>
+<p begin="27820002000t" end="27840002000t" xml:id="subtitle950">(laughter)</p>
+<p begin="27870005659t" end="27910001660t" xml:id="subtitle951">But that's how much I hate Bush.</p>
+<p begin="27910002330t" end="27920006330t" xml:id="subtitle952">How many minutes do you want me<br/>to do on Bush?</p>
+<p begin="27920007000t" end="27940007330t" xml:id="subtitle953">Just, like... I can do, like 15.</p>
+<p begin="27940008000t" end="27960002660t" xml:id="subtitle954">CARL:<br/>A minute more.</p>
+<p begin="27960003330t" end="27970009660t" xml:id="subtitle955">A minute more? Okay.<br/>President Bush.</p>
+<p begin="27980000330t" end="28000004330t" xml:id="subtitle956">My, uh...</p>
+<p begin="28000005000t" end="28010009330t" xml:id="subtitle957">I come from<br/>a political family, actually.</p>
+<p begin="28020000000t" end="28030000000t" xml:id="subtitle958">I really do. Um...</p>
+<p begin="28030000660t" end="28050004660t" xml:id="subtitle959">My, um, uncle Nick</p>
+<p begin="28050005330t" end="28070006660t" xml:id="subtitle960">ran against Jesse Helms<br/>in North Carolina</p>
+<p begin="28070007330t" end="28110006000t" xml:id="subtitle961">in '72 and, uh...</p>
+<p begin="28110006660t" end="28120006000t" xml:id="subtitle962">It's true.</p>
+<p begin="28120006660t" end="28140003000t" xml:id="subtitle963">And, um...</p>
+<p begin="28140003660t" end="28150006000t" xml:id="subtitle964">my uncle was winning,</p>
+<p begin="28150006660t" end="28170007660t" xml:id="subtitle965">and then Jesse Helms came out<br/>with this slogan--</p>
+<p begin="28170008330t" end="28200008660t" xml:id="subtitle966">Nick Galifianakis<br/>was my uncle's name--</p>
+<p begin="28200009330t" end="28250000660t" xml:id="subtitle967">and Jesse Helms came out<br/>with a slogan that said, uh,</p>
+<p begin="28250001330t" end="28270008660t" xml:id="subtitle968">"Vote for Jesse.<br/>He's one of us."</p>
+<p begin="28270009330t" end="28310000330t" xml:id="subtitle969">Uh, meaning, he doesn't have<br/>a freaky, long last name.</p>
+<p begin="28310001000t" end="28330000660t" xml:id="subtitle970">And it turned the election,</p>
+<p begin="28330001330t" end="28350006330t" xml:id="subtitle971">and, uh,<br/>I hate... I hate the right.</p>
+<p begin="28350007000t" end="28370000000t" xml:id="subtitle972">I hate them with a passion.</p>
+<p begin="28370000660t" end="28380002660t" xml:id="subtitle973">ZACH:<br/>Yeah.</p>
+<p begin="28380003330t" end="28390006660t" xml:id="subtitle974">They're in front of you.</p>
+<p begin="28390007330t" end="28420000660t" xml:id="subtitle975">(laughter)</p>
+<p begin="28420001330t" end="28430004000t" xml:id="subtitle976">JOE: You know,<br/>it looks like it's about</p>
+<p begin="28430004660t" end="28470000330t" xml:id="subtitle977">to fucking break apart<br/>at any second.</p>
+<p begin="28490008000t" end="28520001660t" xml:id="subtitle978">ZACH:<br/>It's got too much oil in it.</p>
+<p begin="28520002330t" end="28530007660t" xml:id="subtitle979">It'll calm down in a second.</p>
+<p begin="28530008330t" end="28550003660t" xml:id="subtitle980">Come on, van.</p>
+<p begin="28550004330t" end="28570001330t" xml:id="subtitle981">Please?</p>
+<p begin="28570002000t" end="28600001660t" xml:id="subtitle982">JOE: Is it even turning over<br/>at this point?</p>
+<p begin="28600002330t" end="28620008330t" xml:id="subtitle983">I don't understand.</p>
+<p begin="28620009000t" end="28650000000t" xml:id="subtitle984">It's just temperamental.</p>
+<p begin="28730008000t" end="28760001660t" xml:id="subtitle985">I'm going to see<br/>if I can trade in</p>
+<p begin="28760002330t" end="28800008330t" xml:id="subtitle986">a couple of my jokes<br/>to get him to fix it.</p>
+<p begin="28800009000t" end="28830007000t" xml:id="subtitle987">Does he have a piano here?</p>
+<p begin="28930002660t" end="28950002660t" xml:id="subtitle988">♪ ♪</p>
+<p begin="29100002330t" end="29130002330t" xml:id="subtitle989">(playing dramatic melody)</p>
+<p begin="29170004660t" end="29190002330t" xml:id="subtitle990">Growing up,<br/>I was the only straight guy</p>
+<p begin="29190003000t" end="29220005000t" xml:id="subtitle991">in an all-gay high school.</p>
+<p begin="29220005659t" end="29250008330t" xml:id="subtitle992">And the kids would taunt me<br/>and yell out things like,</p>
+<p begin="29250009000t" end="29270009660t" xml:id="subtitle993">"Hey, Zach. Where you going?<br/>To go get some pussy?"</p>
+<p begin="29280000330t" end="29300000330t" xml:id="subtitle994">(laughter)</p>
+<p begin="29340004330t" end="29370007330t" xml:id="subtitle995">I hate to be gross, but the only<br/>time it's good to yell out,</p>
+<p begin="29370008000t" end="29410006000t" xml:id="subtitle996">"I have diarrhea!" is when<br/>you're playing Scrabble.</p>
+<p begin="29460006000t" end="29500005330t" xml:id="subtitle997">Because it's worth<br/>a shitload of points.</p>
+<p begin="29540001330t" end="29560003660t" xml:id="subtitle998">I MapQuested<br/>my neighbor's house,</p>
+<p begin="29560004330t" end="29590005000t" xml:id="subtitle999">and it just said,<br/>"Stand up and turn around."</p>
+<p begin="29660003000t" end="29680009000t" xml:id="subtitle1000">That show,<span style="style1"> The Amazing Race--</span></p>
+<p begin="29680009660t" end="29700009660t" xml:id="subtitle1001">is that about white people?</p>
+<p begin="29940002000t" end="29970002330t" xml:id="subtitle1002">At what age do you tell<br/>a highway it was adopted?</p>
+<p begin="29970003000t" end="30000009330t" xml:id="subtitle1003">(laughter)</p>
+<p begin="30010000000t" end="30040002000t" xml:id="subtitle1004">I think around seven,<br/>because they start thinking,</p>
+<p begin="30040002660t" end="30070008000t" xml:id="subtitle1005">"I don't look<br/>like the Kiwanis Club."</p>
+<p begin="30070008660t" end="30090006330t" xml:id="subtitle1006">Guys, you know when</p>
+<p begin="30090007000t" end="30120000330t" xml:id="subtitle1007">you're giving your girlfriend<br/>oral pleasure,</p>
+<p begin="30120001000t" end="30140006330t" xml:id="subtitle1008">and you look up and she's<br/>reading<span style="style1"> The Economist?</span></p>
+<p begin="30190009660t" end="30230001330t" xml:id="subtitle1009">My girlfriend looks a little bit<br/>like Charlize Theron</p>
+<p begin="30230002000t" end="30250001660t" xml:id="subtitle1010">and a lot like Patrick Ewing.</p>
+<p begin="30250002330t" end="30270009660t" xml:id="subtitle1011">(laughter)</p>
+<p begin="30320001330t" end="30340000000t" xml:id="subtitle1012">I think that sign<br/>in neighborhoods,</p>
+<p begin="30340000660t" end="30360006000t" xml:id="subtitle1013">"Slow Children Playing"<br/>is so mean.</p>
+<p begin="30360006660t" end="30380006660t" xml:id="subtitle1014">(laughter)</p>
+<p begin="30480009330t" end="30520008000t" xml:id="subtitle1015">I went to my high school reunion<br/>not too long ago,</p>
+<p begin="30520008660t" end="30550004000t" xml:id="subtitle1016">and, uh...</p>
+<p begin="30550004660t" end="30580002330t" xml:id="subtitle1017">it was... it was...<br/>it was something else.</p>
+<p begin="30580003000t" end="30600000660t" xml:id="subtitle1018">It, um...</p>
+<p begin="30600001330t" end="30620004660t" xml:id="subtitle1019">Well, I was homeschooled.</p>
+<p begin="30620005330t" end="30640003000t" xml:id="subtitle1020">(laughter)</p>
+<p begin="30640003660t" end="30670004000t" xml:id="subtitle1021">So it was just me<br/>next to a bowl of punch</p>
+<p begin="30670004660t" end="30700006330t" xml:id="subtitle1022">listening to Kool &amp; the Gang.</p>
+<p begin="30700007000t" end="30730001000t" xml:id="subtitle1023">And I couldn't believe<br/>how fat I'd gotten.</p>
+<p begin="30730001660t" end="30740005659t" xml:id="subtitle1024">(laughter)</p>
+<p begin="30740006330t" end="30770003330t" xml:id="subtitle1025">My brother has A.D.D.,<br/>which is weird</p>
+<p begin="30770004000t" end="30790005330t" xml:id="subtitle1026">because he drives a Ford Focus.</p>
+<p begin="30790006000t" end="30800009330t" xml:id="subtitle1027">(laughter)</p>
+<p begin="30810000000t" end="30830004660t" xml:id="subtitle1028">I told my brother that joke<br/>and he didn't laugh,</p>
+<p begin="30830005330t" end="30850009000t" xml:id="subtitle1029">because he got distracted<br/>by a squirrel.</p>
+<p begin="30850009660t" end="30870009660t" xml:id="subtitle1030">(scattered laughing)</p>
+<p begin="30910003660t" end="30940003660t" xml:id="subtitle1031">♪ ♪</p>
+<p begin="31050002330t" end="31070006000t" xml:id="subtitle1032">♪ ♪</p>
+<p begin="31070006660t" end="31080006660t" xml:id="subtitle1033">Oh.</p>
+<p begin="31080007330t" end="31100007330t" xml:id="subtitle1034">♪ ♪</p>
+<p begin="31170000330t" end="31210007660t" xml:id="subtitle1035">(briefly plays theme from<span style="style1"> Close</span><br/><span style="style1">Encounters of the Third Kind)</span></p>
+<p begin="31210008330t" end="31250000000t" xml:id="subtitle1036">I once put an Altoid<br/>in my asshole.</p>
+<p begin="31250000660t" end="31270002660t" xml:id="subtitle1037">♪ ♪</p>
+<p begin="31270003330t" end="31290002660t" xml:id="subtitle1038">And... Oh, that's it.</p>
+<p begin="31290003330t" end="31310000660t" xml:id="subtitle1039">(laughter)</p>
+<p begin="31310001330t" end="31330001000t" xml:id="subtitle1040">♪ ♪</p>
+<p begin="31360004660t" end="31380005330t" xml:id="subtitle1041">I hate celebrities,<br/>all of them.</p>
+<p begin="31380006000t" end="31400005330t" xml:id="subtitle1042">♪ ♪</p>
+<p begin="31400006000t" end="31420005659t" xml:id="subtitle1043">I hate... I think<br/>that's the poison...</p>
+<p begin="31420006330t" end="31440008660t" xml:id="subtitle1044">Carl, actually, that's<br/>the other poison in this country</p>
+<p begin="31440009330t" end="31480005000t" xml:id="subtitle1045">besides the Bush administration,<br/>in my opinion...</p>
+<p begin="31480005659t" end="31500007330t" xml:id="subtitle1046">is the celebrity.</p>
+<p begin="31590001000t" end="31610001330t" xml:id="subtitle1047">I know the irony in saying that,</p>
+<p begin="31610002000t" end="31630003330t" xml:id="subtitle1048">when there are<br/>five cameras on me.</p>
+<p begin="31630004000t" end="31650005330t" xml:id="subtitle1049">(laughter)</p>
+<p begin="31650006000t" end="31680006660t" xml:id="subtitle1050">But somebody has<br/>to get the message out.</p>
+<p begin="31680007330t" end="31700007330t" xml:id="subtitle1051">(laughter)</p>
+<p begin="31720003330t" end="31750003330t" xml:id="subtitle1052">'Cause who gives a<span style="style1"> fuck?!</span></p>
+<p begin="31770002330t" end="31790006660t" xml:id="subtitle1053">(laughs)<br/>Okay, I can't do that anymore.</p>
+<p begin="31850005330t" end="31870008660t" xml:id="subtitle1054">Fuck most celebrities.</p>
+<p begin="31890000660t" end="31900009000t" xml:id="subtitle1055">(scattered laughing)</p>
+<p begin="31920001330t" end="31940003000t" xml:id="subtitle1056">I almost got<br/>fuckin'<span style="style1"> Kangaroo Jack.</span></p>
+<p begin="31940003660t" end="31950005000t" xml:id="subtitle1057">Almost.</p>
+<p begin="31950005659t" end="31970003000t" xml:id="subtitle1058">(laughter)</p>
+<p begin="31970003660t" end="31990003000t" xml:id="subtitle1059">Goddamn it!</p>
+<p begin="31990003660t" end="32010005330t" xml:id="subtitle1060">(laughter)</p>
+<p begin="32050007330t" end="32070002000t" xml:id="subtitle1061">If I'd got<span style="style1"> Kangaroo Jack,</span></p>
+<p begin="32070002660t" end="32100002330t" xml:id="subtitle1062">I wouldn't be singin'<br/>to fuckin' bald Carl here!</p>
+<p begin="32100003000t" end="32120003000t" xml:id="subtitle1063">(laughter)</p>
+<p begin="32140002330t" end="32160006000t" xml:id="subtitle1064">That would have been<br/>my ticket out!</p>
+<p begin="32160006660t" end="32190004000t" xml:id="subtitle1065">(laughter)</p>
+<p begin="32220006660t" end="32260006000t" xml:id="subtitle1066">No! Instead I got to sit here<br/>and entertain<span style="style1"> you </span>fucks!</p>
+<p begin="32260006660t" end="32280007000t" xml:id="subtitle1067">(laughter, whooping)</p>
+<p begin="32280007660t" end="32300007660t" xml:id="subtitle1068">I think you're pretty funny.</p>
+<p begin="32300008330t" end="32340007660t" xml:id="subtitle1069">Well, these things<br/>happen sometimes.</p>
+<p begin="32340008330t" end="32360008330t" xml:id="subtitle1070">What's it like...</p>
+<p begin="32360009000t" end="32390002660t" xml:id="subtitle1071">to come up with stuff like that?</p>
+<p begin="32390003330t" end="32400006330t" xml:id="subtitle1072">Great question.</p>
+<p begin="32400007000t" end="32420009000t" xml:id="subtitle1073">-I get this a lot.<br/>-Uh-huh.</p>
+<p begin="32420009660t" end="32450005659t" xml:id="subtitle1074">And if you weren't so fat,<br/>I would answer it.</p>
+<p begin="32450006330t" end="32480001000t" xml:id="subtitle1075">-(laughing)<br/>-William, not funny.</p>
+<p begin="32480001660t" end="32500003330t" xml:id="subtitle1076">Yeah, William!<br/>Why are you laughing at me?</p>
+<p begin="32500004000t" end="32520008330t" xml:id="subtitle1077">-Hey, fuck you! -Do you even<br/>know who the fuck I am, William?</p>
+<p begin="32520009000t" end="32550001000t" xml:id="subtitle1078">-No, I don't. -Do you even<br/>know who the fuck I am?!</p>
+<p begin="32550001660t" end="32570002000t" xml:id="subtitle1079">-Yes! Let it go!<br/>-So you'll just laugh at me</p>
+<p begin="32570002660t" end="32580008660t" xml:id="subtitle1080">because he makes a fat joke?</p>
+<p begin="32580009330t" end="32600007000t" xml:id="subtitle1081">Because you fuckin'<br/>love his shit?</p>
+<p begin="32600007660t" end="32630003000t" xml:id="subtitle1082">You don't even know<br/>who the fuck I am, William!</p>
+<p begin="32630003660t" end="32650001660t" xml:id="subtitle1083">So fuckin' shut up!</p>
+<p begin="32650002330t" end="32680001660t" xml:id="subtitle1084">Let's go to Speck's!</p>
+<p begin="32680002330t" end="32710000330t" xml:id="subtitle1085">Joe, that was<br/>really good facting.</p>
+<p begin="32730007000t" end="32760009000t" xml:id="subtitle1086">So, tonight I thought<br/>as a little, uh...</p>
+<p begin="32760009660t" end="32790008660t" xml:id="subtitle1087">if you'll just allow me<br/>to be a little self-indulgent,</p>
+<p begin="32790009330t" end="32830002330t" xml:id="subtitle1088">um, I thought that what<br/>I would do... (clears throat)</p>
+<p begin="32830003000t" end="32850009660t" xml:id="subtitle1089">is I would actually talk<br/>about my-my childhood.</p>
+<p begin="32860000330t" end="32890009660t" xml:id="subtitle1090">And, uh, it's kind of<br/>a performance piece,</p>
+<p begin="32900000330t" end="32920004000t" xml:id="subtitle1091">so, uh...</p>
+<p begin="32920004660t" end="32950008330t" xml:id="subtitle1092">uh, just, uh, sit back<br/>and this is the end of the show.</p>
+<p begin="32950009000t" end="32970005000t" xml:id="subtitle1093">Thank you very much for coming.</p>
+<p begin="32990009660t" end="33030006660t" xml:id="subtitle1094">(piano playing intro<br/>to "Greatest Love of All")</p>
+<p begin="33030007330t" end="33050006660t" xml:id="subtitle1095">(laughter)</p>
+<p begin="33160009660t" end="33180009660t" xml:id="subtitle1096">♪ ♪</p>
+<p begin="33260001000t" end="33300005330t" xml:id="subtitle1097">♪ I believe the children<br/>are our future ♪</p>
+<p begin="33300006000t" end="33340006000t" xml:id="subtitle1098">♪ Teach them well<br/>and let them lead the way ♪</p>
+<p begin="33340006660t" end="33400007330t" xml:id="subtitle1099">♪ Show them all the beauty<br/>they possess inside ♪</p>
+<p begin="33410008660t" end="33460008660t" xml:id="subtitle1100">♪ Give them a sense of pride ♪</p>
+<p begin="33460009330t" end="33490008330t" xml:id="subtitle1101">♪ To make it easier ♪</p>
+<p begin="33490009000t" end="33540006000t" xml:id="subtitle1102">♪ Let the children's laughter ♪</p>
+<p begin="33550006000t" end="33570006660t" xml:id="subtitle1103">♪ Remind us how ♪</p>
+<p begin="33570007330t" end="33600008000t" xml:id="subtitle1104">♪ We used to be ♪</p>
+<p begin="33600008660t" end="33650001000t" xml:id="subtitle1105">♪ Everybody's<br/>searching for a hero ♪</p>
+<p begin="33650001660t" end="33690004000t" xml:id="subtitle1106">♪ People need someone<br/>to look up to ♪</p>
+<p begin="33690004660t" end="33760001660t" xml:id="subtitle1107">♪ I never found anyone<br/>who fulfilled my needs ♪</p>
+<p begin="33760002330t" end="33780009000t" xml:id="subtitle1108">♪ A lonely place ♪</p>
+<p begin="33780009660t" end="33800005000t" xml:id="subtitle1109">♪ To be ♪</p>
+<p begin="33800005659t" end="33820006330t" xml:id="subtitle1110">♪ And so I learned ♪</p>
+<p begin="33820007000t" end="33850007330t" xml:id="subtitle1111">♪ To depend on me ♪</p>
+<p begin="33850008000t" end="33860008330t" xml:id="subtitle1112">♪ I decided ♪</p>
+<p begin="33860009000t" end="33890008660t" xml:id="subtitle1113">♪ Long ago ♪</p>
+<p begin="33890009330t" end="33940001660t" xml:id="subtitle1114">♪ Never to walk<br/>in anyone's shadow ♪</p>
+<p begin="33940002330t" end="33950007330t" xml:id="subtitle1115">♪ And if I fail ♪</p>
+<p begin="33950008000t" end="33970008000t" xml:id="subtitle1116">♪ If I succeed ♪</p>
+<p begin="33970008660t" end="34010006000t" xml:id="subtitle1117">♪ At least I live<br/>as I believe ♪</p>
+<p begin="34010006660t" end="34050009660t" xml:id="subtitle1118">♪ No matter what<br/>they take from me ♪</p>
+<p begin="34060000330t" end="34080000330t" xml:id="subtitle1119">♪ They can't take away ♪</p>
+<p begin="34080001000t" end="34110001000t" xml:id="subtitle1120">♪ My dignity ♪</p>
+<p begin="34110001660t" end="34120006660t" xml:id="subtitle1121">♪ Because ♪</p>
+<p begin="34120007330t" end="34160007000t" xml:id="subtitle1122">♪ The greatest ♪</p>
+<p begin="34160007660t" end="34180007000t" xml:id="subtitle1123">♪ Love of all ♪</p>
+<p begin="34180007660t" end="34240000330t" xml:id="subtitle1124">♪ Is happening to me... ♪</p>
+<p begin="34250008330t" end="34270007660t" xml:id="subtitle1125">♪ I found ♪</p>
+<p begin="34270008330t" end="34320002660t" xml:id="subtitle1126">♪ The greatest ♪</p>
+<p begin="34320003330t" end="34340003330t" xml:id="subtitle1127">♪ Love of all ♪</p>
+<p begin="34340004000t" end="34380001660t" xml:id="subtitle1128">♪ Inside of me ♪</p>
+<p begin="34380002330t" end="34410000660t" xml:id="subtitle1129">♪ The greatest ♪</p>
+<p begin="34410001330t" end="34460004660t" xml:id="subtitle1130">♪ Love of all ♪</p>
+<p begin="34460005330t" end="34500005330t" xml:id="subtitle1131">-(applause and cheering)<br/>-♪ Is easy to achieve ♪</p>
+<p begin="34540003660t" end="34570005659t" xml:id="subtitle1132">♪ Learning to love ♪</p>
+<p begin="34570006330t" end="34590006330t" xml:id="subtitle1133">♪ Yourself ♪</p>
+<p begin="34590007000t" end="34620003000t" xml:id="subtitle1134">♪ Is the greatest ♪</p>
+<p begin="34620003660t" end="34640001330t" xml:id="subtitle1135">♪ Love ♪</p>
+<p begin="34640002000t" end="34660002330t" xml:id="subtitle1136">♪ Of all ♪</p>
+<p begin="34660003000t" end="34740000000t" xml:id="subtitle1137">♪ And if by chance that<br/>special place ♪</p>
+<p begin="34740000660t" end="34800008000t" xml:id="subtitle1138">♪ That you've been dreaming of ♪</p>
+<p begin="34800008660t" end="34820006330t" xml:id="subtitle1139">(laughter)</p>
+<p begin="34820007000t" end="34890000660t" xml:id="subtitle1140">♪ Leads you to a lonely place ♪</p>
+<p begin="34890001330t" end="34920004660t" xml:id="subtitle1141">♪ Find your strength ♪</p>
+<p begin="34920005330t" end="34960003000t" xml:id="subtitle1142">-♪ In love. ♪<br/>-(whooping, cheering, applause)</p>
+<p begin="34990006660t" end="35010004330t" xml:id="subtitle1143">(song ends)</p>
+<p begin="35010005000t" end="35030007660t" xml:id="subtitle1144">(whooping, cheering,<br/>applause continue)</p>
+<p begin="35030008330t" end="35050004330t" xml:id="subtitle1145">My name is Zach Galifianakis.</p>
+<p begin="35050005000t" end="35090002000t" xml:id="subtitle1146">Thank you very much<br/>for coming out.</p>
+<p begin="35090002660t" end="35120005000t" xml:id="subtitle1147">Seth, thank you<br/>for being so open with us...</p>
+<p begin="35120005659t" end="35140009660t" xml:id="subtitle1148">and spending all your time<br/>with us this afternoon.</p>
+<p begin="35150000330t" end="35160008000t" xml:id="subtitle1149">I think we have<br/>a better understanding</p>
+<p begin="35160008660t" end="35180002000t" xml:id="subtitle1150">about your twin brother.</p>
+<p begin="35180002660t" end="35220001000t" xml:id="subtitle1151">And I hope that you can sort of<br/>mend the fence a little bit.</p>
+<p begin="35220001660t" end="35240003330t" xml:id="subtitle1152">-Maybe. Is that your hope?<br/>-Yeah. I hope so, too.</p>
+<p begin="35240004000t" end="35260003000t" xml:id="subtitle1153">That's... my goal in all this.</p>
+<p begin="35260003660t" end="35300002000t" xml:id="subtitle1154">Hopefully, he'll see the tape<br/>and the program, and he'll...</p>
+<p begin="35300002660t" end="35320001660t" xml:id="subtitle1155">he'll want<br/>to come to his senses,</p>
+<p begin="35320002330t" end="35330007000t" xml:id="subtitle1156">and I'll meet him halfway.</p>
+<p begin="35330007660t" end="35360003330t" xml:id="subtitle1157">It doesn't look like<br/>it's gonna happen, does it?</p>
+<p begin="35360004000t" end="35380002000t" xml:id="subtitle1158">I-I-I don't know.</p>
+<p begin="35380002660t" end="35410001660t" xml:id="subtitle1159">I think that this<br/>kind of thing is, uh...</p>
+<p begin="35410002330t" end="35440008330t" xml:id="subtitle1160">you know, maybe this is...<br/>he sees this as a reaching out.</p>
+<p begin="35440009000t" end="35450009660t" xml:id="subtitle1161">You know?</p>
+<p begin="35460000330t" end="35480004000t" xml:id="subtitle1162">Um... sometimes you<br/>got to reach around</p>
+<p begin="35480004660t" end="35510000000t" xml:id="subtitle1163">and, you know, and tug at it.</p>
+<p begin="35510000660t" end="35520005000t" xml:id="subtitle1164">♪ ♪</p>
+<p begin="35520005659t" end="35540009660t" xml:id="subtitle1165">BRIAN:<br/>Mm-hmm.</p>
+<p begin="35550000330t" end="35580000330t" xml:id="subtitle1166">♪ ♪</p>
+<p begin="36130004000t" end="36160004000t" xml:id="subtitle1167">♪ ♪</p>
+<p begin="36340004000t" end="36370004000t" xml:id="subtitle1168">♪ ♪</p>
+<p begin="36550007330t" end="36570007330t" xml:id="subtitle1169">(music fades)</p>
+</div>
+</body>
+</tt>

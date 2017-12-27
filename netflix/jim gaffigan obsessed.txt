@@ -1,0 +1,1548 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:textAlign="center" xml:id="style_0"/>
+<style tts:fontStyle="italic" xml:id="style_1"/>
+</styling>
+<layout>
+<region xml:id="Region_00">
+<style tts:textAlign="center"/>
+<style tts:displayAlign="after"/>
+<style tts:origin="10.00% 84.67%"/>
+<style tts:extent="80.00% 5.33%"/>
+</region>
+<region xml:id="Region_01">
+<style tts:textAlign="center"/>
+<style tts:displayAlign="before"/>
+<style tts:origin="10.00% 10.00%"/>
+<style tts:extent="80.00% 5.33%"/>
+</region>
+<region xml:id="Region_02">
+<style tts:textAlign="center"/>
+<style tts:displayAlign="before"/>
+<style tts:origin="10.00% 10.00%"/>
+<style tts:extent="80.00% 10.66%"/>
+</region>
+<region xml:id="Region_03">
+<style tts:textAlign="center"/>
+<style tts:displayAlign="after"/>
+<style tts:origin="10.00% 79.34%"/>
+<style tts:extent="80.00% 10.66%"/>
+</region>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="11261250t" end="23363340t" region="Region_00" xml:id="subtitle0"><span style="style_1">♪ Atten-hut! ♪</span></p>
+<p begin="124714589t" end="143483340t" region="Region_00" xml:id="subtitle1"><span style="style_1">♪ Atten-hut! ♪</span></p>
+<p begin="237747509t" end="254003749t" region="Region_00" xml:id="subtitle2"><span style="style_1">♪ Atten-hut! ♪</span></p>
+<p begin="350350000t" end="367036670t" region="Region_01" xml:id="subtitle3">[cheers and applause]</p>
+<p begin="379559180t" end="415425010t" region="Region_02" xml:id="subtitle4">[male announcer] Ladies and gentlemen,<br/>Jim Gaffigan.</p>
+<p begin="418758340t" end="459639179t" region="Region_00" xml:id="subtitle5">[cheers and applause]</p>
+<p begin="475064589t" end="489669179t" region="Region_00" xml:id="subtitle6">Thank you!</p>
+<p begin="496335839t" end="513012499t" region="Region_00" xml:id="subtitle7">Thank you!</p>
+<p begin="515935419t" end="548888340t" region="Region_00" xml:id="subtitle8">Thank you! Thank you!</p>
+<p begin="549729180t" end="581410830t" region="Region_00" xml:id="subtitle9">Oh, that is so insincere.</p>
+<p begin="591841250t" end="616035420t" region="Region_00" xml:id="subtitle10">All I did was walk from over there</p>
+<p begin="616876260t" end="645234590t" region="Region_00" xml:id="subtitle11">and act like I'm not out of breath.</p>
+<p begin="653572920t" end="679859180t" region="Region_00" xml:id="subtitle12">What is that, like five feet?</p>
+<p begin="686525840t" end="721140420t" region="Region_03" xml:id="subtitle13">It is good to be here in Boston.<br/>Thank you for coming out.</p>
+<p begin="721971250t" end="738657920t" region="Region_00" xml:id="subtitle14">[cheers and applause]</p>
+<p begin="739498760t" end="763682920t" region="Region_00" xml:id="subtitle15">Excited to be here.</p>
+<p begin="782031250t" end="823322500t" region="Region_03" xml:id="subtitle16">I don't know if you can tell<br/>by my beard, but I'm fat.</p>
+<p begin="835845010t" end="854603749t" region="Region_00" xml:id="subtitle17">I don't know what happened.</p>
+<p begin="858777919t" end="897156259t" region="Region_03" xml:id="subtitle18">All I did was eat constantly,<br/>and then, boom.</p>
+<p begin="897987089t" end="908417509t" region="Region_00" xml:id="subtitle19">I'm fat.</p>
+<p begin="915084169t" end="932181249t" region="Region_00" xml:id="subtitle20">It seems unfair.</p>
+<p begin="940119179t" end="957626669t" region="Region_00" xml:id="subtitle21">I can't stop eating.</p>
+<p begin="961380419t" end="996835839t" region="Region_03" xml:id="subtitle22">I can't.<br/>I haven't been hungry in, like, 12 years.</p>
+<p begin="1004343339t" end="1048557509t" region="Region_03" xml:id="subtitle23">I'm like, "Oh, I'm so full.<br/>I guess I'll have some cheese.</p>
+<p begin="1070249179t" end="1112361250t" region="Region_03" xml:id="subtitle24">I don't even like this cheese.<br/>Guess I'll finish it.</p>
+<p begin="1126135010t" end="1142391250t" region="Region_00" xml:id="subtitle25">Maybe this will make me hungry."</p>
+<p begin="1143232090t" end="1173262090t" region="Region_03" xml:id="subtitle26">Do you ever tell yourself that?<br/>Maybe this will make me hungry.</p>
+<p begin="1174092920t" end="1194112920t" region="Region_00" xml:id="subtitle27">It's either that or feel my feelings.</p>
+<p begin="1210799590t" end="1233732500t" region="Region_03" xml:id="subtitle28">You know what,<br/>you're only eating your feelings.</p>
+<p begin="1234573340t" end="1264603340t" region="Region_03" xml:id="subtitle29">Yeah, but they're delicious.<br/>I can't stop eat--</p>
+<p begin="1265434170t" end="1283782500t" region="Region_00" xml:id="subtitle30">You ever look at medication that says,</p>
+<p begin="1284623340t" end="1305053750t" region="Region_00" xml:id="subtitle31">"Don't take on an empty stomach"?</p>
+<p begin="1305894590t" end="1323412090t" region="Region_00" xml:id="subtitle32">Never a concern of mine.</p>
+<p begin="1333422090t" end="1352180830t" region="Region_00" xml:id="subtitle33">Doesn't apply to me.</p>
+<p begin="1354693340t" end="1374292920t" region="Region_00" xml:id="subtitle34">You're not supposed to go swimming till--</p>
+<p begin="1375123750t" end="1397656260t" region="Region_00" xml:id="subtitle35">technically I should never go swimming.</p>
+<p begin="1412240830t" end="1444362920t" region="Region_03" xml:id="subtitle36">Like, if you saw me in a pool,<br/>you'd be like, "Arrest that man!</p>
+<p begin="1454793340t" end="1477736260t" region="Region_00" xml:id="subtitle37">And tell him not to wear a Speedo."</p>
+<p begin="1482731250t" end="1499417920t" region="Region_00" xml:id="subtitle38">I don't need that image.</p>
+<p begin="1511099590t" end="1537375840t" region="Region_00" xml:id="subtitle39">I used to be thin, when I was six.</p>
+<p begin="1555724170t" end="1583251670t" region="Region_03" xml:id="subtitle40">I've put on some weight, but<br/>luckily, this is intentional.</p>
+<p begin="1584082500t" end="1602430830t" region="Region_00" xml:id="subtitle41">I don't want to brag or anything,</p>
+<p begin="1603271670t" end="1637475840t" region="Region_00" xml:id="subtitle42">but I'm preparing for kind of a big role.</p>
+<p begin="1638306670t" end="1652480830t" region="Region_00" xml:id="subtitle43">It's a cinnamon roll.</p>
+<p begin="1675423750t" end="1695864169t" region="Region_03" xml:id="subtitle44">I don't want to look<br/>like I can't finish it.</p>
+<p begin="1696705009t" end="1710048339t" region="Region_00" xml:id="subtitle45">You know what I mean?</p>
+<p begin="1713802089t" end="1733822089t" region="Region_00" xml:id="subtitle46">Once after a show, a woman came up to me,</p>
+<p begin="1734652919t" end="1760098339t" region="Region_00" xml:id="subtitle47">and she was like, "You're not that fat,"</p>
+<p begin="1760939179t" end="1778036259t" region="Region_00" xml:id="subtitle48">like it was a compliment.</p>
+<p begin="1788877089t" end="1833081249t" region="Region_03" xml:id="subtitle49">I was like, "Well, thank you.<br/>You're not that polite."</p>
+<p begin="1846434589t" end="1856865009t" region="Region_00" xml:id="subtitle50">But I am fat.</p>
+<p begin="1857695839t" end="1879387509t" region="Region_03" xml:id="subtitle51">You know, some people<br/>should be fat, you know.</p>
+<p begin="1880218339t" end="1903571669t" region="Region_03" xml:id="subtitle52">We all have that friend<br/>who's lost tons of weight.</p>
+<p begin="1904402499t" end="1921509589t" region="Region_00" xml:id="subtitle53">And when you see them, you think,</p>
+<p begin="1922340419t" end="1939447509t" region="Region_00" xml:id="subtitle54">"You looked better fat.</p>
+<p begin="1954452499t" end="1981979999t" region="Region_00" xml:id="subtitle55">You're thin, but you look exhausted.</p>
+<p begin="1988656669t" end="2008266259t" region="Region_00" xml:id="subtitle56">Go back to being fat.</p>
+<p begin="2014102089t" end="2039127089t" region="Region_00" xml:id="subtitle57">Looking at you makes me want to sit down."</p>
+<p begin="2050808759t" end="2075823749t" region="Region_00" xml:id="subtitle58">"Nothing tastes as good as thin."</p>
+<p begin="2079587509t" end="2101689589t" region="Region_00" xml:id="subtitle59">I can think of a thousand things.</p>
+<p begin="2112530419t" end="2152570420t" region="Region_03" xml:id="subtitle60">Even unsalted French fries<br/>taste better than thin.</p>
+<p begin="2157165010t" end="2176344170t" region="Region_00" xml:id="subtitle61">You ever eat fries without salt on them?</p>
+<p begin="2177185010t" end="2200958760t" region="Region_03" xml:id="subtitle62">You're like,<br/>"Huh, these could use some salt,</p>
+<p begin="2205543340t" end="2228896670t" region="Region_03" xml:id="subtitle63">but that would mean<br/>I'd have to get up and move.</p>
+<p begin="2229737510t" end="2242240000t" region="Region_00" xml:id="subtitle64">[audience laughing]</p>
+<p begin="2243491250t" end="2267275010t" region="Region_00" xml:id="subtitle65">I'll just imagine there's salt on them."</p>
+<p begin="2273941670t" end="2286874590t" region="Region_00" xml:id="subtitle66">Feels like a sacrifice.</p>
+<p begin="2287705420t" end="2306894590t" region="Region_00" xml:id="subtitle67">You're like, "What am I? A pioneer here?</p>
+<p begin="2317325010t" end="2344011670t" region="Region_03" xml:id="subtitle68">"Sucking it up. I should be<br/>on that show <span style="style_1">Survivor.</span></p>
+<p begin="2351529180t" end="2375713340t" region="Region_00" xml:id="subtitle69">Once I had fries without salt on them,</p>
+<p begin="2376544170t" end="2396564170t" region="Region_03" xml:id="subtitle70">so I could probably<br/>live anywhere, really."</p>
+<p begin="2397815420t" end="2417004590t" region="Region_00" xml:id="subtitle71">[audience laughing]</p>
+<p begin="2418255840t" end="2444111670t" region="Region_03" xml:id="subtitle72">I just wish I wanted<br/>to eat something healthy.</p>
+<p begin="2444942500t" end="2470387920t" region="Region_03" xml:id="subtitle73">Recently, I saw an apple,<br/>and for a moment--</p>
+<p begin="2471228760t" end="2503751250t" region="Region_03" xml:id="subtitle74">just--just a moment--<br/>I didn't recognize it.</p>
+<p begin="2513761250t" end="2547555010t" region="Region_03" xml:id="subtitle75">I was like, "What is that?<br/>Oh, that's an apple!</p>
+<p begin="2555052500t" end="2585082500t" region="Region_00" xml:id="subtitle76">It's so weird to not see it in a pie."</p>
+<p begin="2600938340t" end="2635552920t" region="Region_00" xml:id="subtitle77">But fruit. No one really wants fruit.</p>
+<p begin="2636383750t" end="2657244590t" region="Region_00" xml:id="subtitle78">It's too much work with fruit, right?</p>
+<p begin="2658075420t" end="2673921250t" region="Region_00" xml:id="subtitle79">You've got to wash it.</p>
+<p begin="2674762090t" end="2709376670t" region="Region_03" xml:id="subtitle80">You've got to peel off that<br/>sticker Al-Qaeda put on there.</p>
+<p begin="2719386670t" end="2745662920t" region="Region_00" xml:id="subtitle81">There's work, like an orange...</p>
+<p begin="2746493750t" end="2776113340t" region="Region_03" xml:id="subtitle82">Has peeling an orange ever<br/>really been worth it?</p>
+<p begin="2782369590t" end="2804892090t" region="Region_00" xml:id="subtitle83">There's not even chocolate in this.</p>
+<p begin="2830747920t" end="2844091250t" region="Region_00" xml:id="subtitle84">And some weirdos that use</p>
+<p begin="2844932090t" end="2868705840t" region="Region_00" xml:id="subtitle85">the gathering of fruit as an activity.</p>
+<p begin="2873700830t" end="2896643750t" region="Region_00" xml:id="subtitle86">"Why don't we go apple picking?"</p>
+<p begin="2897484590t" end="2919176260t" region="Region_00" xml:id="subtitle87">"'Cause I'd rather die."</p>
+<p begin="2939606670t" end="2961718760t" region="Region_00" xml:id="subtitle88">You have to pay to pick apples.</p>
+<p begin="2965462500t" end="2998005010t" region="Region_03" xml:id="subtitle89">OK, how much do I owe you<br/>to work for you for free?</p>
+<p begin="3016353340t" end="3038455420t" region="Region_00" xml:id="subtitle90">Don't rip me off. I'm no dummy.</p>
+<p begin="3072249180t" end="3098935840t" region="Region_03" xml:id="subtitle91">Yet we still act excited<br/>when we see fruit.</p>
+<p begin="3099766670t" end="3116453340t" region="Region_00" xml:id="subtitle92">We're like, "Yay, fruit!"</p>
+<p begin="3119786670t" end="3141057920t" region="Region_00" xml:id="subtitle93">At least it's not vegetables.</p>
+<p begin="3155242090t" end="3174000830t" region="Region_00" xml:id="subtitle94">'Cause no one wants vegetables.</p>
+<p begin="3174841670t" end="3210717510t" region="Region_03" xml:id="subtitle95">When you're at a party and they have<br/>a vegetable tray, aren't you surprised?</p>
+<p begin="3211548340t" end="3237404170t" region="Region_03" xml:id="subtitle96">You're like,<br/>"Wow. That's a waste of money.</p>
+<p begin="3248255010t" end="3269105840t" region="Region_00" xml:id="subtitle97">Hell, I'd rather eat a candle."</p>
+<p begin="3282459180t" end="3310817510t" region="Region_03" xml:id="subtitle98">Oh, suddenly I'm the only one<br/>here that's eaten a candle.</p>
+<p begin="3317904590t" end="3337924590t" region="Region_00" xml:id="subtitle99">OK, everybody.</p>
+<p begin="3351688340t" end="3372128759t" region="Region_00" xml:id="subtitle100">No one wants a vegetable tray.</p>
+<p begin="3372959589t" end="3391728339t" region="Region_00" xml:id="subtitle101">Everyone knows<span style="style_1"> "crudite"</span> is French</p>
+<p begin="3392569179t" end="3411327919t" region="Region_00" xml:id="subtitle102">for "throw away in a couple hours."</p>
+<p begin="3412168759t" end="3428845419t" region="Region_00" xml:id="subtitle103">[audience laughing]</p>
+<p begin="3442619179t" end="3464290829t" region="Region_03" xml:id="subtitle104">I feel sorry<br/>for those vegetables on the tray.</p>
+<p begin="3465131669t" end="3493079589t" region="Region_00" xml:id="subtitle105">They're like, "What am I doing here?</p>
+<p begin="3497243749t" end="3526863339t" region="Region_00" xml:id="subtitle106">I can't compete with pigs in a blanket.</p>
+<p begin="3534781249t" end="3563149589t" region="Region_00" xml:id="subtitle107">I'm a cauliflower, for God's sakes.</p>
+<p begin="3572328759t" end="3599856259t" region="Region_00" xml:id="subtitle108">Like that ranch dressing's gonna help?"</p>
+<p begin="3609866259t" end="3620286669t" region="Region_00" xml:id="subtitle109">Ranch dressing.</p>
+<p begin="3621127509t" end="3651567919t" region="Region_03" xml:id="subtitle110">Some of us have to settle down<br/>with the ranch dressing.</p>
+<p begin="3659916259t" end="3682859179t" region="Region_00" xml:id="subtitle111">The usage is ridiculous.</p>
+<p begin="3686182499t" end="3699956259t" region="Region_00" xml:id="subtitle112">"I love ranch dressing.</p>
+<p begin="3700787089t" end="3725391669t" region="Region_00" xml:id="subtitle113">I like to dip my pizza in ranch dressing."</p>
+<p begin="3730817089t" end="3757503749t" region="Region_03" xml:id="subtitle114">That's fine. You're just not allowed<br/>to vote anymore.</p>
+<p begin="3772108339t" end="3803799999t" region="Region_03" xml:id="subtitle115">'Cause ranch dress--<br/>You know how they make ranch dressing?</p>
+<p begin="3804630829t" end="3823409589t" region="Region_00" xml:id="subtitle116">Buttermilk and sadness.</p>
+<p begin="3839675839t" end="3856772919t" region="Region_00" xml:id="subtitle117">That's the only ingredients.</p>
+<p begin="3870536669t" end="3898905009t" region="Region_03" xml:id="subtitle118">Interesting fact.<br/>Before they came up with ranch dressing,</p>
+<p begin="3899735839t" end="3924340419t" region="Region_00" xml:id="subtitle119">no one had eaten a raw vegetable ever.</p>
+<p begin="3941447509t" end="3959375419t" region="Region_00" xml:id="subtitle120">But we know we don't want vegetables.</p>
+<p begin="3960216259t" end="3988995009t" region="Region_03" xml:id="subtitle121">But we haven't wanted fruit<br/>for hundreds of years.</p>
+<p begin="3989825839t" end="4031947919t" region="Region_03" xml:id="subtitle122">That's why there's so many paintings<br/>in museums of just bowls of fruit.</p>
+<p begin="4037783749t" end="4060316259t" region="Region_03" xml:id="subtitle123">'Cause you could start<br/>painting a bowl of fruit.</p>
+<p begin="4061147089t" end="4091177089t" region="Region_03" xml:id="subtitle124">You could leave<br/>for a couple days, come back.</p>
+<p begin="4092007919t" end="4113699589t" region="Region_03" xml:id="subtitle125">No one would have touched<br/>the bowl of fruit.</p>
+<p begin="4131637509t" end="4148314169t" region="Region_00" xml:id="subtitle126">But if you're painting a donut,</p>
+<p begin="4157072919t" end="4179185009t" region="Region_00" xml:id="subtitle127">you better finish it on the first sitting.</p>
+<p begin="4186272089t" end="4204199999t" region="Region_00" xml:id="subtitle128">You can't even take a bathroom break.</p>
+<p begin="4205030829t" end="4229235009t" region="Region_00" xml:id="subtitle129">"Hey! What happened to my donut?"</p>
+<p begin="4230065839t" end="4268434169t" region="Region_03" xml:id="subtitle130">Your friends say, [imitates full mouth]<br/>"I don't know. Some fat guy came in here.</p>
+<p begin="4269275009t" end="4292628339t" region="Region_03" xml:id="subtitle131">Anyway, I gotta get some milk<br/>and take a nap."</p>
+<p begin="4305971670t" end="4323909590t" region="Region_00" xml:id="subtitle132">That's why there's no donut art.</p>
+<p begin="4326822500t" end="4338504170t" region="Region_00" xml:id="subtitle133">It's sad, really.</p>
+<p begin="4351016670t" end="4374790420t" region="Region_03" xml:id="subtitle134">When's the last time you saw<br/>a painting of a donut?</p>
+<p begin="4393148760t" end="4410666260t" region="Region_00" xml:id="subtitle135">The police, they love donuts, right?</p>
+<p begin="4411497090t" end="4446532090t" region="Region_03" xml:id="subtitle136">Hey, cop. Why don't you get a donut?<br/>Cops love donuts.</p>
+<p begin="4447362920t" end="4467803340t" region="Region_00" xml:id="subtitle137">Which is an interesting stereotype,</p>
+<p begin="4468634170t" end="4497833340t" region="Region_03" xml:id="subtitle138">because you know who else loves donuts?<br/>Absolutely everyone.</p>
+<p begin="4511176670t" end="4529535010t" region="Region_00" xml:id="subtitle139">Of course cops love donuts,</p>
+<p begin="4530365840t" end="4560395840t" region="Region_03" xml:id="subtitle140">'cause they know the difference<br/>between right and wrong.</p>
+<p begin="4571236670t" end="4602517920t" region="Region_00" xml:id="subtitle141">And not liking donuts is wrong!</p>
+<p begin="4605430830t" end="4629635010t" region="Region_03" xml:id="subtitle142">Have you ever met someone<br/>that doesn't like a donut?</p>
+<p begin="4630465840t" end="4652157510t" region="Region_03" xml:id="subtitle143">You want to know why?<br/>Because they're in jail.</p>
+<p begin="4682187510t" end="4708874170t" region="Region_03" xml:id="subtitle144">When you're in a donut shop<br/>and you see a police officer,</p>
+<p begin="4709715010t" end="4733068340t" region="Region_03" xml:id="subtitle145">don't you feel like<br/>something special's happened?</p>
+<p begin="4733909180t" end="4764760000t" region="Region_00" xml:id="subtitle146">[gasps] An angel just got its wings.</p>
+<p begin="4787282500t" end="4806892090t" region="Region_00" xml:id="subtitle147">It's special.</p>
+<p begin="4825240420t" end="4856521670t" region="Region_03" xml:id="subtitle148">[chuckling] I had a donut<br/>before I came onstage.</p>
+<p begin="4874459590t" end="4889054170t" region="Region_00" xml:id="subtitle149">I was with a friend last week.</p>
+<p begin="4889895010t" end="4912417510t" region="Region_03" xml:id="subtitle150">I was like, "You want to get a donut?"<br/>He was like, "I'm not hungry."</p>
+<p begin="4913248340t" end="4934930000t" region="Region_03" xml:id="subtitle151">I'm like, "What does that<br/>have to do with it?"</p>
+<p begin="4954129180t" end="4986651670t" region="Region_03" xml:id="subtitle152">As if there's ever been<br/>a good reason to eat a donut.</p>
+<p begin="4987482500t" end="5022107090t" region="Region_03" xml:id="subtitle153">Well, doctor says I need<br/>more powdered sugar in my diet.</p>
+<p begin="5039624590t" end="5063398340t" region="Region_00" xml:id="subtitle154">Donuts are bad for you,</p>
+<p begin="5064239180t" end="5083418340t" region="Region_00" xml:id="subtitle155">and according to my health nut wife,</p>
+<p begin="5084259180t" end="5127212090t" region="Region_03" xml:id="subtitle156">they're "not appropriate<br/>for a trail mix," you know.</p>
+<p begin="5128042920t" end="5156401250t" region="Region_00" xml:id="subtitle157">I'm just on a different trail, right?</p>
+<p begin="5163918760t" end="5187682500t" region="Region_00" xml:id="subtitle158">Mine leads to the emergency room.</p>
+<p begin="5198112920t" end="5233147920t" region="Region_03" xml:id="subtitle159">That joke will be even funnier<br/>when I die from cardiac arrest.</p>
+<p begin="5246070830t" end="5263598340t" region="Region_00" xml:id="subtitle160">"That's why I didn't laugh."</p>
+<p begin="5271936670t" end="5289454170t" region="Region_00" xml:id="subtitle161">Donuts are all about taste.</p>
+<p begin="5290295010t" end="5326991670t" region="Region_03" xml:id="subtitle162">In Los Angeles, there's a place<br/>called Yum Yum Donuts.</p>
+<p begin="5330745420t" end="5367452090t" region="Region_03" xml:id="subtitle163">It's like, what? Do you need<br/>the IQ of one to find that appealing?</p>
+<p begin="5369954590t" end="5381215840t" region="Region_00" xml:id="subtitle164">Yum Yum?</p>
+<p begin="5395390000t" end="5414589180t" region="Region_00" xml:id="subtitle165">Me like yum yum.</p>
+<p begin="5422927510t" end="5451285840t" region="Region_03" xml:id="subtitle166">It's like,<br/>who's the target audience, cavemen?</p>
+<p begin="5454208760t" end="5469213750t" region="Region_00" xml:id="subtitle167">I know two thing.</p>
+<p begin="5470054590t" end="5506330830t" region="Region_03" xml:id="subtitle168">Yellow fireball rise in sky<br/>and Yum Yum Donuts.</p>
+<p begin="5514689180t" end="5538452920t" region="Region_00" xml:id="subtitle169">Yum Yum Donuts, yum yum.</p>
+<p begin="5557642090t" end="5572657090t" region="Region_00" xml:id="subtitle170">Now there's gourmet donuts</p>
+<p begin="5573487920t" end="5597261670t" region="Region_00" xml:id="subtitle171">that are deep-fried in gold.</p>
+<p begin="5605600000t" end="5635219590t" region="Region_03" xml:id="subtitle172">I had a gourmet donut.<br/>I didn't realize it was a gourmet donut.</p>
+<p begin="5636050420t" end="5663998340t" region="Region_03" xml:id="subtitle173">I just pointed at a donut,<br/>and the donut guy started ringing it up.</p>
+<p begin="5664839180t" end="5682767090t" region="Region_00" xml:id="subtitle174">He was like, "That'll be $3.99."</p>
+<p begin="5683597920t" end="5699033340t" region="Region_00" xml:id="subtitle175">I was like, "I only want one of them."</p>
+<p begin="5704038340t" end="5724058340t" region="Region_03" xml:id="subtitle176">He was like, "That is the price<br/>of one of them."</p>
+<p begin="5724899180t" end="5743657920t" region="Region_00" xml:id="subtitle177">Then there was this long, awkward pause</p>
+<p begin="5744498760t" end="5776190420t" region="Region_03" xml:id="subtitle178">where I waited for him<br/>to lean forward and go, "Just kidding."</p>
+<p begin="5779944170t" end="5794548760t" region="Region_00" xml:id="subtitle179">But he didn't.</p>
+<p begin="5795379590t" end="5817061250t" region="Region_03" xml:id="subtitle180">He just looked at me like,<br/>"Got you, tubby,"</p>
+<p begin="5839173340t" end="5860024170t" region="Region_00" xml:id="subtitle181">because he knew I'd pay</p>
+<p begin="5863777920t" end="5886710830t" region="Region_00" xml:id="subtitle182">because I was in a donut shop.</p>
+<p begin="5889633750t" end="5916740830t" region="Region_03" xml:id="subtitle183">It's not like I was there<br/>to buy a yoga mat.</p>
+<p begin="5932186260t" end="5971385420t" region="Region_03" xml:id="subtitle184">Boston, this is like donut<br/>ground zero, right?</p>
+<p begin="5978062090t" end="6001415420t" region="Region_00" xml:id="subtitle185">Dunkies, Dunkies!</p>
+<p begin="6002256260t" end="6022686670t" region="Region_00" xml:id="subtitle186">[cheers and applause]</p>
+<p begin="6030194170t" end="6051885840t" region="Region_03" xml:id="subtitle187">I don't know,<br/>I always eat the local specialty</p>
+<p begin="6052716670t" end="6064818760t" region="Region_00" xml:id="subtitle188">because I'm a pig.</p>
+<p begin="6076070000t" end="6096090000t" region="Region_03" xml:id="subtitle189">I did this big tour<br/>of the southern states,</p>
+<p begin="6096920830t" end="6110274170t" region="Region_00" xml:id="subtitle190">and I'll tell you something.</p>
+<p begin="6111115010t" end="6133637510t" region="Region_00" xml:id="subtitle191">People in the South are nicer. They are.</p>
+<p begin="6134468340t" end="6154908760t" region="Region_03" xml:id="subtitle192">Even when they're rude,<br/>they're nice in the South.</p>
+<p begin="6155739590t" end="6173677510t" region="Region_00" xml:id="subtitle193">They're like, "Y'all can go to hell."</p>
+<p begin="6174928760t" end="6210794590t" region="Region_00" xml:id="subtitle194">You're like, "Well, thank you. You too."</p>
+<p begin="6224558340t" end="6247911670t" region="Region_03" xml:id="subtitle195">People in the South are nicer,<br/>but they're slower, right?</p>
+<p begin="6248742500t" end="6263347090t" region="Region_00" xml:id="subtitle196">And I don't mean intelligence-wise.</p>
+<p begin="6264177920t" end="6278772500t" region="Region_00" xml:id="subtitle197">They just move slower.</p>
+<p begin="6279613340t" end="6295879590t" region="Region_00" xml:id="subtitle198">It's like, "Hey, your house is on fire."</p>
+<p begin="6296710420t" end="6308802500t" region="Region_00" xml:id="subtitle199">"All right.</p>
+<p begin="6319232920t" end="6337581250t" region="Region_00" xml:id="subtitle200">I'll get to that.</p>
+<p begin="6347591250t" end="6382215840t" region="Region_03" xml:id="subtitle201">But first, I need to drink me<br/>some sweet tea.</p>
+<p begin="6388882500t" end="6415168760t" region="Region_03" xml:id="subtitle202">Then I'll deal<br/>with that pesky house of mine."</p>
+<p begin="6420584170t" end="6431435010t" region="Region_00" xml:id="subtitle203">And I figured it out.</p>
+<p begin="6432265840t" end="6451455010t" region="Region_00" xml:id="subtitle204">It's the biscuits and gravy.</p>
+<p begin="6459372920t" end="6489823340t" region="Region_03" xml:id="subtitle205">Everyone in the South moves like<br/>they've just had two helpings.</p>
+<p begin="6490654170t" end="6529022500t" region="Region_03" xml:id="subtitle206">They're like, "I shouldn't have<br/>had that second helping of..."</p>
+<p begin="6529863340t" end="6553216670t" region="Region_03" xml:id="subtitle207">This is a nine-year-old<br/>I'm pretending to be.</p>
+<p begin="6554057510t" end="6579072500t" region="Region_00" xml:id="subtitle208">"Of biscuits and gra--"</p>
+<p begin="6579913340t" end="6593256670t" region="Region_00" xml:id="subtitle209">In the South, they're eating</p>
+<p begin="6594097510t" end="6622035420t" region="Region_00" xml:id="subtitle210">biscuits and gravy for breakfast.</p>
+<p begin="6622876260t" end="6643727090t" region="Region_03" xml:id="subtitle211">They're not coming home<br/>drunk late at night,</p>
+<p begin="6644557920t" end="6670834170t" region="Region_00" xml:id="subtitle212">like, "I'll eat anything."</p>
+<p begin="6671675010t" end="6704207510t" region="Region_03" xml:id="subtitle213">They're waking up, and they're<br/>like, "Time for cement."</p>
+<p begin="6705038340t" end="6728391669t" region="Region_00" xml:id="subtitle214">[chomping]</p>
+<p begin="6729222499t" end="6755508759t" region="Region_00" xml:id="subtitle215">Lunch, chicken and waffles.</p>
+<p begin="6756339589t" end="6775108339t" region="Region_00" xml:id="subtitle216">The South will never rise again</p>
+<p begin="6775949179t" end="6796379589t" region="Region_00" xml:id="subtitle217">'cause they don't have the energy.</p>
+<p begin="6797210419t" end="6818061249t" region="Region_00" xml:id="subtitle218">[laughter and applause]</p>
+<p begin="6818902089t" end="6856849999t" region="Region_03" xml:id="subtitle219">Because most of their dishes<br/>involve papier-mache.</p>
+<p begin="6858101249t" end="6870203339t" region="Region_00" xml:id="subtitle220">[cheers and applause]</p>
+<p begin="6871454589t" end="6906899999t" region="Region_03" xml:id="subtitle221">They're essentially eating<br/>pinatas down there.</p>
+<p begin="6920253339t" end="6941104169t" region="Region_00" xml:id="subtitle222">That's why they talk that way.</p>
+<p begin="6945698759t" end="6966959999t" region="Region_00" xml:id="subtitle223">Because after you eat biscuits and gravy,</p>
+<p begin="6967790829t" end="7002835839t" region="Region_03" xml:id="subtitle224">you can't be expected<br/>to say "you" and "all."</p>
+<p begin="7018681669t" end="7044957919t" region="Region_00" xml:id="subtitle225">"Good biscuits and gravy, y'all."</p>
+<p begin="7048711669t" end="7072485419t" region="Region_03" xml:id="subtitle226">I'm surprised they even say<br/>"biscuits and gravy."</p>
+<p begin="7073326259t" end="7092925839t" region="Region_00" xml:id="subtitle227">[speaks gibberish]</p>
+<p begin="7107099999t" end="7120453339t" region="Region_00" xml:id="subtitle228">y'all.</p>
+<p begin="7132135009t" end="7163416259t" region="Region_03" xml:id="subtitle229">And I'll tell you something.<br/>Those biscuits and gravy are amazing.</p>
+<p begin="7164247089t" end="7184267089t" region="Region_00" xml:id="subtitle230">I had biscuits and gravy for breakfast</p>
+<p begin="7185097919t" end="7206789589t" region="Region_00" xml:id="subtitle231">for nine days straight.</p>
+<p begin="7209702499t" end="7229312089t" region="Region_00" xml:id="subtitle232">I still haven't gone to the bathroom.</p>
+<p begin="7243906669t" end="7268511249t" region="Region_00" xml:id="subtitle233">That tour was 27 years ago.</p>
+<p begin="7312725419t" end="7328150829t" region="Region_00" xml:id="subtitle234">I love Southern food.</p>
+<p begin="7328991669t" end="7346519179t" region="Region_00" xml:id="subtitle235">Chicken and waffles.</p>
+<p begin="7349011669t" end="7384887509t" region="Region_00" xml:id="subtitle236">Fried chicken and waffles.</p>
+<p begin="7397810419t" end="7409071669t" region="Region_00" xml:id="subtitle237">Why?</p>
+<p begin="7420753339t" end="7448691249t" region="Region_03" xml:id="subtitle238">What should we serve<br/>with the fried chicken? French fries?</p>
+<p begin="7449532089t" end="7468711249t" region="Region_00" xml:id="subtitle239">No, something elegant.</p>
+<p begin="7489572089t" end="7504587089t" region="Region_00" xml:id="subtitle240">Like a waffle</p>
+<p begin="7511674169t" end="7524186669t" region="Region_00" xml:id="subtitle241">or a gyro</p>
+<p begin="7534196669t" end="7545878339t" region="Region_00" xml:id="subtitle242">or heroin.</p>
+<p begin="7562144589t" end="7604266669t" region="Region_03" xml:id="subtitle243">I know it's lunch, but I want<br/>breakfast and diabetes,</p>
+<p begin="7615117509t" end="7647229589t" region="Region_03" xml:id="subtitle244">so I'll have the chicken<br/>and waffles and a shake.</p>
+<p begin="7662244589t" end="7699361669t" region="Region_03" xml:id="subtitle245">Of course, you can't talk about Southern<br/>food without bringing up grits, right?</p>
+<p begin="7700192499t" end="7714797089t" region="Region_00" xml:id="subtitle246">Grits, it's like someone was like,</p>
+<p begin="7715627919t" end="7756508759t" region="Region_03" xml:id="subtitle247">"Hey, if you love the taste<br/>of biscuits and gravy</p>
+<p begin="7757339589t" end="7798620829t" region="Region_03" xml:id="subtitle248">"but without the taste<br/>of biscuits and gravy,</p>
+<p begin="7799461669t" end="7834086259t" region="Region_00" xml:id="subtitle249">then you'll love our man-made wet sand."</p>
+<p begin="7859101249t" end="7875377509t" region="Region_00" xml:id="subtitle250">I want to like grits. I do.</p>
+<p begin="7876208339t" end="7889131249t" region="Region_00" xml:id="subtitle251">I order them, and I'm like,</p>
+<p begin="7889972089t" end="7919161249t" region="Region_00" xml:id="subtitle252">"Are these undercooked or overcooked?"</p>
+<p begin="7920832919t" end="7948360419t" region="Region_00" xml:id="subtitle253">No wonder you came up with moonshine.</p>
+<p begin="7955037089t" end="7983395419t" region="Region_03" xml:id="subtitle254">Southerners are always like,<br/>"Y'all are eating that wrong.</p>
+<p begin="7984236259t" end="8007179179t" region="Region_03" xml:id="subtitle255">You've got to add a pound<br/>of cheese and a pound of sugar</p>
+<p begin="8007999999t" end="8028019999t" region="Region_00" xml:id="subtitle256">and 30 candy canes."</p>
+<p begin="8036788759t" end="8054306259t" region="Region_00" xml:id="subtitle257">That's what I love about the South.</p>
+<p begin="8055137089t" end="8079741669t" region="Region_03" xml:id="subtitle258">They don't even try and hide the<br/>fact they're eating unhealthy.</p>
+<p begin="8080572499t" end="8119361249t" region="Region_03" xml:id="subtitle259">In a restaurant, you're like,<br/>"I guess I'll order "the bucket of lard</p>
+<p begin="8127709589t" end="8146898759t" region="Region_00" xml:id="subtitle260">and the salt stick."</p>
+<p begin="8157329179t" end="8179421249t" region="Region_00" xml:id="subtitle261">"Y'all want that deep-fried?"</p>
+<p begin="8188179999t" end="8204456259t" region="Region_00" xml:id="subtitle262">"Uh, OK."</p>
+<p begin="8205287089t" end="8229471249t" region="Region_03" xml:id="subtitle263">"You want us to shoot at you<br/>while you eat it?"</p>
+<p begin="8254506259t" end="8272013749t" region="Region_00" xml:id="subtitle264">"Is that extra?"</p>
+<p begin="8280362089t" end="8299961669t" region="Region_00" xml:id="subtitle265">But there's unhealthy eating everywhere.</p>
+<p begin="8300792499t" end="8318730419t" region="Region_00" xml:id="subtitle266">I was in Arizona and New Mexico,</p>
+<p begin="8319561249t" end="8335837509t" region="Region_00" xml:id="subtitle267">and there are people eating fried bread.</p>
+<p begin="8336668339t" end="8371282919t" region="Region_03" xml:id="subtitle268">There are stands<br/>that sell only fried bread.</p>
+<p begin="8377549179t" end="8405487089t" region="Region_03" xml:id="subtitle269">And I saw that, and I was like,<br/>"I found my people."</p>
+<p begin="8406317919t" end="8419240829t" region="Region_00" xml:id="subtitle270">[laughter]</p>
+<p begin="8423004589t" end="8438850419t" region="Region_00" xml:id="subtitle271">Fried bread.</p>
+<p begin="8444696259t" end="8471382919t" region="Region_00" xml:id="subtitle272">I eat unhealthy, but come on.</p>
+<p begin="8476808339t" end="8492654169t" region="Region_00" xml:id="subtitle273">I know a donut's fried bread,</p>
+<p begin="8493495009t" end="8519340829t" region="Region_03" xml:id="subtitle274">but at least we don't<br/>call it "fried bread."</p>
+<p begin="8527699179t" end="8551883339t" region="Region_03" xml:id="subtitle275">I mean, at what point<br/>do you even feel comfortable</p>
+<p begin="8552714169t" end="8582323749t" region="Region_00" xml:id="subtitle276">eating something called "fried bread"?</p>
+<p begin="8583164589t" end="8600261670t" region="Region_00" xml:id="subtitle277">"Have you ever eaten cake in the shower?"</p>
+<p begin="8601092500t" end="8612774170t" region="Region_00" xml:id="subtitle278">"A couple times."</p>
+<p begin="8627799180t" end="8642804170t" region="Region_00" xml:id="subtitle279">"You're ready for fried bread."</p>
+<p begin="8655737090t" end="8689510830t" region="Region_03" xml:id="subtitle280">"Ever eaten in your car, so you don't have<br/>to share with your children?"</p>
+<p begin="8690351670t" end="8702033340t" region="Region_00" xml:id="subtitle281">"Every day."</p>
+<p begin="8716627920t" end="8731642920t" region="Region_00" xml:id="subtitle282">"You're ready for fried bread."</p>
+<p begin="8739560830t" end="8767939180t" region="Region_03" xml:id="subtitle283">Fried bread.<br/>That is the opposite of a diet, right?</p>
+<p begin="8768760000t" end="8786287510t" region="Region_00" xml:id="subtitle284">What are the basic elements of a diet?</p>
+<p begin="8787118340t" end="8800041250t" region="Region_00" xml:id="subtitle285">It's like, all right, no fried food.</p>
+<p begin="8800882090t" end="8812553750t" region="Region_00" xml:id="subtitle286">No fried food. Got it.</p>
+<p begin="8813394590t" end="8828820000t" region="Region_00" xml:id="subtitle287">You gotta cut out all the bread.</p>
+<p begin="8829650830t" end="8852593750t" region="Region_00" xml:id="subtitle288">Cut out-- hey, what about fried bread?</p>
+<p begin="8865116260t" end="8885967090t" region="Region_00" xml:id="subtitle289">Is there some kind of fried bread diet?</p>
+<p begin="8905156260t" end="8921002090t" region="Region_00" xml:id="subtitle290">Actually the term is "fry bread."</p>
+<p begin="8921832920t" end="8938930000t" region="Region_00" xml:id="subtitle291">It's not "fried bread." It's "fry bread."</p>
+<p begin="8939760830t" end="8963124170t" region="Region_00" xml:id="subtitle292">It's like a command, a call to action.</p>
+<p begin="8971462500t" end="8992323340t" region="Region_00" xml:id="subtitle293">If you aren't already, fry bread.</p>
+<p begin="8993154170t" end="9006917920t" region="Region_00" xml:id="subtitle294">Let's get fat.</p>
+<p begin="9013174170t" end="9031942920t" region="Region_00" xml:id="subtitle295">And I'm not judging those people.</p>
+<p begin="9032773750t" end="9048219180t" region="Region_00" xml:id="subtitle296">They're actually more honest than us.</p>
+<p begin="9049040000t" end="9075326260t" region="Region_03" xml:id="subtitle297">Because we eat fried bread,<br/>but we do it in code.</p>
+<p begin="9076157090t" end="9088669590t" region="Region_00" xml:id="subtitle298">It's like, "You want fried bread?"</p>
+<p begin="9089500420t" end="9129950830t" region="Region_00" xml:id="subtitle299">"No. I'll have an elephant ear."</p>
+<p begin="9139550420t" end="9150811670t" region="Region_00" xml:id="subtitle300">"You want fried bread?"</p>
+<p begin="9151642500t" end="9187938760t" region="Region_00" xml:id="subtitle301">[chuckles] "No. I'll just have a beignet."</p>
+<p begin="9197948760t" end="9224635420t" region="Region_03" xml:id="subtitle302">We're like that guy at the party<br/>trying to find weed.</p>
+<p begin="9225886670t" end="9261752500t" region="Region_03" xml:id="subtitle303">"Hey, is your friend Bud<br/>gonna be here tonight?</p>
+<p begin="9272603340t" end="9307217920t" region="Region_03" xml:id="subtitle304">You know, he hangs out<br/>with that guy named Herb.</p>
+<p begin="9315566260t" end="9361021670t" region="Region_03" xml:id="subtitle305">He's going out with the girl<br/>from Mexico named Marijuana."</p>
+<p begin="9374375010t" end="9395225840t" region="Region_00" xml:id="subtitle306">I don't know what you're asking for.</p>
+<p begin="9417748340t" end="9446106670t" region="Region_03" xml:id="subtitle307">Sometimes I feel like<br/>I'm trying to get fat.</p>
+<p begin="9446947510t" end="9465716260t" region="Region_03" xml:id="subtitle308">Last night, I was eating<br/>a pint of ice cream,</p>
+<p begin="9466547090t" end="9499910420t" region="Region_03" xml:id="subtitle309">and I finished it<br/>because I'm American, all right?</p>
+<p begin="9500741250t" end="9516597090t" region="Region_00" xml:id="subtitle310">I took off the lid, and I threw it away</p>
+<p begin="9517427920t" end="9534114590t" region="Region_00" xml:id="subtitle311">'cause I'm not a quitter, everyone.</p>
+<p begin="9534945420t" end="9545796260t" region="Region_00" xml:id="subtitle312">[laughter]</p>
+<p begin="9546627090t" end="9570811250t" region="Region_00" xml:id="subtitle313">And because I care about the environment.</p>
+<p begin="9576236670t" end="9601261670t" region="Region_03" xml:id="subtitle314">I was conserving energy<br/>by not refreezing it.</p>
+<p begin="9602092500t" end="9617527920t" region="Region_00" xml:id="subtitle315">You're welcome.</p>
+<p begin="9618368760t" end="9649640000t" region="Region_03" xml:id="subtitle316">Of course it was at night.<br/>You ever eat ice cream during the day?</p>
+<p begin="9650470830t" end="9670490830t" region="Region_03" xml:id="subtitle317">You're like, what are we?<br/>Six years old?</p>
+<p begin="9678428760t" end="9701782090t" region="Region_00" xml:id="subtitle318">Did we just get our tonsils out?</p>
+<p begin="9702612920t" end="9723053340t" region="Region_00" xml:id="subtitle319">Why are there people around me?</p>
+<p begin="9723884170t" end="9752662920t" region="Region_00" xml:id="subtitle320">Shouldn't I be alone watching Lifetime?</p>
+<p begin="9766016260t" end="9797297510t" region="Region_03" xml:id="subtitle321">Those hoarders, those are<br/>the ones with the problem.</p>
+<p begin="9819399590t" end="9863603750t" region="Region_03" xml:id="subtitle322">I was eating a pint of ice cream<br/>in sweatpants, like a man.</p>
+<p begin="9864444590t" end="9886546670t" region="Region_03" xml:id="subtitle323">My wife came in the room,<br/>and she was like,</p>
+<p begin="9887387510t" end="9922002090t" region="Region_03" xml:id="subtitle324">"Jim, are you gonna eat an entire pint<br/>of ice cream by yourself?"</p>
+<p begin="9922832920t" end="9940760830t" region="Region_00" xml:id="subtitle325">And I was like, "Hopefully.</p>
+<p begin="9949529590t" end="9974975010t" region="Region_00" xml:id="subtitle326">Unless you selfishly want a bite."</p>
+<p begin="9984564590t" end="10004164170t" region="Region_00" xml:id="subtitle327">"Jim, you have a nine-year-old daughter.</p>
+<p begin="10005005010t" end="10022932920t" region="Region_00" xml:id="subtitle328">Don't you want to be at her wedding?"</p>
+<p begin="10024604590t" end="10042532500t" region="Region_00" xml:id="subtitle329">"Not really. No.</p>
+<p begin="10048798760t" end="10073813750t" region="Region_03" xml:id="subtitle330">Wait, is there gonna be<br/>ice cream at her wedding?</p>
+<p begin="10081321250t" end="10105935840t" region="Region_03" xml:id="subtitle331">Because if you promise--<br/>I still don't want to go."</p>
+<p begin="10112602500t" end="10150560420t" region="Region_03" xml:id="subtitle332">How would attending a wedding,<br/>Why would that be an incentive?</p>
+<p begin="10151391250t" end="10168498340t" region="Region_00" xml:id="subtitle333">It's like, "Don't you die!</p>
+<p begin="10169339180t" end="10203943750t" region="Region_03" xml:id="subtitle334">In 18 years, there's an awkward<br/>party you have to pay for!</p>
+<p begin="10216466260t" end="10241901670t" region="Region_00" xml:id="subtitle335">And we need you to write a check."</p>
+<p begin="10256506260t" end="10282362090t" region="Region_03" xml:id="subtitle336">No, I understand weddings<br/>are an important event</p>
+<p begin="10283192920t" end="10308638340t" region="Region_03" xml:id="subtitle337">where we spend a lot of money<br/>so that the bride can pretend</p>
+<p begin="10309479180t" end="10330740420t" region="Region_00" xml:id="subtitle338">to be a princess!</p>
+<p begin="10339088760t" end="10378287920t" region="Region_03" xml:id="subtitle339">And marry her prince<br/>and live happily ever after</p>
+<p begin="10379128760t" end="10409158760t" region="Region_00" xml:id="subtitle340">because magic exists.</p>
+<p begin="10412492090t" end="10439609180t" region="Region_03" xml:id="subtitle341">[laughs]<br/>And we're a bunch of weirdos.</p>
+<p begin="10447947510t" end="10476305840t" region="Region_03" xml:id="subtitle342">Weddings are kind of weird.<br/>I mean, what's the logic?</p>
+<p begin="10477136670t" end="10493823340t" region="Region_00" xml:id="subtitle343">It's like, "Well, we love each other.</p>
+<p begin="10494654170t" end="10517176670t" region="Region_00" xml:id="subtitle344">Why don't we pretend we have a kingdom?</p>
+<p begin="10518017510t" end="10533022500t" region="Region_00" xml:id="subtitle345">[laughter]</p>
+<p begin="10534273750t" end="10560970420t" region="Region_03" xml:id="subtitle346">We'll invite your parents'<br/>friends and my parents' friends,</p>
+<p begin="10561801250t" end="10578077510t" region="Region_00" xml:id="subtitle347">and we'll have a banquet.</p>
+<p begin="10587246670t" end="10613943340t" region="Region_03" xml:id="subtitle348">And the two kingdoms<br/>shall come together as one.</p>
+<p begin="10622702090t" end="10654393750t" region="Region_03" xml:id="subtitle349">And we can start our married<br/>life with a total fantasy</p>
+<p begin="10659408760t" end="10690680000t" region="Region_03" xml:id="subtitle350">before we go on a completely<br/>unjustified vacation."</p>
+<p begin="10709038340t" end="10724053340t" region="Region_00" xml:id="subtitle351">It's strange, right?</p>
+<p begin="10724884170t" end="10758667920t" region="Region_03" xml:id="subtitle352">I mean, weddings started off as<br/>these crude, medieval ceremonies</p>
+<p begin="10759508760t" end="10793702920t" region="Region_03" xml:id="subtitle353">where women, daughters<br/>were exchanged as property.</p>
+<p begin="10794533750t" end="10829999180t" region="Region_03" xml:id="subtitle354">Yet over the course<br/>of centuries, they got worse.</p>
+<p begin="10830820000t" end="10845424590t" region="Region_00" xml:id="subtitle355">[laughter]</p>
+<p begin="10846675840t" end="10870860000t" region="Region_00" xml:id="subtitle356">That's why people cry at weddings.</p>
+<p begin="10876705840t" end="10910900000t" region="Region_03" xml:id="subtitle357">"I can't believe we're still<br/>wasting money on this."</p>
+<p begin="10917576670t" end="10938847920t" region="Region_03" xml:id="subtitle358">Whenever I see someone<br/>crying at a wedding,</p>
+<p begin="10939688760t" end="10968467510t" region="Region_03" xml:id="subtitle359">"I always say, don't worry.<br/>It probably won't work out."</p>
+<p begin="10969718760t" end="10996825840t" region="Region_00" xml:id="subtitle360">[laughter and applause]</p>
+<p begin="10998077090t" end="11017266260t" region="Region_00" xml:id="subtitle361">It is nice to be invited to a wedding,</p>
+<p begin="11018097090t" end="11032691670t" region="Region_00" xml:id="subtitle362">but you always look at that invitation</p>
+<p begin="11033522500t" end="11063142090t" region="Region_00" xml:id="subtitle363">like, "Ah, this is gonna cost me.</p>
+<p begin="11071060000t" end="11088997920t" region="Region_00" xml:id="subtitle364">Oh, good. It's out of town.</p>
+<p begin="11089838760t" end="11119868760t" region="Region_03" xml:id="subtitle365">Wouldn't want to use those<br/>vacation days for vacationing."</p>
+<p begin="11133622500t" end="11153642500t" region="Region_03" xml:id="subtitle366">And you can tell how much<br/>a wedding's gonna cost you</p>
+<p begin="11154483340t" end="11172831670t" region="Region_00" xml:id="subtitle367">by the type of invitation you receive.</p>
+<p begin="11173662500t" end="11204943750t" region="Region_03" xml:id="subtitle368">You're like, "[gasps] Oh, no.<br/>This one's made of baby skin."</p>
+<p begin="11205784590t" end="11226225010t" region="Region_00" xml:id="subtitle369">[laughter]</p>
+<p begin="11228727510t" end="11249157920t" region="Region_00" xml:id="subtitle370">And that font and the language on that.</p>
+<p begin="11249998760t" end="11300879590t" region="Region_03" xml:id="subtitle371">"The honorable king slayer<br/>cordially invites you</p>
+<p begin="11301710420t" end="11336745420t" region="Region_03" xml:id="subtitle372">to the marriage<br/>of his 40-year-old daughter</p>
+<p begin="11337586260t" end="11372190830t" region="Region_00" xml:id="subtitle373">to her live-in boyfriend of 12 years.</p>
+<p begin="11381370000t" end="11399728340t" region="Region_00" xml:id="subtitle374">Bring thy wallet."</p>
+<p begin="11409738340t" end="11430178760t" region="Region_03" xml:id="subtitle375">Because you have to get<br/>the newlyweds a gift</p>
+<p begin="11431009590t" end="11454783340t" region="Region_00" xml:id="subtitle376">because they've done nothing!</p>
+<p begin="11455614170t" end="11477305840t" region="Region_00" xml:id="subtitle377">So you go to the registry.</p>
+<p begin="11478136670t" end="11491900420t" region="Region_03" xml:id="subtitle378">The registry,<br/>which is a nice way of saying,</p>
+<p begin="11492731250t" end="11509838340t" region="Region_00" xml:id="subtitle379">"You don't have to get us anything.</p>
+<p begin="11510679180t" end="11535694170t" region="Region_03" xml:id="subtitle380">But when you do, make sure<br/>it's one of these things."</p>
+<p begin="11547796260t" end="11564893340t" region="Region_03" xml:id="subtitle381">You ever go to the registry late,<br/>and you're like,</p>
+<p begin="11565724170t" end="11596595010t" region="Region_03" xml:id="subtitle382">"Aw, the only thing left<br/>is a fork for $300.</p>
+<p begin="11611189590t" end="11633712090t" region="Region_00" xml:id="subtitle383">I guess we'll be the fork friends.</p>
+<p begin="11634542920t" end="11654983340t" region="Region_00" xml:id="subtitle384">We'll get them the fork."</p>
+<p begin="11662480830t" end="11691269590t" region="Region_00" xml:id="subtitle385">My wife had us register for fine china</p>
+<p begin="11692100420t" end="11717966260t" region="Region_03" xml:id="subtitle386">because you never know<br/>when the Pope's gonna swing by</p>
+<p begin="11726304590t" end="11765093340t" region="Region_03" xml:id="subtitle387">and want a microwaved hot dog<br/>on a $200 plate.</p>
+<p begin="11784272500t" end="11808466670t" region="Region_03" xml:id="subtitle388">My parents, growing up,<br/>my parents had fine china</p>
+<p begin="11809307510t" end="11832650830t" region="Region_03" xml:id="subtitle389">that you couldn't even put<br/>in the dishwasher.</p>
+<p begin="11833491670t" end="11846845010t" region="Region_00" xml:id="subtitle390">"[gasps] Don't get that wet.</p>
+<p begin="11847675840t" end="11864772920t" region="Region_00" xml:id="subtitle391">You need to clean it with a kitten.</p>
+<p begin="11867275420t" end="11882700830t" region="Region_00" xml:id="subtitle392">[laughter]</p>
+<p begin="11886044170t" end="11908566670t" region="Region_00" xml:id="subtitle393">It needs to be a white kitten."</p>
+<p begin="11909407510t" end="11943181250t" region="Region_00" xml:id="subtitle394">[laughter and applause]</p>
+<p begin="12007415420t" end="12031199180t" region="Region_03" xml:id="subtitle395">At most weddings, the guests<br/>receive a gift, right?</p>
+<p begin="12032020000t" end="12063721670t" region="Region_03" xml:id="subtitle396">Sometimes it's, like, a bag<br/>of almonds covered in candy.</p>
+<p begin="12064552500t" end="12084572500t" region="Region_00" xml:id="subtitle397">Thanks. I guess we're even.</p>
+<p begin="12106264170t" end="12127955840t" region="Region_00" xml:id="subtitle398">Since you got me a bag of nuts.</p>
+<p begin="12135042920t" end="12154642500t" region="Region_00" xml:id="subtitle399">"Feel free to take the centerpiece."</p>
+<p begin="12155483340t" end="12179257090t" region="Region_00" xml:id="subtitle400">Sure you don't want us to bus some tables?</p>
+<p begin="12188015840t" end="12220548340t" region="Region_03" xml:id="subtitle401">Uh, I didn't bring a broom,<br/>but I could sweep.</p>
+<p begin="12232220000t" end="12245983750t" region="Region_00" xml:id="subtitle402">It's not always, like, nuts.</p>
+<p begin="12246824590t" end="12265172920t" region="Region_00" xml:id="subtitle403">Sometimes the gift is, like, a knickknack</p>
+<p begin="12266003750t" end="12293531250t" region="Region_00" xml:id="subtitle404">or a Happy Meal toy kind of thing.</p>
+<p begin="12296033750t" end="12320648340t" region="Region_03" xml:id="subtitle405">The last wedding we were at,<br/>everyone at the wedding</p>
+<p begin="12321489180t" end="12346504170t" region="Region_00" xml:id="subtitle406">got a wine stopper filled with sand</p>
+<p begin="12347345010t" end="12376954590t" region="Region_03" xml:id="subtitle407">because the theme<br/>of the wedding was waste.</p>
+<p begin="12378205840t" end="12397395010t" region="Region_00" xml:id="subtitle408">[laughter]</p>
+<p begin="12404892500t" end="12429507090t" region="Region_03" xml:id="subtitle409">I got in trouble when I asked<br/>the bride, I was like,</p>
+<p begin="12430337920t" end="12459957510t" region="Region_03" xml:id="subtitle410">"At what point are we supposed<br/>to jab this in our throat?</p>
+<p begin="12477885420t" end="12492480000t" region="Region_00" xml:id="subtitle411">During the first dance?"</p>
+<p begin="12510007510t" end="12520427920t" region="Region_00" xml:id="subtitle412">That's horrible [chuckles]</p>
+<p begin="12521268760t" end="12537535010t" region="Region_00" xml:id="subtitle413">I do find it fascinating.</p>
+<p begin="12538365840t" end="12563380830t" region="Region_03" xml:id="subtitle414">There's always a drunk person<br/>at a wedding, right?</p>
+<p begin="12564221670t" end="12585913340t" region="Region_03" xml:id="subtitle415">And I think it's because<br/>there's so many awkward moments.</p>
+<p begin="12586744170t" end="12613851250t" region="Region_00" xml:id="subtitle416">Like that receiving line as a guest?</p>
+<p begin="12614692090t" end="12633040420t" region="Region_00" xml:id="subtitle417">I never know what to say to those people.</p>
+<p begin="12633871250t" end="12649306670t" region="Region_00" xml:id="subtitle418">I always feel like I've just seen a friend</p>
+<p begin="12650147510t" end="12662239590t" region="Region_00" xml:id="subtitle419">in a play or something.</p>
+<p begin="12663070420t" end="12689767090t" region="Region_00" xml:id="subtitle420">"That was great. You were great up there.</p>
+<p begin="12698105420t" end="12724381670t" region="Region_00" xml:id="subtitle421">What you said. I like this program.</p>
+<p begin="12729386670t" end="12756914170t" region="Region_00" xml:id="subtitle422">Well, I'm gonna lie to someone else now.</p>
+<p begin="12762750000t" end="12794031250t" region="Region_00" xml:id="subtitle423">You were good too. You're the grandma.</p>
+<p begin="12794872090t" end="12818225420t" region="Region_00" xml:id="subtitle424">We got them the fork.</p>
+<p begin="12829486670t" end="12849927090t" region="Region_00" xml:id="subtitle425">Is the bar open?"</p>
+<p begin="12864942090t" end="12881628760t" region="Region_00" xml:id="subtitle426">Some of those wedding rituals,</p>
+<p begin="12882459590t" end="12897895010t" region="Region_00" xml:id="subtitle427">have you been to one of the weddings</p>
+<p begin="12898725840t" end="12925412500t" region="Region_03" xml:id="subtitle428">where the groom removes<br/>the garter belt from the bride</p>
+<p begin="12926253340t" end="12951698760t" region="Region_00" xml:id="subtitle429">and flings it to a crowd of perverts?</p>
+<p begin="12953360420t" end="12969216260t" region="Region_00" xml:id="subtitle430">[laughter]</p>
+<p begin="12972960000t" end="13005912920t" region="Region_00" xml:id="subtitle431">Because he cherishes his... what?</p>
+<p begin="13010917920t" end="13028855840t" region="Region_00" xml:id="subtitle432">Who came up with that one?</p>
+<p begin="13029686670t" end="13059716670t" region="Region_03" xml:id="subtitle433">Hey, you know how the bride<br/>throws the bouquet?</p>
+<p begin="13063050000t" end="13083900830t" region="Region_00" xml:id="subtitle434">How 'bout something for the fellas?</p>
+<p begin="13104341250t" end="13124781670t" region="Region_00" xml:id="subtitle435">Maybe the bride's underwear?</p>
+<p begin="13141047920t" end="13168165010t" region="Region_00" xml:id="subtitle436">What happens to that garter belt?</p>
+<p begin="13168995840t" end="13196102920t" region="Region_00" xml:id="subtitle437">Oh, I have it in a very special place.</p>
+<p begin="13206943750t" end="13244060830t" region="Region_03" xml:id="subtitle438">It's in a room covered<br/>with photographs of the bride.</p>
+<p begin="13255742500t" end="13293700420t" region="Region_03" xml:id="subtitle439">And there's candles<br/>and fried bread everywhere.</p>
+<p begin="13295372090t" end="13317053750t" region="Region_00" xml:id="subtitle440">[cheers, applause and laughter]</p>
+<p begin="13333740420t" end="13356683340t" region="Region_03" xml:id="subtitle441">I'm not against marriage.<br/>I'm happily married.</p>
+<p begin="13357514170t" end="13371698340t" region="Region_00" xml:id="subtitle442">I'm married to a beautiful woman,</p>
+<p begin="13372539180t" end="13388385010t" region="Region_00" xml:id="subtitle443">the type of woman that when I'm with her</p>
+<p begin="13389215840t" end="13404641250t" region="Region_00" xml:id="subtitle444">and people find out she's my wife,</p>
+<p begin="13405482090t" end="13430086670t" region="Region_00" xml:id="subtitle445">there's usually an audible "wow."</p>
+<p begin="13440096670t" end="13471798339t" region="Region_03" xml:id="subtitle446">Which I suppose is flattering,<br/>but it hurts my feelings.</p>
+<p begin="13480136669t" end="13498495009t" region="Region_00" xml:id="subtitle447">I'm not a yeti.</p>
+<p begin="13506833339t" end="13518925419t" region="Region_00" xml:id="subtitle448">"Wow."</p>
+<p begin="13519766259t" end="13535191669t" region="Region_00" xml:id="subtitle449">Someone could approach me and be like,</p>
+<p begin="13536022499t" end="13564801249t" region="Region_03" xml:id="subtitle450">"Jim, we've discovered your wife<br/>has no visual perception.</p>
+<p begin="13565642089t" end="13576903339t" region="Region_00" xml:id="subtitle451">[laughter]</p>
+<p begin="13578154589t" end="13594831249t" region="Region_03" xml:id="subtitle452">Yeah, yeah, we don't need<br/>to correct that or anything.</p>
+<p begin="13595672089t" end="13610687089t" region="Region_00" xml:id="subtitle453">She doesn't like glasses."</p>
+<p begin="13614851249t" end="13629876259t" region="Region_00" xml:id="subtitle454">But I like being married.</p>
+<p begin="13630707089t" end="13646552919t" region="Region_00" xml:id="subtitle455">I like having someone to look out for me.</p>
+<p begin="13647383749t" end="13665742089t" region="Region_00" xml:id="subtitle456">And my wife wants me to live longer.</p>
+<p begin="13666572919t" end="13699525839t" region="Region_03" xml:id="subtitle457">We all want to live longer,<br/>but how much longer?</p>
+<p begin="13700356669t" end="13715792089t" region="Region_00" xml:id="subtitle458">Like, you ever see old people,</p>
+<p begin="13716622919t" end="13742068339t" region="Region_03" xml:id="subtitle459">really, really old people,<br/>the look on their face?</p>
+<p begin="13742909179t" end="13767093339t" region="Region_03" xml:id="subtitle460">They always have<br/>that look like, [screaming]</p>
+<p begin="13767924169t" end="13794610829t" region="Region_00" xml:id="subtitle461">I can't believe I'm still here!</p>
+<p begin="13805041249t" end="13836742919t" region="Region_00" xml:id="subtitle462">I would have eaten so much more ice cream.</p>
+<p begin="13848845009t" end="13883049179t" region="Region_00" xml:id="subtitle463">Why did I ever consume kale?</p>
+<p begin="13900556669t" end="13929335419t" region="Region_00" xml:id="subtitle464">Can we stop with the kale propaganda?</p>
+<p begin="13930176259t" end="13971047089t" region="Region_00" xml:id="subtitle465">[cheers, applause and laughter]</p>
+<p begin="13975631669t" end="14003169179t" region="Region_00" xml:id="subtitle466">That stuff tastes like bug spray.</p>
+<p begin="14011087089t" end="14033199179t" region="Region_00" xml:id="subtitle467">I was looking at a can of bug spray.</p>
+<p begin="14034019999t" end="14055291249t" region="Region_00" xml:id="subtitle468">It said, "Made with real kale."</p>
+<p begin="14064049999t" end="14083249179t" region="Region_00" xml:id="subtitle469">But that's the latest health trend.</p>
+<p begin="14084069999t" end="14100346259t" region="Region_00" xml:id="subtitle470">There's a new one every six weeks.</p>
+<p begin="14101177089t" end="14124940829t" region="Region_00" xml:id="subtitle471">When I was a little kid, cottage cheese,</p>
+<p begin="14128704589t" end="14151647509t" region="Region_00" xml:id="subtitle472">cottage cheese was considered healthy.</p>
+<p begin="14152478339t" end="14164980829t" region="Region_00" xml:id="subtitle473">My mom and my sisters,</p>
+<p begin="14165821669t" end="14199605419t" region="Region_03" xml:id="subtitle474">"We're being healthy by eating<br/>this tub of cheese curds."</p>
+<p begin="14206282089t" end="14221717509t" region="Region_00" xml:id="subtitle475">Because to be thin,</p>
+<p begin="14222548339t" end="14245481249t" region="Region_00" xml:id="subtitle476">you eat things that look like cellulite.</p>
+<p begin="14264249999t" end="14280105839t" region="Region_00" xml:id="subtitle477">Remember when pita was healthy?</p>
+<p begin="14280936669t" end="14293869589t" region="Region_00" xml:id="subtitle478">Pita's not bread.</p>
+<p begin="14294700419t" end="14312217919t" region="Region_00" xml:id="subtitle479">It's from the Middle East.</p>
+<p begin="14325140829t" end="14338494169t" region="Region_00" xml:id="subtitle480">Take cheese, bad for you.</p>
+<p begin="14339335009t" end="14361437089t" region="Region_00" xml:id="subtitle481">Put it in pita, it's OK.</p>
+<p begin="14366852499t" end="14393559179t" region="Region_03" xml:id="subtitle482">That's why when I smoke crack,<br/>I do it on pita.</p>
+<p begin="14394800419t" end="14413989589t" region="Region_00" xml:id="subtitle483">[laughter]</p>
+<p begin="14417322919t" end="14436512089t" region="Region_03" xml:id="subtitle484">We're still in the middle<br/>of the wrap phase.</p>
+<p begin="14437342919t" end="14457783339t" region="Region_00" xml:id="subtitle485">Wraps are so good for you.</p>
+<p begin="14458614169t" end="14487813339t" region="Region_03" xml:id="subtitle486">When you roll food,<br/>it takes the calories out.</p>
+<p begin="14505320829t" end="14533699179t" region="Region_00" xml:id="subtitle487">It becomes a sandwich wand. Ta-da!</p>
+<p begin="14547452919t" end="14564139589t" region="Region_00" xml:id="subtitle488">No calories.</p>
+<p begin="14570816259t" end="14594579999t" region="Region_00" xml:id="subtitle489">It's like sushi but not enjoyable.</p>
+<p begin="14610856259t" end="14631707089t" region="Region_00" xml:id="subtitle490">There's good fats and bad fats.</p>
+<p begin="14632537919t" end="14655891249t" region="Region_00" xml:id="subtitle491">I like to think of myself as a good fat.</p>
+<p begin="14673418759t" end="14691346669t" region="Region_00" xml:id="subtitle492">I did discover that I'm gluten-free.</p>
+<p begin="14692187509t" end="14709284589t" region="Region_03" xml:id="subtitle493">-Anyone gluten-free here? Yeah?<br/>-[scattered cheers]</p>
+<p begin="14710115419t" end="14725540829t" region="Region_00" xml:id="subtitle494">I was just kidding. You're a communist.</p>
+<p begin="14726381669t" end="14765170419t" region="Region_00" xml:id="subtitle495">[laughter and applause]</p>
+<p begin="14766001249t" end="14796031249t" region="Region_00" xml:id="subtitle496">Obviously, people that are gluten-free</p>
+<p begin="14796872089t" end="14812717919t" region="Region_00" xml:id="subtitle497">are like any other American,</p>
+<p begin="14813558759t" end="14832737919t" region="Region_00" xml:id="subtitle498">except for they're allergic to wheat,</p>
+<p begin="14837742919t" end="14856091249t" region="Region_00" xml:id="subtitle499">the amber waves of grain.</p>
+<p begin="14874859999t" end="14894879999t" region="Region_03" xml:id="subtitle500">Doesn't mean<br/>they don't love their country.</p>
+<p begin="14895710829t" end="14909905009t" region="Region_00" xml:id="subtitle501">Just means they can't stomach</p>
+<p begin="14910735839t" end="14944109179t" region="Region_00" xml:id="subtitle502"><span style="style_1">♪ The purple mountains' majesty ♪</span></p>
+<p begin="14944929999t" end="14974959999t" region="Region_03" xml:id="subtitle503">Those are the people we should<br/>be screening at airports.</p>
+<p begin="14975790829t" end="15004579589t" region="Region_00" xml:id="subtitle504">Are you gluten-free/a terrorist?</p>
+<p begin="15017502499t" end="15044619589t" region="Region_00" xml:id="subtitle505">I don't judge. I report. You decide.</p>
+<p begin="15057542499t" end="15072977919t" region="Region_00" xml:id="subtitle506">There's a new milk every six weeks.</p>
+<p begin="15073818759t" end="15089664589t" region="Region_00" xml:id="subtitle507">Oh you shouldn't be drinking cow's milk.</p>
+<p begin="15090495419t" end="15103848759t" region="Region_00" xml:id="subtitle508">Don't drink cow's milk.</p>
+<p begin="15104679589t" end="15124289179t" region="Region_00" xml:id="subtitle509">You should drink soy milk.</p>
+<p begin="15125109999t" end="15145550419t" region="Region_00" xml:id="subtitle510">They discovered soy milk's all estrogen.</p>
+<p begin="15146381249t" end="15159734589t" region="Region_00" xml:id="subtitle511">You should drink soy milk</p>
+<p begin="15160565419t" end="15183928759t" region="Region_03" xml:id="subtitle512">unless you want to have<br/>sons with testicles.</p>
+<p begin="15196010829t" end="15211866669t" region="Region_00" xml:id="subtitle513">Or you could drink rice milk.</p>
+<p begin="15212707509t" end="15236891669t" region="Region_03" xml:id="subtitle514">And they discovered rice milk<br/>is like drinking carbs.</p>
+<p begin="15237722499t" end="15277352089t" region="Region_03" xml:id="subtitle515">Or you could drink almond milk<br/>because almonds make milk.</p>
+<p begin="15298623339t" end="15319053749t" region="Region_00" xml:id="subtitle516">Unless you have a nut allergy.</p>
+<p begin="15319894589t" end="15335319999t" region="Region_00" xml:id="subtitle517">Then you could drink hemp milk,</p>
+<p begin="15336150829t" end="15369944589t" region="Region_03" xml:id="subtitle518">which is like a nut-free<br/>almond milk made from rope.</p>
+<p begin="15372867509t" end="15394559179t" region="Region_00" xml:id="subtitle519">[laughter]</p>
+<p begin="15399133749t" end="15433337919t" region="Region_03" xml:id="subtitle520">Or you can try this new milk<br/>that's called cow's milk.</p>
+<p begin="15445850419t" end="15462116669t" region="Region_00" xml:id="subtitle521">It's big in Europe.</p>
+<p begin="15482977509t" end="15505489999t" region="Region_00" xml:id="subtitle522">But really, this is the kale era, right?</p>
+<p begin="15506320829t" end="15525099589t" region="Region_00" xml:id="subtitle523">Kale is a superfood,</p>
+<p begin="15525930419t" end="15556791249t" region="Region_00" xml:id="subtitle524">and its special power is tasting bad.</p>
+<p begin="15581405839t" end="15593087509t" region="Region_00" xml:id="subtitle525">It's inedible.</p>
+<p begin="15593918339t" end="15627281669t" region="Region_03" xml:id="subtitle526">All you have to do is freeze-dry it,<br/>cover it in cayenne peppers,</p>
+<p begin="15628112499t" end="15658142499t" region="Region_03" xml:id="subtitle527">put it in a shake,<br/>and bury it in the ground.</p>
+<p begin="15668993339t" end="15684428759t" region="Region_00" xml:id="subtitle528">Kale is so good for you.</p>
+<p begin="15685259589t" end="15713207509t" region="Region_03" xml:id="subtitle529">It's like a really bitter<br/>spinach with hair.</p>
+<p begin="15732807089t" end="15749073339t" region="Region_00" xml:id="subtitle530">Kale is so good for you.</p>
+<p begin="15749904169t" end="15774098339t" region="Region_03" xml:id="subtitle531">They could find out kale<br/>cures cancer, and I would still</p>
+<p begin="15774939179t" end="15804548759t" region="Region_03" xml:id="subtitle532">be like, "I'm just gonna do<br/>the chemo, all right?</p>
+<p begin="15809543749t" end="15837491669t" region="Region_00" xml:id="subtitle533">I've tried the kale. OK?"</p>
+<p begin="15838322499t" end="15864188339t" region="Region_00" xml:id="subtitle534">[laughter and applause]</p>
+<p begin="15865439589t" end="15889623749t" region="Region_00" xml:id="subtitle535">Haven't we evolved as a species,</p>
+<p begin="15890464589t" end="15918402499t" region="Region_03" xml:id="subtitle536">so we no longer have<br/>to eat things like kale?</p>
+<p begin="15919243339t" end="15939263339t" region="Region_00" xml:id="subtitle537">You know there were cavemen,</p>
+<p begin="15940094169t" end="15965949999t" region="Region_03" xml:id="subtitle538">"One day, son, we no longer<br/>forage through weeds.</p>
+<p begin="15966780829t" end="15983887919t" region="Region_00" xml:id="subtitle539">We eat porterhouse steak</p>
+<p begin="15984728759t" end="16008492499t" region="Region_00" xml:id="subtitle540">and no longer sound like Cookie Monster.</p>
+<p begin="16015589589t" end="16036019999t" region="Region_00" xml:id="subtitle541">Now we go to Yum Yum Donut."</p>
+<p begin="16051455419t" end="16078152089t" region="Region_03" xml:id="subtitle542">Kale. I just can't stand<br/>the kale bragging.</p>
+<p begin="16078982919t" end="16095259179t" region="Region_00" xml:id="subtitle543">"I just had some kale."</p>
+<p begin="16096079999t" end="16111105009t" region="Region_00" xml:id="subtitle544">No one asked you.</p>
+<p begin="16125699589t" end="16145309179t" region="Region_00" xml:id="subtitle545">People talk about kale like it's a band.</p>
+<p begin="16146129999t" end="16178252089t" region="Region_00" xml:id="subtitle546">Have you seen that new album by Kale?</p>
+<p begin="16186590419t" end="16216199999t" region="Region_03" xml:id="subtitle547">I was at a school event because<br/>I have a thousand children.</p>
+<p begin="16217030829t" end="16252075839t" region="Region_03" xml:id="subtitle548">And one of the moms was<br/>nice enough to make a bean soup.</p>
+<p begin="16252906669t" end="16277931669t" region="Region_03" xml:id="subtitle549">So I went over, and I tasted it,<br/>and I said, "Oh, this is very good."</p>
+<p begin="16278762499t" end="16289192919t" region="Region_00" xml:id="subtitle550">And she leaned forward, and she goes,</p>
+<p begin="16290023749t" end="16307961669t" region="Region_00" xml:id="subtitle551">"I snuck some kale in there."</p>
+<p begin="16308792499t" end="16327981669t" region="Region_00" xml:id="subtitle552">And I wanted to throw the bowl at her.</p>
+<p begin="16358432089t" end="16388041669t" region="Region_03" xml:id="subtitle553">'Cause she was trying<br/>to impress me with a vegetable.</p>
+<p begin="16392215839t" end="16412656259t" region="Region_00" xml:id="subtitle554">Oh, wow.</p>
+<p begin="16416399999t" end="16440594169t" region="Region_00" xml:id="subtitle555">You smarty.</p>
+<p begin="16464367919t" end="16480634169t" region="Region_03" xml:id="subtitle556">But you know what?<br/>I blame Whole Foods.</p>
+<p begin="16481475009t" end="16503156669t" region="Region_00" xml:id="subtitle557">I do. They're just bored at Whole Foods.</p>
+<p begin="16503997509t" end="16527761249t" region="Region_03" xml:id="subtitle558">They're like,<br/>"What else can we sell these idiots?</p>
+<p begin="16536109589t" end="16554878339t" region="Region_00" xml:id="subtitle559">Just get me a plant.</p>
+<p begin="16561134589t" end="16588241669t" region="Region_00" xml:id="subtitle560">Not that one. That's poison ivy.</p>
+<p begin="16592836259t" end="16613687089t" region="Region_00" xml:id="subtitle561">Wait. Can we make milk out of that?</p>
+<p begin="16622025419t" end="16635799179t" region="Region_00" xml:id="subtitle562">Give me the other one. What is this?</p>
+<p begin="16636619999t" end="16650383749t" region="Region_00" xml:id="subtitle563">Kale? It tastes bad?</p>
+<p begin="16651224589t" end="16669572919t" region="Region_00" xml:id="subtitle564">They'll think it's good for them.</p>
+<p begin="16670403749t" end="16682505839t" region="Region_00" xml:id="subtitle565">Charge 20 bucks for it."</p>
+<p begin="16683336669t" end="16693346669t" region="Region_00" xml:id="subtitle566">And we're like, "Ah."</p>
+<p begin="16707520829t" end="16734637919t" region="Region_03" xml:id="subtitle567">But I go to Whole Foods.<br/>I do. I waste my money there.</p>
+<p begin="16735478759t" end="16752996259t" region="Region_03" xml:id="subtitle568">They should just have<br/>a garbage can at the entrance</p>
+<p begin="16753827089t" end="16777590829t" region="Region_03" xml:id="subtitle569">of Whole Foods with a picture<br/>of a wallet over it.</p>
+<p begin="16778431669t" end="16788862089t" region="Region_00" xml:id="subtitle570">You just go...</p>
+<p begin="16808041249t" end="16826809999t" region="Region_00" xml:id="subtitle571">OK, how many items do I get? I get two?</p>
+<p begin="16827640829t" end="16871444589t" region="Region_00" xml:id="subtitle572">OK, um, I'll have the grapes for 500.</p>
+<p begin="16882705839t" end="16924827919t" region="Region_03" xml:id="subtitle573">And, Alex, I'll have the loaf<br/>of bread made of wood for 10.</p>
+<p begin="16926089179t" end="16939842919t" region="Region_00" xml:id="subtitle574">[laughter]</p>
+<p begin="16941094169t" end="16967370419t" region="Region_00" xml:id="subtitle575">I'll put the rest on my Amazon wish list.</p>
+<p begin="16980303339t" end="17002405419t" region="Region_00" xml:id="subtitle576">What is the business idea of Whole Foods?</p>
+<p begin="17003246259t" end="17039112089t" region="Region_03" xml:id="subtitle577">It's like Costco, but instead<br/>of bulk, you get nothing.</p>
+<p begin="17054957919t" end="17073726669t" region="Region_03" xml:id="subtitle578">You ever look at your bill<br/>when you're leaving Whole Foods?</p>
+<p begin="17074567509t" end="17107089999t" region="Region_03" xml:id="subtitle579">You're like, "Wow, I'm really<br/>not good at managing money."</p>
+<p begin="17108761669t" end="17123776669t" region="Region_00" xml:id="subtitle580">[laughter]</p>
+<p begin="17124617509t" end="17157560419t" region="Region_03" xml:id="subtitle581">Because you only remember<br/>how expensive it is when you get there.</p>
+<p begin="17158391249t" end="17176749589t" region="Region_00" xml:id="subtitle582">You're like, "These prices...</p>
+<p begin="17177580419t" end="17204277090t" region="Region_00" xml:id="subtitle583">I'm too lazy to go to another store.</p>
+<p begin="17215958760t" end="17266008760t" region="Region_03" xml:id="subtitle584">You win again, Whole Foods.<br/>Tricked me again."</p>
+<p begin="17273926670t" end="17295618340t" region="Region_00" xml:id="subtitle585">You guys are nice. I should have showered.</p>
+<p begin="17309382090t" end="17326899590t" region="Region_00" xml:id="subtitle586">I'm sure most of you showered. Yeah.</p>
+<p begin="17327730420t" end="17358170830t" region="Region_03" xml:id="subtitle587">There's probably one or two weirdos<br/>out there that took a bath.</p>
+<p begin="17369021670t" end="17402395010t" region="Region_03" xml:id="subtitle588">A bath, how much free time<br/>do you have on your hands?</p>
+<p begin="17411564170t" end="17447019590t" region="Region_03" xml:id="subtitle589">What, are you taking a break<br/>from ruling ancient Egypt?</p>
+<p begin="17447850420t" end="17473716260t" region="Region_00" xml:id="subtitle590">I don't have anything to do,</p>
+<p begin="17474547090t" end="17495818340t" region="Region_00" xml:id="subtitle591">and I'll never have anything to do,</p>
+<p begin="17496659180t" end="17524176670t" region="Region_03" xml:id="subtitle592">so I'll just sit in a pool<br/>of my own filth.</p>
+<p begin="17526268760t" end="17545037510t" region="Region_00" xml:id="subtitle593">[laughter]</p>
+<p begin="17546709180t" end="17572144590t" region="Region_00" xml:id="subtitle594">Ah, luxury.</p>
+<p begin="17585077510t" end="17615107510t" region="Region_03" xml:id="subtitle595">I should probably take a shower<br/>after this bath, huh?</p>
+<p begin="17625527920t" end="17637209590t" region="Region_00" xml:id="subtitle596">I have taken a bath.</p>
+<p begin="17638040420t" end="17656819180t" region="Region_03" xml:id="subtitle597">It always seems like<br/>it's gonna be relaxing.</p>
+<p begin="17657640000t" end="17687670000t" region="Region_00" xml:id="subtitle598">You're like, "Ah. This is so boring!</p>
+<p begin="17699351670t" end="17727710000t" region="Region_03" xml:id="subtitle599">No wonder people kill themselves<br/>in these things, huh?"</p>
+<p begin="17738140420t" end="17764837090t" region="Region_03" xml:id="subtitle600">Don't worry. No one here has<br/>killed themselves in a bath.</p>
+<p begin="17776098340t" end="17799451670t" region="Region_00" xml:id="subtitle601">My point is no one takes baths</p>
+<p begin="17800282500t" end="17832825010t" region="Region_03" xml:id="subtitle602">except for that weird couple<br/>in the Cialis commercial.</p>
+<p begin="17855757920t" end="17893295420t" region="Region_03" xml:id="subtitle603">What kind of disposable income<br/>does that couple have?</p>
+<p begin="17894136260t" end="17923325420t" region="Region_00" xml:id="subtitle604">"Honey, after our pill-induced lovemaking,</p>
+<p begin="17933755840t" end="17960032090t" region="Region_03" xml:id="subtitle605">what do you say<br/>we sit in the side-by-side tubs</p>
+<p begin="17969201250t" end="17982134170t" region="Region_00" xml:id="subtitle606">on the porch?"</p>
+<p begin="17994646670t" end="18013835840t" region="Region_00" xml:id="subtitle607">What is the message of that commercial?</p>
+<p begin="18014666670t" end="18025927920t" region="Region_00" xml:id="subtitle608">This pill is so good,</p>
+<p begin="18026768760t" end="18042614590t" region="Region_03" xml:id="subtitle609">you're gonna have<br/>to take a bath afterwards.</p>
+<p begin="18048450420t" end="18063055010t" region="Region_00" xml:id="subtitle610">I'd do separate baths.</p>
+<p begin="18063885840t" end="18079731670t" region="Region_00" xml:id="subtitle611">Hell, do it outside. It's gonna be messy.</p>
+<p begin="18080562500t" end="18094336260t" region="Region_00" xml:id="subtitle612">You know what I mean, fellas?</p>
+<p begin="18115607510t" end="18133955840t" region="Region_00" xml:id="subtitle613">Those erectile dysfunction commercials</p>
+<p begin="18134786670t" end="18151883750t" region="Region_00" xml:id="subtitle614">are just there to ruin your night.</p>
+<p begin="18152724590t" end="18165237090t" region="Region_00" xml:id="subtitle615">They're like, "You enjoying your show?</p>
+<p begin="18166067920t" end="18179831670t" region="Region_00" xml:id="subtitle616">Just a reminder, in a couple years,</p>
+<p begin="18180662500t" end="18197359180t" region="Region_00" xml:id="subtitle617">you're gonna need a pill to do anything.</p>
+<p begin="18204446260t" end="18218200000t" region="Region_00" xml:id="subtitle618">Back to your show."</p>
+<p begin="18244065840t" end="18266167920t" region="Region_00" xml:id="subtitle619">I took a shower. Didn't happen right away.</p>
+<p begin="18267008760t" end="18293695420t" region="Region_03" xml:id="subtitle620">You ever have one of those days?<br/>You're like, "Ah, I got to take a shower."</p>
+<p begin="18294536260t" end="18315807510t" region="Region_00" xml:id="subtitle621">Just hours pass.</p>
+<p begin="18320392090t" end="18342494170t" region="Region_00" xml:id="subtitle622">"Ah, I still got to take a shower."</p>
+<p begin="18343335010t" end="18378360000t" region="Region_03" xml:id="subtitle623">And then when you finally do,<br/>it feels like such an accomplishment.</p>
+<p begin="18381282920t" end="18417158760t" region="Region_00" xml:id="subtitle624">"Hey, I took a shower. I'm a go-getter.</p>
+<p begin="18425917510t" end="18457198760t" region="Region_00" xml:id="subtitle625">Showerer. Well, time for bed."</p>
+<p begin="18482213750t" end="18508079590t" region="Region_03" xml:id="subtitle626">Shampooed and conditioned<br/>my hair, as you can tell.</p>
+<p begin="18508910420t" end="18542273750t" region="Region_03" xml:id="subtitle627">You got to condition your hair<br/>because everyone else does.</p>
+<p begin="18547709180t" end="18574395840t" region="Region_03" xml:id="subtitle628">Someone told me the reason we're<br/>supposed to condition our hair</p>
+<p begin="18575226670t" end="18604425840t" region="Region_00" xml:id="subtitle629">is because we shampoo our hair too often.</p>
+<p begin="18605256670t" end="18631953340t" region="Region_03" xml:id="subtitle630">So instead of using<br/>one product less often,</p>
+<p begin="18632784170t" end="18652804170t" region="Region_00" xml:id="subtitle631">we just added another product.</p>
+<p begin="18653645010t" end="18675747090t" region="Region_03" xml:id="subtitle632">Yeah, my wife didn't like me<br/>drinking beer every night,</p>
+<p begin="18676577920t" end="18707869180t" region="Region_03" xml:id="subtitle633">so to make her feel better,<br/>I started drinking beer and whiskey.</p>
+<p begin="18718289590t" end="18739140420t" region="Region_00" xml:id="subtitle634">Maybe that'll get her off my back.</p>
+<p begin="18745396670t" end="18760832090t" region="Region_00" xml:id="subtitle635">Who's that guy?</p>
+<p begin="18770421670t" end="18781682920t" region="Region_00" xml:id="subtitle636">Shampoo and conditioner.</p>
+<p begin="18782513750t" end="18817138340t" region="Region_03" xml:id="subtitle637">Always identical bottles for no<br/>other reason but to confuse us.</p>
+<p begin="18823394590t" end="18848009180t" region="Region_03" xml:id="subtitle638">You ever accidentally<br/>pour out the conditioner first?</p>
+<p begin="18848830000t" end="18885536670t" region="Region_03" xml:id="subtitle639">You're like, "Oh, crap!<br/>That's, like, 3 bucks!"</p>
+<p begin="18895136260t" end="18917238340t" region="Region_03" xml:id="subtitle640">You ever try and put it back in?<br/>You're like...</p>
+<p begin="18918489590t" end="18935586670t" region="Region_00" xml:id="subtitle641">[laughter]</p>
+<p begin="18936427510t" end="18959360420t" region="Region_00" xml:id="subtitle642">"Damn hole's too small."</p>
+<p begin="18960191250t" end="18977718760t" region="Region_00" xml:id="subtitle643">I always end up holding on to it</p>
+<p begin="18978549590t" end="19001072090t" region="Region_03" xml:id="subtitle644">and open the shampoo bottle<br/>with the other hand.</p>
+<p begin="19008990000t" end="19028189180t" region="Region_00" xml:id="subtitle645">Now, I'll just mix that together.</p>
+<p begin="19034435420t" end="19059040000t" region="Region_03" xml:id="subtitle646">Hope that doesn't start<br/>a fire or something.</p>
+<p begin="19074065010t" end="19086987920t" region="Region_00" xml:id="subtitle647">There is that product.</p>
+<p begin="19087828760t" end="19105756670t" region="Region_03" xml:id="subtitle648">It's shampoo<br/>and conditioner in one.</p>
+<p begin="19106597510t" end="19118279180t" region="Region_00" xml:id="subtitle649">I don't trust it.</p>
+<p begin="19128289180t" end="19158319180t" region="Region_03" xml:id="subtitle650">I don't like my peanut butter<br/>and jelly in the same jar.</p>
+<p begin="19162483340t" end="19177077920t" region="Region_00" xml:id="subtitle651">That's for Goobers.</p>
+<p begin="19186677510t" end="19206277090t" region="Region_00" xml:id="subtitle652">That joke's for goobers.</p>
+<p begin="19215456260t" end="19243814590t" region="Region_03" xml:id="subtitle653">There are so many goos<br/>and potions in our showers.</p>
+<p begin="19244645420t" end="19264665420t" region="Region_03" xml:id="subtitle654">And they're all just soaps<br/>with different names, right?</p>
+<p begin="19265506260t" end="19289690420t" region="Region_03" xml:id="subtitle655">This is a soap for your hair.<br/>This is a soap for your body.</p>
+<p begin="19290521250t" end="19324315010t" region="Region_03" xml:id="subtitle656">This is a facial scrub,<br/>which is soap with sand in it.</p>
+<p begin="19325976670t" end="19340991670t" region="Region_00" xml:id="subtitle657">[laughter]</p>
+<p begin="19341822500t" end="19361432090t" region="Region_00" xml:id="subtitle658">My favorite shower goo or potion, though,</p>
+<p begin="19362262920t" end="19398138760t" region="Region_03" xml:id="subtitle659">has to be body wash and not<br/>just because it sounds creepy.</p>
+<p begin="19398969590t" end="19422322920t" region="Region_03" xml:id="subtitle660">It's like,<br/>"Hey, I got you some body wash."</p>
+<p begin="19428168760t" end="19449850420t" region="Region_00" xml:id="subtitle661">"Yeah, I got you a restraining order."</p>
+<p begin="19465285840t" end="19486977510t" region="Region_00" xml:id="subtitle662">Body wash.</p>
+<p begin="19497818340t" end="19520751250t" region="Region_00" xml:id="subtitle663">Wash the body.</p>
+<p begin="19528689180t" end="19556206670t" region="Region_00" xml:id="subtitle664">Body wash.</p>
+<p begin="19562042500t" end="19585826260t" region="Region_00" xml:id="subtitle665">I'm gonna wash your body...</p>
+<p begin="19592492920t" end="19610420830t" region="Region_00" xml:id="subtitle666">[whispers] while you sleep.</p>
+<p begin="19638799180t" end="19672993340t" region="Region_03" xml:id="subtitle667">You can only use body wash on your body.<br/>Use it on your face, you die.</p>
+<p begin="19680490830t" end="19698859180t" region="Region_00" xml:id="subtitle668">It's the truth.</p>
+<p begin="19701772090t" end="19720530830t" region="Region_03" xml:id="subtitle669">I remember when they first<br/>introduced body wash.</p>
+<p begin="19721371670t" end="19743894170t" region="Region_03" xml:id="subtitle670">I was at a drugstore, and I was<br/>like, "This is so stupid."</p>
+<p begin="19744735010t" end="19757247510t" region="Region_00" xml:id="subtitle671">Body wash.</p>
+<p begin="19759740000t" end="19785185420t" region="Region_03" xml:id="subtitle672">Now I'm like, "Honey,<br/>we're all out of body wash.</p>
+<p begin="19786026260t" end="19798959180t" region="Region_00" xml:id="subtitle673">Can you get some more body wash?</p>
+<p begin="19799780000t" end="19819389590t" region="Region_00" xml:id="subtitle674">That soap's so hard to use.</p>
+<p begin="19823143340t" end="19856096260t" region="Region_03" xml:id="subtitle675">Get the body wash that has<br/>'energy' printed on it.</p>
+<p begin="19856927090t" end="19884034170t" region="Region_00" xml:id="subtitle676">I need my body wash to give me energy."</p>
+<p begin="19884875010t" end="19904474590t" region="Region_03" xml:id="subtitle677">That's what's printed<br/>on our bottle of body wash.</p>
+<p begin="19905305420t" end="19918658760t" region="Region_00" xml:id="subtitle678">"Energy" in bold.</p>
+<p begin="19919489590t" end="19934504590t" region="Region_00" xml:id="subtitle679">Like, they didn't even bother</p>
+<p begin="19935335420t" end="19966616670t" region="Region_03" xml:id="subtitle680">to think of a misleading<br/>adjective that made sense.</p>
+<p begin="19972042090t" end="20002902920t" region="Region_03" xml:id="subtitle681">Oh, what should we put<br/>on the bottle of body wash?</p>
+<p begin="20003733750t" end="20017917920t" region="Region_00" xml:id="subtitle682">Fuel-efficient.</p>
+<p begin="20020830830t" end="20037937920t" region="Region_00" xml:id="subtitle683">[laughter]</p>
+<p begin="20038778760t" end="20050450420t" region="Region_00" xml:id="subtitle684">Low-calorie.</p>
+<p begin="20060460420t" end="20075475420t" region="Region_00" xml:id="subtitle685">Something like that.</p>
+<p begin="20081731670t" end="20098838760t" region="Region_00" xml:id="subtitle686">But it doesn't matter what it says</p>
+<p begin="20099669590t" end="20118017920t" region="Region_00" xml:id="subtitle687">on all those goos and potions, right?</p>
+<p begin="20118858760t" end="20146796670t" region="Region_03" xml:id="subtitle688">They're snake oils, because when<br/>it comes to cleanliness,</p>
+<p begin="20147637510t" end="20160970830t" region="Region_00" xml:id="subtitle689">we will believe anything.</p>
+<p begin="20161811670t" end="20193092920t" region="Region_03" xml:id="subtitle690">We're like, "Oh, a facial scrub<br/>made of avocados.</p>
+<p begin="20194344170t" end="20211441250t" region="Region_00" xml:id="subtitle691">That makes sense.</p>
+<p begin="20226876670t" end="20250650420t" region="Region_00" xml:id="subtitle692">And it only costs $50.</p>
+<p begin="20258998760t" end="20287777510t" region="Region_00" xml:id="subtitle693">Funny, I bought an avocado today for 99¢.</p>
+<p begin="20300700420t" end="20325315010t" region="Region_03" xml:id="subtitle694">[gasps]<br/>Well, this must be good shampoo.</p>
+<p begin="20326145840t" end="20357427090t" region="Region_03" xml:id="subtitle695">It's from France.<br/>And they're known for cleanliness.</p>
+<p begin="20361170830t" end="20382031670t" region="Region_00" xml:id="subtitle696">[laughter and applause]</p>
+<p begin="20383282920t" end="20399969590t" region="Region_00" xml:id="subtitle697">At least I think it's shampoo.</p>
+<p begin="20400800420t" end="20419579180t" region="Region_00" xml:id="subtitle698">Douche de what?</p>
+<p begin="20427917510t" end="20458778340t" region="Region_00" xml:id="subtitle699">The French are douching their hair?"</p>
+<p begin="20462532090t" end="20485054590t" region="Region_03" xml:id="subtitle700">I did that joke in Montreal,<br/>and no one laughed.</p>
+<p begin="20512161670t" end="20535935420t" region="Region_03" xml:id="subtitle701">It really comes down to<br/>we don't want to smell, right?</p>
+<p begin="20536776260t" end="20550950420t" region="Region_00" xml:id="subtitle702">You ever catch yourself smelling,</p>
+<p begin="20551781250t" end="20578067510t" region="Region_00" xml:id="subtitle703">and you're like, "Oh, my God. I gotta...</p>
+<p begin="20581390830t" end="20596415840t" region="Region_00" xml:id="subtitle704">smell that again."</p>
+<p begin="20612682090t" end="20626866260t" region="Region_00" xml:id="subtitle705">You're, like, drawn to it.</p>
+<p begin="20627697090t" end="20657306670t" region="Region_00" xml:id="subtitle706">You're like, "That is alluring."</p>
+<p begin="20671901250t" end="20697767090t" region="Region_03" xml:id="subtitle707">"Honey, get over here.<br/>I got a treat for you."</p>
+<p begin="20710279590t" end="20731130420t" region="Region_00" xml:id="subtitle708">But we smell because we're animals, right?</p>
+<p begin="20731961250t" end="20761991250t" region="Region_03" xml:id="subtitle709">We're just self-cleaning animals.<br/>We're like cats. We're like...</p>
+<p begin="20773672920t" end="20790359590t" region="Region_00" xml:id="subtitle710">I know we're supposed to be like apes,</p>
+<p begin="20791190420t" end="20810379590t" region="Region_03" xml:id="subtitle711">but they're picking bugs<br/>off each other and eating it.</p>
+<p begin="20811210420t" end="20824974170t" region="Region_00" xml:id="subtitle712">We're like cats.</p>
+<p begin="20827066260t" end="20859178340t" region="Region_03" xml:id="subtitle713">We self-clean. We're grumpy.<br/>We're finicky eaters.</p>
+<p begin="20860019180t" end="20874603750t" region="Region_00" xml:id="subtitle714">I don't want to eat that.</p>
+<p begin="20889208340t" end="20914643750t" region="Region_00" xml:id="subtitle715">I don't feel like eating that right now.</p>
+<p begin="20926745840t" end="20943422500t" region="Region_00" xml:id="subtitle716">We like to think we're like dogs.</p>
+<p begin="20944263340t" end="20968457510t" region="Region_03" xml:id="subtitle717">I mean, I wish I was a dog.<br/>Dogs are always in a good mood.</p>
+<p begin="20969288340t" end="20993892920t" region="Region_03" xml:id="subtitle718">They're like, "What is that?<br/>Throw-up? I'll eat it.</p>
+<p begin="21007246260t" end="21039778760t" region="Region_00" xml:id="subtitle719">I don't care. I'm just happy to be here."</p>
+<p begin="21047286260t" end="21068137090t" region="Region_00" xml:id="subtitle720">Dogs are happy to be anywhere.</p>
+<p begin="21076895840t" end="21091900830t" region="Region_00" xml:id="subtitle721">You ever see a homeless guy with a dog?</p>
+<p begin="21092741670t" end="21111090000t" region="Region_00" xml:id="subtitle722">The dog's like, "This isn't that bad.</p>
+<p begin="21129027920t" end="21153632500t" region="Region_00" xml:id="subtitle723">I was begging for food anyway. I mean..."</p>
+<p begin="21156145010t" end="21181580420t" region="Region_00" xml:id="subtitle724">[laughter]</p>
+<p begin="21185334170t" end="21215364170t" region="Region_03" xml:id="subtitle725">But we're more like cats, right?<br/>But we can't even be like a cat</p>
+<p begin="21216205010t" end="21246235010t" region="Region_03" xml:id="subtitle726">because a cat could scratch<br/>itself on a stationary object,</p>
+<p begin="21247065840t" end="21269167920t" region="Region_00" xml:id="subtitle727">and we'd be like, "That's adorable."</p>
+<p begin="21270008760t" end="21308797510t" region="Region_00" xml:id="subtitle728">But if I scratch myself on a mannequin</p>
+<p begin="21322971670t" end="21337986670t" region="Region_00" xml:id="subtitle729">at Victoria's Secret,</p>
+<p begin="21344242920t" end="21359257920t" region="Region_00" xml:id="subtitle730">they call security.</p>
+<p begin="21360098760t" end="21382190830t" region="Region_03" xml:id="subtitle731">If I'm just like,<br/>"Oh, I got an itch here."</p>
+<p begin="21394292920t" end="21418907510t" region="Region_03" xml:id="subtitle732">Especially if I'm purring,<br/>if I'm like... [purring]</p>
+<p begin="21441840420t" end="21464783340t" region="Region_00" xml:id="subtitle733">Lots of undies around here, huh?</p>
+<p begin="21472280830t" end="21495223750t" region="Region_00" xml:id="subtitle734">You can't do that in Victoria's Secret.</p>
+<p begin="21496064590t" end="21519007510t" region="Region_03" xml:id="subtitle735">I have been to Victoria's Secret.<br/>I had a reason.</p>
+<p begin="21519838340t" end="21543191670t" region="Region_03" xml:id="subtitle736">You know, as a man, you need a reason<br/>to be in Victoria's Secret.</p>
+<p begin="21544022500t" end="21570729180t" region="Region_03" xml:id="subtitle737">You can't just be in there<br/>like, "I'm looking around.</p>
+<p begin="21576975420t" end="21599918340t" region="Region_00" xml:id="subtitle738">See what you ladies are buying."</p>
+<p begin="21617435840t" end="21639127510t" region="Region_03" xml:id="subtitle739">I was getting my wife something<br/>for Valentine's Day.</p>
+<p begin="21639958340t" end="21660398760t" region="Region_03" xml:id="subtitle740">You have to reach a point<br/>in a relationship where you can</p>
+<p begin="21661229590t" end="21677075420t" region="Region_03" xml:id="subtitle741">get a woman something<br/>from Victoria's Secret.</p>
+<p begin="21677916260t" end="21710028340t" region="Region_03" xml:id="subtitle742">It's not like a first-date thing, like,<br/>"Thanks for meeting me for dinner.</p>
+<p begin="21710869180t" end="21729217510t" region="Region_00" xml:id="subtitle743">I got you a bustier.</p>
+<p begin="21738807090t" end="21766334590t" region="Region_03" xml:id="subtitle744">Why don't you go in the <span style="style_1">bano</span><br/>and throw that on?"</p>
+<p begin="21767585840t" end="21785103340t" region="Region_00" xml:id="subtitle745">[laughter]</p>
+<p begin="21786354590t" end="21815133340t" region="Region_03" xml:id="subtitle746">Secretly, every guy wants<br/>to go in Victoria's Secret.</p>
+<p begin="21815964170t" end="21848086260t" region="Region_03" xml:id="subtitle747">We walk by in the mall.<br/>We're like, "Oh, one day.</p>
+<p begin="21860178340t" end="21883111250t" region="Region_00" xml:id="subtitle748">One day, I'll have a reason."</p>
+<p begin="21891459590t" end="21908146260t" region="Region_03" xml:id="subtitle749">Because, you know,<br/>we've seen the catalog.</p>
+<p begin="21908977090t" end="21923992090t" region="Region_03" xml:id="subtitle750">You don't even have<br/>to search out the catalog.</p>
+<p begin="21924822920t" end="21938586670t" region="Region_00" xml:id="subtitle751">It just shows up in your mail.</p>
+<p begin="21939427510t" end="21956524590t" region="Region_00" xml:id="subtitle752">You're like, "Oh, what's this?</p>
+<p begin="21957355420t" end="21988226260t" region="Region_03" xml:id="subtitle753">Seems like there's<br/>some good articles in here.</p>
+<p begin="22004482500t" end="22047445420t" region="Region_03" xml:id="subtitle754">If I wasn't married, I could get<br/>rejected by all these women."</p>
+<p begin="22054952920t" end="22069557510t" region="Region_00" xml:id="subtitle755">And guys, we're just dumb enough,</p>
+<p begin="22070388340t" end="22092490420t" region="Region_00" xml:id="subtitle756">we see that Victoria's Secret store,</p>
+<p begin="22093321250t" end="22119187090t" region="Region_03" xml:id="subtitle757">and we think, "Maybe that's<br/>where those models live.</p>
+<p begin="22133361250t" end="22151309180t" region="Region_00" xml:id="subtitle758">They're probably in there right now,</p>
+<p begin="22152130000t" end="22170067920t" region="Region_00" xml:id="subtitle759">walking around in angels' wings.</p>
+<p begin="22189677510t" end="22218866670t" region="Region_03" xml:id="subtitle760">They're probably in there<br/>having a pillow fight right now.</p>
+<p begin="22227215010t" end="22255573340t" region="Region_03" xml:id="subtitle761">If I could find a practical<br/>reason to go in there,</p>
+<p begin="22256404170t" end="22278516260t" region="Region_00" xml:id="subtitle762">it would be amazing."</p>
+<p begin="22282680420t" end="22308546260t" region="Region_03" xml:id="subtitle763">And then you finally go<br/>into Victoria's Secret,</p>
+<p begin="22309377090t" end="22332730420t" region="Region_00" xml:id="subtitle764">and it's like a Greyhound bus station.</p>
+<p begin="22348165840t" end="22375693340t" region="Region_03" xml:id="subtitle765">What, are you guys<br/>in between shifts in here?</p>
+<p begin="22383611250t" end="22406974590t" region="Region_00" xml:id="subtitle766">Where's all the angels?</p>
+<p begin="22411979590t" end="22434081670t" region="Region_03" xml:id="subtitle767">There's just stressed out<br/>salesladies with headsets on.</p>
+<p begin="22434912500t" end="22453681250t" region="Region_00" xml:id="subtitle768">"Underwear, underwear, underwear."</p>
+<p begin="22454932500t" end="22468285840t" region="Region_00" xml:id="subtitle769">[laughter]</p>
+<p begin="22472450000t" end="22497485010t" region="Region_00" xml:id="subtitle770">"Where's the open bar?"</p>
+<p begin="22507495010t" end="22540027510t" region="Region_03" xml:id="subtitle771">But you're still a guy<br/>in a woman's underwear store.</p>
+<p begin="22540858340t" end="22560047510t" region="Region_00" xml:id="subtitle772">And you don't want to look like a creep.</p>
+<p begin="22560878340t" end="22578395840t" region="Region_00" xml:id="subtitle773">That's why every man at Victoria's Secret</p>
+<p begin="22579226670t" end="22616343750t" region="Region_03" xml:id="subtitle774">has the same expression<br/>on his face of, "Boring!</p>
+<p begin="22618856260t" end="22644291670t" region="Region_03" xml:id="subtitle775">This is place is boring<br/>because I'm not a pervert.</p>
+<p begin="22653881250t" end="22683490830t" region="Region_03" xml:id="subtitle776">There's nothing stimulating in<br/>here because it's boring to me,</p>
+<p begin="22684331670t" end="22724792090t" region="Region_03" xml:id="subtitle777">especially those huge posters<br/>of supermodels mostly naked.</p>
+<p begin="22725622920t" end="22748145420t" region="Region_00" xml:id="subtitle778">Boring." [chuckles]</p>
+<p begin="22753560830t" end="22780267510t" region="Region_03" xml:id="subtitle779">I didn't know what I was looking<br/>for, so I went up to a saleslady</p>
+<p begin="22781098340t" end="22807795010t" region="Region_00" xml:id="subtitle780">who had the warmth of a TSA screener.</p>
+<p begin="22808625840t" end="22822800000t" region="Region_03" xml:id="subtitle781">"What do you want?"<br/>"Nothing.</p>
+<p begin="22823630830t" end="22841578760t" region="Region_03" xml:id="subtitle782">I didn't touch anything.<br/>I'm leaving."</p>
+<p begin="22845322500t" end="22859096260t" region="Region_00" xml:id="subtitle783">I was trying to be discreet.</p>
+<p begin="22859927090t" end="22889536670t" region="Region_03" xml:id="subtitle784">I was like, "Look, I'm looking<br/>for something for my wife.</p>
+<p begin="22891628760t" end="22915392500t" region="Region_00" xml:id="subtitle785">She's very intelligent.</p>
+<p begin="22925822920t" end="22944591670t" region="Region_00" xml:id="subtitle786">She's creative."</p>
+<p begin="22945422500t" end="22972539590t" region="Region_03" xml:id="subtitle787">Because you can't say, "I'm<br/>looking for a slutty outfit."</p>
+<p begin="22989226260t" end="23031348340t" region="Region_00" xml:id="subtitle788">"She volunteers. She's organized.</p>
+<p begin="23032189180t" end="23058045010t" region="Region_03" xml:id="subtitle789">Maybe that French maid's outfit<br/>would be good."</p>
+<p begin="23066383340t" end="23085152090t" region="Region_03" xml:id="subtitle790">Then I was thrown<br/>because the saleslady was like,</p>
+<p begin="23085982920t" end="23104331250t" region="Region_03" xml:id="subtitle791">"What size?"<br/>And I was like, "Size?</p>
+<p begin="23105172090t" end="23146463340t" region="Region_00" xml:id="subtitle792">Uh, female? Small?"</p>
+<p begin="23147294170t" end="23165232090t" region="Region_00" xml:id="subtitle793">Because you don't want to guess too big.</p>
+<p begin="23166062920t" end="23184411250t" region="Region_03" xml:id="subtitle794">You don't want to be like,<br/>"Hey, you'll grow into it.</p>
+<p begin="23194421250t" end="23211107920t" region="Region_03" xml:id="subtitle795">I thought<br/>you was much bigger."</p>
+<p begin="23215282090t" end="23249065840t" region="Region_03" xml:id="subtitle796">You can't ask a stranger, like,<br/>"Hey. Excuse me there, lady.</p>
+<p begin="23249896670t" end="23271588340t" region="Region_03" xml:id="subtitle797">You look like you got<br/>a keister like my wife's.</p>
+<p begin="23276593340t" end="23292028760t" region="Region_00" xml:id="subtitle798">What size undies you got there?</p>
+<p begin="23292859590t" end="23324971670t" region="Region_03" xml:id="subtitle799">Maybe you could try on<br/>this outfit I got."</p>
+<p begin="23335812500t" end="23352509180t" region="Region_00" xml:id="subtitle800">I just wanted it over with.</p>
+<p begin="23353330000t" end="23382539180t" region="Region_03" xml:id="subtitle801">When I was paying, I assumed<br/>the awkwardness was over</p>
+<p begin="23383360000t" end="23402138760t" region="Region_00" xml:id="subtitle802">until they handed me my purchase</p>
+<p begin="23402969590t" end="23434240830t" region="Region_00" xml:id="subtitle803">in a bright pink Victoria's Secret bag</p>
+<p begin="23435081670t" end="23465942500t" region="Region_03" xml:id="subtitle804">that I had to carry around<br/>the mall the rest of the day</p>
+<p begin="23466783340t" end="23490977510t" region="Region_03" xml:id="subtitle805">that might as well have<br/>just said "pervert" on the side.</p>
+<p begin="23491808340t" end="23524751250t" region="Region_00" xml:id="subtitle806">[humming]</p>
+<p begin="23525592090t" end="23549786260t" region="Region_00" xml:id="subtitle807"><span style="style_1">♪ Me and my ladies' undies ♪</span></p>
+<p begin="23550617090t" end="23561047510t" region="Region_00" xml:id="subtitle808">[laughter]</p>
+<p begin="23561878340t" end="23589826260t" region="Region_03" xml:id="subtitle809">I like ladies' undies so much,<br/>I got a bag full of them.</p>
+<p begin="23596913340t" end="23631117510t" region="Region_00" xml:id="subtitle810"><span style="style_1">♪ Heading into Burger King ♪</span></p>
+<p begin="23636532920t" end="23650296670t" region="Region_00" xml:id="subtitle811">Yeah, I'll have a Whopper with cheese</p>
+<p begin="23651137510t" end="23680326670t" region="Region_00" xml:id="subtitle812">and a small fries for the ladies' undies.</p>
+<p begin="23691177510t" end="23717443750t" region="Region_03" xml:id="subtitle813">When I got home, I realized<br/>you have to find the right time</p>
+<p begin="23718284590t" end="23738304590t" region="Region_00" xml:id="subtitle814">to give your gift from Victoria's Secret.</p>
+<p begin="23739135420t" end="23763329590t" region="Region_03" xml:id="subtitle815">You can't be like, "Hey, when you're done<br/>changing that diaper,</p>
+<p begin="23764160420t" end="23790436670t" region="Region_00" xml:id="subtitle816">I got another changie-poo for you.</p>
+<p begin="23797523750t" end="23839655840t" region="Region_03" xml:id="subtitle817">It's a little gift from me<br/>to you that's really for me."</p>
+<p begin="23854250420t" end="23870937090t" region="Region_00" xml:id="subtitle818">Because if you're buying a woman something</p>
+<p begin="23871767920t" end="23895962090t" region="Region_03" xml:id="subtitle819">from Victoria's Secret,<br/>it's really a gift for you.</p>
+<p begin="23896792920t" end="23916812920t" region="Region_00" xml:id="subtitle820">It's like, "Here, I got me this.</p>
+<p begin="23919315420t" end="23932668760t" region="Region_00" xml:id="subtitle821">[laughter]</p>
+<p begin="23933499590t" end="23956432500t" region="Region_00" xml:id="subtitle822">Thank you. I'm welcome."</p>
+<p begin="23971457510t" end="23995641670t" region="Region_00" xml:id="subtitle823">I am never going back there again.</p>
+<p begin="24015241250t" end="24037763750t" region="Region_03" xml:id="subtitle824">I don't know.<br/>It's good to be here in Boston.</p>
+<p begin="24038604590t" end="24074050000t" region="Region_03" xml:id="subtitle825">-[cheers and applause]<br/>-Oh, I love Boston... This is a...</p>
+<p begin="24076972920t" end="24101997920t" region="Region_00" xml:id="subtitle826">Boston's a tough city, right?</p>
+<p begin="24102838760t" end="24121187090t" region="Region_00" xml:id="subtitle827">It's like, Boston!</p>
+<p begin="24122017920t" end="24154550420t" region="Region_00" xml:id="subtitle828">Boston! Lob-stah!</p>
+<p begin="24160396260t" end="24180826670t" region="Region_00" xml:id="subtitle829">I love the Boston energy.</p>
+<p begin="24181667510t" end="24198764590t" region="Region_00" xml:id="subtitle830">And you guys, all of New England,</p>
+<p begin="24199595420t" end="24220035840t" region="Region_00" xml:id="subtitle831">you guys love your seafood,</p>
+<p begin="24220866670t" end="24247142920t" region="Region_00" xml:id="subtitle832">and it's just disgusting.</p>
+<p begin="24255060830t" end="24299285010t" region="Region_00" xml:id="subtitle833">Lob-stah! Lob-stah!</p>
+<p begin="24304280000t" end="24330976670t" region="Region_03" xml:id="subtitle834">I was vacationing<br/>on Cape Cod because I'm white.</p>
+<p begin="24333489180t" end="24369765420t" region="Region_03" xml:id="subtitle835">-And...<br/>-[laughter and applause]</p>
+<p begin="24370606260t" end="24393959590t" region="Region_00" xml:id="subtitle836">I was at this seafood restaurant, right?</p>
+<p begin="24394790420t" end="24410225840t" region="Region_00" xml:id="subtitle837">And this guy came over to our table.</p>
+<p begin="24411056670t" end="24428994590t" region="Region_03" xml:id="subtitle838">Wasn't even our waiter.<br/>He came over to the table.</p>
+<p begin="24429825420t" end="24444009590t" region="Region_00" xml:id="subtitle839">He was like, "Hey, I couldn't help..."</p>
+<p begin="24444840420t" end="24464440000t" region="Region_03" xml:id="subtitle840">I don't know how to do<br/>the Boston accent.</p>
+<p begin="24465270830t" end="24482377920t" region="Region_00" xml:id="subtitle841">"You're not eating lobster.</p>
+<p begin="24483218760t" end="24509495010t" region="Region_03" xml:id="subtitle842">Is there a reason why<br/>you're not eating lob-stah?"</p>
+<p begin="24514079590t" end="24543278760t" region="Region_03" xml:id="subtitle843">And I was like, "Uh, I thought<br/>I'd order what I want.</p>
+<p begin="24554530000t" end="24580395840t" region="Region_00" xml:id="subtitle844">I wasn't really in the mood for bug meat."</p>
+<p begin="24591657090t" end="24607082500t" region="Region_00" xml:id="subtitle845">Because that's what shellfish are.</p>
+<p begin="24607923340t" end="24625430830t" region="Region_00" xml:id="subtitle846">They're just creepy-crawly, giant insects</p>
+<p begin="24626271670t" end="24640035420t" region="Region_00" xml:id="subtitle847">on the bottom of the ocean.</p>
+<p begin="24640876260t" end="24655881250t" region="Region_00" xml:id="subtitle848">You know fish are swimming around like,</p>
+<p begin="24656722090t" end="24679665010t" region="Region_03" xml:id="subtitle849">"We got to get an exterminator<br/>up in this piece."</p>
+<p begin="24686331670t" end="24713869180t" region="Region_03" xml:id="subtitle850">They're bugs.<br/>They have a shell like a bug.</p>
+<p begin="24714690000t" end="24737212500t" region="Region_03" xml:id="subtitle851">They have spindly legs<br/>and crawl around like a bug.</p>
+<p begin="24738053340t" end="24761406670t" region="Region_00" xml:id="subtitle852">They have antennae like a monster.</p>
+<p begin="24762657920t" end="24772667920t" region="Region_00" xml:id="subtitle853">[laughter]</p>
+<p begin="24773508760t" end="24786011250t" region="Region_00" xml:id="subtitle854">They're probably monsters.</p>
+<p begin="24786852090t" end="24806031250t" region="Region_03" xml:id="subtitle855">Like, if you went home and you saw<br/>a chicken in your house,</p>
+<p begin="24806872090t" end="24828974170t" region="Region_03" xml:id="subtitle856">you'd be like, "What the hell's<br/>a chicken doing in my house?"</p>
+<p begin="24829815010t" end="24852747920t" region="Region_03" xml:id="subtitle857">But if you saw a lobster,<br/>you'd be like, "We're moving."</p>
+<p begin="24853588760t" end="24869855010t" region="Region_00" xml:id="subtitle858">[laughter]</p>
+<p begin="24871516670t" end="24892787920t" region="Region_03" xml:id="subtitle859">Because there's not<br/>a nickel's worth of difference</p>
+<p begin="24893628760t" end="24924489590t" region="Region_00" xml:id="subtitle860">between a lobster and a giant scorpion.</p>
+<p begin="24931166260t" end="24966611670t" region="Region_03" xml:id="subtitle861">Now, I understand everyone<br/>loves lobster, "I love lobster."</p>
+<p begin="24967442500t" end="24997892920t" region="Region_00" xml:id="subtitle862">Hey, I like butter too, OK?</p>
+<p begin="25007482500t" end="25034599590t" region="Region_00" xml:id="subtitle863">How can I eat three sticks of butter?</p>
+<p begin="25039604590t" end="25068793750t" region="Region_03" xml:id="subtitle864">Well, I found this giant,<br/>swimming sea scorpion.</p>
+<p begin="25084649590t" end="25121356260t" region="Region_03" xml:id="subtitle865">It's just a spoonful of butter<br/>helps the bug meat go down.</p>
+<p begin="25130115010t" end="25154719590t" region="Region_00" xml:id="subtitle866">In the most delightful way.</p>
+<p begin="25169314170t" end="25180995840t" region="Region_00" xml:id="subtitle867">Lobster tail.</p>
+<p begin="25181826670t" end="25210195010t" region="Region_00" xml:id="subtitle868">Is that the area near the butt? Mmm.</p>
+<p begin="25224789590t" end="25246050830t" region="Region_03" xml:id="subtitle869">That's what I want,<br/>a little turf and bug butt.</p>
+<p begin="25246891670t" end="25269834590t" region="Region_00" xml:id="subtitle870">Yum, yum, yum, yum, yum.</p>
+<p begin="25270665420t" end="25295690420t" region="Region_03" xml:id="subtitle871">How about those restaurants where you have<br/>to pick out your own lobster?</p>
+<p begin="25296521250t" end="25316120830t" region="Region_00" xml:id="subtitle872">You're like, "I guess I'll take that one</p>
+<p begin="25318212920t" end="25341986670t" region="Region_03" xml:id="subtitle873">that's really struggling<br/>with the rubber bands.</p>
+<p begin="25343237920t" end="25361175840t" region="Region_00" xml:id="subtitle874">[laughter]</p>
+<p begin="25362006670t" end="25392457090t" region="Region_03" xml:id="subtitle875">He seems appealing.<br/>Why don't we boil him to death?"</p>
+<p begin="25406210830t" end="25432917510t" region="Region_00" xml:id="subtitle876">Why am I involved in this decision?</p>
+<p begin="25458773340t" end="25482547090t" region="Region_00" xml:id="subtitle877">But the Northeast? It's all shellfish.</p>
+<p begin="25483377920t" end="25497972500t" region="Region_00" xml:id="subtitle878">Maryland with the crab.</p>
+<p begin="25498813340t" end="25530094590t" region="Region_03" xml:id="subtitle879">Isn't it kind of a red flag<br/>you need a hammer to eat a crab?</p>
+<p begin="25530925420t" end="25543858340t" region="Region_00" xml:id="subtitle880">Oh, you're having the crab?</p>
+<p begin="25544699180t" end="25581816260t" region="Region_03" xml:id="subtitle881">Let me get you some tools,<br/>so you can crack open</p>
+<p begin="25582647090t" end="25608082500t" region="Region_03" xml:id="subtitle882">that bug shell and get<br/>that half a bite of bug meat.</p>
+<p begin="25620184590t" end="25636440830t" region="Region_00" xml:id="subtitle883">Crab, it's too much work.</p>
+<p begin="25637281670t" end="25658973340t" region="Region_00" xml:id="subtitle884">They're like the pistachio of seafood.</p>
+<p begin="25673157510t" end="25691926260t" region="Region_00" xml:id="subtitle885">And there's that nasty part of the crab</p>
+<p begin="25692757090t" end="25720284590t" region="Region_03" xml:id="subtitle886">you're not supposed to eat.<br/>I think it's called all of it!</p>
+<p begin="25729043340t" end="25771165420t" region="Region_03" xml:id="subtitle887">'Cause they're crabs,<br/>as in the sexually transmitted disease.</p>
+<p begin="25777842090t" end="25817041250t" region="Region_03" xml:id="subtitle888">That has the same name because<br/>it's the exact same thing!</p>
+<p begin="25824138340t" end="25850414590t" region="Region_03" xml:id="subtitle889">They're just the baby version<br/>of the dinner crab.</p>
+<p begin="25851245420t" end="25868762920t" region="Region_00" xml:id="subtitle890">You know God's up in heaven going,</p>
+<p begin="25869593750t" end="25907551670t" region="Region_03" xml:id="subtitle891">"What do I gotta do to stop them<br/>from eating the crabs?</p>
+<p begin="25914648760t" end="25932997090t" region="Region_00" xml:id="subtitle892">I gave it a rock-hard shell.</p>
+<p begin="25933827920t" end="25947171250t" region="Region_00" xml:id="subtitle893">I put it on the bottom of the ocean.</p>
+<p begin="25948012090t" end="25972206260t" region="Region_00" xml:id="subtitle894">I named a disease after it.</p>
+<p begin="25978872920t" end="26008902920t" region="Region_03" xml:id="subtitle895">Jesus, you're gonna have<br/>to go back down there."</p>
+<p begin="26009733750t" end="26023917920t" region="Region_00" xml:id="subtitle896">[laughter and applause]</p>
+<p begin="26024758760t" end="26038512500t" region="Region_00" xml:id="subtitle897">I don't even know how people</p>
+<p begin="26039353340t" end="26056860830t" region="Region_00" xml:id="subtitle898">order crabs with a straight face.</p>
+<p begin="26057701670t" end="26073967920t" region="Region_00" xml:id="subtitle899">"Yeah, my wife and I... You know what?</p>
+<p begin="26074808760t" end="26093987920t" region="Region_00" xml:id="subtitle900">I'll get crabs, and I'll give her some.</p>
+<p begin="26094828760t" end="26111505420t" region="Region_00" xml:id="subtitle901">[laughter and applause]</p>
+<p begin="26112346260t" end="26136940830t" region="Region_03" xml:id="subtitle902">Don't tell her.<br/>I want it to be a surprise."</p>
+<p begin="26146540420t" end="26168642500t" region="Region_00" xml:id="subtitle903">Even the crab as a creature is creepy.</p>
+<p begin="26169483340t" end="26201185010t" region="Region_03" xml:id="subtitle904">It always looks like it's trying<br/>to avoid an awkward situation.</p>
+<p begin="26202015840t" end="26217861670t" region="Region_00" xml:id="subtitle905">[laughter]</p>
+<p begin="26218692500t" end="26245809590t" region="Region_03" xml:id="subtitle906">"Is that...<br/>Oh, I owe that guy money. Crap."</p>
+<p begin="26268742500t" end="26282926670t" region="Region_00" xml:id="subtitle907">Clams and oysters.</p>
+<p begin="26283767510t" end="26304618340t" region="Region_00" xml:id="subtitle908">How did we even start eating those?</p>
+<p begin="26307531250t" end="26336730420t" region="Region_00" xml:id="subtitle909">"Hey, I found a rock with a snot in it.</p>
+<p begin="26351745420t" end="26368432090t" region="Region_00" xml:id="subtitle910">I was thinking of eating it."</p>
+<p begin="26369262920t" end="26380524170t" region="Region_00" xml:id="subtitle911">"Go ahead."</p>
+<p begin="26381365010t" end="26396790420t" region="Region_00" xml:id="subtitle912">"All right." [slurps]</p>
+<p begin="26400544170t" end="26417220830t" region="Region_03" xml:id="subtitle913">"What's it taste like?"<br/>"Pneumonia."</p>
+<p begin="26418482090t" end="26432245840t" region="Region_00" xml:id="subtitle914">[laughter]</p>
+<p begin="26433076670t" end="26449763340t" region="Region_00" xml:id="subtitle915">Oysters on the half shell.</p>
+<p begin="26450594170t" end="26470193750t" region="Region_03" xml:id="subtitle916">As opposed to what,<br/>in a Kleenex?</p>
+<p begin="26484377920t" end="26502736260t" region="Region_03" xml:id="subtitle917">Even the way you're supposed<br/>to eat an oyster...</p>
+<p begin="26503567090t" end="26521084590t" region="Region_00" xml:id="subtitle918">Squeeze some lemon, a little hot sauce,</p>
+<p begin="26521915420t" end="26541104590t" region="Region_03" xml:id="subtitle919">throw it down the back of your<br/>throat, take a shot of vodka,</p>
+<p begin="26541935420t" end="26560283750t" region="Region_03" xml:id="subtitle920">and try and forget<br/>you ate a snot from a rock.</p>
+<p begin="26570293750t" end="26584477920t" region="Region_00" xml:id="subtitle921">That's not how you eat something.</p>
+<p begin="26585318760t" end="26610333750t" region="Region_00" xml:id="subtitle922">That's how you overdose on sleeping pills.</p>
+<p begin="26618261670t" end="26635789180t" region="Region_00" xml:id="subtitle923">Pearls come from oysters.</p>
+<p begin="26636610000t" end="26666229590t" region="Region_03" xml:id="subtitle924">Yeah, I try not to eat things<br/>that also make jewelry.</p>
+<p begin="26667470830t" end="26679572920t" region="Region_00" xml:id="subtitle925">[laughter]</p>
+<p begin="26680403750t" end="26700844170t" region="Region_00" xml:id="subtitle926">Oysters are an aphrodisiac?</p>
+<p begin="26701685010t" end="26717941250t" region="Region_00" xml:id="subtitle927">Why would we ever believe that?</p>
+<p begin="26718782090t" end="26748812090t" region="Region_03" xml:id="subtitle928">What do you say you and I<br/>grab some snots from a rock?</p>
+<p begin="26760073340t" end="26783016260t" region="Region_03" xml:id="subtitle929">See what happens.<br/>Maybe we'll end up at my place.</p>
+<p begin="26783847090t" end="26806780000t" region="Region_03" xml:id="subtitle930">Maybe we'll end up<br/>at the emergency room.</p>
+<p begin="26816790000t" end="26843076260t" region="Region_00" xml:id="subtitle931">Let it happen, baby.</p>
+<p begin="26853496670t" end="26869342500t" region="Region_00" xml:id="subtitle932">Clam chowder.</p>
+<p begin="26871434590t" end="26886449590t" region="Region_00" xml:id="subtitle933">How can we sell more clams?</p>
+<p begin="26887280420t" end="26909382499t" region="Region_03" xml:id="subtitle934">Why don't we put it in a soup<br/>that looks like vomit?</p>
+<p begin="26910633749t" end="26924407509t" region="Region_00" xml:id="subtitle935">[laughter]</p>
+<p begin="26925658759t" end="26941084169t" region="Region_03" xml:id="subtitle936">He went too far.<br/>Let's kill him.</p>
+<p begin="26960273339t" end="26989052089t" region="Region_03" xml:id="subtitle937">But most seafood gives me the willies.<br/>Like anchovies.</p>
+<p begin="26989882919t" end="27024917919t" region="Region_03" xml:id="subtitle938">What exactly is the difference<br/>between an anchovy and a sweaty eyebrow?</p>
+<p begin="27026589589t" end="27041604589t" region="Region_00" xml:id="subtitle939">[laughter]</p>
+<p begin="27042855839t" end="27059122089t" region="Region_00" xml:id="subtitle940">Because whenever I see an anchovy,</p>
+<p begin="27059952919t" end="27083316259t" region="Region_03" xml:id="subtitle941">I think,<br/>"Someone has attacked Tom Selleck."</p>
+<p begin="27099992919t" end="27128771669t" region="Region_00" xml:id="subtitle942">Why would you put that in a salad?</p>
+<p begin="27129602499t" end="27156719589t" region="Region_00" xml:id="subtitle943">Squid, more like the swimming sea spider.</p>
+<p begin="27157550419t" end="27179242089t" region="Region_00" xml:id="subtitle944">"But I like calamari."</p>
+<p begin="27182995839t" end="27215528339t" region="Region_03" xml:id="subtitle945">You could deep-fry a rubber<br/>hose, it would taste good.</p>
+<p begin="27218441249t" end="27242225009t" region="Region_03" xml:id="subtitle946">A little cocktail sauce,<br/>this is good hose.</p>
+<p begin="27251394169t" end="27273085839t" region="Region_00" xml:id="subtitle947">Octopus? Really?</p>
+<p begin="27273916669t" end="27308110829t" region="Region_03" xml:id="subtitle948">"Octo" meaning "eight,"<br/>"pus" meaning "really?"</p>
+<p begin="27322305009t" end="27344407089t" region="Region_00" xml:id="subtitle949">Yes. The pus part's my favorite.</p>
+<p begin="27348991669t" end="27381524169t" region="Region_03" xml:id="subtitle950">The suction cups remind me<br/>we need a new bathtub mat.</p>
+<p begin="27402385009t" end="27422815419t" region="Region_00" xml:id="subtitle951">I wish I liked seafood. I do.</p>
+<p begin="27423656259t" end="27454937509t" region="Region_03" xml:id="subtitle952">I live near Chinatown<br/>in New York because I'm Chinese.</p>
+<p begin="27456188759t" end="27466619179t" region="Region_00" xml:id="subtitle953">[laughter]</p>
+<p begin="27467439999t" end="27499562089t" region="Region_03" xml:id="subtitle954">And like most Chinatowns,<br/>a lot of the restaurants in Chinatown</p>
+<p begin="27500392919t" end="27525007509t" region="Region_00" xml:id="subtitle955">have live seafood tanks in the windows.</p>
+<p begin="27525838339t" end="27545437919t" region="Region_03" xml:id="subtitle956">And I'm always like,<br/>"Uh, do you want us to come in there,</p>
+<p begin="27546278759t" end="27580052499t" region="Region_03" xml:id="subtitle957">or are these sea monsters<br/>protecting your establishment?"</p>
+<p begin="27594657089t" end="27617179589t" region="Region_00" xml:id="subtitle958">Because I is scared.</p>
+<p begin="27618841249t" end="27645127509t" region="Region_03" xml:id="subtitle959">And I love Chinese food,<br/>and I love the Chinese culture.</p>
+<p begin="27645958339t" end="27659722089t" region="Region_00" xml:id="subtitle960">And I'm not just saying that</p>
+<p begin="27660552919t" end="27688490829t" region="Region_03" xml:id="subtitle961">because we're all gonna be<br/>working for them in six months.</p>
+<p begin="27694336669t" end="27721864169t" region="Region_03" xml:id="subtitle962">The Chinese have<br/>an amazing culture. They do.</p>
+<p begin="27722705009t" end="27762324589t" region="Region_03" xml:id="subtitle963">3,000 years ago, they were<br/>doing brain surgery in China,</p>
+<p begin="27763155419t" end="27787349589t" region="Region_03" xml:id="subtitle964">yet they still haven't<br/>figured out dessert.</p>
+<p begin="27798600829t" end="27811954169t" region="Region_00" xml:id="subtitle965">You ever go to a Chinese restaurant?</p>
+<p begin="27812795009t" end="27830722919t" region="Region_03" xml:id="subtitle966">I'm not talking about<br/>the fancy Chinese restaurant</p>
+<p begin="27831553749t" end="27847409589t" region="Region_03" xml:id="subtitle967">that has the tea ice cream<br/>that tastes like</p>
+<p begin="27848240419t" end="27862424589t" region="Region_00" xml:id="subtitle968">a pack of menthol cigarettes.</p>
+<p begin="27863255419t" end="27874937089t" region="Region_00" xml:id="subtitle969">[laughter]</p>
+<p begin="27875767919t" end="27890782919t" region="Region_03" xml:id="subtitle970">I'm talking about<br/>a regular Chinese restaurant</p>
+<p begin="27891613749t" end="27909972089t" region="Region_03" xml:id="subtitle971">where the dessert options,<br/>there's two, right?</p>
+<p begin="27910802919t" end="27922905009t" region="Region_00" xml:id="subtitle972">There's sliced oranges.</p>
+<p begin="27923735839t" end="27934576669t" region="Region_00" xml:id="subtitle973">Whoa.</p>
+<p begin="27953345419t" end="27972534589t" region="Region_00" xml:id="subtitle974">I don't want to overwork the kitchen.</p>
+<p begin="27984216259t" end="28021743749t" region="Region_03" xml:id="subtitle975">Oranges? What, did a schooner<br/>just arrive from the Caribbean?</p>
+<p begin="28034266259t" end="28060122089t" region="Region_00" xml:id="subtitle976">Looks like our scurvy's cured, fellas.</p>
+<p begin="28071383339t" end="28094736669t" region="Region_03" xml:id="subtitle977">There's sliced oranges,<br/>or there's the fortune cookie,</p>
+<p begin="28095577509t" end="28109751669t" region="Region_00" xml:id="subtitle978">which is not even a Chinese thing.</p>
+<p begin="28110582499t" end="28125187089t" region="Region_03" xml:id="subtitle979">It's an American thing,<br/>and we gave it to them.</p>
+<p begin="28126017919t" end="28137289179t" region="Region_00" xml:id="subtitle980">And they were like, "We don't want it."</p>
+<p begin="28138109999t" end="28163975839t" region="Region_03" xml:id="subtitle981">And we were like, "It's now<br/>part of your ethnic identity."</p>
+<p begin="28166057919t" end="28177739589t" region="Region_00" xml:id="subtitle982">[laughter]</p>
+<p begin="28179821669t" end="28201513339t" region="Region_03" xml:id="subtitle983">Don't you feel like the fortune<br/>in every fortune cookie</p>
+<p begin="28202344169t" end="28227379179t" region="Region_03" xml:id="subtitle984">should be, "You are<br/>about to eat a stale cookie"?</p>
+<p begin="28235717509t" end="28265747509t" region="Region_00" xml:id="subtitle985">Hey, my fortune came true!</p>
+<p begin="28272834589t" end="28300362089t" region="Region_03" xml:id="subtitle986">Everyone has the same reaction<br/>to fortune cookies.</p>
+<p begin="28301192919t" end="28320792499t" region="Region_03" xml:id="subtitle987">They're always like,<br/>"These things are so stu--</p>
+<p begin="28321633339t" end="28339140829t" region="Region_00" xml:id="subtitle988">What does mine say?"</p>
+<p begin="28347909589t" end="28370432089t" region="Region_00" xml:id="subtitle989">Like there's some ancient wisdom in there.</p>
+<p begin="28371262919t" end="28389190829t" region="Region_00" xml:id="subtitle990">As if Confucius himself was putting</p>
+<p begin="28390031669t" end="28415897509t" region="Region_03" xml:id="subtitle991">a tiny piece of paper<br/>into a tiny typewriter.</p>
+<p begin="28420061669t" end="28461773339t" region="Region_00" xml:id="subtitle992">"Happiness is a... long journey."</p>
+<p begin="28478449999t" end="28496387919t" region="Region_00" xml:id="subtitle993">15.</p>
+<p begin="28497228759t" end="28510572089t" region="Region_00" xml:id="subtitle994">31.</p>
+<p begin="28512233749t" end="28530171669t" region="Region_00" xml:id="subtitle995">[laughter]</p>
+<p begin="28531843339t" end="28542684169t" region="Region_00" xml:id="subtitle996">12.</p>
+<p begin="28557709179t" end="28578970419t" region="Region_03" xml:id="subtitle997">Put this in a stale cookie<br/>for me, would you?</p>
+<p begin="28582724169t" end="28602744169t" region="Region_03" xml:id="subtitle998">It's like they wait<br/>for them to be stale.</p>
+<p begin="28603585009t" end="28628599999t" region="Region_03" xml:id="subtitle999">How old are these, 1990?<br/>Let's wait a little longer.</p>
+<p begin="28650291669t" end="28678649999t" region="Region_03" xml:id="subtitle1000">I do feel sorry for the person<br/>who created the cookie</p>
+<p begin="28679480829t" end="28694926259t" region="Region_00" xml:id="subtitle1001">that ended up being the fortune cookie</p>
+<p begin="28695757089t" end="28711182499t" region="Region_03" xml:id="subtitle1002">because they were<br/>probably pretty proud.</p>
+<p begin="28712023339t" end="28735376669t" region="Region_03" xml:id="subtitle1003">They were like, "Hey, you gonna try my<br/>new cookie? "Tell me what you think of it.</p>
+<p begin="28736217509t" end="28747478759t" region="Region_03" xml:id="subtitle1004">Try my new cookie.<br/>Tell me what you think."</p>
+<p begin="28748309589t" end="28759981249t" region="Region_00" xml:id="subtitle1005">"All right. I'll try it. Here you go.</p>
+<p begin="28760822089t" end="28775006259t" region="Region_00" xml:id="subtitle1006">"Mmm, oh.</p>
+<p begin="28775837089t" end="28796687919t" region="Region_03" xml:id="subtitle1007">You know what this could use<br/>is some paper.</p>
+<p begin="28809200419t" end="28826717919t" region="Region_00" xml:id="subtitle1008">Oh, this would be good for holding a note</p>
+<p begin="28827558759t" end="28848409589t" region="Region_00" xml:id="subtitle1009">or a recipe for a good cookie."</p>
+<p begin="28850491669t" end="28874265419t" region="Region_00" xml:id="subtitle1010">[laughter]</p>
+<p begin="28876767919t" end="28890531669t" region="Region_03" xml:id="subtitle1011">"How much do you think<br/>I could charge for it?"</p>
+<p begin="28891362499t" end="28912633749t" region="Region_00" xml:id="subtitle1012">I'd give it away with the check.</p>
+<p begin="28930151249t" end="28947258339t" region="Region_00" xml:id="subtitle1013">You got a spit bucket around here?"</p>
+<p begin="28949750829t" end="28968939999t" region="Region_00" xml:id="subtitle1014">[laughter]</p>
+<p begin="28971442499t" end="28997728759t" region="Region_00" xml:id="subtitle1015">But I love Asian food. I love Kobe beef.</p>
+<p begin="28998559589t" end="29023164169t" region="Region_03" xml:id="subtitle1016">I know I look like a vegetarian,<br/>but I'm not.</p>
+<p begin="29030251249t" end="29045686669t" region="Region_03" xml:id="subtitle1017">Kobe beef, if you're<br/>not familiar with that,</p>
+<p begin="29046527509t" end="29096987919t" region="Region_03" xml:id="subtitle1018">that comes from cows that are<br/>fed beer and massaged with sake.</p>
+<p begin="29099069999t" end="29127438339t" region="Region_03" xml:id="subtitle1019">I heard that, and I was like,<br/>"I want to be Kobe beef.</p>
+<p begin="29136197089t" end="29147458339t" region="Region_00" xml:id="subtitle1020">Where do I sign up for--"</p>
+<p begin="29148299179t" end="29171642499t" region="Region_00" xml:id="subtitle1021">Those are some happy cows.</p>
+<p begin="29172483339t" end="29191252089t" region="Region_00" xml:id="subtitle1022">They have no idea they're on death row.</p>
+<p begin="29192082919t" end="29231702499t" region="Region_00" xml:id="subtitle1023">They're like, "This is the life! [cackles]</p>
+<p begin="29232543339t" end="29265075839t" region="Region_03" xml:id="subtitle1024">A little lower.<br/>A little lower, honey.</p>
+<p begin="29280921669t" end="29310110829t" region="Region_03" xml:id="subtitle1025">What the hell, this cow's<br/>going for another beer.</p>
+<p begin="29312623339t" end="29338068759t" region="Region_00" xml:id="subtitle1026">You Japanese love design.</p>
+<p begin="29338899589t" end="29370170829t" region="Region_03" xml:id="subtitle1027">That sake bottle actually<br/>looks like a hatchet.</p>
+<p begin="29371011669t" end="29396877509t" region="Region_00" xml:id="subtitle1028">Ow!"</p>
+<p begin="29397708339t" end="29433574169t" region="Region_00" xml:id="subtitle1029">It's just a drunk cow, and it's appealing.</p>
+<p begin="29434415009t" end="29451091669t" region="Region_00" xml:id="subtitle1030">Which means it's only a matter of time,</p>
+<p begin="29451922499t" end="29466527089t" region="Region_00" xml:id="subtitle1031">"[gasps] You have to try this chicken.</p>
+<p begin="29467357919t" end="29489880419t" region="Region_00" xml:id="subtitle1032">It was raised solely on Doritos."</p>
+<p begin="29499469999t" end="29526587089t" region="Region_03" xml:id="subtitle1033">"What kind?"<br/>"Cool Ranch."</p>
+<p begin="29541181669t" end="29558709179t" region="Region_00" xml:id="subtitle1034">But really Kobe beef shows you</p>
+<p begin="29559529999t" end="29578308759t" region="Region_00" xml:id="subtitle1035">how decadent we've become, right?</p>
+<p begin="29579139589t" end="29604164589t" region="Region_03" xml:id="subtitle1036">Now it's not enough<br/>that we live a life of luxury.</p>
+<p begin="29604995419t" end="29636276669t" region="Region_03" xml:id="subtitle1037">Now we need to eat things<br/>that have lived a life of luxury.</p>
+<p begin="29639609999t" end="29659219589t" region="Region_00" xml:id="subtitle1038">"I understand this cow had a good life,</p>
+<p begin="29660050419t" end="29677988339t" region="Region_00" xml:id="subtitle1039">but did it go to private school?</p>
+<p begin="29685916259t" end="29708859179t" region="Region_03" xml:id="subtitle1040">I only eat cows<br/>that went to private school."</p>
+<p begin="29713433749t" end="29724284589t" region="Region_00" xml:id="subtitle1041">"It did."</p>
+<p begin="29731371669t" end="29757647919t" region="Region_03" xml:id="subtitle1042">"Do you have anything<br/>on your menu that owned a boat?"</p>
+<p begin="29758909179t" end="29774334589t" region="Region_00" xml:id="subtitle1043">[laughter]</p>
+<p begin="29786016259t" end="29813533749t" region="Region_03" xml:id="subtitle1044">Kobe beef,<br/>it's an interesting idea, right?</p>
+<p begin="29814374589t" end="29834815009t" region="Region_03" xml:id="subtitle1045">It must have been a surprise<br/>for someone along the way.</p>
+<p begin="29835645839t" end="29848158339t" region="Region_00" xml:id="subtitle1046">It's like, "You like that steak?"</p>
+<p begin="29848999179t" end="29866927089t" region="Region_03" xml:id="subtitle1047">"This is the best steak<br/>I've ever had in my life."</p>
+<p begin="29868178339t" end="29882772919t" region="Region_00" xml:id="subtitle1048">"You know, I fed that cow some beers."</p>
+<p begin="29883603749t" end="29901541669t" region="Region_00" xml:id="subtitle1049">"You got the cow drunk?"</p>
+<p begin="29902372499t" end="29922392499t" region="Region_00" xml:id="subtitle1050">"Yeah, and then I was massaging it."</p>
+<p begin="29923233339t" end="29939909999t" region="Region_00" xml:id="subtitle1051">"What?</p>
+<p begin="29941161249t" end="29953263339t" region="Region_00" xml:id="subtitle1052">[laughter]</p>
+<p begin="29954094169t" end="29969119179t" region="Region_00" xml:id="subtitle1053">Why?</p>
+<p begin="29974534589t" end="30014574589t" region="Region_03" xml:id="subtitle1054">Why were you massaging an animal<br/>you gave a lot of alcohol to?"</p>
+<p begin="30026256259t" end="30042512499t" region="Region_00" xml:id="subtitle1055">"So you could enjoy it."</p>
+<p begin="30043353339t" end="30064204169t" region="Region_00" xml:id="subtitle1056">"So I could enjoy it?</p>
+<p begin="30077967919t" end="30101741669t" region="Region_00" xml:id="subtitle1057">"I'm not hungry anymore.</p>
+<p begin="30105495419t" end="30130520419t" region="Region_00" xml:id="subtitle1058">I'm gonna go call Special Victims Unit.</p>
+<p begin="30139699589t" end="30165975839t" region="Region_03" xml:id="subtitle1059">Let's see what Olivia Benson<br/>thinks of this."</p>
+<p begin="30168898759t" end="30200169999t" region="Region_00" xml:id="subtitle1060">[cheers, laughter and applause]</p>
+<p begin="30203923749t" end="30223112919t" region="Region_03" xml:id="subtitle1061">But really we don't want to<br/>think about what we're eating.</p>
+<p begin="30223943749t" end="30245225009t" region="Region_03" xml:id="subtitle1062">You know, I love hot dogs.<br/>You can't eat a hot dog in public.</p>
+<p begin="30246055839t" end="30258147919t" region="Region_00" xml:id="subtitle1063">There's always one friend that's like,</p>
+<p begin="30258988759t" end="30273993749t" region="Region_00" xml:id="subtitle1064">"Do you know what those are made of?"</p>
+<p begin="30276506259t" end="30312372089t" region="Region_03" xml:id="subtitle1065">I don't want to know because<br/>hot dogs are like strippers.</p>
+<p begin="30314033749t" end="30331971669t" region="Region_00" xml:id="subtitle1066">No one wants to know the backstory.</p>
+<p begin="30332802499t" end="30350319999t" region="Region_00" xml:id="subtitle1067">[laughter and applause]</p>
+<p begin="30351150829t" end="30372432089t" region="Region_03" xml:id="subtitle1068">"Well, when I was 12--"<br/>Not interested.</p>
+<p begin="30382021669t" end="30397036669t" region="Region_00" xml:id="subtitle1069">Let's put mustard on that.</p>
+<p begin="30403292919t" end="30427907509t" region="Region_03" xml:id="subtitle1070">I can say that joke<br/>because I used to be a stripper.</p>
+<p begin="30439999589t" end="30465855419t" region="Region_03" xml:id="subtitle1071">I was so good, they paid me<br/>to put my clothes back on.</p>
+<p begin="30474193749t" end="30487126669t" region="Region_00" xml:id="subtitle1072">It was ridiculous.</p>
+<p begin="30494634169t" end="30511731249t" region="Region_03" xml:id="subtitle1073">We don't like to think<br/>about what we're eating.</p>
+<p begin="30512572089t" end="30551350829t" region="Region_03" xml:id="subtitle1074">Buffalo wings, chicken wings,<br/>I'm sure you savages eat those.</p>
+<p begin="30552191669t" end="30583052499t" region="Region_03" xml:id="subtitle1075">Those are baby chickens' wings<br/>that you're eating.</p>
+<p begin="30583893339t" end="30604323749t" region="Region_00" xml:id="subtitle1076">I don't eat those. I eat the chicken legs.</p>
+<p begin="30613502919t" end="30639368759t" region="Region_03" xml:id="subtitle1077">I would never take away<br/>a bird's ability to fly.</p>
+<p begin="30649378759t" end="30666475839t" region="Region_03" xml:id="subtitle1078">Some people are like,<br/>"Oh, chickens can't fly."</p>
+<p begin="30667306669t" end="30690659999t" region="Region_03" xml:id="subtitle1079">How do we know? They've become<br/>too dependent on those legs.</p>
+<p begin="30705264589t" end="30726956259t" region="Region_00" xml:id="subtitle1080">Legs are making birds lazy.</p>
+<p begin="30729458759t" end="30751140419t" region="Region_03" xml:id="subtitle1081">You ever see footage<br/>of a hippo crossing a river?</p>
+<p begin="30751971249t" end="30772411669t" region="Region_00" xml:id="subtitle1082">There's always a bird sitting on its back.</p>
+<p begin="30782842089t" end="30802862089t" region="Region_00" xml:id="subtitle1083">How lazy is that bird?</p>
+<p begin="30810369589t" end="30839989179t" region="Region_03" xml:id="subtitle1084">It's gonna take the hippo<br/>ten minutes to get across that river.</p>
+<p begin="30840809999t" end="30861660829t" region="Region_00" xml:id="subtitle1085">That bird could glide across.</p>
+<p begin="30862501669t" end="30882521669t" region="Region_00" xml:id="subtitle1086">That bird, I want to eat their legs.</p>
+<p begin="30894203339t" end="30911300419t" region="Region_00" xml:id="subtitle1087">Mostly because I'm pro-hippo.</p>
+<p begin="30912551669t" end="30926315419t" region="Region_00" xml:id="subtitle1088">[laughter]</p>
+<p begin="30927566669t" end="30954263339t" region="Region_03" xml:id="subtitle1089">I see some of you are drinking.<br/>That's not the answer.</p>
+<p begin="30963022089t" end="30978867919t" region="Region_00" xml:id="subtitle1090">It's not. Eating is.</p>
+<p begin="30989298339t" end="31017656669t" region="Region_03" xml:id="subtitle1091">It's amazing how our attitude<br/>on alcohol changes, right?</p>
+<p begin="31018497509t" end="31040599589t" region="Region_03" xml:id="subtitle1092">Because even as a teenager,<br/>you know it's wrong.</p>
+<p begin="31041430419t" end="31062281249t" region="Region_03" xml:id="subtitle1093">You're like, "You know,<br/>I don't like the taste of it,</p>
+<p begin="31063122089t" end="31083142089t" region="Region_00" xml:id="subtitle1094">but I want to look cool."</p>
+<p begin="31083972919t" end="31100659589t" region="Region_03" xml:id="subtitle1095">And then in your 20s,<br/>you're like, "You know what?</p>
+<p begin="31101490419t" end="31132351249t" region="Region_03" xml:id="subtitle1096">This kind of gives me confidence<br/>to talk to the opposite sex."</p>
+<p begin="31135274169t" end="31152791669t" region="Region_03" xml:id="subtitle1097">And then in your 40s,<br/>you're like, "You know what?</p>
+<p begin="31153622499t" end="31179908759t" region="Region_03" xml:id="subtitle1098">This is the only thing<br/>I like about being alive."</p>
+<p begin="31180739589t" end="31224112919t" region="Region_00" xml:id="subtitle1099">[cheers, laughter and applause]</p>
+<p begin="31224943749t" end="31245804589t" region="Region_00" xml:id="subtitle1100">It's only funny because it's true.</p>
+<p begin="31273742499t" end="31295854589t" region="Region_03" xml:id="subtitle1101">I'm sure some of you<br/>are gonna go to some bars,</p>
+<p begin="31296685419t" end="31308787509t" region="Region_00" xml:id="subtitle1102">head to a bar, right?</p>
+<p begin="31309618339t" end="31325884589t" region="Region_03" xml:id="subtitle1103">-[scattered cheers]<br/>-Yeah.</p>
+<p begin="31326715419t" end="31347576259t" region="Region_03" xml:id="subtitle1104">I never really feel comfortable<br/>right when I get in a bar.</p>
+<p begin="31348407089t" end="31367175839t" region="Region_03" xml:id="subtitle1105">I'm always kind of like,<br/>"Who are all these strangers?"</p>
+<p begin="31368006669t" end="31382180829t" region="Region_00" xml:id="subtitle1106">But after a couple beers, I'm like,</p>
+<p begin="31383021669t" end="31403462089t" region="Region_00" xml:id="subtitle1107">"These guys are probably my best friends."</p>
+<p begin="31416395009t" end="31431820419t" region="Region_00" xml:id="subtitle1108">Because your experience in a bar</p>
+<p begin="31432651249t" end="31454763339t" region="Region_03" xml:id="subtitle1109">changes over the course<br/>of the night, right?</p>
+<p begin="31455594169t" end="31486044589t" region="Region_03" xml:id="subtitle1110">As the night goes on, you see<br/>really why we go to bars.</p>
+<p begin="31486875419t" end="31511069589t" region="Region_03" xml:id="subtitle1111">We go to bars,<br/>so we can behave like children.</p>
+<p begin="31511900419t" end="31523161669t" region="Region_00" xml:id="subtitle1112">Toddlers, really.</p>
+<p begin="31524412919t" end="31540689179t" region="Region_00" xml:id="subtitle1113">You ever go to a bar at 2:00 a.m.?</p>
+<p begin="31541509999t" end="31568206669t" region="Region_03" xml:id="subtitle1114">You might as well be picking up<br/>a kid at nursery school.</p>
+<p begin="31572370829t" end="31586144589t" region="Region_00" xml:id="subtitle1115">It's the same experience.</p>
+<p begin="31586975419t" end="31611579999t" region="Region_00" xml:id="subtitle1116">The behavior's the same in both places.</p>
+<p begin="31612410829t" end="31634102499t" region="Region_03" xml:id="subtitle1117">Both places, there's always<br/>some strange yelling</p>
+<p begin="31634943339t" end="31647455839t" region="Region_00" xml:id="subtitle1118">for no reason at all.</p>
+<p begin="31648286669t" end="31679988339t" region="Region_00" xml:id="subtitle1119">You know, "Whoo, whoo, whoo!"</p>
+<p begin="31680829179t" end="31696675009t" region="Region_00" xml:id="subtitle1120">Both places, you go in the bathroom,</p>
+<p begin="31697505839t" end="31722520829t" region="Region_00" xml:id="subtitle1121">it's obvious not everyone's potty-trained.</p>
+<p begin="31723361669t" end="31734622919t" region="Region_00" xml:id="subtitle1122">[laughter]</p>
+<p begin="31735453749t" end="31757145419t" region="Region_03" xml:id="subtitle1123">Both places,<br/>there's always someone crying,</p>
+<p begin="31757986259t" end="31787595839t" region="Region_00" xml:id="subtitle1124">"She was my best friend.</p>
+<p begin="31792180419t" end="31818456669t" region="Region_00" xml:id="subtitle1125">But not anymore."</p>
+<p begin="31828466669t" end="31845563749t" region="Region_00" xml:id="subtitle1126">Both places, occasionally there's a fight.</p>
+<p begin="31846404589t" end="31885193339t" region="Region_03" xml:id="subtitle1127">"You know, he was standing<br/>where I wanted to stand,</p>
+<p begin="31894782919t" end="31912710829t" region="Region_00" xml:id="subtitle1128">so I punched him in the head.</p>
+<p begin="31921069179t" end="31936494589t" region="Region_00" xml:id="subtitle1129">I need more juice."</p>
+<p begin="31947335419t" end="31972360419t" region="Region_03" xml:id="subtitle1130">But at 2:00 a.m.,<br/>people are drunk in bars.</p>
+<p begin="31973191249t" end="31997805839t" region="Region_03" xml:id="subtitle1131">I love how we're always surprised<br/>when someone's drunk in a bar.</p>
+<p begin="31998636669t" end="32011159179t" region="Region_00" xml:id="subtitle1132">We're actually shocked.</p>
+<p begin="32011979999t" end="32033671669t" region="Region_00" xml:id="subtitle1133">We're like, "Look at that guy.</p>
+<p begin="32039517509t" end="32059537509t" region="Region_00" xml:id="subtitle1134">He's wasted.</p>
+<p begin="32063281249t" end="32079557509t" region="Region_00" xml:id="subtitle1135">In a bar.</p>
+<p begin="32091239179t" end="32113751669t" region="Region_00" xml:id="subtitle1136">I came here to read a novel."</p>
+<p begin="32127105009t" end="32146284169t" region="Region_00" xml:id="subtitle1137">Mostly the people that are drunk in bars</p>
+<p begin="32147125009t" end="32163801669t" region="Region_03" xml:id="subtitle1138">are drunk<br/>because they're drinking shots.</p>
+<p begin="32166724589t" end="32198836669t" region="Region_03" xml:id="subtitle1139">And really the only time<br/>to ever drink a shot is never.</p>
+<p begin="32204672499t" end="32239717509t" region="Region_03" xml:id="subtitle1140">No one's ever drank a shot<br/>and then done something they're proud of.</p>
+<p begin="32245132919t" end="32269327089t" region="Region_03" xml:id="subtitle1141">"I got wasted last night,<br/>and then I went out</p>
+<p begin="32270157919t" end="32287675419t" region="Region_00" xml:id="subtitle1142">and built some low-income housing."</p>
+<p begin="32288926669t" end="32303941669t" region="Region_00" xml:id="subtitle1143">[laughter and applause]</p>
+<p begin="32304772499t" end="32321879589t" region="Region_00" xml:id="subtitle1144">That never happens.</p>
+<p begin="32326464169t" end="32341489179t" region="Region_03" xml:id="subtitle1145">You always wake up the next day,<br/>and you're like,</p>
+<p begin="32342730419t" end="32362329999t" region="Region_00" xml:id="subtitle1146">"I need a new identity.</p>
+<p begin="32374432089t" end="32390698339t" region="Region_00" xml:id="subtitle1147">Maybe two of them."</p>
+<p begin="32398626259t" end="32411969589t" region="Region_00" xml:id="subtitle1148">Because if you're drinking shots,</p>
+<p begin="32412800419t" end="32429066669t" region="Region_03" xml:id="subtitle1149">it's either your birthday,<br/>or you're trying</p>
+<p begin="32429907509t" end="32447425009t" region="Region_00" xml:id="subtitle1150">to forget you were ever born.</p>
+<p begin="32454512089t" end="32475362919t" region="Region_00" xml:id="subtitle1151">There is something honest about a shot.</p>
+<p begin="32476193749t" end="32495382919t" region="Region_03" xml:id="subtitle1152">It's like, "I want to get right<br/>to the embarrassing part</p>
+<p begin="32496213749t" end="32524992499t" region="Region_00" xml:id="subtitle1153">of the night, right to pants off."</p>
+<p begin="32539597089t" end="32555022499t" region="Region_00" xml:id="subtitle1154">But we don't even drink shots.</p>
+<p begin="32555863339t" end="32573791249t" region="Region_00" xml:id="subtitle1155">We take them like they're medicine.</p>
+<p begin="32574632089t" end="32595903339t" region="Region_00" xml:id="subtitle1156">This'll cure my normal behavior.</p>
+<p begin="32606744169t" end="32626343749t" region="Region_03" xml:id="subtitle1157">Everyone acts like<br/>we're in a Western.</p>
+<p begin="32627184589t" end="32661388759t" region="Region_00" xml:id="subtitle1158">[hums Western music]</p>
+<p begin="32662219589t" end="32699757089t" region="Region_03" xml:id="subtitle1159">That'll give me the courage to<br/>confront this plate of nachos.</p>
+<p begin="32711018339t" end="32733951249t" region="Region_00" xml:id="subtitle1160">[hums Western music]</p>
+<p begin="32734792089t" end="32753140419t" region="Region_03" xml:id="subtitle1161">Strangers will buy you a shot<br/>on your birthday.</p>
+<p begin="32753971249t" end="32774832089t" region="Region_03" xml:id="subtitle1162">"Hey, I don't know you.<br/>Let me buy you a shot."</p>
+<p begin="32775662919t" end="32793590829t" region="Region_00" xml:id="subtitle1163">This never happens with anything else.</p>
+<p begin="32794431669t" end="32823210419t" region="Region_03" xml:id="subtitle1164">Hey, what do you say?<br/>You and me, let's do some appetizers.</p>
+<p begin="32839897089t" end="32868675839t" region="Region_00" xml:id="subtitle1165">Jalapeno poppers, mano a mano.</p>
+<p begin="32881188339t" end="32909546669t" region="Region_03" xml:id="subtitle1166">You got to turn that shot down<br/>before they get it poured,</p>
+<p begin="32910387509t" end="32925812919t" region="Region_00" xml:id="subtitle1167">because once it's poured, they act like</p>
+<p begin="32926643749t" end="32949586669t" region="Region_03" xml:id="subtitle1168">you're rejecting a sweater<br/>they crocheted you.</p>
+<p begin="32959186259t" end="32980037089t" region="Region_00" xml:id="subtitle1169">"You know how hard I worked on this?"</p>
+<p begin="32983780829t" end="32997554589t" region="Region_00" xml:id="subtitle1170">You didn't at all.</p>
+<p begin="33009646669t" end="33034251249t" region="Region_03" xml:id="subtitle1171">But I don't mind the bars,<br/>unless they're really crowded,</p>
+<p begin="33035092089t" end="33055112089t" region="Region_03" xml:id="subtitle1172">you know, like, five<br/>or six people deep at the bar.</p>
+<p begin="33055942919t" end="33079306259t" region="Region_03" xml:id="subtitle1173">Everyone's competing<br/>for the bartender's attention.</p>
+<p begin="33080967919t" end="33114331249t" region="Region_03" xml:id="subtitle1174">We look like we're trying to get<br/>disaster relief from the Red Cross.</p>
+<p begin="33115172089t" end="33125182089t" region="Region_00" xml:id="subtitle1175">We're like...</p>
+<p begin="33127684589t" end="33151037919t" region="Region_00" xml:id="subtitle1176">[laughter]</p>
+<p begin="33152299179t" end="33177314169t" region="Region_00" xml:id="subtitle1177">"I need mine more than he needs his."</p>
+<p begin="33187744589t" end="33216933749t" region="Region_03" xml:id="subtitle1178">I can never get the bartender's attention.<br/>I'm always like...</p>
+<p begin="33224861669t" end="33243209999t" region="Region_00" xml:id="subtitle1179">We try and make eye contact.</p>
+<p begin="33262819589t" end="33274491249t" region="Region_00" xml:id="subtitle1180">Show him you have money.</p>
+<p begin="33275332089t" end="33290347089t" region="Region_00" xml:id="subtitle1181">I have cash.</p>
+<p begin="33297854589t" end="33317033749t" region="Region_03" xml:id="subtitle1182">But you can't try too hard<br/>in a crowded bar.</p>
+<p begin="33317874589t" end="33330807509t" region="Region_00" xml:id="subtitle1183">You have to act all cool.</p>
+<p begin="33331638339t" end="33352909589t" region="Region_03" xml:id="subtitle1184">You gotta be like,<br/>"I don't even care if I get served.</p>
+<p begin="33357494169t" end="33389616259t" region="Region_03" xml:id="subtitle1185">I just like standing in crowded,<br/>uncomfortable places.</p>
+<p begin="33400457089t" end="33438415009t" region="Region_03" xml:id="subtitle1186">Later on, I'm gonna swing by the airport<br/>and see what that TSA line's like.</p>
+<p begin="33449255839t" end="33465932499t" region="Region_00" xml:id="subtitle1187">I like the lines."</p>
+<p begin="33470527089t" end="33489295839t" region="Region_00" xml:id="subtitle1188">Never enough bartenders in a crowded bar.</p>
+<p begin="33490126669t" end="33517233749t" region="Region_03" xml:id="subtitle1189">Those bartenders look like<br/>they're in the middle of a triage unit.</p>
+<p begin="33518074589t" end="33543930419t" region="Region_00" xml:id="subtitle1190">They're like, "Get me 40ccs of something."</p>
+<p begin="33556022499t" end="33571457919t" region="Region_00" xml:id="subtitle1191">Never enough bartenders.</p>
+<p begin="33572298759t" end="33594390829t" region="Region_03" xml:id="subtitle1192">You ever get faked out<br/>by the arrival of a barback?</p>
+<p begin="33595231669t" end="33633599999t" region="Region_03" xml:id="subtitle1193">You're like, "Finally,<br/>another bar-- it's a barback."</p>
+<p begin="33637353749t" end="33674470829t" region="Region_03" xml:id="subtitle1194">And those poor barbacks, they always act<br/>like they're not qualified to serve you.</p>
+<p begin="33675311669t" end="33700757089t" region="Region_00" xml:id="subtitle1195">Like, [gasps] "Oh, no, no, no, no.</p>
+<p begin="33703669999t" end="33731207509t" region="Region_03" xml:id="subtitle1196">"I can carry 12 cases<br/>up a narrow staircase,</p>
+<p begin="33732038339t" end="33753309589t" region="Region_03" xml:id="subtitle1197">but handing you a beer?<br/>Not yet.</p>
+<p begin="33754971249t" end="33771247509t" region="Region_00" xml:id="subtitle1198">[laughter and applause]</p>
+<p begin="33772078339t" end="33785421669t" region="Region_00" xml:id="subtitle1199">I'm still learning</p>
+<p begin="33791267509t" end="33807523749t" region="Region_00" xml:id="subtitle1200">from the master."</p>
+<p begin="33814200419t" end="33842148339t" region="Region_03" xml:id="subtitle1201">Because in a crowded bar,<br/>the bartender is the master, right?</p>
+<p begin="33842989179t" end="33856322499t" region="Region_00" xml:id="subtitle1202">All the authority goes to that.</p>
+<p begin="33857163339t" end="33881357509t" region="Region_03" xml:id="subtitle1203">Some of them act like they're<br/>not even obligated to serve you.</p>
+<p begin="33882188339t" end="33909715839t" region="Region_03" xml:id="subtitle1204">They're like, "I don't know what<br/>I'm gonna do with all this booze.</p>
+<p begin="33910546669t" end="33928905009t" region="Region_03" xml:id="subtitle1205">Maybe I'll just pour it out<br/>and make a puddle."</p>
+<p begin="33939745839t" end="33950586669t" region="Region_00" xml:id="subtitle1206">And we fall for it.</p>
+<p begin="33951427509t" end="33970196259t" region="Region_03" xml:id="subtitle1207">We're like, "Well,<br/>it's either deal with this guy</p>
+<p begin="33971027089t" end="33991047089t" region="Region_00" xml:id="subtitle1208">or make it in our bathtub at home.</p>
+<p begin="34005641669t" end="34023579589t" region="Region_00" xml:id="subtitle1209">Damn Prohibition."</p>
+<p begin="34032338339t" end="34049025009t" region="Region_00" xml:id="subtitle1210">There's male and female bartenders.</p>
+<p begin="34049855839t" end="34068624589t" region="Region_03" xml:id="subtitle1211">Female bartenders,<br/>they always seem a little tougher</p>
+<p begin="34069455419t" end="34082808759t" region="Region_00" xml:id="subtitle1212">than they need to be, right?</p>
+<p begin="34083639589t" end="34094480419t" region="Region_00" xml:id="subtitle1213">I don't want to say "bitchy"</p>
+<p begin="34095311249t" end="34115331249t" region="Region_03" xml:id="subtitle1214">because that would<br/>describe them perfectly.</p>
+<p begin="34116172089t" end="34128684589t" region="Region_00" xml:id="subtitle1215">[laughter]</p>
+<p begin="34129515419t" end="34143289179t" region="Region_00" xml:id="subtitle1216">Not all of them.</p>
+<p begin="34146612499t" end="34167052919t" region="Region_03" xml:id="subtitle1217">Some female bartenders<br/>definitely give off that vibe</p>
+<p begin="34167883749t" end="34200426259t" region="Region_03" xml:id="subtitle1218">like, "Don't hit on me.<br/>Treat me with respect.</p>
+<p begin="34202928759t" end="34235871669t" region="Region_03" xml:id="subtitle1219">And don't be distracted by<br/>the fact I'm wearing a bikini.</p>
+<p begin="34246712499t" end="34260065839t" region="Region_00" xml:id="subtitle1220">OK, honey?"</p>
+<p begin="34260896669t" end="34285080829t" region="Region_03" xml:id="subtitle1221">They always call you "honey,"<br/>like they're your grandma or something.</p>
+<p begin="34285921669t" end="34300526259t" region="Region_00" xml:id="subtitle1222">"What can I get you, honey?"</p>
+<p begin="34301357089t" end="34325541249t" region="Region_03" xml:id="subtitle1223">"I don't know.<br/>A birthday card with $2 in it?</p>
+<p begin="34326382089t" end="34345140829t" region="Region_00" xml:id="subtitle1224">[laughter and applause]</p>
+<p begin="34345981669t" end="34375170830t" region="Region_03" xml:id="subtitle1225">Uh, maybe a beer,<br/>if you're not too busy condescending me."</p>
+<p begin="34388944590t" end="34402287920t" region="Region_00" xml:id="subtitle1226">But if you've been to a bar,</p>
+<p begin="34403128760t" end="34435651250t" region="Region_03" xml:id="subtitle1227">you've probably been<br/>to a filthy public restroom.</p>
+<p begin="34436902500t" end="34452337920t" region="Region_03" xml:id="subtitle1228">We've all been in those bars<br/>where you're like,</p>
+<p begin="34453178760t" end="34483629180t" region="Region_03" xml:id="subtitle1229">"Oh, wow. Now I know<br/>why they serve alcohol here."</p>
+<p begin="34491547090t" end="34515310830t" region="Region_03" xml:id="subtitle1230">And when I'm talking<br/>about the filthy bathroom,</p>
+<p begin="34516151670t" end="34536592090t" region="Region_03" xml:id="subtitle1231">I'm talking about the men's room.<br/>I don't know about the ladies' room.</p>
+<p begin="34537843340t" end="34557022500t" region="Region_03" xml:id="subtitle1232">I haven't been in there<br/>in, like, a week.</p>
+<p begin="34564950420t" end="34592067510t" region="Region_03" xml:id="subtitle1233">But the men's room,<br/>I don't know what happens to guys</p>
+<p begin="34592898340t" end="34611246670t" region="Region_00" xml:id="subtitle1234">when we go into a public restroom.</p>
+<p begin="34612497920t" end="34631266670t" region="Region_00" xml:id="subtitle1235">Some anger comes out.</p>
+<p begin="34637522920t" end="34667132500t" region="Region_03" xml:id="subtitle1236">Some of the stuff<br/>that's written on the walls?</p>
+<p begin="34676732090t" end="34689244590t" region="Region_00" xml:id="subtitle1237">You never have a friend admit it.</p>
+<p begin="34690075420t" end="34715100420t" region="Region_03" xml:id="subtitle1238">Like, "Hey, give me a second.<br/>I've got to pee and draw a swastika.</p>
+<p begin="34715931250t" end="34728033340t" region="Region_00" xml:id="subtitle1239">I'll be right back."</p>
+<p begin="34728864170t" end="34743048340t" region="Region_00" xml:id="subtitle1240">[laughter]</p>
+<p begin="34743889180t" end="34764730000t" region="Region_00" xml:id="subtitle1241">There's guys writing things on the walls,</p>
+<p begin="34766822090t" end="34793098340t" region="Region_00" xml:id="subtitle1242">and then there are the guys that reply.</p>
+<p begin="34797682920t" end="34816872090t" region="Region_00" xml:id="subtitle1243">Some guy will write, "This place sucks."</p>
+<p begin="34817702920t" end="34836471670t" region="Region_00" xml:id="subtitle1244">Another guy will write, "No, you suck."</p>
+<p begin="34845230420t" end="34871927090t" region="Region_03" xml:id="subtitle1245">As if that first guy<br/>is ever gonna see that.</p>
+<p begin="34880265420t" end="34905700830t" region="Region_03" xml:id="subtitle1246">Like he's gathering up his friends--<br/>"Well, this is what I wrote on this--</p>
+<p begin="34906541670t" end="34937822920t" region="Region_00" xml:id="subtitle1247">Hey, wait a minute!</p>
+<p begin="34938653750t" end="34962847920t" region="Region_00" xml:id="subtitle1248">That guy said I suck.</p>
+<p begin="34970355420t" end="34986621670t" region="Region_00" xml:id="subtitle1249">You double suck."</p>
+<p begin="35000805840t" end="35014159180t" region="Region_00" xml:id="subtitle1250">But all public restrooms,</p>
+<p begin="35014980000t" end="35034589590t" region="Region_00" xml:id="subtitle1251">even when you go-- even at fancy places.</p>
+<p begin="35035420420t" end="35050435420t" region="Region_00" xml:id="subtitle1252">You ever go in the restroom,</p>
+<p begin="35051276260t" end="35067532500t" region="Region_00" xml:id="subtitle1253">and there's a bathroom attendant?</p>
+<p begin="35068783750t" end="35087972920t" region="Region_00" xml:id="subtitle1254">Aren't you always like, "Oh, no"?</p>
+<p begin="35088803750t" end="35109244170t" region="Region_00" xml:id="subtitle1255">Call me a loner, but if there's one thing</p>
+<p begin="35110085010t" end="35132187090t" region="Region_00" xml:id="subtitle1256">I don't want anyone attending,</p>
+<p begin="35139694590t" end="35168883750t" region="Region_00" xml:id="subtitle1257">it's when I'm using the restroom.</p>
+<p begin="35170975840t" end="35204759590t" region="Region_03" xml:id="subtitle1258">Let alone someone sticking around<br/>to sell me a paper towel.</p>
+<p begin="35214769590t" end="35233538340t" region="Region_03" xml:id="subtitle1259">They don't sell. They always wave it<br/>at you, like,</p>
+<p begin="35234379180t" end="35244799590t" region="Region_00" xml:id="subtitle1260">"Here. You don't have to tip me</p>
+<p begin="35245630420t" end="35264819590t" region="Region_03" xml:id="subtitle1261">You can just have bad luck<br/>the rest of your life."</p>
+<p begin="35275240000t" end="35287342090t" region="Region_00" xml:id="subtitle1262">[chuckles]</p>
+<p begin="35288172920t" end="35307772500t" region="Region_03" xml:id="subtitle1263">And you have to tip<br/>the bathroom attendant.</p>
+<p begin="35308613340t" end="35325290000t" region="Region_00" xml:id="subtitle1264">You can't justify not tipping.</p>
+<p begin="35326120830t" end="35344068760t" region="Region_03" xml:id="subtitle1265">You can't be like,<br/>"Ah, he doesn't need it.</p>
+<p begin="35344899590t" end="35370755420t" region="Region_00" xml:id="subtitle1266">He's just working next to a toilet."</p>
+<p begin="35372006670t" end="35382857510t" region="Region_00" xml:id="subtitle1267">[laughter]</p>
+<p begin="35383688340t" end="35407872500t" region="Region_00" xml:id="subtitle1268">You have to tip the bathroom attendant.</p>
+<p begin="35408713340t" end="35433738340t" region="Region_03" xml:id="subtitle1269">Sometimes the bathroom attendant<br/>will have an incentive for a tip.</p>
+<p begin="35434579180t" end="35460845420t" region="Region_03" xml:id="subtitle1270">They'll have, like,<br/>gum and cologne on a shelf.</p>
+<p begin="35463768340t" end="35488372920t" region="Region_03" xml:id="subtitle1271">No thanks on the gum.<br/>I'm sure a lot of that flavor's</p>
+<p begin="35489203750t" end="35516731250t" region="Region_03" xml:id="subtitle1272">probably been knocked<br/>away here in your office.</p>
+<p begin="35557191670t" end="35574298760t" region="Region_03" xml:id="subtitle1273">"Where'd you get the gum?"<br/>"Bathroom.</p>
+<p begin="35585970420t" end="35610585010t" region="Region_03" xml:id="subtitle1274">Yeah, some stranger<br/>in half a tux sold it to me."</p>
+<p begin="35622677090t" end="35641866260t" region="Region_03" xml:id="subtitle1275">"What flavor is it?"<br/>"Bathroom."</p>
+<p begin="35653127510t" end="35671475840t" region="Region_03" xml:id="subtitle1276">And the cologne,<br/>You know, talk about a place</p>
+<p begin="35672306670t" end="35692326670t" region="Region_00" xml:id="subtitle1277">you don't want to pick up a scent.</p>
+<p begin="35696911250t" end="35721105420t" region="Region_03" xml:id="subtitle1278">"Ooh, you smell different."<br/>"Bathroom again.</p>
+<p begin="35729864170t" end="35752807090t" region="Region_03" xml:id="subtitle1279">Same guy had a jug of liquid<br/>sitting on a shelf.</p>
+<p begin="35753637920t" end="35769073340t" region="Region_00" xml:id="subtitle1280">I just sprayed myself.</p>
+<p begin="35780755010t" end="35800354590t" region="Region_00" xml:id="subtitle1281">Good guy. I'm moving in with him."</p>
+<p begin="35801185420t" end="35814959180t" region="Region_00" xml:id="subtitle1282">[laughter]</p>
+<p begin="35822456670t" end="35843727920t" region="Region_03" xml:id="subtitle1283">The most memorable<br/>public restroom I was in</p>
+<p begin="35844568760t" end="35867081250t" region="Region_00" xml:id="subtitle1284">was a New York City park men's room,</p>
+<p begin="35867922090t" end="35890444590t" region="Region_00" xml:id="subtitle1285">which doubles as a crime scene,</p>
+<p begin="35897952090t" end="35932566670t" region="Region_03" xml:id="subtitle1286">the difference being that crime scenes<br/>are eventually cleaned up.</p>
+<p begin="35940915010t" end="35980534590t" region="Region_03" xml:id="subtitle1287">We've all been in those scary bathrooms.<br/>You're like, "What happened in here?"</p>
+<p begin="35982616670t" end="36005970000t" region="Region_00" xml:id="subtitle1288">The lights are on, but it's really dark.</p>
+<p begin="36006800830t" end="36023497510t" region="Region_00" xml:id="subtitle1289">There's water everywhere.</p>
+<p begin="36024328340t" end="36056020000t" region="Region_03" xml:id="subtitle1290">For some reason, there's<br/>a film crew from <span style="style_1">Ghost Hunters.</span></p>
+<p begin="36073127090t" end="36100234170t" region="Region_03" xml:id="subtitle1291">But I had to go in there.<br/>I was with my three-year-old.</p>
+<p begin="36101075010t" end="36115259180t" region="Region_03" xml:id="subtitle1292">And, you know, three-year-olds,<br/>they don't tell you</p>
+<p begin="36116080000t" end="36132766670t" region="Region_03" xml:id="subtitle1293">when they need<br/>to use the bathroom.</p>
+<p begin="36133607510t" end="36153207090t" region="Region_03" xml:id="subtitle1294">They tell you when they're<br/>about to use the bathroom.</p>
+<p begin="36154458340t" end="36169883750t" region="Region_00" xml:id="subtitle1295">"You have to go potty?"</p>
+<p begin="36175319180t" end="36188652500t" region="Region_00" xml:id="subtitle1296">"Almost done."</p>
+<p begin="36190744590t" end="36205759590t" region="Region_00" xml:id="subtitle1297">[laughter]</p>
+<p begin="36225779590t" end="36241215010t" region="Region_00" xml:id="subtitle1298">My three-year-old's now four.</p>
+<p begin="36242045840t" end="36268322090t" region="Region_03" xml:id="subtitle1299">I also have a nine-year-old<br/>and an eight-year-old</p>
+<p begin="36269152920t" end="36296680420t" region="Region_00" xml:id="subtitle1300">and a two-year-old and a one-year-old.</p>
+<p begin="36297511250t" end="36308772500t" region="Region_00" xml:id="subtitle1301">I have five kids.</p>
+<p begin="36309613340t" end="36327961670t" region="Region_00" xml:id="subtitle1302">I used to have more, but I ate them.</p>
+<p begin="36341315010t" end="36366330000t" region="Region_03" xml:id="subtitle1303">Five kids. I love it,<br/>but I don't know what happened.</p>
+<p begin="36367160830t" end="36389272920t" region="Region_00" xml:id="subtitle1304">Ten years ago, I couldn't get a date,</p>
+<p begin="36391775420t" end="36426810420t" region="Region_03" xml:id="subtitle1305">and now my apartment's<br/>literally crawling with babies.</p>
+<p begin="36433066670t" end="36462265840t" region="Region_03" xml:id="subtitle1306">It's like I left peanut butter<br/>out or something.</p>
+<p begin="36478532090t" end="36508972500t" region="Region_03" xml:id="subtitle1307">Strangers, for some reason,<br/>think I'm unaware that it's a lot of kids.</p>
+<p begin="36509813340t" end="36525669180t" region="Region_00" xml:id="subtitle1308">"Five kids. That's a lot of kids."</p>
+<p begin="36526490000t" end="36566530000t" region="Region_03" xml:id="subtitle1309">"Oh, you think so?<br/>Thanks for the heads-up.</p>
+<p begin="36567360830t" end="36586970420t" region="Region_00" xml:id="subtitle1310">Do you mind if I stab you in the head?"</p>
+<p begin="36601154590t" end="36630764170t" region="Region_03" xml:id="subtitle1311">The best is when I'm alone<br/>with my five kids</p>
+<p begin="36631605010t" end="36655378760t" region="Region_03" xml:id="subtitle1312">and inevitably struggling,<br/>and some stranger</p>
+<p begin="36656209590t" end="36679562920t" region="Region_03" xml:id="subtitle1313">will come up to me and go,<br/>"Looks like you got your hands full."</p>
+<p begin="36680393750t" end="36692075420t" region="Region_00" xml:id="subtitle1314">[laughter]</p>
+<p begin="36692916260t" end="36712936260t" region="Region_00" xml:id="subtitle1315">Why would you say that?</p>
+<p begin="36713767090t" end="36730443750t" region="Region_03" xml:id="subtitle1316">It's like going up to someone<br/>in a wheelchair,</p>
+<p begin="36731284590t" end="36752135420t" region="Region_03" xml:id="subtitle1317">"Looks like you don't do<br/>a lot of dancing."</p>
+<p begin="36754227510t" end="36767560830t" region="Region_00" xml:id="subtitle1318">[laughter]</p>
+<p begin="36770483750t" end="36802605840t" region="Region_03" xml:id="subtitle1319">"Looks like you got your hands full."<br/>Yeah. I could still punch you.</p>
+<p begin="36814287510t" end="36841394590t" region="Region_00" xml:id="subtitle1320">But it is a lot of kids, you know.</p>
+<p begin="36842225420t" end="36853907090t" region="Region_00" xml:id="subtitle1321">We've jumped the shark.</p>
+<p begin="36854737920t" end="36873927090t" region="Region_03" xml:id="subtitle1322">Because when you have four kids,<br/>people are like, "Wow,"</p>
+<p begin="36874757920t" end="36893947090t" region="Region_03" xml:id="subtitle1323">but when you have five,<br/>people are like,"Just stop.</p>
+<p begin="36901875010t" end="36921895010t" region="Region_03" xml:id="subtitle1324">What, are you creating<br/>your own nationality?</p>
+<p begin="36922725840t" end="36932735840t" region="Region_00" xml:id="subtitle1325">Settle down.</p>
+<p begin="36936900000t" end="36965688760t" region="Region_03" xml:id="subtitle1326">Is there gonna<br/>be a country called 'Gaffganistan'?</p>
+<p begin="36981534590t" end="36997790830t" region="Region_00" xml:id="subtitle1327">Make a plan."</p>
+<p begin="37011985010t" end="37026169180t" region="Region_00" xml:id="subtitle1328">Big family.</p>
+<p begin="37026990000t" end="37046599590t" region="Region_00" xml:id="subtitle1329">Big families are like water bed stores.</p>
+<p begin="37047430420t" end="37083716670t" region="Region_03" xml:id="subtitle1330">They used to be everywhere,<br/>and now they're just weird.</p>
+<p begin="37104577510t" end="37120002920t" region="Region_00" xml:id="subtitle1331">Some people think it's religious.</p>
+<p begin="37120833750t" end="37136279180t" region="Region_03" xml:id="subtitle1332">Like, "You have all those kids<br/>for religious reasons."</p>
+<p begin="37137100000t" end="37150453340t" region="Region_00" xml:id="subtitle1333">That's not how it works.</p>
+<p begin="37151284170t" end="37170883750t" region="Region_00" xml:id="subtitle1334">If anything, you have four or five kids,</p>
+<p begin="37171724590t" end="37189652500t" region="Region_00" xml:id="subtitle1335">and then you become religious.</p>
+<p begin="37194667510t" end="37216359180t" region="Region_00" xml:id="subtitle1336">Because once you lose a kid at the mall,</p>
+<p begin="37217180000t" end="37248881670t" region="Region_03" xml:id="subtitle1337">you know, atheist or not,<br/>you start talking to God right away.</p>
+<p begin="37249712500t" end="37273496260t" region="Region_03" xml:id="subtitle1338">You're like, "Hey, God. I know I haven't<br/>talked to you in a while,</p>
+<p begin="37274327090t" end="37293926670t" region="Region_00" xml:id="subtitle1339">probably since finals in high school.</p>
+<p begin="37299762500t" end="37341053750t" region="Region_03" xml:id="subtitle1340">Anyway, if you could help me find my son,<br/>I promise I'll change my life.</p>
+<p begin="37341894590t" end="37356909590t" region="Region_00" xml:id="subtitle1341">I'll stop going to Wendy's.</p>
+<p begin="37357740420t" end="37376929590t" region="Region_00" xml:id="subtitle1342">Oh, there he is. Never mind, God.</p>
+<p begin="37377760420t" end="37387770420t" region="Region_00" xml:id="subtitle1343">[laughter]</p>
+<p begin="37389021670t" end="37402785420t" region="Region_00" xml:id="subtitle1344">Well, we're off to Wendy's."</p>
+<p begin="37403626260t" end="37421974590t" region="Region_00" xml:id="subtitle1345"><span style="style_1">♪ Doo doo doo doo doo doo ♪</span></p>
+<p begin="37422805420t" end="37438651250t" region="Region_00" xml:id="subtitle1346">"Talk to you when I get cancer."</p>
+<p begin="37439492090t" end="37460342920t" region="Region_00" xml:id="subtitle1347"><span style="style_1">♪ Doo doo doo doo ♪</span></p>
+<p begin="37466188760t" end="37482034590t" region="Region_00" xml:id="subtitle1348">Because that's how it works, right?</p>
+<p begin="37482865420t" end="37505808340t" region="Region_03" xml:id="subtitle1349">We really only reach out<br/>when we have a crisis.</p>
+<p begin="37506649180t" end="37545017510t" region="Region_03" xml:id="subtitle1350">That's got to be annoying for God.<br/>He's gotta be like, "Well, well, well.</p>
+<p begin="37563365840t" end="37581714170t" region="Region_00" xml:id="subtitle1351">Someone gets the big 'C,'</p>
+<p begin="37582555010t" end="37608821250t" region="Region_03" xml:id="subtitle1352">and they turn into Billy Graham<br/>all of a sudden.</p>
+<p begin="37613836260t" end="37635517920t" region="Region_03" xml:id="subtitle1353">I seem to remember<br/>when you were in college,</p>
+<p begin="37636358760t" end="37654707090t" region="Region_00" xml:id="subtitle1354">I 'didn't exist.'</p>
+<p begin="37659712090t" end="37681393750t" region="Region_00" xml:id="subtitle1355">But now you're Chatty Cathy."</p>
+<p begin="37689742090t" end="37727279590t" region="Region_03" xml:id="subtitle1356">A joke that combines cancer<br/>and religion, always a crowd pleaser.</p>
+<p begin="37743966260t" end="37765647920t" region="Region_03" xml:id="subtitle1357">Those are two topics<br/>we don't like to discuss.</p>
+<p begin="37766488760t" end="37784416670t" region="Region_00" xml:id="subtitle1358">We don't even like the word "cancer."</p>
+<p begin="37785257510t" end="37800682920t" region="Region_03" xml:id="subtitle1359">We always whisper it, like,<br/>[whispers] "Cancer,"</p>
+<p begin="37801513750t" end="37815697920t" region="Region_00" xml:id="subtitle1360">as if the devil's listening.</p>
+<p begin="37816538760t" end="37833635840t" region="Region_03" xml:id="subtitle1361">"I heard you say it,<br/>and now you've got it."</p>
+<p begin="37834466670t" end="37851984170t" region="Region_00" xml:id="subtitle1362">"I was whispering."</p>
+<p begin="37852825010t" end="37880762920t" region="Region_03" xml:id="subtitle1363">"You've got it twice for trying<br/>to hide it from the devil."</p>
+<p begin="37881593750t" end="37903285420t" region="Region_03" xml:id="subtitle1364">"When did the devil start<br/>passing out cancer?"</p>
+<p begin="37904126260t" end="37937489590t" region="Region_03" xml:id="subtitle1365">"You've got it three times for doubting<br/>the devil "can pass out cancer.</p>
+<p begin="37938320420t" end="37965437510t" region="Region_03" xml:id="subtitle1366">"You've got it four times for bringing up<br/>the devil too many times in one joke."</p>
+<p begin="37966688760t" end="37980442500t" region="Region_00" xml:id="subtitle1367">[laughter]</p>
+<p begin="37981283340t" end="37995877920t" region="Region_00" xml:id="subtitle1368">I used to be afraid of cancer.</p>
+<p begin="37996718760t" end="38025497510t" region="Region_03" xml:id="subtitle1369">Now I get a headache, and I'm like,<br/>"Good. "It's almost over.</p>
+<p begin="38032164170t" end="38052184170t" region="Region_00" xml:id="subtitle1370">Let's wrap it up.</p>
+<p begin="38060522500t" end="38090552500t" region="Region_03" xml:id="subtitle1371">Looks like I'm not paying<br/>for that wedding after all."</p>
+<p begin="38099311250t" end="38110162090t" region="Region_00" xml:id="subtitle1372">[laughs]</p>
+<p begin="38110992920t" end="38126848760t" region="Region_00" xml:id="subtitle1373">That's horrible.</p>
+<p begin="38127679590t" end="38145197090t" region="Region_00" xml:id="subtitle1374">It's in my future. Look at me.</p>
+<p begin="38146027920t" end="38168130000t" region="Region_00" xml:id="subtitle1375">I'm like skin cancer waiting to happen.</p>
+<p begin="38169801670t" end="38193995840t" region="Region_03" xml:id="subtitle1376">Cancer probably doesn't even<br/>see me as a challenge.</p>
+<p begin="38195667510t" end="38215687510t" region="Region_03" xml:id="subtitle1377">"I could do that<br/>in a half an hour.</p>
+<p begin="38221102920t" end="38244466260t" region="Region_00" xml:id="subtitle1378">Send in an intern."</p>
+<p begin="38249461250t" end="38271573340t" region="Region_03" xml:id="subtitle1379">But we're sensitive<br/>because we've all lost someone.</p>
+<p begin="38272404170t" end="38301603340t" region="Region_03" xml:id="subtitle1380">I'm surprised we even ask<br/>what grandparents die of at this point.</p>
+<p begin="38302434170t" end="38320372090t" region="Region_03" xml:id="subtitle1381">"My grandpa died."<br/>"What kind of cancer?"</p>
+<p begin="38321202920t" end="38340802500t" region="Region_00" xml:id="subtitle1382">"He was hit by a bus."</p>
+<p begin="38349140830t" end="38364165840t" region="Region_00" xml:id="subtitle1383">"That's called bus cancer."</p>
+<p begin="38397949590t" end="38414215840t" region="Region_00" xml:id="subtitle1384">But we say we're afraid of cancer.</p>
+<p begin="38415046670t" end="38429220830t" region="Region_00" xml:id="subtitle1385">We don't really behave like we are.</p>
+<p begin="38430061670t" end="38447589180t" region="Region_03" xml:id="subtitle1386">We know what causes it.<br/>Smoking causes cancer.</p>
+<p begin="38448410000t" end="38471773340t" region="Region_00" xml:id="subtitle1387">Yeah, I only smoke when I'm drinking.</p>
+<p begin="38480532090t" end="38504305840t" region="Region_00" xml:id="subtitle1388">Which is constant, really.</p>
+<p begin="38513895420t" end="38532664170t" region="Region_00" xml:id="subtitle1389">We know the products that cause cancer.</p>
+<p begin="38533505010t" end="38550181670t" region="Region_03" xml:id="subtitle1390">Every six months,<br/>there's a new sugar replacement.</p>
+<p begin="38551012500t" end="38573124590t" region="Region_03" xml:id="subtitle1391">"Here's a new sugar replacement.<br/>No calories."</p>
+<p begin="38573955420t" end="38596898340t" region="Region_00" xml:id="subtitle1392">A week later, it causes cancer.</p>
+<p begin="38601482920t" end="38624846260t" region="Region_00" xml:id="subtitle1393">They don't even take it off the shelves.</p>
+<p begin="38630261670t" end="38659450830t" region="Region_00" xml:id="subtitle1394">"Hey, there's the one that causes cancer,</p>
+<p begin="38662373750t" end="38681142500t" region="Region_00" xml:id="subtitle1395">and it's on sale."</p>
+<p begin="38691572920t" end="38714515840t" region="Region_03" xml:id="subtitle1396">So then we're faced<br/>with a sugar predicament.</p>
+<p begin="38715346670t" end="38729110420t" region="Region_00" xml:id="subtitle1397">Do I use the stuff that'll kill me</p>
+<p begin="38729941250t" end="38748299590t" region="Region_00" xml:id="subtitle1398">or the stuff that'll make me fat?</p>
+<p begin="38755386670t" end="38772904170t" region="Region_00" xml:id="subtitle1399">Ah, what's a little cancer?</p>
+<p begin="38785837090t" end="38802513750t" region="Region_03" xml:id="subtitle1400">If he does<br/>another cancer joke,</p>
+<p begin="38803354590t" end="38830041250t" region="Region_03" xml:id="subtitle1401">I'm gonna kill him<br/>before he can ever get it.</p>
+<p begin="38830882090t" end="38857158340t" region="Region_00" xml:id="subtitle1402">My zodiac sign is Cancer.</p>
+<p begin="38865496670t" end="38881342500t" region="Region_00" xml:id="subtitle1403">What a rip-off.</p>
+<p begin="38882183340t" end="38898039180t" region="Region_00" xml:id="subtitle1404">[laughter and applause]</p>
+<p begin="38900531670t" end="38923054170t" region="Region_03" xml:id="subtitle1405">I remember when I was eight<br/>and I was finding out my sign.</p>
+<p begin="38923895010t" end="38938489590t" region="Region_03" xml:id="subtitle1406">My brother was like,<br/>"What am I? What am I?"</p>
+<p begin="38939320420t" end="38957678760t" region="Region_03" xml:id="subtitle1407">And my sister was like,<br/>"You're a Capricorn."</p>
+<p begin="38958509590t" end="38975196260t" region="Region_03" xml:id="subtitle1408">And I was like, "Oh, and me?<br/>What am I? What am I?"</p>
+<p begin="38976027090t" end="38987708760t" region="Region_00" xml:id="subtitle1409">"Cancer."</p>
+<p begin="38993124170t" end="39029410420t" region="Region_00" xml:id="subtitle1410">"Oh, no! I killed Grandma.</p>
+<p begin="39046517510t" end="39061942920t" region="Region_00" xml:id="subtitle1411">What's my symbol?"</p>
+<p begin="39062773750t" end="39076547510t" region="Region_00" xml:id="subtitle1412">"Crabs."</p>
+<p begin="39080291250t" end="39099060000t" region="Region_00" xml:id="subtitle1413">"Oh, no."</p>
+<p begin="39104905840t" end="39137017920t" region="Region_00" xml:id="subtitle1414">It all gets sewn together so pretty.</p>
+<p begin="39137858760t" end="39165796670t" region="Region_00" xml:id="subtitle1415">It is a pretty thing sewn together.</p>
+<p begin="39167047920t" end="39182062920t" region="Region_00" xml:id="subtitle1416">[laughter and applause]</p>
+<p begin="39182893750t" end="39199990830t" region="Region_00" xml:id="subtitle1417">But I like being a dad. I do.</p>
+<p begin="39200831670t" end="39222102920t" region="Region_00" xml:id="subtitle1418">We have a one-year-old at home,</p>
+<p begin="39222933750t" end="39240030830t" region="Region_00" xml:id="subtitle1419">who for the first year of his life,</p>
+<p begin="39240871670t" end="39262142920t" region="Region_00" xml:id="subtitle1420">has slept a total of one minute.</p>
+<p begin="39272983750t" end="39286337090t" region="Region_00" xml:id="subtitle1421">But it's worth it, you know.</p>
+<p begin="39287167920t" end="39319280000t" region="Region_03" xml:id="subtitle1422">There's screaming,<br/>there's smells, you don't sleep.</p>
+<p begin="39320531250t" end="39337217920t" region="Region_00" xml:id="subtitle1423">I was out of town, and I drove by a skunk,</p>
+<p begin="39338058760t" end="39361822500t" region="Region_03" xml:id="subtitle1424">and all I could think was,<br/>"I miss my baby."</p>
+<p begin="39363073750t" end="39377678340t" region="Region_00" xml:id="subtitle1425">[laughter]</p>
+<p begin="39379340000t" end="39400611250t" region="Region_00" xml:id="subtitle1426">Because babies are magic. They are.</p>
+<p begin="39401452090t" end="39416887510t" region="Region_00" xml:id="subtitle1427">Because they're the worst roommates.</p>
+<p begin="39417718340t" end="39450661250t" region="Region_03" xml:id="subtitle1428">Like, if you had a roommate<br/>that did one of the things a newborn does,</p>
+<p begin="39451502090t" end="39472352920t" region="Region_03" xml:id="subtitle1429">you'd be like,<br/>"You're moving out. I mean--"</p>
+<p begin="39481532090t" end="39499880420t" region="Region_00" xml:id="subtitle1430">You can't even reason with a baby.</p>
+<p begin="39500711250t" end="39530741250t" region="Region_03" xml:id="subtitle1431">You can't be like, "What the<br/>hell was going on last night?</p>
+<p begin="39536166670t" end="39561191670t" region="Region_00" xml:id="subtitle1432">You were hitting the bottle pretty hard.</p>
+<p begin="39565365840t" end="39603734170t" region="Region_03" xml:id="subtitle1433">Then you started screaming,<br/>and you threw up on me.</p>
+<p begin="39608749180t" end="39638779180t" region="Region_00" xml:id="subtitle1434">Then you passed out and wet yourself.</p>
+<p begin="39647527920t" end="39671722090t" region="Region_03" xml:id="subtitle1435">I went in the other room<br/>to get you some dry clothes.</p>
+<p begin="39672552920t" end="39702162500t" region="Region_03" xml:id="subtitle1436">I come back, you're all<br/>over my wife's breasts.</p>
+<p begin="39716346670t" end="39739289590t" region="Region_00" xml:id="subtitle1437">Dude, you got to move out. I mean..."</p>
+<p begin="39740120420t" end="39761812090t" region="Region_03" xml:id="subtitle1438">It's always fun<br/>when the mother breast-feeds.</p>
+<p begin="39762642920t" end="39777657920t" region="Region_03" xml:id="subtitle1439">The baby always looks right<br/>at the dad like,</p>
+<p begin="39778498760t" end="39794765010t" region="Region_00" xml:id="subtitle1440">"What are you gonna do about it?</p>
+<p begin="39804775010t" end="39828128340t" region="Region_00" xml:id="subtitle1441">Man of the house, my ass.</p>
+<p begin="39838138340t" end="39862322500t" region="Region_03" xml:id="subtitle1442">Why don't you take a walk?<br/>Leave your credit card."</p>
+<p begin="39878178340t" end="39911121250t" region="Region_03" xml:id="subtitle1443">Every year, when my wife<br/>has her annual baby,</p>
+<p begin="39912792920t" end="39932392500t" region="Region_00" xml:id="subtitle1444">[laughter]</p>
+<p begin="39933233340t" end="39949089180t" region="Region_00" xml:id="subtitle1445">it feels that way.</p>
+<p begin="39949910000t" end="39977447510t" region="Region_03" xml:id="subtitle1446">By the way, the gifts stop<br/>after the second kid.</p>
+<p begin="39979529590t" end="40016236260t" region="Region_03" xml:id="subtitle1447">With the fifth kid, people barely respond<br/>to the email announcement.</p>
+<p begin="40022482500t" end="40039179180t" region="Region_00" xml:id="subtitle1448">"Ah, we'll get them next baby."</p>
+<p begin="40067537510t" end="40087137090t" region="Region_03" xml:id="subtitle1449">Once I had a friend<br/>come up to me and go,</p>
+<p begin="40087967920t" end="40106736670t" region="Region_03" xml:id="subtitle1450">"Hey, congratulations<br/>on the new baby.</p>
+<p begin="40107577510t" end="40128007920t" region="Region_03" xml:id="subtitle1451">I know how you feel.<br/>We just got a puppy."</p>
+<p begin="40131761670t" end="40145945840t" region="Region_00" xml:id="subtitle1452">I said, "What?"</p>
+<p begin="40152202090t" end="40175555420t" region="Region_00" xml:id="subtitle1453">And I love dogs, so I understand it.</p>
+<p begin="40176806670t" end="40198918760t" region="Region_03" xml:id="subtitle1454">But, like,<br/>babies are the only types of humans</p>
+<p begin="40199749590t" end="40231020830t" region="Region_03" xml:id="subtitle1455">that can be compared<br/>to an animal and it's OK.</p>
+<p begin="40231861670t" end="40249389180t" region="Region_03" xml:id="subtitle1456">Like, you could never be like,<br/>"Heard you're getting married.</p>
+<p begin="40250210000t" end="40271060830t" region="Region_03" xml:id="subtitle1457">I know how you feel.<br/>I used to have a pig.</p>
+<p begin="40272322090t" end="40288167920t" region="Region_00" xml:id="subtitle1458">[laughter]</p>
+<p begin="40291501250t" end="40329879590t" region="Region_03" xml:id="subtitle1459">Bit of advice on a hot day,<br/>Hose that bride down.</p>
+<p begin="40330710420t" end="40347397090t" region="Region_00" xml:id="subtitle1460">She'll love it</p>
+<p begin="40348227920t" end="40376175840t" region="Region_03" xml:id="subtitle1461">because they can't breathe,<br/>their skin can't."</p>
+<p begin="40417046670t" end="40438738340t" region="Region_03" xml:id="subtitle1462">Twice a year, I travel.<br/>I tour with my kids.</p>
+<p begin="40439579180t" end="40472101670t" region="Region_03" xml:id="subtitle1463">We get on a tour bus, and we go<br/>to, like, some destination.</p>
+<p begin="40472932500t" end="40495465010t" region="Region_03" xml:id="subtitle1464">Last spring break,<br/>we went to Mount Rushmore.</p>
+<p begin="40496295840t" end="40506726260t" region="Region_00" xml:id="subtitle1465">[man from audience] Whoo!</p>
+<p begin="40507557090t" end="40530910420t" region="Region_03" xml:id="subtitle1466">That's the most applause<br/>Mount Rushmore's ever gotten.</p>
+<p begin="40542171670t" end="40558437920t" region="Region_00" xml:id="subtitle1467">I feel sorry for Mount Rushmore.</p>
+<p begin="40559278760t" end="40576375840t" region="Region_03" xml:id="subtitle1468">You know, people used to<br/>go there on their honeymoon.</p>
+<p begin="40577206670t" end="40594303750t" region="Region_00" xml:id="subtitle1469">And now, I bring up Mount Rushmore,</p>
+<p begin="40595144590t" end="40619759180t" region="Region_03" xml:id="subtitle1470">and people look at me like<br/>I'm talking about a TV show</p>
+<p begin="40620580000t" end="40639779180t" region="Region_00" xml:id="subtitle1471">that was canceled ten years ago.</p>
+<p begin="40643522920t" end="40655625010t" region="Region_00" xml:id="subtitle1472">"Is that still going on?"</p>
+<p begin="40656455840t" end="40669809180t" region="Region_00" xml:id="subtitle1473">Yeah, it's a mountain!</p>
+<p begin="40681470830t" end="40695244590t" region="Region_00" xml:id="subtitle1474">It's still going on.</p>
+<p begin="40696075420t" end="40711500830t" region="Region_00" xml:id="subtitle1475">And you know what? It's beautiful.</p>
+<p begin="40712341670t" end="40734033340t" region="Region_00" xml:id="subtitle1476">And the Black Hills of South Dakota are...</p>
+<p begin="40734864170t" end="40756555840t" region="Region_03" xml:id="subtitle1477">You know, they're sacred<br/>to the Lakota Indians.</p>
+<p begin="40757386670t" end="40778657920t" region="Region_00" xml:id="subtitle1478">And out of respect, our government carved</p>
+<p begin="40779498760t" end="40799518760t" region="Region_00" xml:id="subtitle1479">four white guys into one of the mountains.</p>
+<p begin="40800760000t" end="40815364590t" region="Region_00" xml:id="subtitle1480">[laughter and applause]</p>
+<p begin="40816195420t" end="40830790000t" region="Region_00" xml:id="subtitle1481">"This land is sacred."</p>
+<p begin="40831620830t" end="40847066260t" region="Region_03" xml:id="subtitle1482">"How about that mountain?"<br/>"Very sacred."</p>
+<p begin="40847897090t" end="40859158340t" region="Region_03" xml:id="subtitle1483">"Good.<br/>We got an idea."</p>
+<p begin="40859999180t" end="40875845010t" region="Region_03" xml:id="subtitle1484">Ding, ding, ding,<br/>ding, ding, ding.</p>
+<p begin="40877927090t" end="40894603750t" region="Region_00" xml:id="subtitle1485">Another gift for you guys.</p>
+<p begin="40895444590t" end="40908377510t" region="Region_00" xml:id="subtitle1486">Ding, ding, ding, ding.</p>
+<p begin="40909208340t" end="40924223340t" region="Region_00" xml:id="subtitle1487">These guys were all about freedom.</p>
+<p begin="40925054170t" end="40938407510t" region="Region_00" xml:id="subtitle1488">Ding, ding, ding.</p>
+<p begin="40939238340t" end="40959678760t" region="Region_00" xml:id="subtitle1489">Especially the two guys that owned slaves.</p>
+<p begin="40961750830t" end="40978027090t" region="Region_00" xml:id="subtitle1490">[laughter]</p>
+<p begin="40979698760t" end="41006805840t" region="Region_03" xml:id="subtitle1491">But there's so much<br/>stimulation in our lives.</p>
+<p begin="41007636670t" end="41036415420t" region="Region_03" xml:id="subtitle1492">We don't know what to make<br/>of four faces on a mountain.</p>
+<p begin="41037256260t" end="41052261250t" region="Region_03" xml:id="subtitle1493">You know, my kids<br/>didn't know what to think.</p>
+<p begin="41053102090t" end="41084383340t" region="Region_03" xml:id="subtitle1494">They were like,<br/>"Is one of the eyes gonna blink?"</p>
+<p begin="41091050000t" end="41107326260t" region="Region_00" xml:id="subtitle1495">And I was like, "I don't know.</p>
+<p begin="41108157090t" end="41135264170t" region="Region_03" xml:id="subtitle1496">Take a look because<br/>I'm never coming back here."</p>
+<p begin="41140689590t" end="41171550420t" region="Region_03" xml:id="subtitle1497">That is all for me.<br/>Thank you so much, you guys.</p>
+<p begin="41174473340t" end="41189488340t" region="Region_00" xml:id="subtitle1498">I appreciate it.</p>
+<p begin="41200749590t" end="41212000830t" region="Region_00" xml:id="subtitle1499">Thank you.</p>
+<p begin="41212841670t" end="41248297090t" region="Region_00" xml:id="subtitle1500">[cheers and applause]</p>
+<p begin="41404703340t" end="41420138760t" region="Region_01" xml:id="subtitle1501"><span style="style_1">♪ Atten-hut! ♪</span></p>
+<p begin="41518567090t" end="41538166670t" region="Region_01" xml:id="subtitle1502"><span style="style_1">♪ Atten-hut! ♪</span></p>
+<p begin="41632010420t" end="41646194590t" region="Region_00" xml:id="subtitle1503"><span style="style_1">♪ Atten-hut! ♪</span></p>
+<p begin="41745043340t" end="41759637920t" region="Region_00" xml:id="subtitle1504"><span style="style_1">♪ Atten-hut! ♪</span></p>
+<p begin="41857235420t" end="41873081250t" region="Region_00" xml:id="subtitle1505"><span style="style_1">♪ Atten-hut! ♪</span></p>
+<p begin="41968596670t" end="41984442500t" region="Region_00" xml:id="subtitle1506"><span style="style_1">♪ Atten-hut! ♪</span></p>
+<p begin="42084132090t" end="42102480420t" region="Region_01" xml:id="subtitle1507"><span style="style_1">♪ Atten-hut! ♪</span></p>
+</div>
+</body>
+</tt>
